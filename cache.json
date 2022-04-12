@@ -79,6 +79,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
+          "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
+          "publishedOn": "2022-04-11T09:30:00.000Z",
+          "wordCount": 2320,
+          "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "author": "hello@smashingmagazine.com (Caleb Olojo)",
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
@@ -355,6 +370,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6250c642ac55f60686c3023c",
+          "author": "Stephen Sanwo",
+          "description": "When developing software with Python, a basic approach is to install Python on your machine, install all your required libraries via the terminal, write all your code in a single .py file or notebook, and run your Python program in the terminal. This is a common approach for a lot",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/",
+          "publishedOn": "2022-04-11T20:46:19.000Z",
+          "wordCount": 1608,
+          "title": "How to Set Up a Virtual Environment in Python – And Why It's Useful",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/virtual-env-python.png"
+        },
+        {
+          "id": "62515952ac55f60686c304b7",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Windows Sandbox is a temporary lightweight desktop environment that you can use to safely run Windows applications in an isolated space.  The software or applications that you install inside the Windows sandbox environment remain \"sandboxed\", and they all run separately from the host machine. So whatever happens in the",
+          "link": "https://www.freecodecamp.org/news/how-to-enable-sandbox-on-windows/",
+          "publishedOn": "2022-04-11T20:13:55.000Z",
+          "wordCount": 1538,
+          "title": "Windows Sandbox Tutorial – How to Enable Sandbox On Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/close-up-image-programer-working-his-desk-office.jpg"
+        },
+        {
+          "id": "624447b2138a19064b0683f8",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "In the early days of computer programming, programmers had to write individual instructions in the Assembly language one by one.  Later on programming languages like FORTRAN and COBOL were created. The problem with these languages was that they were targeted at a certain group of people – FORTRAN for",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/",
+          "publishedOn": "2022-04-11T17:10:10.000Z",
+          "wordCount": 2866,
+          "title": "How to Learn the C++ Programming Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/How-to-Learn-the-C---Programming-Language.png"
+        },
+        {
+          "id": "624e9e37ac55f60686c2f16b",
+          "author": "Kolade Chris",
+          "description": "Sometimes, you might suddenly discover that you can’t access the internet on your computer because of the error “DNS server not responding”. If you run a troubleshooter for the issue, you'll get a message like the below: In your Chrome browser, you might also get an error like the one",
+          "link": "https://www.freecodecamp.org/news/dns-server-not-responding-service-unavailable-dns-failure-solved/",
+          "publishedOn": "2022-04-11T15:59:55.000Z",
+          "wordCount": 1548,
+          "title": "DNS Server Not Responding – Service Unavailable DNS Failure [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/binary-g3068c576e_1920.jpg"
+        },
+        {
+          "id": "624da2d3ac55f60686c2eb3c",
+          "author": "Rochdi Khalid",
+          "description": "A few weeks ago, I wanted to learn how to build my first Python package, and I was trying to figure out where to start.  Well, I got confused and a bit stressed trying to find a simple and easy tutorial I could use to get started. For this",
+          "link": "https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/",
+          "publishedOn": "2022-04-11T15:40:44.000Z",
+          "wordCount": 3034,
+          "title": "How to Create and Upload Your First Python Package to PyPI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover-image-python-packaging-blog-1.jpg"
+        },
+        {
+          "id": "62459f78138a19064b069268",
+          "author": "Preethi⚡",
+          "description": "Let's say you're working on a serious feature of a branch in Git – like revamping the hero section of your marketing page. You'll want to start doing experiments in your Revamp/Marketing-page-hero-section branch without screwing up master or main branch. Then suddenly you get call from your coworker to fix",
+          "link": "https://www.freecodecamp.org/news/git-stash-commands/",
+          "publishedOn": "2022-04-11T15:05:10.000Z",
+          "wordCount": 1405,
+          "title": "How to Use the Git Stash Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/stahs-1.png"
+        },
         {
           "id": "62530365ac55f60686c316e5",
           "author": "Quincy Larson",
@@ -1262,6 +1337,16 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://twitter.com/HOJO_Kai/status/1510128745100718085?s=20&t=7w-qKC1pPKnrie--LkXsNw",
+          "author": null,
+          "description": "",
+          "link": "https://twitter.com/HOJO_Kai/status/1510128745100718085?s=20&t=7w-qKC1pPKnrie--LkXsNw",
+          "publishedOn": "2022-04-11T21:30:20.000Z",
+          "wordCount": 196,
+          "title": "JavaScript is not available.",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.btrax.com/jp/sfpn-2022-fireside-chat",
           "author": null,
@@ -3271,96 +3356,6 @@
           "wordCount": 227,
           "title": "マイクロソフトの2画面スマホ「Surface Duo 2」で「Xbox Cloud Gaming」を遊んでみた",
           "imageUrl": "https://getnews.jp/img/archives/2022/03/surface2duo_rev1.jpg"
-        },
-        {
-          "id": "https://rtrp.jp/articles/133985",
-          "author": null,
-          "description": "3月といえば、卒業や春休みなど旅行・おでかけのシーズン！今回は、まだまだ遊び足りないという方に向けて、絶景スポットから、遊べるスポット、トレンドカフェまで、幅広く15選ご紹介します。春の陽気に誘われて、ちょっとおでかけをしてみませんか？ぜひ参考にしてみてくださいね。（なお、情報は記事公開時点のものです。事前に公式サイトなどを確認することをおすすめします。）",
-          "link": "https://rtrp.jp/articles/133985",
-          "publishedOn": "2022-03-13T07:09:00.000Z",
-          "wordCount": 195,
-          "title": "おでかけしたくなる”春”が来た！東京近郊の”3月にしたいことLIST”15選",
-          "imageUrl": "https://static.rtrp.jp/article/130498/images/1304988cbd2bd5-a924-40e9-9e7c-c4d1700e38fe_l.jpg"
-        },
-        {
-          "id": "https://famitsu.com/news/202203/12254410.html",
-          "author": null,
-          "description": "“ファミ通・電撃ゲームアワード2021”配信番組の中で、Nintendo Switch用ソフト『スーパー野田ゲーWORLD』の世界初出し情報が公開。",
-          "link": "https://famitsu.com/news/202203/12254410.html",
-          "publishedOn": "2022-03-13T07:08:51.000Z",
-          "wordCount": 1046,
-          "title": "『スーパー野田ゲーWORLD』ファミ通・電撃ゲームアワード2021配信内で世界初出し情報が公開",
-          "imageUrl": "https://www.famitsu.com/images/000/254/410/z_622c6579e4e2c.jpg"
-        },
-        {
-          "id": "https://jp.ign.com/gallery/58339/the-10-best-open-world-games",
-          "author": null,
-          "description": "IGN Japan",
-          "link": "https://jp.ign.com/gallery/58339/the-10-best-open-world-games",
-          "publishedOn": "2022-03-13T07:08:49.000Z",
-          "wordCount": 1828,
-          "title": "The 10 Best Open World Games",
-          "imageUrl": "https://sm.ign.com/t/ign_jp/gallery/t/the-10-bes/the-10-best-open-world-games_3jpz.1200.jpg"
-        },
-        {
-          "id": "https://techable.jp/archives/175035",
-          "author": null,
-          "description": "株式会社出前館は、デリバリーサービス「出前館」の配達員向けアプリをリニューアル。より効率的に配達できる、使いやすいアプリになりました。 まずは、一部エリアで適用を開始し、今後は順次、拡大していく予定とのことです。 ヒート...",
-          "link": "https://techable.jp/archives/175035",
-          "publishedOn": "2022-03-13T07:08:46.000Z",
-          "wordCount": 250,
-          "title": "「出前館」が配達員向けのアプリをリニューアル、ギグワーカーの働きやすさを追求",
-          "imageUrl": "https://techable.jp/wp-content/uploads/2022/03/main-14.png"
-        },
-        {
-          "id": "https://liginc.co.jp/584476",
-          "author": null,
-          "description": "マレーシア人のイエンが日本企業に入ってわかった4つのことをお伝えします。会議が多かったり、上司が帰らないと帰りづらかったり……などなど。入社間もない頃は違和感を覚えたものの、月日と共に当たり前になってしまったこともあるのではないでしょうか？",
-          "link": "https://liginc.co.jp/584476",
-          "publishedOn": "2022-03-13T07:08:44.000Z",
-          "wordCount": 329,
-          "title": "外国人の私が日本企業で働いてわかった4つのこと",
-          "imageUrl": "https://liginc.co.jp/wp-content/uploads/2022/03/10133922/DSC07901.jpg"
-        },
-        {
-          "id": "https://t.co/hsYwFNV8NY",
-          "author": null,
-          "description": "",
-          "link": "https://t.co/hsYwFNV8NY",
-          "publishedOn": "2022-03-13T07:08:43.000Z",
-          "wordCount": null,
-          "title": "http://kachibito.net/useful-resource/magic-eraser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://speakerdeck.com/bookslope/websaitowotukututekitaren-falsejin-hua-era-web-architect-false30ren-falseintabiyukara",
-          "author": null,
-          "description": "2022年3月12日に、福井県で開催されたセミナー・イベント「4人のプロフェッショナルが語る - ウィズコロナ・DX時代のWeb活用のトレンドとコアスキル」で講演したプレゼンスライドです。",
-          "link": "https://speakerdeck.com/bookslope/websaitowotukututekitaren-falsejin-hua-era-web-architect-false30ren-falseintabiyukara",
-          "publishedOn": "2022-03-13T07:08:43.000Z",
-          "wordCount": 914,
-          "title": "Webサイトをつくってきた人々の進化 ― Era Web Architect の30人のインタビューから",
-          "imageUrl": "https://files.speakerdeck.com/presentations/b057892832714bedbfa5170759fb7c7f/slide_0.jpg?20747289"
-        },
-        {
-          "id": "https://karapaia.com/archives/52310923.html",
-          "author": null,
-          "description": "�ϥ󥬥꡼��ưʪ�फ��1���λҶ��ڥ󥮥�æ��������郎���ä�����ī�Ϥ�����ȴ���Ф����ڥ󥮥�ϳ��Τ��������򤵤ޤ褤��ƻϩ�ο�����ˤ���Ȥ�����ٻ�����ȯ�����줿�����θ�ڥ󥮥�Ϸٻ����μ�ˤ�ä���ͤ���ưʪ��˰����ᤵ�줿",
-          "link": "https://karapaia.com/archives/52310923.html",
-          "publishedOn": "2022-03-13T07:08:41.000Z",
-          "wordCount": 669,
-          "title": "動物園から脱走したペンギン、おまわりさんに職質を受け、保護される",
-          "imageUrl": "https://livedoor.blogimg.jp/karapaia_zaeega/imgs/1/f/1f69b5f0.jpg"
-        },
-        {
-          "id": "https://president.jp/articles/-/55460",
-          "author": null,
-          "description": "日本人のコミュニケーションにはどんな特徴があるのか。哲学者のマルクス・ガブリエル氏は「日本人とコミュニケーションを重ねる中で、ある確信を抱いた。それは相手が期待に沿わなかった時に、心の刀を抜くことだ」という――。",
-          "link": "https://president.jp/articles/-/55460",
-          "publishedOn": "2022-03-13T07:08:39.000Z",
-          "wordCount": 246,
-          "title": "｢日本人は『許すこと』を学んだほうがいい｣哲学者マルクス･ガブリエルの考える日本人の問題点 同調圧力に関して､日本とドイツには類似点がある",
-          "imageUrl": "https://president.ismcdn.jp/mwimgs/b/8/1200wm/img_b8179e98f6154d9ef26bd131ad4e8fe1996172.jpg"
         }
       ]
     }
