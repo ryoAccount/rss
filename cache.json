@@ -70,16 +70,6 @@
           "wordCount": 2521,
           "title": "Optimizing SVG Patterns to Their Smallest Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364090"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365042",
-          "author": "Chris Coyier",
-          "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
-          "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 5882,
-          "title": "CSS-Tricks is joining DigitalOcean!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         }
       ]
     },
@@ -88,6 +78,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
+          "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
+          "publishedOn": "2022-04-13T12:00:00.000Z",
+          "wordCount": 7266,
+          "title": "Designing A Better Carousel UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "author": "hello@smashingmagazine.com (Dan Donald)",
@@ -380,6 +385,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62552369ac55f60686c329f4",
+          "author": "Ashutosh Krishna",
+          "description": "We often need to store some data while working on our personal projects. We can use a SQL or NoSQL database with a server, but that would require us to do a bit of setup.  In one of my previous articles, we saw a solution to this problem with",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pysondb/",
+          "publishedOn": "2022-04-13T19:30:13.000Z",
+          "wordCount": 2055,
+          "title": "How to Get Started with PysonDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pysondb.png"
+        },
+        {
+          "id": "625664b6ac55f60686c33732",
+          "author": "Jessica Wilkins",
+          "description": "When you are first learning JavaScript, it might be difficult to know the difference between the slice() and splice() array methods.  In this article, I will walk you through how to use the slice() and splice()  array methods using code examples.  How to use the slice() JavaScript",
+          "link": "https://www.freecodecamp.org/news/javascript-slice-and-splice-how-to-use-the-slice-and-splice-js-array-methods/",
+          "publishedOn": "2022-04-13T19:17:33.000Z",
+          "wordCount": 1132,
+          "title": "How to Use the slice() and splice() JavaScript Array Methods",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
+        },
+        {
+          "id": "62527fd2ac55f60686c30fd4",
+          "author": "Keyur Paralkar",
+          "description": "In this article, we are going to talk about closures in JavaScript. I'll walk you through the definition of a closure, a simple day-to-day fetch utility closure example, and some of the advantages and disadvantages of using closures.  Table of Contents  * Prerequisites   * What are",
+          "link": "https://www.freecodecamp.org/news/javascript-closures-explained-with-example/",
+          "publishedOn": "2022-04-13T18:57:03.000Z",
+          "wordCount": 1526,
+          "title": "Closure in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/safar-safarov-LKsHwgzyk7c-unsplash-2.jpg"
+        },
+        {
+          "id": "624f2d28ac55f60686c2f644",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you use the zip() function in Python, it takes two or more data sets and \"zips\" them together. This returns an object containing pairs of items derived from the data sets. It groups these items in the order of their indexes.  Let me break it down a bit",
+          "link": "https://www.freecodecamp.org/news/python-zip-zip-function-in-python/",
+          "publishedOn": "2022-04-13T18:28:32.000Z",
+          "wordCount": 714,
+          "title": "Python .zip() – Zip Function in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zip.jpg"
+        },
+        {
+          "id": "62508fa3ac55f60686c2feff",
+          "author": "Joy Shaheb",
+          "description": "Today we're gonna learn how to do CRUD Operations in JavaScript by making a Todo App. Let's get started 🔥 This is the app we're making today:  * Live preview [https://crud-application-al9am9v2v-joyshaheb.vercel.app/]  * GitHub Repository [https://github.com/JoyShaheb/CRUD-Application] You can watch this tutorial on YouTube as well if you like 🎥",
+          "link": "https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/",
+          "publishedOn": "2022-04-13T17:57:32.000Z",
+          "wordCount": 2971,
+          "title": "Learn CRUD Operations in JavaScript by Building TODO APP",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Frame-12--2-.png"
+        },
+        {
+          "id": "624cb56dac55f60686c2e839",
+          "author": "Dillion Megida",
+          "description": "What is TypeScript? TypeScript is a superset of JavaScript that compiles to JavaScript for production. It's like JavaScript, but with powers – type powers. TypeScript helps you build typed applications that help you avoid static type errors in those apps and make predictable code. Without TypeScript, a function declared to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/",
+          "publishedOn": "2022-04-13T00:18:19.000Z",
+          "wordCount": 2366,
+          "title": "How to Use TypeScript with GraphQL using TypeGraphQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-reagan-787642.jpg"
+        },
+        {
+          "id": "624640c4138a19064b06a073",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "Glassmorphism is a growing trend in user interface design. It makes your designs look modern and elegant. ‌‌‌‌In this article, we'll be learning about what glassmorphism means, how accessible it is, and how to design a simple glass card.‌‌ What is Glassmorphism? Glassmorphism is a style which, as the name",
+          "link": "https://www.freecodecamp.org/news/glassmorphism-how-to-create-a-glass-card-in-figma/",
+          "publishedOn": "2022-04-13T00:04:19.000Z",
+          "wordCount": 1182,
+          "title": "What is Glassmorphism? How to Create a Glass Card in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Glass-Card.png"
+        },
+        {
+          "id": "624fec14ac55f60686c2fa12",
+          "author": "Paul Akinyemi",
+          "description": "Animations are a crucial part of any great website. Why? When done well, animations vastly improve the user experience of any site, as they help make sites fun and intuitive to use. This article will show you how to build an animated landing page with the help of a JavaScript",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-animated-landing-page-with-gsap-and-tailwindcss/",
+          "publishedOn": "2022-04-12T23:56:31.000Z",
+          "wordCount": 3192,
+          "title": "How to Build an Animated Landing Page with GSAP and TailwindCSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/gsap-gears.jpg"
+        },
+        {
+          "id": "6250281aac55f60686c2fbcb",
+          "author": "Joel Olawanle",
+          "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript framework for creating UI components-based user interfaces.  React is maintained by Meta (previously Facebook) and a community of individual developers and organizations. According to the 2021 Stack Overflow’s developer’s survey [https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks] , React.js surpassed jQuery",
+          "link": "https://www.freecodecamp.org/news/get-started-with-react-for-beginners/",
+          "publishedOn": "2022-04-12T23:13:08.000Z",
+          "wordCount": 2181,
+          "title": "How to Get Started With React – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover-template.png"
+        },
         {
           "id": "622e87c6c3e3d106805daa1f",
           "author": "Dillion Megida",
