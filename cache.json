@@ -109,6 +109,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
+          "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
+          "publishedOn": "2022-04-30T08:00:00.000Z",
+          "wordCount": 2291,
+          "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "author": "hello@smashingmagazine.com (Steve Sewell)",
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
@@ -402,21 +417,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
-          "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
-          "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1946,
-          "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg"
         }
       ]
     },
@@ -1674,66 +1674,6 @@
           "wordCount": 7841,
           "title": "NextJS and HarperDB Tutorial –Build a Full Stack Productivity Timer App",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/feature.jpg"
-        },
-        {
-          "id": "6245d985138a19064b069946",
-          "author": "Beau Carnes",
-          "description": "Firebase is a platform developed by Google for creating mobile and web applications.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Firebase. This is the perfect course for beginners.  After learning the basics of Firebase, you will learn how",
-          "link": "https://www.freecodecamp.org/news/create-apps-with-firebase/",
-          "publishedOn": "2022-04-01T00:10:02.000Z",
-          "wordCount": 26625,
-          "title": "How to Create Apps with Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/firebase.png"
-        },
-        {
-          "id": "623cc7e0138a19064b06474d",
-          "author": "Zaira Hira",
-          "description": "Shell scripting is an important part of process automation in Linux. Scripting helps you write a sequence of commands in a file and then execute them.  This saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even",
-          "link": "https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/",
-          "publishedOn": "2022-03-31T19:26:38.000Z",
-          "wordCount": 2165,
-          "title": "Shell Scripting for Beginners – How to Write Bash Scripts in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/remove-key-val.gif"
-        },
-        {
-          "id": "62421c54138a19064b0672c6",
-          "author": "Edan Ben-Atar",
-          "description": "Email automation is not something new in the e-commerce space. And it's a pretty simple and straightforward concept. Email automation is all about sending emails to customers based on events that occur on your website, like abandoned cart emails, order confirmation emails, shipping confirmation emails, and so on. The result?",
-          "link": "https://www.freecodecamp.org/news/shopify-email-automation/",
-          "publishedOn": "2022-03-31T17:00:18.000Z",
-          "wordCount": 1627,
-          "title": "Shopify Email Automation – How to Automatically Send Emails",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Shopify-Email-Automation.jpg"
-        },
-        {
-          "id": "6245d736138a19064b0698d9",
-          "author": "Beau Carnes",
-          "description": "Augmented reality is a technology that lets people superimpose digital content, such as images, sounds & text, over a real-world environment. We just published a 12-hour course on the freeCodeCamp.org YouTube channel that will teach you about augmented reality from a theoretical and practical perspective. Priyanshu Bhattaharjee developed this course.",
-          "link": "https://www.freecodecamp.org/news/augmented-reality-full-course/",
-          "publishedOn": "2022-03-31T16:40:02.000Z",
-          "wordCount": 526,
-          "title": "Augmented Reality Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/ar.png"
-        },
-        {
-          "id": "62445137138a19064b068407",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The charAt() method in Java returns the char value of a character in a string at a given or specified index. In this article, we'll see how to use the charAt() method starting with it's syntax and then through a few examples/use cases.  How to Use the Java charAt()",
-          "link": "https://www.freecodecamp.org/news/charat-in-java-how-to-use-the-java-charat-method-2/",
-          "publishedOn": "2022-03-31T16:10:26.000Z",
-          "wordCount": 916,
-          "title": "charAt() in Java – How to Use the Java charAt() Method",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/charAt.png"
-        },
-        {
-          "id": "6245705d138a19064b068f59",
-          "author": "Kolade Chris",
-          "description": "Recently, I was able to convert some video files to a gif as I needed them in gif format for some of my articles. I decided to show you how I did it in 3 lines of code, so you can save yourself the extra effort of looking up a",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-video-files-to-gif-in-python/",
-          "publishedOn": "2022-03-31T16:06:08.000Z",
-          "wordCount": 629,
-          "title": "How to Convert Video Files to a Gif in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/convert.png"
         }
       ]
     },
@@ -1742,6 +1682,46 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://comemo.nikkei.com/n/nb8dcc240281c",
+          "author": null,
+          "description": "",
+          "link": "https://comemo.nikkei.com/n/nb8dcc240281c",
+          "publishedOn": "2022-04-30T11:08:44.000Z",
+          "wordCount": null,
+          "title": "一生やり続けることだから「ナチュラル・リスキリング」を｜村上 臣（電脳コラムニスト）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://book.impress.co.jp/bannerdesign",
+          "author": null,
+          "description": "バナーデザインは一番ちいさな広告のデザインです。本書は「パッと見て伝わるバナーデザイン」を作る為に必要な8つの基本と、6つにカテゴライズした工夫やテクニックをご紹介します。",
+          "link": "https://book.impress.co.jp/bannerdesign",
+          "publishedOn": "2022-04-30T11:06:27.000Z",
+          "wordCount": 87,
+          "title": "思わずクリックしたくなるバナーデザインのきほん｜カトウヒカル著",
+          "imageUrl": "https://book.impress.co.jp/bannerdesign/img/cmn_ogp_img.jpg"
+        },
+        {
+          "id": "https://t.co/ak0phPSvdn",
+          "author": null,
+          "description": "",
+          "link": "https://t.co/ak0phPSvdn",
+          "publishedOn": "2022-04-30T10:50:16.000Z",
+          "wordCount": 196,
+          "title": "長谷川喜洋★星のソムリエ®/Yoshihiro Hasegawa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://huffingtonpost.jp/entry/story_jp_62689103e4b07c34e9e777fd",
+          "author": null,
+          "description": "好評連載 第30回 LiLiCoの「もっとホンネで話そう。私たちのこと」",
+          "link": "https://huffingtonpost.jp/entry/story_jp_62689103e4b07c34e9e777fd",
+          "publishedOn": "2022-04-30T10:46:49.000Z",
+          "wordCount": 124,
+          "title": "人生の傷をタトゥーにして、共に生きてきた。13個のデザインを持つLiLiCoのタトゥー観",
+          "imageUrl": "https://img.huffingtonpost.com/asset/6268ae9f2300002ff413a8d9.jpg?cache=ZRyqdvUAxP&ops=1778_1000"
+        },
         {
           "id": "https://jp.gamesindustry.biz/article/2204/22042801",
           "author": null,
@@ -3091,76 +3071,6 @@
           "wordCount": 704,
           "title": "世界でデザインコラボレーションツールをリードする「Figma」が日本へ本格進出",
           "imageUrl": "https://prtimes.jp/i/97201/1/ogp/d97201-1-24048d4d4951961cdb9a-0.png"
-        },
-        {
-          "id": "https://tabi-labo.com/303030/wdt-same-gender-marriage",
-          "author": null,
-          "description": "LGBTQの人たちが多く暮らす東京都の導入には、大きな“意義”がある。異性カップルも、同性カップルも、同じ条件のもとで平等である。真の多様性に向け東京都がどう一歩を踏み出すのか。",
-          "link": "https://tabi-labo.com/303030/wdt-same-gender-marriage",
-          "publishedOn": "2022-03-31T23:44:57.000Z",
-          "wordCount": 50,
-          "title": "どうなる？東京都「同性パートナーシップ制度」",
-          "imageUrl": "https://image.tabi-labo.com/jp/247631/5033434244186112.jpg"
-        },
-        {
-          "id": "https://japan.zdnet.com/article/35185705",
-          "author": null,
-          "description": "",
-          "link": "https://japan.zdnet.com/article/35185705",
-          "publishedOn": "2022-03-31T23:43:41.000Z",
-          "wordCount": null,
-          "title": "うるる、従業員の在宅環境整備で「リモートHQ」導入--トライアルで9割が生産性向上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://logmi.jp/business/articles/326344",
-          "author": null,
-          "description": "イノベーションを起こすために欠かせない要素として注目が集まる「心理的安全性」。今回は、心理的安全性をテーマに各界の専門家・実践企業が集まった「Unipos心理的安全性サミット2022」より、早稲田大学商学部准教授の村瀬俊朗氏の講演の模様をお届けします。イノベーションが生まれやすい多様性のあるチーム作りにおいて「信頼」が重要な理由や、「リーダーシップ」の捉え方について語られました。",
-          "link": "https://logmi.jp/business/articles/326344",
-          "publishedOn": "2022-03-31T23:35:29.000Z",
-          "wordCount": 484,
-          "title": "「誰が何をしているか」がわからない組織がうまく回らない理由　“考えなくても動けるチーム”をつくる、2つの認知モデル",
-          "imageUrl": "https://img.logmi.jp/article_images/dWMPzFPGr8thkxpynv5ck.jpg"
-        },
-        {
-          "id": "https://zenn.dev/rgbkids/articles/91be903ef2439c",
-          "author": null,
-          "description": "",
-          "link": "https://zenn.dev/rgbkids/articles/91be903ef2439c",
-          "publishedOn": "2022-03-31T21:46:43.000Z",
-          "wordCount": 255,
-          "title": "「急いで作って！」と言われたとき、私がまずやること→Miroだけでスクラム",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ReuleOjU--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:VTeacher%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%258C%25E6%2580%25A5%25E3%2581%2584%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25EF%25BC%2581%25E3%2580%258D%25E3%2581%25A8%25E8%25A8%2580%25E3%2582%258F%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2580%2581%25E7%25A7%2581%25E3%2581%258C%25E3%2581%25BE%25E3%2581%259A%25E3%2582%2584%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%25E2%2586%2592Miro%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dZZXAwYXhYZ084ZHlWVVJsbndsanVacFlaRmF4ZU14YV92Z3JDSHc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
-        },
-        {
-          "id": "https://forbesjapan.com/articles/detail/46705/1/1/1",
-          "author": null,
-          "description": "世界の潮流と変化のスピードが増す今の時代、一個人が全てを把握するのはほぼ不可能だ。世の中には自分の知らないことがたくさんあるだろう。あることについて「知らない」と認めてしまうと、周囲から、この人は状況を把握できていないとか、頭が悪いとか、さ",
-          "link": "https://forbesjapan.com/articles/detail/46705/1/1/1",
-          "publishedOn": "2022-03-31T13:46:02.000Z",
-          "wordCount": 177,
-          "title": "仕事で「分かりません」と言うべき3つの理由",
-          "imageUrl": "https://2019.images.forbesjapan.media/articles/46000/46705/photos/410x618/4670509c53b5a4c05929436c23ac3b6841882.jpg"
-        },
-        {
-          "id": "https://speakerdeck.com/takoba/test-fixture-management-in-php-project",
-          "author": null,
-          "description": "2022.04.11 PHPerKaigi 2022 #phperkaigi\nhttps://fortee.jp/phperkaigi-2022/proposal/566b5f63-21e1-4244-b743-afed03503585",
-          "link": "https://speakerdeck.com/takoba/test-fixture-management-in-php-project",
-          "publishedOn": "2022-03-31T13:36:15.000Z",
-          "wordCount": 2339,
-          "title": "CakePHP Fixture Factories の登場によって変化する、PHPプロジェクトにおけるテストフィクスチャ管理の選択肢 / Test Fixture Management in PHP Project",
-          "imageUrl": "https://files.speakerdeck.com/presentations/d514083dc51c4238b3872695716dd6ad/slide_0.jpg?20947697"
-        },
-        {
-          "id": "https://ics.media/entry/220331",
-          "author": null,
-          "description": "ウェブ制作において、デザインとHTML実装の一致はエンジニアとして当然求められるものです。とはいえ、デザインツールとブラウザ画面をにらめっこしながら確認するのも大変です。本記事ではNode.jsで動くヘッドレスブラウザのPuppeteerパペティアーを使ってデザインとのズレを検知するビジュアル校正テストの方法を紹介します。ウェブ業界ではデザイン制作とHTML制作が分業である場合がほとんどです。ビジュアル校正テストを導入することで、HTML制作の品質向上に役立てられます。",
-          "link": "https://ics.media/entry/220331",
-          "publishedOn": "2022-03-31T13:34:20.000Z",
-          "wordCount": 484,
-          "title": "デザインとHTMLのズレを検出！ Node.jsとPuppeteer活用のビジュアル校正テストで実装時のケアレスミスを防ぐ",
-          "imageUrl": "https://ics.media/entry/220331/images/eyecatch.jpg"
         }
       ]
     }
