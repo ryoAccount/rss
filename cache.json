@@ -33,6 +33,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366544",
+          "author": "Temani Afif",
+          "description": "For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …\nSingle Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-going-3d/",
+          "publishedOn": "2022-07-01T13:24:09.000Z",
+          "wordCount": 3068,
+          "title": "Single Element Loaders: Going 3D!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366544"
+        },
+        {
           "id": "https://css-tricks.com/?p=366605",
           "author": "Geoff Graham",
           "description": "Bunny Fonts bills itself as the “privacy-first web font platform designed to put privacy back into the internet.”According to its FAQ:\nWith a zero-tracking and no-logging policy, Bunny Fonts helps you stay fully GDPR compliant and puts your user’s personal \n…\nBunny Fonts originally published on CSS-Tricks. You should get the newsletter.",
@@ -201,26 +211,6 @@
           "wordCount": 653,
           "title": "Please Give Me Some Space",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365841",
-          "author": "Ganesh Dahal",
-          "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
-          "publishedOn": "2022-06-01T15:30:15.000Z",
-          "wordCount": 3921,
-          "title": "How to Create Block Theme Patterns in WordPress 6.0",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366175",
-          "author": "Geoff Graham",
-          "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
-          "publishedOn": "2022-06-01T14:12:25.000Z",
-          "wordCount": 779,
-          "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
         }
       ]
     },
@@ -528,21 +518,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
-          "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-          "publishedOn": "2022-06-02T09:30:00.000Z",
-          "wordCount": 4588,
-          "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg"
         }
       ]
     },
@@ -551,6 +526,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/",
+          "author": "Israel Mitolu",
+          "description": "Are you having difficulties importing SVGs into your React app? This is a problem that many developers face, especially when setting up a new React app with a module bundler. In this article, I will share with you the different ways of importing SVGs in React, as well as how",
+          "link": "https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/",
+          "publishedOn": "2022-07-01T22:15:02.000Z",
+          "wordCount": 2025,
+          "title": "How to Import SVGs in a React and Vite app",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Blog-article-cover-images--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/",
+          "author": "Dillion Megida",
+          "description": "You may want to compare two strings to know which is higher or lower alphabetically or to see if they are equal. You can do this in many ways. I'll show you two of them in this article. 1. How to Compare Strings Using localeCompare You can use the localeCompare",
+          "link": "https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/",
+          "publishedOn": "2022-07-01T22:07:46.000Z",
+          "wordCount": 1299,
+          "title": "JavaScript String Comparison – How to Compare Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/string-comparison.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-else-if-statement-example/",
+          "author": "Dionysia Lemonaki",
+          "description": "Conditional statements are helpful for decision-making and are a core concept in all programming languages. In this article, you will learn how to write conditional statements in Python. Specifically, you will learn how to write if, if else, and elif (also known as  else if) statements in Python. Here",
+          "link": "https://www.freecodecamp.org/news/python-else-if-statement-example/",
+          "publishedOn": "2022-07-01T22:02:40.000Z",
+          "wordCount": 2455,
+          "title": "Python Else-If Statement Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-pixabay-459653.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/",
+          "author": "Davis David",
+          "description": "Properly tracking your machine learning experiments is easier than you think. When working on a machine learning project, you will conduct different machine learning experiments before you reach the final ML model with the best performance.  Here are some possible machine learning experiments you might conduct:  * Testing",
+          "link": "https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/",
+          "publishedOn": "2022-07-01T17:12:06.000Z",
+          "wordCount": 3745,
+          "title": "How to Track Machine Learning Experiments with HarperDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/image7.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/",
+          "author": "Dionysia Lemonaki",
+          "description": "When you're working in Excel, the VLOOKUP function makes looking up information less time-consuming. This is particularly true when you're using more than one Excel sheet. In this article, you will learn what the VLOOKUP function does, as well as understand the syntax behind it. You will also learn how",
+          "link": "https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/",
+          "publishedOn": "2022-07-01T16:47:37.000Z",
+          "wordCount": 1555,
+          "title": "How to Use VLOOKUP in Excel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/scott-graham-5fNmWej4tAA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/",
+          "author": "Kolade Chris",
+          "description": "So, you’re working with your Windows PC and you discover you can’t find the battery icon in the taskbar. You even expand hidden icons and you still can’t find the battery icon. This could result in a negative effect on your productivity – because if you don't plug your laptop",
+          "link": "https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/",
+          "publishedOn": "2022-07-01T15:57:24.000Z",
+          "wordCount": 1009,
+          "title": "Battery Icon Not Showing – How to Restore Missing Battery Icon in Windows PC",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/batteryMissing.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-set-how-to-create-sets-in-python/",
           "author": "Ihechikara Vincent Abba",
@@ -1570,46 +1605,6 @@
           "wordCount": 4448,
           "title": "Build a Heroku Clone – Provision Infrastructure Programmatically",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/heroku-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-an-svg-file/",
-          "author": "Kolade Chris",
-          "description": "SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet. You can identify SVG files by their extension – .svg. Unlike other popular image formats like PNG, JPEG, and JPG – which store image information in form of pixels because",
-          "link": "https://www.freecodecamp.org/news/what-is-an-svg-file/",
-          "publishedOn": "2022-06-01T16:05:04.000Z",
-          "wordCount": 1055,
-          "title": "What is an SVG File?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/svg.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/",
-          "author": "Jessica Wilkins",
-          "description": "When you are building out HTML files, it's really important to indent your code. But how do you do that in HTML and why is it important? In this article, I will show you how to properly indent your HTML files and explain why it is important to properly format",
-          "link": "https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/",
-          "publishedOn": "2022-06-01T15:40:55.000Z",
-          "wordCount": 1228,
-          "title": "How to Indent HTML Code – And Why it's Important",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/irvan-smith-ymn_TY_MBn8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "You've built your Machine Learning model with 99% accuracy and now you are ecstatic. You are like yaaaaaaaaay! My model performed well.  Then you paused and you were like – now what?  Well first, you might have thought of uploading your code to GitHub and showing people your",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/",
-          "publishedOn": "2022-06-01T15:14:51.000Z",
-          "wordCount": 1754,
-          "title": "How to Deploy a Machine Learning Model as a Web App Using Gradio",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/deploy-ml-models-article.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/",
-          "author": "Beau Carnes",
-          "description": "There are thousands of JavaScript libraries and frameworks. But when you are trying to improve your JavaScript skills, it can sometimes be helpful to create a project using no libraries and no frameworks. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code",
-          "link": "https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/",
-          "publishedOn": "2022-06-01T14:21:00.000Z",
-          "wordCount": 37918,
-          "title": "Code a Shopping Cart with JavaScript (no libraries)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/shopping.png"
         }
       ]
     },
@@ -1618,6 +1613,46 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://blog.btrax.com/jp/b2b-branding",
+          "author": null,
+          "description": "「B2B企業にブランディングは必要ですか？」これはよく聞かれる質問ですが、グローバル展開を目指すのであればブランディングは必須と言えます。今回はアメリカのB2B企業による秀逸なブランディングキャンペーンをご紹介。B2B企業ながら一般消費者の記憶にも残るような、エンターテインメント性の高さにご注目ください。",
+          "link": "https://blog.btrax.com/jp/b2b-branding",
+          "publishedOn": "2022-07-02T00:24:21.000Z",
+          "wordCount": 639,
+          "title": "海外でB2B企業ブランディングが重要な理由と優れた事例6選 デザイン会社 ビートラックス : ブログ",
+          "imageUrl": "https://blog.btrax.com/jp/files/2022/07/b2b-branding-main.jpg"
+        },
+        {
+          "id": "https://wired.jp/article/voice-recognition-privacy-speech-changer",
+          "author": null,
+          "description": "音声アシスタントや音声認識技術が普及するにつれ、「人間の声」から読み取れる情報の価値が高まっている。個人の特定のみならず感情や健康状態の読み取りまで可能になるなか、ターゲット広告への利用や“なりすまし”に対抗すべく、データの匿名化によりプライバシーを守る機運が高まり始めた。",
+          "link": "https://wired.jp/article/voice-recognition-privacy-speech-changer",
+          "publishedOn": "2022-07-02T00:04:57.000Z",
+          "wordCount": 8839,
+          "title": "個人の音声データを“匿名化”せよ：認識技術の普及で高まるプライバシー保護の重要性",
+          "imageUrl": "https://media.wired.jp/photos/62a6996b6ab25401cce95eef/16:9/w_1280,c_limit/security-voice-ai.jpeg"
+        },
+        {
+          "id": "https://urasunday.com/title/1155/187864",
+          "author": null,
+          "description": "命に値札を付けろ。",
+          "link": "https://urasunday.com/title/1155/187864",
+          "publishedOn": "2022-07-02T00:04:10.000Z",
+          "wordCount": 373,
+          "title": "裏バイト:逃亡禁止",
+          "imageUrl": "https://urasunday.com/secure/1655458374/jpg/chapter/187864.jpg?hash=r-oCUON4WldxWk6yjSE0Tg&expires=4102412400"
+        },
+        {
+          "id": "https://front-row.jp/_ct/17552366",
+          "author": null,
+          "description": "セレブ御用達のタトゥーアーティスト、バンバン（Bang Bang）が、描き替えられるタトゥーを発表した。（フロントロウ編集部）",
+          "link": "https://front-row.jp/_ct/17552366",
+          "publishedOn": "2022-07-01T14:23:56.000Z",
+          "wordCount": 15686,
+          "title": "世界初「絵柄を何度でも変えられるタトゥー」が登場！セレブ御用達アーティスト開発のMagic Inkとは",
+          "imageUrl": "https://d1uzk9o9cg136f.cloudfront.net/f/16783100/rc/2022/06/29/5f20c2502b93ce7f626515eb044dfef7db2411a7_xlarge.jpg"
+        },
         {
           "id": "https://gamespark.jp/article/2022/07/01/119955.html",
           "author": null,
@@ -2817,46 +2852,6 @@
           "wordCount": 226,
           "title": "熱中症招く「ヨシ！」じゃない行動は？「仕事猫」啓発ポスターが秀逸",
           "imageUrl": "https://s3-ap-northeast-1.amazonaws.com/storage.withnews.jp/2022/06/02/5/e0/5e04e1f4-l.jpg"
-        },
-        {
-          "id": "https://gfycat.com/fluidaccurateboa",
-          "author": null,
-          "description": "Watch and share Veluwemeer Aqueduct In The Netherlands GIFs by Boojibs on Gfycat",
-          "link": "https://gfycat.com/fluidaccurateboa",
-          "publishedOn": "2022-06-01T23:15:33.000Z",
-          "wordCount": 59,
-          "title": "Veluwemeer Aqueduct In The Netherlands GIF by Boojibs | Gfycat",
-          "imageUrl": "https://thumbs.gfycat.com/FluidAccurateBoa-size_restricted.gif"
-        },
-        {
-          "id": "https://gigazine.net/news/20220602-collective-action-communication",
-          "author": null,
-          "description": "世の中には「複数人が協調した方がメリットが大きい場面」が数多く存在し、過去の研究でも集団行動が汚染や廃棄物の削減、乱獲の抑制、科学者間のデータ共有などに役立つことがわかっています。ところが、集団行動には「最初に行動する人が損をする可能性がある」というジレンマが存在するため、なかなかうまく集団行動ができないことも多々あります。そこで、ロンドン大学クイーン・メアリー校やグリニッジ大学、ケンブリッジ大学ジャッジ・ビジネス・スクールなどの研究チームは、「人々に集団行動を呼びかける最適なコミュニケーションは何なのか？」という疑問について研究しました。",
-          "link": "https://gigazine.net/news/20220602-collective-action-communication",
-          "publishedOn": "2022-06-01T23:08:54.000Z",
-          "wordCount": 206,
-          "title": "グループが互いに協力して何かを成し遂げるにはどんなコミュニケーションが有効なのか？",
-          "imageUrl": "https://i.gzn.jp/img/2022/06/02/collective-action-communication/00.jpg"
-        },
-        {
-          "id": "https://speakerdeck.com/moomooya/technology-renewal-initiatives",
-          "author": null,
-          "description": "2022.6.1実施のRAKUS Meetupにて発表した資料です。",
-          "link": "https://speakerdeck.com/moomooya/technology-renewal-initiatives",
-          "publishedOn": "2022-06-01T13:51:26.000Z",
-          "wordCount": 654,
-          "title": "サービスを陳腐化させない組織だった技術刷新 / Technology Renewal Initiatives",
-          "imageUrl": "https://files.speakerdeck.com/presentations/7b5f1d5019f449abae17d6f644b8a628/slide_0.jpg?21603814"
-        },
-        {
-          "id": "https://liginc.co.jp/595441",
-          "author": null,
-          "description": "長きにわたる1人組織から晴れて3人チームのリーダーとなったLIG広島のまさしが、成功しているチームに共通する3つのポイントと、半年間で実践したことを振り返ります。リーダーになりたての方やこれからなるという方に「自分でもできそう」と思ってもらえたら幸いです。",
-          "link": "https://liginc.co.jp/595441",
-          "publishedOn": "2022-06-01T13:41:23.000Z",
-          "wordCount": 350,
-          "title": "強いだけがリーダーじゃない。リーダーになって半年間で、心がけたこと。",
-          "imageUrl": "https://liginc.co.jp/wp-content/uploads/2022/05/17150546/403713771fe123bb02ad466ca7b70558.jpg"
         }
       ]
     }
