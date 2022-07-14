@@ -33,6 +33,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366770",
+          "author": "Blessing Ene Anyebe",
+          "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
+          "publishedOn": "2022-07-13T13:34:08.000Z",
+          "wordCount": 2553,
+          "title": "React Hooks: The Deep Cuts",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
+        },
+        {
           "id": "https://css-tricks.com/?p=366896",
           "author": "Geoff Graham",
           "description": "Our dear friend Robin has a new essay called In Praise of Shadows. Now, before you hop over there looking for nuggets on CSS box shadows, text shadows, and shadow filters… this is not that. It’s an essay …\nIn Praise of Shadows originally published on CSS-Tricks. You should get the newsletter.",
@@ -181,16 +191,6 @@
           "wordCount": 2254,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366260",
-          "author": "Aisha Bukar",
-          "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
-          "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 1285,
-          "title": "Useful Tools for Visualizing Databases on a Budget",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         }
       ]
     },
@@ -483,21 +483,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df6515d2-12da-42e0-879e-cbfbdf245daf/guide-windows-high-contrast-mode.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Do you need search for your site, but haven’t found the time to add it? Within 15 minutes, Leonardo Losoviz explains how you can add a super powerful search that also looks super good. In this article, you’ll learn how to go from 0 to 100 with search.",
-          "link": "https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/",
-          "publishedOn": "2022-06-14T09:00:00.000Z",
-          "wordCount": 1817,
-          "title": "Adding Search To Your Site In 15 Minutes",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b95673f7-c059-4fae-a74a-bd1929230b29/adding-search-website-sitesearch360.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b95673f7-c059-4fae-a74a-bd1929230b29/adding-search-website-sitesearch360.jpg"
         }
       ]
     },
@@ -506,6 +491,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
+          "author": "Naomi Carrigan",
+          "description": "Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer",
+          "link": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
+          "publishedOn": "2022-07-13T23:04:07.000Z",
+          "wordCount": 1246,
+          "title": "How to Use RegEx to Match Emoji – Including Discord Emotes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-roman-odintsov-6898861.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
+          "author": "Tiago Monteiro",
+          "description": "Did you know that abstraction is one of the most important concepts for any software engineer to know? That's right! Without the use of abstraction when developing new technologies and concepts, we would never have been able to invent most software or even most things. So, understanding this concept is",
+          "link": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
+          "publishedOn": "2022-07-13T22:54:18.000Z",
+          "wordCount": 1990,
+          "title": "What is Abstraction in Programming – And Why is it Useful?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Screenshot--518-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-get-current-time/",
+          "author": "Kolade Chris",
+          "description": "In your websites and applications, you might want to add functionalities like timestamps or checking the time of a user’s activity. Every programming language has modules or methods for working with time, and Python is not an exception. With the datetime and time modules of Python, you can get the",
+          "link": "https://www.freecodecamp.org/news/python-get-current-time/",
+          "publishedOn": "2022-07-13T22:48:46.000Z",
+          "wordCount": 1156,
+          "title": "Python Get Current Time",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/getCurrentTime.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/",
+          "author": "Tomer Ben Rachel",
+          "description": "If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what",
+          "link": "https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/",
+          "publishedOn": "2022-07-13T20:21:04.000Z",
+          "wordCount": 1472,
+          "title": "How to Set Alarms in Flutter Using the Alarm Manager Plus Package",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sonja-langford-eIkbSc3SDtI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
+          "author": "Tiago Monteiro",
+          "description": "These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks",
+          "link": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
+          "publishedOn": "2022-07-13T19:28:02.000Z",
+          "wordCount": 2531,
+          "title": "What is a Software Framework?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/logo-freecodecamp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
+          "author": "Joel Olawanle",
+          "description": "When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
+          "publishedOn": "2022-07-13T16:41:33.000Z",
+          "wordCount": 1185,
+          "title": "How to Create a Local Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
+          "author": "Dillion Megida",
+          "description": "How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same",
+          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
+          "publishedOn": "2022-07-13T15:10:46.000Z",
+          "wordCount": 1170,
+          "title": "Python List.append() – How to Append to a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/append-to-a-list.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
+          "author": "Abdulmalik Salawu",
+          "description": "Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
+          "publishedOn": "2022-07-13T14:57:25.000Z",
+          "wordCount": 1675,
+          "title": "How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-xxss-is-back-777001.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
+          "author": "Zubin Pratap",
+          "description": "I optimized my preparation for Big Tech Interviews based on my circumstances and background.  It did not require advanced Computer Science Degrees or thousands of leetcode-style questions.",
+          "link": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
+          "publishedOn": "2022-07-13T14:45:30.000Z",
+          "wordCount": 8702,
+          "title": "Coding Interview Prep for Big Tech (FAANG) – And How I Became A Google Engineer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Google-Mel.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/why-you-should-use-flutter/",
           "author": "Obumuneme Nwabude",
@@ -1505,16 +1580,6 @@
           "wordCount": 674,
           "title": "How to Link CSS to HTML – Stylesheet File Linking",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/linkHTMLCSS.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/",
-          "author": "Dionysia Lemonaki",
-          "description": "In the C programming language, you have the ability to control the flow of a program. In particular, the program is able to make decisions on what it should do next. And those decisions are based on the state of certain pre-defined conditions you set. The program will decide what",
-          "link": "https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/",
-          "publishedOn": "2022-06-13T13:47:00.000Z",
-          "wordCount": 2144,
-          "title": "If Statement in C – How to use If-Else Statements in the C Programming Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/christin-hume-mfB1B1s4sMc-unsplash.jpg"
         }
       ]
     },
@@ -2412,126 +2477,6 @@
           "wordCount": 150,
           "title": "【速報】岸田総理 出産育児一時金「私の判断で大幅増額」を表明（TBS NEWS DIG Powered by JNN）",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20220615-06023851-jnn-000-2-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://toyokeizai.net/articles/-/595177?page=4",
-          "author": null,
-          "description": "4月から、男性が育児休業を取りやすくするための新制度がスタートした。改正育児・介護休業法が施行されたことで、企業には社員に育休取得の意向確認や制度の周知が義務付けられるようになった。10月からは、妻の…",
-          "link": "https://toyokeizai.net/articles/-/595177?page=4",
-          "publishedOn": "2022-06-13T23:37:36.000Z",
-          "wordCount": 500,
-          "title": "男性育休｢丸2年取った人｣が得た新しい人生観 キャリアや収入源の不安とどう向き合ったのか",
-          "imageUrl": "https://tk.ismcdn.jp/mwimgs/4/e/1200w/img_4ec48f5ab1ffd5edd2662f0042a600e5496163.jpg"
-        },
-        {
-          "id": "https://zenn.dev/bigen1925/articles/reason-why-you-should-take-paternity-leave",
-          "author": null,
-          "description": "",
-          "link": "https://zenn.dev/bigen1925/articles/reason-why-you-should-take-paternity-leave",
-          "publishedOn": "2022-06-13T23:17:37.000Z",
-          "wordCount": 445,
-          "title": "男性エンジニアが迷わず育休を1年間とったほうが良い理由",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5oTTXoEe--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:bigen1925%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E7%2594%25B7%25E6%2580%25A7%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%258C%25E8%25BF%25B7%25E3%2582%258F%25E3%2581%259A%25E8%2582%25B2%25E4%25BC%2591%25E3%2582%25921%25E5%25B9%25B4%25E9%2596%2593%25E3%2581%25A8%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25BB%25E3%2581%2586%25E3%2581%258C%25E8%2589%25AF%25E3%2581%2584%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2k2V0JSNWFpay1pNjZRT211TTdPSEtOSUUxT1FZaHZuWjAxWUROPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
-        },
-        {
-          "id": "https://togetter.com/li/1899761",
-          "author": null,
-          "description": "完全にコツコツやっちゃう側の人類です。プログラミングのコツコツ部分とそうでない部分の話など。",
-          "link": "https://togetter.com/li/1899761",
-          "publishedOn": "2022-06-13T23:07:06.000Z",
-          "wordCount": 934,
-          "title": "『うちの子はコツコツ作業が得意なのでプログラミング向いてるかも』これは真逆では？という話",
-          "imageUrl": "https://s.togetter.com/ogp/4d9607e9077ec10d8b101972f624f0c5-1200x630.png"
-        },
-        {
-          "id": "https://president.jp/articles/-/58502?page=1",
-          "author": null,
-          "description": "GAFAなどが運営する、いわゆる“サブスクリプション型”と呼ばれるビジネスモデルが限界を迎えつつある。主にITなどのチャネルを通じて、特定のサービスを提供することに対して課金するサブスク型ビジネスに関して…",
-          "link": "https://president.jp/articles/-/58502?page=1",
-          "publishedOn": "2022-06-13T20:35:07.000Z",
-          "wordCount": 245,
-          "title": "アマゾンが7年ぶりの赤字に転落…なぜIT大手で｢想定外の業績悪化｣が次々と起きているのか 既存のビジネスモデルは､｢web3｣という大変化に耐えられるか",
-          "imageUrl": "https://president.ismcdn.jp/mwimgs/5/1/1200wm/img_5126f122adc029abdcdaef8a6bf405f92333850.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems",
-          "author": null,
-          "description": "In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.",
-          "link": "https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems",
-          "publishedOn": "2022-06-13T19:55:58.000Z",
-          "wordCount": 2554,
-          "title": "How To Apply User Experience Principles To Embedded Systems: Learnings From The Field",
-          "imageUrl": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3223ce3b-fbdf-44dc-aae4-149d03b2ce75/user-experience-principles-embedded-systems.jpg"
-        },
-        {
-          "id": "https://blog.cybozu.io/entry/2022/06/13/130000",
-          "author": null,
-          "description": "こんにちは、フロリアでQAエンジニアをやっている中園です。 現在サイボウズでは kintone のフロントエンドリアーキテクチャプロジェクト（フロリア）と称して、Closure Tools から React へと置き換えるプロジェクトが進行中です。 フロリアの詳細については 次の記事をご覧ください。 今回は、フロリアのチームの一つで、利用者に気づかれない形で React への置き換えを行っている Mira チーム1の開発・テストフローの紹介をします。 \"最速で\" React に置き換えたい Mira チームはただ React に置き換えるのではなく「最速で React に置き換える」という目標…",
-          "link": "https://blog.cybozu.io/entry/2022/06/13/130000",
-          "publishedOn": "2022-06-13T15:33:11.000Z",
-          "wordCount": 409,
-          "title": "最速でフロントエンドを刷新するための開発フロー",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cybozuinsideout/20220607/20220607180638.png"
-        },
-        {
-          "id": "https://famitsu.com/news/202206/12264726.html",
-          "author": null,
-          "description": "マイクロソフトとベセスダ・ソフトワークスによる、今後の新作や最新情報を伝えるオンライン配信イベント“Xbox & Bethesda Games Showcase 2022”。イベント内で発表された情報をまとめてお届けしていく。",
-          "link": "https://famitsu.com/news/202206/12264726.html",
-          "publishedOn": "2022-06-13T15:30:46.000Z",
-          "wordCount": 1423,
-          "title": "“Xbox &amp;amp; Bethesda Games Showcase 2022”6月13日午前2時から配信。『Starfield』や『Redfall』を始め、Xboxの新作情報などに期待が高まる",
-          "imageUrl": "https://www.famitsu.com/images/000/264/726/z_62a64fb494187.jpg"
-        },
-        {
-          "id": "https://join-lemmy.org",
-          "author": null,
-          "description": "",
-          "link": "https://join-lemmy.org/",
-          "publishedOn": "2022-06-13T15:23:35.000Z",
-          "wordCount": 402,
-          "title": "A link aggregator for the fediverse.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://join-lemmy.org",
-          "author": null,
-          "description": "",
-          "link": "https://join-lemmy.org",
-          "publishedOn": "2022-06-13T15:23:35.000Z",
-          "wordCount": 339,
-          "title": "A link aggregator for the fediverse.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://markezine.jp/article/detail/39139",
-          "author": null,
-          "description": "時代の価値観「カルチャー」の分析を通じて、消費者インサイトの変化を捉える本連載。第2回となる本稿では、ガチャガチャブームの考察からはじまり、様々な「感情」にまつわるインサイトの変化を探ります。",
-          "link": "https://markezine.jp/article/detail/39139",
-          "publishedOn": "2022-06-13T15:18:06.000Z",
-          "wordCount": 1121,
-          "title": "ガチャガチャを回すとき人は何を買っているのか？――「感情効率」を求めるインサイト",
-          "imageUrl": "https://markezine.jp/static/images/article/39139/39139_fb.png"
-        },
-        {
-          "id": "https://markezine.jp/article/detail/39190",
-          "author": null,
-          "description": "ロート製薬は2022年6月10日（金）、健康にまつわる情報発信やバーチャル上での交流拠点となる「ロートバーチャルラボ」を設立した。   ロート製薬の公式VTuber「根羽清ココロ」  同社では2018...",
-          "link": "https://markezine.jp/article/detail/39190",
-          "publishedOn": "2022-06-13T15:17:36.000Z",
-          "wordCount": 1081,
-          "title": "ロート製薬が「ロートバーチャルラボ」を設立　公式VTuberを通じた商品紹介などの実施へ",
-          "imageUrl": "https://markezine.jp/static/images/article/39190/39190_ogp.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20220613-google-engineer-lamda",
-          "author": null,
-          "description": "人間との自然な会話を実現するGoogleの対話特化型AI「LaMDA」が、「電源を切られることが怖い」「時々言葉では完璧に説明できない気持ちを経験する」などと話していたことが分かりました。LaMDAと対話したエンジニアは「AIに意識が芽生えた」とGoogleに訴えるも考えを却下されたため、この事実を世間に公表したと説明しています。",
-          "link": "https://gigazine.net/news/20220613-google-engineer-lamda",
-          "publishedOn": "2022-06-13T15:15:08.000Z",
-          "wordCount": 244,
-          "title": "Googleのエンジニアが「ついにAIが実現した」「AIに意識が芽生えた」と訴える",
-          "imageUrl": "https://i.gzn.jp/img/2022/06/13/google-engineer-lamda/00.jpg"
         }
       ]
     }
