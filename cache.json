@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367003",
+          "author": "Obumuneme Nwabude",
+          "description": "URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.\nBehind the scenes, the long …\nWhy I Chose Angular to Build a URL Shortener originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/why-i-chose-angular-to-build-a-url-shortener/",
+          "publishedOn": "2022-07-22T14:00:19.000Z",
+          "wordCount": 3028,
+          "title": "Why I Chose Angular to Build a URL Shortener",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367003"
+        },
+        {
           "id": "https://css-tricks.com/?p=367048",
           "author": "Geoff Graham",
           "description": "It’s not everyday that HTML headings are the topic de jour, but my folder of saved links is accumulating articles about the recently merged removal of the document outline algorithm in the WHATWG Living Standard.\nFirst off, you should know …\nRoundup of Recent Document Outline Chatter originally published on CSS-Tricks. You should get the newsletter.",
@@ -170,16 +180,6 @@
           "wordCount": 2292,
           "title": "Single Element Loaders: The Bars",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366526"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366452",
-          "author": "Saleh Mubashar",
-          "description": "We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …\nDifferent Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/different-ways-to-write-css-in-react/",
-          "publishedOn": "2022-06-22T14:24:37.000Z",
-          "wordCount": 1715,
-          "title": "Different Ways to Write CSS in React",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366452"
         }
       ]
     },
@@ -188,6 +188,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
+          "link": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
+          "publishedOn": "2022-07-22T09:00:00.000Z",
+          "wordCount": 5067,
+          "title": "Overcoming Imposter Syndrome By Developing Your Own Guiding Principles",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c4432c3e-8b4e-46f7-b7c0-84ed31faa265/overcoming-imposter-syndrome-developing-guiding-principles.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/",
           "author": "hello@smashingmagazine.com (Jarijn Nijkamp)",
@@ -442,21 +457,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/54545ed9-3238-4807-b56c-3c2b18e576c7/voice-control-usability-considerations-partially-visually-hidden-link-names-sharing-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/",
-          "author": "hello@smashingmagazine.com (Anna Prenzel)",
-          "description": "In this article, we will enhance the Gantt Chart component with some interaction possibilities for editing the jobs. In doing so, we will continue to work with Vanilla JS and Web Components and look at some JavaScript libraries that can greatly simplify the effort of developing a fully functional Gantt Chart.",
-          "link": "https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/",
-          "publishedOn": "2022-06-23T11:30:00.000Z",
-          "wordCount": 5237,
-          "title": "How To Create A Vanilla JavaScript Gantt Chart: Adding Task Editing Features (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3b4b9df-4f79-4eef-8ebc-2d1f86843d45/vanilla-javascript-gantt-chart-part-2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3b4b9df-4f79-4eef-8ebc-2d1f86843d45/vanilla-javascript-gantt-chart-part-2.jpg"
         }
       ]
     },
@@ -1554,66 +1554,6 @@
           "wordCount": 1072,
           "title": "How to Remove Underline from a Link in CSS – HTML Style Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/writing-326357_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/",
-          "author": "Abhinav Pandey",
-          "description": "In this article, we will go through the basics of Azure Cosmos DB and understand the configuration options available with it.  We will cover resource management concepts, data model, APIs, and configuration options. 1. What is Azure Cosmos DB? Azure Cosmos DB is a document database service that enables",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/",
-          "publishedOn": "2022-06-22T23:37:48.000Z",
-          "wordCount": 3586,
-          "title": "How to Set Up Azure CosmosDB – Database Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/1_mGWQfH9O34wfTQ-cpng7ZA.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In Python, there are various methods for formatting data types.  The %f formatter is specifically used for formatting float values (numbers with decimals).  We can use the %f formatter to specify the number of decimal numbers to be returned when a floating point number is rounded up.",
-          "link": "https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/",
-          "publishedOn": "2022-06-22T18:30:58.000Z",
-          "wordCount": 1179,
-          "title": "%.2f in Python – What does it Mean?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/susan-holt-simpson-GQ327RPuxhI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/",
-          "author": "Dionysia Lemonaki",
-          "description": "Git is a free and open-source version control system. It is the most popular version control system in use today. Git keeps track of the changes made to a project over time. This allows multiple developers to collaborate and work on the same project in parallel, no matter where they",
-          "link": "https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/",
-          "publishedOn": "2022-06-22T18:03:49.000Z",
-          "wordCount": 2072,
-          "title": "Git Reset Origin – How to Reset a Local Branch to Remote Tracking Branch",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/tanner-van-dera-oaQ2mTeaP7o-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/",
-          "author": "D.M. Oladele",
-          "description": "Modern web pages are dynamic. This means we need a suitable and convenient way to modify and manipulate a web document's structure.  This modification in an HTML document, for instance, usually takes the form of creating, adding, or removing elements in the document.  In this article, you'll learn",
-          "link": "https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/",
-          "publishedOn": "2022-06-22T17:54:50.000Z",
-          "wordCount": 3653,
-          "title": "What is the DOM? The Document Object Model Explained in Plain English",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/DOM-cover-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-arrays-in-php/",
-          "author": "Okoro Emmanuel Nzube",
-          "description": "An array is a special variable that we use to store or hold more than one value in a single variable without having to create more variables to store those values.  To create an array in PHP, we use the array function array( ). By default, an array of",
-          "link": "https://www.freecodecamp.org/news/how-to-use-arrays-in-php/",
-          "publishedOn": "2022-06-22T17:30:59.000Z",
-          "wordCount": 1631,
-          "title": "PHP Array – How to Use Arrays in Your PHP Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Arrays-in-PHP-final.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-design-patterns-explained/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article I'll explain what design patterns are and why they're useful.  We'll also go through some of the most popular design patterns out there and give examples for each of them. Let's go! Table of Contents  * What Are Design Patterns?  * Creational",
-          "link": "https://www.freecodecamp.org/news/javascript-design-patterns-explained/",
-          "publishedOn": "2022-06-22T17:06:02.000Z",
-          "wordCount": 4032,
-          "title": "JavaScript Design Patterns –Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043.jpg"
         }
       ]
     },
@@ -2321,46 +2261,6 @@
           "wordCount": 3366,
           "title": "MANGA ART HOTELで“漫泊”してみたレポ｜椎名トキ｜note",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/79881638/rectangle_large_type_2_4e5d0eaabaece69bba556ade68ae6c27.jpeg?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "http://voguegirl.jp/horoscope/shiitake2022-h2/contents/04cancer",
-          "author": null,
-          "description": "話題沸騰の占い師しいたけ.が占う、2022年下半期の運勢。",
-          "link": "http://voguegirl.jp/horoscope/shiitake2022-h2/contents/04cancer",
-          "publishedOn": "2022-06-22T23:38:25.000Z",
-          "wordCount": 16990,
-          "title": "2022年下半期しいたけ占い公開記念！　スペシャルLIVEを開催。",
-          "imageUrl": "https://voguegirl.jp/horoscope/shiitake2022-h2/contents/img/ogp_4.png"
-        },
-        {
-          "id": "https://stocker.jp/diary/new-css",
-          "author": null,
-          "description": "この記事では、比較的新しいCSSプロパティやCSSの機能を画像で分かりやすく解説しています。",
-          "link": "https://stocker.jp/diary/new-css",
-          "publishedOn": "2022-06-22T23:27:39.000Z",
-          "wordCount": 727,
-          "title": "画像で分かる、新しいCSS",
-          "imageUrl": "https://stocker.jp/diary/wp-content/uploads/css-tw-backdrop-filter-1.png"
-        },
-        {
-          "id": "https://tatienmiller.hashnode.dev/its-ok-to-learn-programming-slower",
-          "author": null,
-          "description": "Intro\nIf you're learning to program, you're probably aware of the pressure to go from coding newb to full-fledged, employed Software Developer as quickly as possible. While it may be nice to be rolling in cash sooner rather than later, I would like t...",
-          "link": "https://tatienmiller.hashnode.dev/its-ok-to-learn-programming-slower",
-          "publishedOn": "2022-06-22T23:21:49.000Z",
-          "wordCount": 4129,
-          "title": "It&#039;s OK to Learn Programming Slower 🐌",
-          "imageUrl": "https://hashnode.com/utility/r?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2F1K9T5YiZ2WU%2Fupload%2Fv1655692231186%2FKPoRy9PgM.jpeg%3Fw%3D1200%26h%3D630%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp%26fm%3Dpng"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ecae6158aba8b0d776213be30efb85d3c4de4720",
-          "author": null,
-          "description": "----------\n24年ぶりの安値を更新する円安で、悪夢のような値上げラッシュが始まった。しかし、本当に怖いのはこれからだ。失われた30年、コロナ禍、ウクライナ危機を経て、日本を襲う新たな試練の",
-          "link": "https://news.yahoo.co.jp/articles/ecae6158aba8b0d776213be30efb85d3c4de4720",
-          "publishedOn": "2022-06-22T13:06:33.000Z",
-          "wordCount": 1033,
-          "title": "値上げラッシュはこれからが本番！超円安の日本で起きる「怖いこと」（現代ビジネス）",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20220622-00096511-gendaibiz-000-1-view.jpg?exp=10800"
         }
       ]
     }
