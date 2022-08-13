@@ -170,16 +170,6 @@
           "wordCount": 1854,
           "title": "Office Spaces",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366905"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366770",
-          "author": "Blessing Ene Anyebe",
-          "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
-          "publishedOn": "2022-07-13T13:34:08.000Z",
-          "wordCount": 2553,
-          "title": "React Hooks: The Deep Cuts",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
         }
       ]
     },
@@ -188,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
+          "author": "hello@smashingmagazine.com (Chris Simmons)",
+          "description": "The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.",
+          "link": "https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/",
+          "publishedOn": "2022-08-12T08:00:00.000Z",
+          "wordCount": 4591,
+          "title": "Meet Skeleton: Svelte + Tailwind For Reactive UIs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/beaede58-125c-47db-8c29-7af80ea35534/skeleton-svelte-tailwind-reactive-uis.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
@@ -412,21 +417,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
-          "author": "hello@smashingmagazine.com (Raphael Amoedo)",
-          "description": "Using only Docker to build and run applications and commands removes the need for previous knowledge in some tool or programming language. Also, it avoids the necessity to install new modules and dependencies directly to the system, which makes development machine-independent.",
-          "link": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
-          "publishedOn": "2022-07-14T07:30:00.000Z",
-          "wordCount": 3666,
-          "title": "Using Nothing But Docker For Projects",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ceed27-0128-4001-b8b7-91aee374a9d5/using-nothing-but-docker-projects.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ceed27-0128-4001-b8b7-91aee374a9d5/using-nothing-but-docker-projects.jpg"
         }
       ]
     },
@@ -435,6 +425,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Java, you use a HashMap to store items in key/value pairs. You can access items stored in a HashMap using the item's key, which is unique for each item.  In this article, we'll talk about the features of a HashMap, how to create a  HashMap, and the",
+          "link": "https://www.freecodecamp.org/news/what-is-a-java-hashmap/",
+          "publishedOn": "2022-08-12T20:53:24.000Z",
+          "wordCount": 1675,
+          "title": "What is a Java Hashmap?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/tyler-nix-7ukf-r-Oh-k-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/",
+          "author": "Divine Orji",
+          "description": "One day, while learning algorithms in JavaScript, I found this challenge: > Using a for loop, iterate from 0 to 100, and return an array of all prime numbers within that range. It seemed easy initially, but I couldn't quite figure it out. So I did a google search and",
+          "link": "https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/",
+          "publishedOn": "2022-08-12T18:25:20.000Z",
+          "wordCount": 1532,
+          "title": "How to Use the Sieve Of Eratosthenes Algorithm",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Sieve-of-Eratosthenes-min.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/",
+          "author": "Soham De Roy",
+          "description": "Pretty much everything is available on the internet, and Google is one of the main ways people search for information. And while you might think it's obvious, many internet users don't know how to use Google search efficiently and effectively. In truth, Googling is an art. To get the right",
+          "link": "https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/",
+          "publishedOn": "2022-08-12T18:19:11.000Z",
+          "wordCount": 1904,
+          "title": "How to Google like a Pro – 10 Tips for More Effective Googling",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Group-61.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/",
+          "author": "Dillion Megida",
+          "description": "In this article, I'll explain what line breaks are and show you how to create them in HTML. What is a Line Break? A line break, as the name implies, is a break in line 😅. A line break in HTML is a point where a line ends horizontally, and",
+          "link": "https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/",
+          "publishedOn": "2022-08-12T18:00:31.000Z",
+          "wordCount": 1257,
+          "title": "HTML New Line – How to Add a Line Break with the BR Tag",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/line-break.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sense-walkthrough-hackthebox/",
+          "author": "Shuaib Oseni",
+          "description": "HackTheBox is an online hacking platform that allows you to test and practice your penetration testing skills.  It contains several vulnerable labs that are constantly updated. Some of them simulate real-world scenarios and some of them lean more towards a Capture The Flag (CTF) style of challenge. Note: Only",
+          "link": "https://www.freecodecamp.org/news/sense-walkthrough-hackthebox/",
+          "publishedOn": "2022-08-12T16:09:26.000Z",
+          "wordCount": 1515,
+          "title": "Sense Walkthrough – HackTheBox",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/sense--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/",
           "author": "Kolade Chris",
@@ -1324,96 +1364,6 @@
           "wordCount": 871,
           "title": "Use React and APIs to Build a Weather App",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/reactapi.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
-          "author": "Naomi Carrigan",
-          "description": "Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer",
-          "link": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
-          "publishedOn": "2022-07-13T23:04:07.000Z",
-          "wordCount": 1246,
-          "title": "How to Use RegEx to Match Emoji – Including Discord Emotes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-roman-odintsov-6898861.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
-          "author": "Tiago Monteiro",
-          "description": "Did you know that abstraction is one of the most important concepts for any software engineer to know? That's right! Without the use of abstraction when developing new technologies and concepts, we would never have been able to invent most software or even most things. So, understanding this concept is",
-          "link": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
-          "publishedOn": "2022-07-13T22:54:18.000Z",
-          "wordCount": 1990,
-          "title": "What is Abstraction in Programming – And Why is it Useful?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Screenshot--518-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-get-current-time/",
-          "author": "Kolade Chris",
-          "description": "In your websites and applications, you might want to add functionalities like timestamps or checking the time of a user’s activity. Every programming language has modules or methods for working with time, and Python is not an exception. With the datetime and time modules of Python, you can get the",
-          "link": "https://www.freecodecamp.org/news/python-get-current-time/",
-          "publishedOn": "2022-07-13T22:48:46.000Z",
-          "wordCount": 1156,
-          "title": "Python Get Current Time",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/getCurrentTime.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/",
-          "author": "Tomer Ben Rachel",
-          "description": "If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what",
-          "link": "https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/",
-          "publishedOn": "2022-07-13T20:21:04.000Z",
-          "wordCount": 1472,
-          "title": "How to Set Alarms in Flutter Using the Alarm Manager Plus Package",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sonja-langford-eIkbSc3SDtI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
-          "author": "Tiago Monteiro",
-          "description": "These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks",
-          "link": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
-          "publishedOn": "2022-07-13T19:28:02.000Z",
-          "wordCount": 2531,
-          "title": "What is a Software Framework?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/logo-freecodecamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
-          "author": "Joel Olawanle",
-          "description": "When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
-          "publishedOn": "2022-07-13T16:41:33.000Z",
-          "wordCount": 1185,
-          "title": "How to Create a Local Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
-          "author": "Dillion Megida",
-          "description": "How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same",
-          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
-          "publishedOn": "2022-07-13T15:10:46.000Z",
-          "wordCount": 1170,
-          "title": "Python List.append() – How to Append to a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/append-to-a-list.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
-          "author": "Abdulmalik Salawu",
-          "description": "Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
-          "publishedOn": "2022-07-13T14:57:25.000Z",
-          "wordCount": 1675,
-          "title": "How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-xxss-is-back-777001.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
-          "author": "Zubin Pratap",
-          "description": "I optimized my preparation for Big Tech Interviews based on my circumstances and background.  It did not require advanced Computer Science Degrees or thousands of leetcode-style questions.",
-          "link": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
-          "publishedOn": "2022-07-13T14:45:30.000Z",
-          "wordCount": 8702,
-          "title": "Coding Interview Prep for Big Tech (FAANG) – And How I Became A Google Engineer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Google-Mel.jpeg"
         }
       ]
     },
@@ -1621,76 +1571,6 @@
           "wordCount": 1112,
           "title": "フリーランスやリモートワークで働く時の生産性の高め方 : ライフハッカー［日本版］",
           "imageUrl": "https://media.loom-app.com/mpp/lifehacker/dist/images/2019/03/29/GettyImages-1088144710.jpg?w=1280"
-        },
-        {
-          "id": "https://gigazine.net/news/20220714-why-cant-eat-leaf",
-          "author": null,
-          "description": "ほうれん草やレタスなど、食材として売られている植物の「葉っぱ」は普通に食べられるものの、道端に生えている草や木の葉っぱを採って食べる人はほとんどいません。なぜ道端に生えている草は食べられないのかについて、海外メディアのUrboが植物学者のアシュリー・グレン氏に尋ねています。",
-          "link": "https://gigazine.net/news/20220714-why-cant-eat-leaf",
-          "publishedOn": "2022-07-14T12:35:05.000Z",
-          "wordCount": 2311,
-          "title": "なぜ人間は道ばたに生えている雑草や葉っぱのほとんどを食べることができないのか？",
-          "imageUrl": "https://i.gzn.jp/img/2022/07/14/why-cant-eat-leaf/00_m.jpg"
-        },
-        {
-          "id": "https://melev.leverages.jp/entry/2022/07/12/121010",
-          "author": null,
-          "description": "2022年春、レバレジーズで初の試みとなる「新規事業コンテスト」がおこなわれました。このコンテストは、机上の空論ではなく、参加者全員が本気で事業化を目指して取り組むガチ企画。そんな事業会社としてのこだわりがつまった社内コンテストをレポートします。（ライター：飯野） 新規事業コンテスト「LEGO」とは？ 概要 この企画は、社員を対象とした事業創造・事業改革コンテストです。1組5人の9チーム対抗戦でおこなわれ、岩槻代表へのプレゼンで最優秀チームと採択案が決定します。 チームのリーダーを務めるのは、レバレジーズの顔ともいえる各事業の部長陣7人と一般公募から選ばれた社員2人のあわせて9人。リーダー自ら…",
-          "link": "https://melev.leverages.jp/entry/2022/07/12/121010",
-          "publishedOn": "2022-07-14T12:09:01.000Z",
-          "wordCount": 12688,
-          "title": "レバレジーズの未来をつくる。業務創造・改革コンテストを開催！",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/l/leverages200546/20220712/20220712104317.png"
-        },
-        {
-          "id": "https://ferret-plus.com/68570",
-          "author": null,
-          "description": "エンジニアやデザイナーの工数を気遣いながら作業を依頼する必要ないので、小さな仮説でも自由自在に即検証できるノーコード。自由度が上がることは、仕事の裁量が増えるということ。そうすると自然に仕事は楽しくなるので、思考量が増えて成果もついてくる。圧倒的成果とは、こうした誰かの「夢中」から生まれるもの。誰かの「夢中」を止めず、すぐに形にできる。そして形になることでさらに「夢中」になる。この「正」の循環を生み出してくれるのが、ノーコードのCMSツールの一番の魅力です。",
-          "link": "https://ferret-plus.com/68570",
-          "publishedOn": "2022-07-14T12:03:55.000Z",
-          "wordCount": 828,
-          "title": "圧倒的成果は、誰かの「夢中」から生まれる。ノーコードさんの正しい週末",
-          "imageUrl": "https://ferret.akamaized.net/uploads/article/68570/og_image/default-70fe55e7625e0fe1ea54c61cb018b1c8.jpg"
-        },
-        {
-          "id": "https://speakerdeck.com/iselegant/mindset-for-an-architect",
-          "author": null,
-          "description": "",
-          "link": "https://speakerdeck.com/iselegant/mindset-for-an-architect",
-          "publishedOn": "2022-07-14T12:02:21.000Z",
-          "wordCount": 1079,
-          "title": "アーキテクトに求められるマインドとは / mindset for an architect",
-          "imageUrl": "https://files.speakerdeck.com/presentations/9975a6d33da84fd3861c3f74bdae214d/slide_0.jpg?22053696"
-        },
-        {
-          "id": "https://inside-games.jp/article/2022/07/14/139234.html",
-          "author": null,
-          "description": "映像コンテンツの企画・制作会社ダイナモピクチャーズを子会社化。目的は任天堂グループの映像コンテンツの企画・制作体制を強化するためとのこと。",
-          "link": "https://inside-games.jp/article/2022/07/14/139234.html",
-          "publishedOn": "2022-07-14T12:00:27.000Z",
-          "wordCount": 1667,
-          "title": "任天堂がダイナモピクチャーズを子会社化―商号を「ニンテンドーピクチャーズ」とし、映像コンテンツ強化へ",
-          "imageUrl": "https://www.inside-games.jp/imgs/ogp_f/1126946.jpg"
-        },
-        {
-          "id": "https://robbowen.digital/wrote-about/css-blend-mode-shaders",
-          "author": null,
-          "description": "Get a shiny WebGL look without actually using WebGL. In this article we take a look at how CSS blend modes unleash the potential of cool compositing effects without the need for JavaScript",
-          "link": "https://robbowen.digital/wrote-about/css-blend-mode-shaders",
-          "publishedOn": "2022-07-14T11:59:03.000Z",
-          "wordCount": 2284,
-          "title": "Holograms, light-leaks and how to build CSS-only shaders.",
-          "imageUrl": "https://robbowen.digital/assets/img/card.png"
-        },
-        {
-          "id": "https://freecodecamp.org/news/what-is-a-software-framework",
-          "author": null,
-          "description": "These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks",
-          "link": "https://freecodecamp.org/news/what-is-a-software-framework",
-          "publishedOn": "2022-07-14T11:52:04.000Z",
-          "wordCount": 2531,
-          "title": "What is a Software Framework?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/logo-freecodecamp.png"
         }
       ]
     }
