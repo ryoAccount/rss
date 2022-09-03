@@ -209,6 +209,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
+          "author": "hello@smashingmagazine.com (Mike Herchel)",
+          "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
+          "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
+          "publishedOn": "2022-09-02T10:30:00.000Z",
+          "wordCount": 3983,
+          "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
           "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
@@ -500,6 +515,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
+          "author": "TAPAS ADHIKARY",
+          "description": "What comes to mind when you hear the term Open Source? In the programming world, open source is a generic term for Open Source Software (OSS). Open-source software is built on source code that's open to everyone to view, change, extend, and distribute. In this article, we will get into",
+          "link": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
+          "publishedOn": "2022-09-02T16:34:40.000Z",
+          "wordCount": 3623,
+          "title": "Open Source for Developers – A Beginner's Handbook to Help You Start Contributing",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Book-PNG.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/",
+          "author": "Spruce Emmanuel",
+          "description": "You're going to spend a lot of time working on webpages when using JavaScript. In fact, while you're using JavaScript, the webpage is where all the exciting and important stuff takes place.  A webpage is one big document for a JavaScript developer since every element on the page is",
+          "link": "https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/",
+          "publishedOn": "2022-09-02T15:40:00.000Z",
+          "wordCount": 5529,
+          "title": "JavaScript DOM Tutorial – How to Build a Calculator App in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Web-capture_31-8-2022_83456_localhost.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/",
+          "author": "Sameer Shukla",
+          "description": "Actuator endpoints help us monitor our services. By using actuators, we can gain a lot of information about what’s going on.  SpringBoot has a number of in-built actuators, and it also allows us to create our own Actuator Endpoint.  For frameworks written in Python like Flask or FastAPI,",
+          "link": "https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/",
+          "publishedOn": "2022-09-02T15:02:51.000Z",
+          "wordCount": 1517,
+          "title": "How to Monitor Python APIs using Pyctuator and SpringBootAdmin",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screen-Shot-2022-09-01-at-12.18.52-AM.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
           "author": "Dillion Megida",
@@ -1479,66 +1524,6 @@
           "wordCount": 1331,
           "title": "HTML Font Size – How to Change Text Size with an HTML Tag",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--6-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we'll talk about the IndexError: list index out of range error in Python.  In each section of the article, I'll highlight a possible cause for the error and how to fix it. You may get the IndexError: list index out of range error for the following",
-          "link": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
-          "publishedOn": "2022-08-03T22:13:38.000Z",
-          "wordCount": 1840,
-          "title": "List Index Out of Range – Python Error [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/kelly-sikkema--1_RZL8BGBM-unsplash--3-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-redux-powered-react-app/",
-          "author": "Soham De Roy",
-          "description": "The Problem We're Solving In many cases when we want to create a small application, we might have some components that declare and use their own state. And in a few cases, a component might want to share the state with its immediate children. We can handle these situations just",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-redux-powered-react-app/",
-          "publishedOn": "2022-08-03T21:51:56.000Z",
-          "wordCount": 3715,
-          "title": "How to Build a Redux-Powered React App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Group-58.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/",
-          "author": "Dionysia Lemonaki",
-          "description": "When working with a JavaScript program, there may be times when you will need to generate a random number. For example, you may want to generate a random number when developing a JavaScript game, such as a number guessing game. JavaScript has many built-in methods for working with numbers and",
-          "link": "https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/",
-          "publishedOn": "2022-08-03T19:29:55.000Z",
-          "wordCount": 2230,
-          "title": "JavaScript Random Number – How to Generate a Random Number in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-josh-sorenson-1714208.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-sheets-use-regex-and-vlookup-to-display-images-from-google-drive/",
-          "author": "Eamonn Cottrell",
-          "description": "Images make many things better. And Google Sheets is one of those things.  The easiest way to add an image to Google Sheets is to simply insert one into your sheet.  But if you have added many images this way, you'll quickly tire of the multiple clicks it",
-          "link": "https://www.freecodecamp.org/news/google-sheets-use-regex-and-vlookup-to-display-images-from-google-drive/",
-          "publishedOn": "2022-08-03T17:03:25.000Z",
-          "wordCount": 1891,
-          "title": "Google Sheets Tutorial – How to Use Regex and VLOOKUP to Display Images from Google Drive",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/google-sheets-regex.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/",
-          "author": "Jessica Rose",
-          "description": "In 2021, the Class Central team helped my friend and me teach three cohorts of free programming bootcamps based on freeCodeCamp curricula.  We’ve been joined by over 20,000 learners from around the globe and it’s just been an honor and a delight to get to learn along with so",
-          "link": "https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/",
-          "publishedOn": "2022-08-03T16:48:08.000Z",
-          "wordCount": 1381,
-          "title": "Free Coding Bootcamp – Learn to Code with Class Central + freeCodeCamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-sora-shimazaki-5935794--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-factorial/",
-          "author": "Ilenia Magoni",
-          "description": "A factorial is a mathematical operation that you write like this: n!. It represents the multiplication of all numbers between 1 and n. So if you were to have 3!, for example, you'd compute 3 x 2 x 1 (which = 6). Let's see how it works with some more",
-          "link": "https://www.freecodecamp.org/news/what-is-a-factorial/",
-          "publishedOn": "2022-08-03T16:32:53.000Z",
-          "wordCount": 1577,
-          "title": "What is a Factorial? How to Calculate Factorials with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/antoine-dautry-_zsL306fDck-unsplash.jpg"
         }
       ]
     },
@@ -1547,6 +1532,16 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://techblog.timers-inc.com/entry/2019/05/28/scale-scrum-with-less",
+          "author": null,
+          "description": "はじめに CTOのあまど ( @amado_tech )です。 Timersでは2013年頃から長らくスクラム開発を中心に据えてプロダクトを作ってきました。初期の頃はなんちゃってスクラムだったり、人が増えるにあたって自己組織化するのが難しくなったり、たくさんの課題や問題を乗り越えてきました。 現在16名程度のアプリ開発チームが2つのスクラムチームと1人のプロダクトオーナーの体制で、2週間のスプリントを効果的に回しながら生産性高く＆納得度高くプロダクト改善が出来ており、我々のコアプロダクトである「家族アプリFamm」は順調に改善され事業成長もしています。 そんな開発体制を支えているのが、「LeS…",
+          "link": "https://techblog.timers-inc.com/entry/2019/05/28/scale-scrum-with-less",
+          "publishedOn": "2022-09-02T22:17:14.000Z",
+          "wordCount": 385,
+          "title": "スケールする大規模スクラム開発「LeSS」の実践例＠Timers",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/timers-tech/20200527/20200527171650.png"
+        },
         {
           "id": "https://gendai.media/articles/-/98387",
           "author": null,
@@ -2206,26 +2201,6 @@
           "wordCount": 725,
           "title": "【35歳の人生の転機】やりたいことは今すぐやるべき。35歳で人生を変える転機とは？",
           "imageUrl": "https://tanipo.jp/wp-content/uploads/2020/10/30s.jpg"
-        },
-        {
-          "id": "https://yutura.net/news/archives/79640",
-          "author": null,
-          "description": "8月2日、「コレコレ」（登録者数184万人）が「【削除覚悟】お祭りに違法屋台があったのでガチで注意した結果、本物の裏社会の人間が出てきてやばい展開に…【SPY×FAMILY】」と題した動画を公開。“お祭りの闇”に迫りまし […]",
-          "link": "https://yutura.net/news/archives/79640",
-          "publishedOn": "2022-08-03T21:16:00.000Z",
-          "wordCount": 1186,
-          "title": "一般人の二次創作イラストを勝手に景品に？　コレコレ、権利無視の屋台の“闇”に迫る",
-          "imageUrl": "https://ytranking-net.s3.ap-northeast-1.amazonaws.com/news/wp-content/uploads/2022/08/kore.jpeg"
-        },
-        {
-          "id": "https://lifehacker.jp/article/2208_psychological_test_crisismanagement_q",
-          "author": null,
-          "description": "【心理テスト】おにぎり、今食べるならどの具を選びますか？ 選んだおにぎりの具材でわかるあなたの「先読み度」。人生を豊かに、もっと自分を知るきっかけにもなる「心理テスト」をお届けします。",
-          "link": "https://lifehacker.jp/article/2208_psychological_test_crisismanagement_q",
-          "publishedOn": "2022-08-03T21:14:51.000Z",
-          "wordCount": 1059,
-          "title": "【心理テスト】食べたいおにぎりの具でわかる、あなたの｢先読み力｣",
-          "imageUrl": "https://media.loom-app.com/loom/2022/08/03/e6ab8fd3-04c2-42e7-a63c-47d662ea5bfc/original.jpg?w=1280&h=630&f=jpg"
         }
       ]
     }
