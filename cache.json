@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372968",
+          "author": "Saleh Mubashar",
+          "description": "As the name suggests, overlapping charts visualize two different sets of data in a single diagram. The idea is that the overlapping bars allow us to compare data, say, year-over-year. They are also useful for things like tracking progress for …\nOverlapping Bar Charts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/overlapping-bar-charts/",
+          "publishedOn": "2022-09-07T13:46:58.000Z",
+          "wordCount": 2256,
+          "title": "Overlapping Bar Charts",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372968"
+        },
+        {
           "id": "https://css-tricks.com/?p=372850",
           "author": "Lu Wang",
           "description": "CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.\nInspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …\nHacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -180,16 +190,6 @@
           "wordCount": 954,
           "title": "Committing CSS Crimes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367369"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367204",
-          "author": "Temani Afif",
-          "description": "Creating a grid of images is easy, thanks to CSS Grid. But making the grid do fancy things after the images have been placed can be tricky to pull off.\nSay you want to add some fancy hover effect to …\nZooming Images in a Grid Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/zooming-images-in-a-grid-layout/",
-          "publishedOn": "2022-08-08T12:55:49.000Z",
-          "wordCount": 3586,
-          "title": "Zooming Images in a Grid Layout",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367204"
         }
       ]
     },
@@ -482,21 +482,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-50/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we ask how you can affect change to UX design in large organizations stuck in their ways. Vitaly talks to Marko Dugonjić to find out.",
-          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-50/",
-          "publishedOn": "2022-08-09T08:00:00.000Z",
-          "wordCount": 8051,
-          "title": "Smashing Podcast Episode 50 With Marko Dugonjic: Can You Change A UX Dinosaur?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fe39337d-f1ba-40b2-adf2-ab97b12257a6/smashing-podcast-episode-50.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fe39337d-f1ba-40b2-adf2-ab97b12257a6/smashing-podcast-episode-50.png"
         }
       ]
     },
@@ -505,6 +490,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/",
+          "author": "Israel Mitolu",
+          "description": "Some applications require you to know your user's location, like food delivery or eCommerce apps. So you'll need an efficient way to get this info. The Geolocation API, which we will look at today, is a simple solution. You can use it to determine your users' location, local currency, language,",
+          "link": "https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/",
+          "publishedOn": "2022-09-07T18:29:36.000Z",
+          "wordCount": 1465,
+          "title": "JavaScript Geolocation API Tutorial – How to Get a User's Location in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Blog-article-cover-images--4---1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/",
+          "author": "Rajdeep Singh",
+          "description": "deb-get is a new command line utility built by Martin Wimpress [https://twitter.com/m_wimpress], an active contributor to the Linux community.  You can use this utility to install third-party packages on your Debian machine. It only works with Debian or Debian-based distros like Ubuntu, Linux mint, Kali Linux, and so on.",
+          "link": "https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/",
+          "publishedOn": "2022-09-07T18:27:17.000Z",
+          "wordCount": 1423,
+          "title": "What is deb-get? How to Install the Debian Package with the deb-get Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Debian-deb-get.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/",
+          "author": "Kolade Chris",
+          "description": "If you are using Git for version control, it’s likely you’ve created branches for various reasons. Since you have those branches in place, you might want to rename any of them if you find a typo, for example, or change the code's purpose. In this article, I will show you",
+          "link": "https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/",
+          "publishedOn": "2022-09-07T18:22:39.000Z",
+          "wordCount": 1091,
+          "title": "Renaming a Git Branch – How to Rename the Current Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/git-branches.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/",
+          "author": "Zaira Hira",
+          "description": "Linux is a powerful OS with various command line utilities to help you achieve your day-to-day tasks. Removing folders is a very common operation that allows you to either remove a single folder or remove them recursively (folders within folders).  In this tutorial, we will see how we can",
+          "link": "https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/",
+          "publishedOn": "2022-09-07T18:18:33.000Z",
+          "wordCount": 1282,
+          "title": "Remove a Directory in Linux – How to Remove folders from the Command Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Copy-of-read-write-files-python--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-java-handbook/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "Java has been around since the 90s. And despite its massive success in many areas, this cross-platform, object-oriented programming language is often maligned. Regardless of how people feel about Java, I can tell you from experience is that it is an excellent programming language. After its first appearance back in",
+          "link": "https://www.freecodecamp.org/news/the-java-handbook/",
+          "publishedOn": "2022-09-07T18:05:02.000Z",
+          "wordCount": 20513,
+          "title": "The Java Handbook – Learn Java Programming for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/The-Java-Handbook.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/angular-for-beginners-course/",
+          "author": "Beau Carnes",
+          "description": "Angular is a popular TypeScript-based open-source web application framework created by Google. We just published a comprehensive 18-hour Angular course for beginners on the freeCodeCamp.org YouTube channel. In this course you will first you will learn the basics of TypeScript. Then you will learn about important Angular concepts such as",
+          "link": "https://www.freecodecamp.org/news/angular-for-beginners-course/",
+          "publishedOn": "2022-09-07T16:45:24.000Z",
+          "wordCount": 1011,
+          "title": "Angular for Beginners Course + TypeScript [Full Front-End Tutorial]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/angular.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/",
           "author": "Valentine Gatwiri",
@@ -1494,26 +1539,6 @@
           "wordCount": 3107,
           "title": "Web Scraping in Python – How to Scrape Sci-Fi Movies from IMDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pixabay-270348--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "Style guides are important to help you deliver a consistent brand experience.  As a UI/UX designer, creating style guides is indispensable if you hope to create great user experiences and interfaces.  In this article, you will learn what a style guide is, the importance of a style guide,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
-          "publishedOn": "2022-08-08T14:35:53.000Z",
-          "wordCount": 2499,
-          "title": "How to Create a Style Guide in Figma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/style-guide.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Every programming language has certain keywords with specific, prebuilt functionalities and meanings.  Naming your variables or functions after these keywords is most likely going to raise an error. We'll discuss one of these cases in this article — the  TypeError: 'str' object is not callable error in Python.",
-          "link": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
-          "publishedOn": "2022-08-08T14:21:57.000Z",
-          "wordCount": 1205,
-          "title": "Typeerror: str object is not callable – How to Fix in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
         }
       ]
     },
@@ -1522,6 +1547,116 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://event.shoeisha.jp/devboost/20221209",
+          "author": null,
+          "description": "エンジニアの“キャリア”にフォーカスしたカンファレンス「Developers CAREER Boost」（devキャリ）は、2022年12月9日に開催！",
+          "link": "https://event.shoeisha.jp/devboost/20221209",
+          "publishedOn": "2022-09-07T15:00:20.000Z",
+          "wordCount": 973,
+          "title": "Developers CAREER Boost（2022.12.09）",
+          "imageUrl": "https://event.shoeisha.jp/static/images/event/1386/1200-02.png"
+        },
+        {
+          "id": "https://bdchannel.borndigital.jp/2937",
+          "author": null,
+          "description": "数々のXR LIVEのシステム構築や演出を手掛けるシンビオシスによるセッション。 リアルイベントとバーチャルイベントの双方に活用できる独自システムについて講演いたします。 XR LIVEを手がけるクリエイターをはじめ、これからXR LIVEを企画される方、システムの導入を検討される方にもお役立ていただける内容になっております。   講演内容 エンターテインメントの手法として主流になりつつある、XR LIVE。   バーチャルヒューマンとして国内初のライブとなったte’resaと、バーチャルシンガー理芽によるIMAGINARY WORLDの制作事例を元に、リアルイベントでの照明や映像の機材をそのまま使って、バーチャルイベントに転用できる弊社独自のUnreal Engineを使ったXR LIVEシステムを解説します。   また、リアルイベントとバーチャルイベント双方を生配信できる独自のシステムについてもお話します。",
+          "link": "https://bdchannel.borndigital.jp/2937",
+          "publishedOn": "2022-09-07T14:48:48.000Z",
+          "wordCount": 303,
+          "title": "Unreal Engine を使用した独自のリアルタイム XR LIVE システムの開発事例",
+          "imageUrl": "https://bdchannel.borndigital.jp/wp/wp-content/uploads/2022/08/75c140d3601436d9bf49d9f8aa3af58a-1280x720.jpg"
+        },
+        {
+          "id": "https://automaton-media.com/articles/newsjp/20220907-217945",
+          "author": null,
+          "description": "PlayStation 5本体のマイナーチェンジモデルが、一部の国にて出荷開始されている。PS5マイナーチェンジモデル「CFI-1200」はどのような変更があるのか。",
+          "link": "https://automaton-media.com/articles/newsjp/20220907-217945",
+          "publishedOn": "2022-09-07T14:46:38.000Z",
+          "wordCount": 5682,
+          "title": "PS5新マイナーチェンジモデル「CFI-1200」の具体的な変更点がさっそく報告される。検証者は満足げ",
+          "imageUrl": "https://automaton-media.com/wp-content/uploads/2022/09/20220907-217945-header.jpg"
+        },
+        {
+          "id": "https://president.jp/articles/-/61212?page=1",
+          "author": null,
+          "description": "何度ミーティングをしても新たなアイデアが出てこない。そんな時はどうすればよいのか。東京大学大学院情報学環特任助教の安斎勇樹さんは「バイアス破壊と仮定法を組み合わせることで新たな可能性を模索できる」という――。",
+          "link": "https://president.jp/articles/-/61212?page=1",
+          "publishedOn": "2022-09-07T14:01:55.000Z",
+          "wordCount": 1454,
+          "title": "｢もし誰にも怒られないとしたら…｣議論が煮詰まったときに一流上司が繰り出す&amp;quot;うまい問いかけ&amp;quot; しがらみにとらわれない｢新しい発想｣を生む会議は何が違うか",
+          "imageUrl": "https://president.ismcdn.jp/mwimgs/a/4/1200wm/img_a417999727bd90da09bbdb0a1ec37d936895684.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20220907-why-you-lonely-how-make-friends",
+          "author": null,
+          "description": "YouTubeのチャンネル登録者数が1900万人を超える科学のさまざまな不思議をアニメーションで解説するKurzgesagtが、「なぜあなたは孤独で、どうすれば友達を作れるのか？」を解説する動画を公開しています。",
+          "link": "https://gigazine.net/news/20220907-why-you-lonely-how-make-friends",
+          "publishedOn": "2022-09-07T13:53:50.000Z",
+          "wordCount": 2370,
+          "title": "なぜあなたは孤独なのか、友達を作る方法とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/09/07/why-you-lonely-how-make-friends/00.jpg"
+        },
+        {
+          "id": "https://rtrp.jp/articles/135376",
+          "author": null,
+          "description": "「もうこんな時間だよ～帰りにサクッと麺を啜れるお店なんてないよね。。。今日の夜ご飯はあきらめないといけないかな」なんてことはありませんか？今回は時間がないけどお腹が空いている人におすすめする、駅からのアクセスが良く美味しい麺のお店を7選ご紹介します。駆け込んで幸せを嚙み締めましょう！（なお情報は記事掲載時点のものです。詳細は公式サイトなどでも事前確認することをおすすめします。）",
+          "link": "https://rtrp.jp/articles/135376",
+          "publishedOn": "2022-09-07T13:50:01.000Z",
+          "wordCount": 348,
+          "title": "帰る前に一杯どう？深夜の東京都内で食べられる美味しいラーメン7選",
+          "imageUrl": "https://static.rtrp.jp/spot/24939ca4-b28f-4cc2-8f1b-1126619cd05b/images/dd6bb12c-c36a-41e6-962b-a363a343134a_l.jpg"
+        },
+        {
+          "id": "https://jp.gamesindustry.biz/article/2209/22090601",
+          "author": null,
+          "description": "��Ū�⻺�������ǥ��͡�������MoAli�᤬���ȳ����Τ���±�Ǥ����Ǥʤ�������ƥ�Ĥ��Ѥ��뤢�����ˡ�ȤɤΤ褦����äƤ��뤫�ˤĤ��ƾܤ����������롣����±�԰٤ϡ�����ޤǤ⡤�����Ƥ��줫��⡤������",
+          "link": "https://jp.gamesindustry.biz/article/2209/22090601",
+          "publishedOn": "2022-09-07T13:47:43.000Z",
+          "wordCount": 735,
+          "title": "ゲームIPを保護するためにUKIEが行っていること",
+          "imageUrl": "https://jp.gamesindustry.biz/article/2209/22090601/TN/001.jpg"
+        },
+        {
+          "id": "https://coliss.com/articles/build-websites/operation/css/modal-css-pseudo-class.html",
+          "author": null,
+          "description": "先日リリースされたChrome 105, Edge 105でコンテナクエリ（@container）と:has()疑似クラスがサポートされ、モダンCSSの新機能がいよいよブラウザで使用できるようなりまし",
+          "link": "https://coliss.com/articles/build-websites/operation/css/modal-css-pseudo-class.html",
+          "publishedOn": "2022-09-07T13:46:50.000Z",
+          "wordCount": 1098,
+          "title": "モーダル要素の実装に便利なCSSの新機能「:modal疑似クラス」、主要ブラウザのすべてにサポートされました",
+          "imageUrl": "https://coliss.com/wp-content/uploads-202203/2022090410-01.png"
+        },
+        {
+          "id": "http://kachibito.net/useful-resource/timer",
+          "author": null,
+          "description": "TimerTimerは訪問したWebサイトの滞在時間をグラフ化してブラウジング習慣の改善に貢献してくれるOSSのブラウザ拡張です。Chromeウェブストアでは「Web時間統計」の名前で出してるみたいです。Chrome拡張で人気のWebtim",
+          "link": "http://kachibito.net/useful-resource/timer",
+          "publishedOn": "2022-09-07T13:46:01.000Z",
+          "wordCount": 3491,
+          "title": "訪問したWebサイトの滞在時間をグラフ化してブラウジング習慣の改善に貢献してくれるOSSのブラウザ拡張・「Timer」",
+          "imageUrl": "http://kachibito.net/wp-content/uploads/2022/09/timer01.jpg"
+        },
+        {
+          "id": "https://huffingtonpost.jp/entry/story_jp_6317e6aee4b082746bd988e5",
+          "author": null,
+          "description": "人気商品のトロピカーナが優良誤認表示に該当。消費者庁はキリンビバレッジに対し、再発防止などを命じた。",
+          "link": "https://huffingtonpost.jp/entry/story_jp_6317e6aee4b082746bd988e5",
+          "publishedOn": "2022-09-07T13:37:31.000Z",
+          "wordCount": 7146,
+          "title": "「100％メロンテイスト」実は果汁2%だった。原料の大部分は他のフルーツ、SNSでも衝撃走る",
+          "imageUrl": "https://img.huffingtonpost.com/asset/6317f4fb2300001a006727a9.jpg?cache=b8RyJIkhv9&ops=1200_630"
+        },
+        {
+          "id": "https://wired.jp/article/seamless-design-moment",
+          "author": null,
+          "description": "従業員十数万人のグローバル企業から従業員3人の飲食店まで、さまざまな規模・業態のクライアントの要望に応えるべく繰り出された、平面と空間を横断したクリエイティブのアイデア集──。そんな謳われ方をする『シームレス・デザインの思考』とは、いかなる本なのか。そもそも「シームレス・デザイン」とは何なのか。著者であるデザインオフィスMOMENTのふたりと、解説を務めた川田十夢（AR三兄弟）による鼎談からひもとく。",
+          "link": "https://wired.jp/article/seamless-design-moment",
+          "publishedOn": "2022-09-07T13:32:54.000Z",
+          "wordCount": 13354,
+          "title": "シームレス・デザインとは「領域の横断・接着」ではなく「継手の設計」にほかならない：MOMENT×川田十夢",
+          "imageUrl": "https://media.wired.jp/photos/6315b140229bf08363f3565c/16:9/w_1280,c_limit/6.gif"
+        },
         {
           "id": "https://paiza.hatenablog.com/entry/2021/10/06/150000",
           "author": null,
