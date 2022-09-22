@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373639",
+          "author": "Geoff Graham",
+          "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-rules-vs-css-rulesets/",
+          "publishedOn": "2022-09-21T21:53:44.000Z",
+          "wordCount": 922,
+          "title": "CSS Rules vs. CSS Rulesets",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
+        },
+        {
           "id": "https://css-tricks.com/?p=373167",
           "author": "Preethi",
           "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -210,16 +220,6 @@
           "wordCount": 946,
           "title": "Removing jQuery from GOV.UK",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372485"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372396",
-          "author": "Temani Afif",
-          "description": "Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.\nHere’s just one of the fantastic grids we made together:\nCodePen…\nCSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-2/",
-          "publishedOn": "2022-08-22T14:08:39.000Z",
-          "wordCount": 4517,
-          "title": "CSS Grid and Custom Shapes, Part 2",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372396"
         }
       ]
     },
@@ -228,6 +228,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.",
+          "link": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
+          "publishedOn": "2022-09-21T11:30:00.000Z",
+          "wordCount": 6434,
+          "title": "Designing Better Inline Validation UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
@@ -542,21 +557,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.",
-          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
-          "publishedOn": "2022-08-23T12:00:00.000Z",
-          "wordCount": 10151,
-          "title": "Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png"
         }
       ]
     },
@@ -565,6 +565,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is",
+          "link": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
+          "publishedOn": "2022-09-21T17:42:10.000Z",
+          "wordCount": 2004,
+          "title": "Git Remove Last Commit – How to Undo a Commit in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-andrew-neel-2312369.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
+          "author": "Kolade Chris",
+          "description": "Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to",
+          "link": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
+          "publishedOn": "2022-09-21T16:18:08.000Z",
+          "wordCount": 1295,
+          "title": "Generic PNP Monitor – How to Fix Windows 10 PC Device Driver",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/monitor-1307227_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
+          "author": "Sophia Iroegbu",
+          "description": "Software testing is essential to development. It saves you time and money in production mode.  But software testing is a complex topic and can be a bit difficult to understand. In this article, I'll explain the major topics in software testing and how this practice can help you.",
+          "link": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
+          "publishedOn": "2022-09-21T16:03:49.000Z",
+          "wordCount": 2614,
+          "title": "What is Software Testing? A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Tech-Blog-Cover--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/near-curriculum/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 9 months, several of our instructors have been hard at work on a comprehensive NEAR curriculum. This will focus on NEAR's blockchain protocol and the NEAR tool ecosystem. This curriculum is made possible by NEAR Foundation, who gave our charity a grant to 100% fund development of",
+          "link": "https://www.freecodecamp.org/news/near-curriculum/",
+          "publishedOn": "2022-09-21T15:10:19.000Z",
+          "wordCount": 1186,
+          "title": "freeCodeCamp is Building a NEAR Curriculum",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/joshua-newton-IRXYNAMlUtw-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/solana-curriculum/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 9 months, we've made considerable progress on our Solana curriculum. This will focus on Solana's blockchain protocol and the Solana tool ecosystem. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this",
+          "link": "https://www.freecodecamp.org/news/solana-curriculum/",
+          "publishedOn": "2022-09-21T15:00:18.000Z",
+          "wordCount": 1184,
+          "title": "freeCodeCamp is Building a Solana Curriculum",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/arturo-castaneyra-7laIG_Xv5FI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation",
+          "link": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
+          "publishedOn": "2022-09-21T14:45:56.000Z",
+          "wordCount": 1454,
+          "title": "freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/thomas-habr-wprOCzLIEYI-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/",
           "author": "Joy O. Oluwafemi",
@@ -1634,66 +1694,6 @@
           "wordCount": 2499,
           "title": "How to Override Root Font Size to Create a Better User Experience",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/root-font-size-article-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
-          "author": "Kealan Parr",
-          "description": "As a developer, you have likely heard of HTML [https://en.wikipedia.org/wiki/HTML], which stands for HyperText Markup L anguage. And you may know that HTML is a language used to create websites – but what does  markup mean? Markup languages [https://techterms.com/definition/markup_language] are languages that use tags to define different elements within",
-          "link": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
-          "publishedOn": "2022-08-22T22:16:38.000Z",
-          "wordCount": 1822,
-          "title": "Markdown Cheat Sheet – How to Write Articles in Markdown Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Markdown-cheatsheet.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
-          "author": "Marco Venturi",
-          "description": "If you run a website, you are aware of the importance of content. It's important for your web presence, to help you be recognized as a leader in your field, to improve your SEO ranking, to increase your audience, and more. WordPress is one of the most popular and widely-used",
-          "link": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
-          "publishedOn": "2022-08-22T20:55:16.000Z",
-          "wordCount": 1908,
-          "title": "How to Generate WordPress Posts Automatically with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/",
-          "author": "Dillion Megida",
-          "description": "Python provides many math methods for mathematical operations such as square roots, exponents, and so on. In this article, I will show you how to round up a number to a specified decimal place. What is a Decimal Place? Look at this number: 324.89. Each number here has a position",
-          "link": "https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/",
-          "publishedOn": "2022-08-22T17:17:58.000Z",
-          "wordCount": 1368,
-          "title": "How to Round to 2 Decimal Places in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/round-up-numbers-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/",
-          "author": "Kayode Adeniyi",
-          "description": "In this article, I will walk you through some of the best methods to optimize APIs written in Node.js. Prerequisites To get the most out of this article, you will need an understanding of the following concepts:  * Node.js setup and installation  * How to build APIs with",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/",
-          "publishedOn": "2022-08-22T17:16:36.000Z",
-          "wordCount": 2473,
-          "title": "How to Optimize Your Node.js API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ann-marie-kennon-1296000.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/programming-naming-conventions-explained/",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "If you've been programming for a while, you may have heard the words \"camel case\" or \"pascal case\". And maybe you're wondering what those terms mean. Well, let me explain. What are Naming Conventions in Programming? Apart from the hard and fast rules that we get with every programming language,",
-          "link": "https://www.freecodecamp.org/news/programming-naming-conventions-explained/",
-          "publishedOn": "2022-08-22T15:16:55.000Z",
-          "wordCount": 1353,
-          "title": "Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Programming-Naming-Conventions-Explained.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
-          "author": "Andrew Brown",
-          "description": "You can learn everything you need to know to earn the Azure Developer Certification by completing this free 13-hour course. What is Microsoft Azure Developer Associate? The Microsoft Azure Developer Associate (commonly known as the AZ-204) is a Microsoft Azure certification focused on building web-applications on-top of Azure cloud services.",
-          "link": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
-          "publishedOn": "2022-08-22T14:51:47.000Z",
-          "wordCount": 1143,
-          "title": "Azure Developer Certification (AZ-204) – Pass the Exam With This Free 13.5-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/azure.png"
         }
       ]
     },
@@ -1702,6 +1702,76 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://coliss.com/articles/build-websites/operation/work/html-capture-attribute.html",
+          "author": null,
+          "description": "HTMLだけでスマホやタブレットのカメラにアクセスできる、HTMLのcapture属性を紹介します。 私はこの属性を知らなかったのですが、実際にiPhoneとiPadで試してみたところ、前面カメラにも",
+          "link": "https://coliss.com/articles/build-websites/operation/work/html-capture-attribute.html",
+          "publishedOn": "2022-09-21T17:23:16.000Z",
+          "wordCount": 951,
+          "title": "HTMLだけでスマホのカメラにアクセスできるの知ってた？ 前面・背面カメラにアクセスできるHTMLのcapture属性",
+          "imageUrl": "https://coliss.com/wp-content/uploads-202203/2022091701-01@2x.png"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c2f5745db066571a81e472e2a4495252c78b39d8",
+          "author": null,
+          "description": "残業をなくすにはどうすればいいのか。営業研修トレーナーの伊庭正康さんは「残業の原因は仕事量が多いからとは限らない。残業できるからこそ、ムダな仕事が膨張している恐れがある」という――。",
+          "link": "https://news.yahoo.co.jp/articles/c2f5745db066571a81e472e2a4495252c78b39d8",
+          "publishedOn": "2022-09-21T17:14:43.000Z",
+          "wordCount": 1106,
+          "title": "残業をやめられないのは「仕事量が多い」からではない…残業中毒な人が知らない「パーキンソンの法則」とは（プレジデントオンライン）",
+          "imageUrl": "https://s.yimg.jp/images/news-web/all/images/ogp_default.png"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu963",
+          "author": null,
+          "description": "【NHK就活ゼミ】 「ワークライフバランスが大切」と言うけれど、実際、会社に入ると残業が多かったり、休みが取りにくかったりするかもしれません。自分を守るための基礎知識、法律の専門家に聞きました。",
+          "link": "https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu963",
+          "publishedOn": "2022-09-21T17:13:33.000Z",
+          "wordCount": 355,
+          "title": "「残業は何時間まで?」 「36協定ってなに?」「有給休暇っていつまでに言えばいい?」ワークライフバランスを守る基礎知識｜NHK就活応援ニュースゼミ",
+          "imageUrl": "https://www3.nhk.or.jp/news/special/news_seminar/assets/images/post/2022/07/20220920-sn-worklife2-01.jpg"
+        },
+        {
+          "id": "https://automaton-media.com/articles/newsjp/20220921-220037",
+          "author": null,
+          "description": "人気ゲームの開発スタジオや制作者が、自身のタイトルの“制作段階のグラフィック”を続々と公開している。きっかけとなったのは、とある論争だ。",
+          "link": "https://automaton-media.com/articles/newsjp/20220921-220037",
+          "publishedOn": "2022-09-21T17:06:00.000Z",
+          "wordCount": 5936,
+          "title": "人気ゲーム開発者たちが「開発初期のゲーム映像」を続々投稿しお祭り状態に。“グラフィックは最初に完成される”論への静かな抗議",
+          "imageUrl": "https://automaton-media.com/wp-content/uploads/2022/09/20220921-220037-header.jpg"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091401119",
+          "author": null,
+          "description": "「もう仲間だから正直に言いますね。社員は優秀ですごく頑張っているのに、楽しそうじゃないんですよ」――。パナソニック ホールディングス（HD）でグループCIO（最高情報責任者）を務める玉置肇執行役員は2022年春、大阪府守口市にある本社ビルの一室でこう語った。",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091401119",
+          "publishedOn": "2022-09-21T17:01:26.000Z",
+          "wordCount": 1010,
+          "title": "「社員は優秀だけど楽しそうじゃない」、パナソニックHDはアジャイル道場で覆せるか",
+          "imageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091401119/topm.jpg?20220512"
+        },
+        {
+          "id": "https://automaton-media.com/articles/newsjp/20220914-219051",
+          "author": null,
+          "description": "IndieCadeの公式Twitterアカウントは9月12日、「初めてゲームを制作する人への、もっとも大事なアドバイス」を、現役のゲーム開発者から募集。“ある意見”だけダントツで多い結果となったようだ。",
+          "link": "https://automaton-media.com/articles/newsjp/20220914-219051",
+          "publishedOn": "2022-09-21T17:00:02.000Z",
+          "wordCount": 5796,
+          "title": "ゲーム開発者らが「初めてゲームを制作する人への、もっとも大事なアドバイス」をSNS上に続々投稿。“ある意見”だけダントツで多い",
+          "imageUrl": "https://automaton-media.com/wp-content/uploads/2022/09/20220914-219051-header.jpg"
+        },
+        {
+          "id": "https://news.denfaminicogamer.jp/news/2209152c",
+          "author": null,
+          "description": "開発元のベセスダはオープンワールドRPG 『The Elder Scrolls V: Skyrim Anniversary Edition』のデジタルダウンロード版の発売を開始した。",
+          "link": "https://news.denfaminicogamer.jp/news/2209152c",
+          "publishedOn": "2022-09-21T16:57:28.000Z",
+          "wordCount": 1450,
+          "title": "オープンワールドRPG「The Elder Scrolls V: Skyrim Anniversary Edition」の⽇本語ダウンロード版発売開始。「Dawnguard」「Hearthfire」「Dragonborn」Creation Clubコンテンツが全て収録された集大成",
+          "imageUrl": "https://img-denfaminicogamer.com/wp-content/uploads/2022/09/img9345_01.jpg"
+        },
         {
           "id": "https://publickey1.jp/blog/22/java_19risc-v1java_21lts.html",
           "author": null,
@@ -2481,76 +2551,6 @@
           "wordCount": 639,
           "title": "スクラム導入で大事なのは、最初にリズムを作ること　LAPRAS社・遠藤氏が語る、ゼロからのチームで実践したこと",
           "imageUrl": "https://img.logmi.jp/article_images/21HhEQwpssyMcVbjMScMb8.png"
-        },
-        {
-          "id": "https://toyokeizai.net/articles/-/612959?page=4",
-          "author": null,
-          "description": "「頭のいい子は、どんな家庭環境で育った場合が多いのか？」というご質問を、僕はよく親御さんからいただくことが多いです。「頭のよさ」というのは、先天的・遺伝的な要因で作られることもあると思いますが、後天…",
-          "link": "https://toyokeizai.net/articles/-/612959?page=4",
-          "publishedOn": "2022-08-23T12:41:27.000Z",
-          "wordCount": 2149,
-          "title": "｢頭いい子が育つ家庭｣と｢ダメな家庭｣の決定的差 ｢なぜなのか｣を自力で考えさせて納得させる",
-          "imageUrl": "https://tk.ismcdn.jp/mwimgs/2/8/1200w/img_28d10e131f4990c779b76b70f402b0e1231873.jpg"
-        },
-        {
-          "id": "https://businessinsider.jp/post-257784",
-          "author": null,
-          "description": "アロンソ・モリスさん（仮名）は、初めてリモートで働いています。そして、このスタイルを辞めるつもりはないと話しています。",
-          "link": "https://businessinsider.jp/post-257784",
-          "publishedOn": "2022-08-23T12:38:12.000Z",
-          "wordCount": 393,
-          "title": "今より稼げるかもしれない、でもテレワークの柔軟性は捨てられない…あるミレニアル世代の男性の場合",
-          "imageUrl": "https://assets.media-platform.com/bi/dist/images/2022/08/10/62b31844c38f470019c6b609-w960.jpg"
-        },
-        {
-          "id": "https://toyokeizai.net/articles/-/611473?page=5",
-          "author": null,
-          "description": "僕たちの日常は、どうでもいいタスクをひたすら片づける日々だ。いつか邪魔な仕事をすべて終えたら、そのときこそ大事なことができるはずだ。そう思って頑張るけれど、本当にそこに近づけるのだろうかという不安も…",
-          "link": "https://toyokeizai.net/articles/-/611473?page=5",
-          "publishedOn": "2022-08-23T12:30:42.000Z",
-          "wordCount": 2133,
-          "title": "ライフハックで効率上げるとますます忙しくなる ｢すべてをこなそう｣という誘惑に打ち勝つ",
-          "imageUrl": "https://tk.ismcdn.jp/mwimgs/d/d/1200w/img_ddc14773a6b07e57e35756d39db5b999187040.jpg"
-        },
-        {
-          "id": "https://logmi.jp/business/articles/327195",
-          "author": null,
-          "description": "新型コロナウイルスによって国際観光がストップし、2019年には4.8兆円あった市場が消滅したことで、インバウンド業界は遭遇したことのない嵐の中にいます。今回のインバウンドサミットのテーマは「日本の底力」と題し、観光の枠に囚われない日本が持つ底力、可能性を多様なメンバーによって議論しました。本記事では「音楽で人が集まる街」のセッションの模様をお届けします。",
-          "link": "https://logmi.jp/business/articles/327195",
-          "publishedOn": "2022-08-23T12:21:10.000Z",
-          "wordCount": 659,
-          "title": "「街に音楽を戻す」ため、日比谷野音の“暗黙のルール”を覆した　亀田誠治氏が展望する、これからの日本の音楽シーン",
-          "imageUrl": "https://img.logmi.jp/article_images/GCRPz5JANicR8DrdSeaBcR.png"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/02ae90601dfa5cb8c5ee4bbebcb2d6b3ce6231db",
-          "author": null,
-          "description": "クレディセゾンは、「セゾンゲーミングカード」をリニューアルし、9月12日から「セゾンゲーミングカードDigital」の募集を開始する。ゲームユーザーをターゲットに専用アプリのUI/UXを改善するほか",
-          "link": "https://news.yahoo.co.jp/articles/02ae90601dfa5cb8c5ee4bbebcb2d6b3ce6231db",
-          "publishedOn": "2022-08-22T20:38:04.000Z",
-          "wordCount": 1041,
-          "title": "ゲームに最適化した「セゾンゲーミングカードDigital」（Impress Watch）",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20220822-00000221-impress-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ab35386de196424813be2219684cfef92ee8b27a",
-          "author": null,
-          "description": "TikTokやYouTubeのショート動画、Instagramのリールなど、縦型のコンテンツが身近な存在となったと感じている人は多いのではないだろうか。動画だけではなく、漫画やAV、ドラマなど縦型の",
-          "link": "https://news.yahoo.co.jp/articles/ab35386de196424813be2219684cfef92ee8b27a",
-          "publishedOn": "2022-08-22T20:36:36.000Z",
-          "wordCount": 990,
-          "title": "TikTok、YouTube、Instagram…なぜ「縦型動画」に夢中になってしまうのか（＠ＤＩＭＥ）",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20220822-00010002-dime-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "http://liveclose.blogspot.com/2014/10/my-leap-into-fame.html",
-          "author": null,
-          "description": "Inspired by failure and success on my climbing adventures, this blog has reflections that may prove insightful regardless of one's affinity for rocks.",
-          "link": "http://liveclose.blogspot.com/2014/10/my-leap-into-fame.html",
-          "publishedOn": "2022-08-22T13:02:48.000Z",
-          "wordCount": 4985,
-          "title": "My Leap into Fame",
-          "imageUrl": "http://4.bp.blogspot.com/-wu8dfb4dSaI/VEhLBClELQI/AAAAAAAAAuo/7rZVlYApfNU/w1200-h630-p-k-no-nu/IMG_2688.JPG"
         }
       ]
     }
