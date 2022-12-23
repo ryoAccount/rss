@@ -230,16 +230,6 @@
           "wordCount": 1075,
           "title": "Apple Messages & Color Contrast",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375343"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375599",
-          "author": "Geoff Graham",
-          "description": "Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:\nThe Make Core blog has a heavy \n…\nWordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-developer-blog/",
-          "publishedOn": "2022-11-22T18:36:12.000Z",
-          "wordCount": 988,
-          "title": "WordPress Developer Blog",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375599"
         }
       ]
     },
@@ -457,21 +447,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
-          "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
-          "publishedOn": "2022-11-22T16:00:00.000Z",
-          "wordCount": 5533,
-          "title": "Optimizing A Vue App",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg"
         }
       ]
     },
@@ -480,6 +455,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
+          "author": "Andrew Brown",
+          "description": "When to Use a Cache When you are building a web-application, you'll need to fetch data from a database. As your traffic and the size of your database grows, you will find that querying your database gets slower and slower. In order to return requests to users quickly, a cache",
+          "link": "https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/",
+          "publishedOn": "2022-12-22T20:45:05.000Z",
+          "wordCount": 1830,
+          "title": "How to Cache Expensive Database Queries Using the Momento Serverless Cache",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tiger-lily-4483610.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
+          "author": "Joel Olawanle",
+          "description": "When writing code or building a solution, you might need to compare two strings to see if they are the same before proceeding with an operation. For example, when a user signs in, you'll want to compare the username the provide to the one in your database to see if",
+          "link": "https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/",
+          "publishedOn": "2022-12-22T18:57:16.000Z",
+          "wordCount": 1396,
+          "title": "String Equality in JavaScript – How to Compare Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
+          "author": "Kolade Chris",
+          "description": "A Python dictionary is like a JavaScript object – it’s a sequence of key:value  pairs. So, you can create them like this: stack_dict = {     \"frontend\": \"JavaScript\",     \"backend\": \"Node JS\",     \"markup\": \"HTML and JSX\", } To access",
+          "link": "https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/",
+          "publishedOn": "2022-12-22T18:04:49.000Z",
+          "wordCount": 1315,
+          "title": "Adding to a Dict in Python – How to Add to a Dictionary",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/addToDict.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
+          "author": "Rwitesh Bera",
+          "description": "Have you ever wondered how JavaScript works behind the scenes? It's actually quite fascinating! And that's what you'll learn about here. JavaScript is a single-threaded interpreted language. Every browser has its own JavaScript engine. Google Chrome has the V8 engine, Mozilla Firefox has SpiderMonkey, and so on. They all are",
+          "link": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/",
+          "publishedOn": "2022-12-22T17:50:05.000Z",
+          "wordCount": 1733,
+          "title": "JavaScript Execution Context – How JS Works Behind the Scenes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Dark-Blue-Illustrated-Techno-Daily-Smore-Header--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
+          "author": "Suchandra Datta",
+          "description": "The enumerate() function is one of the built-in functions in Python. It provides a handy way to access each item in an iterable, along with a count value that specifies the order in which the item was accessed.  In this article you will learn all that you need to",
+          "link": "https://www.freecodecamp.org/news/what-is-enumerate-in-python/",
+          "publishedOn": "2022-12-22T15:56:07.000Z",
+          "wordCount": 2336,
+          "title": "What is enumerate() in Python? Enumeration Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-yan-krukov-8612931.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/",
           "author": "Edeh Israel Chidera",
@@ -1329,16 +1354,6 @@
           "wordCount": 3692,
           "title": "Clear Code – How to Write Code That Is Easy to Read",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cafe-gc5d844b68_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
-          "author": "Beau Carnes",
-          "description": "Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is",
-          "link": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
-          "publishedOn": "2022-11-22T14:41:04.000Z",
-          "wordCount": 899,
-          "title": "Create a Arcade-Style Shooting Game with Python and PyGame",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pythongame.png"
         }
       ]
     },
@@ -1347,6 +1362,126 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://github.blog/jp/2022-12-22-leaked-a-secret-check-your-github-alerts-for-free",
+          "author": null,
+          "description": "GitHub上のパブリックリポジトリで漏洩したシークレットを無料で追跡できるようになりました。Secret scanningアラートを使えば、GitHub内で流出したシークレットを追跡し、対処することができます。",
+          "link": "https://github.blog/jp/2022-12-22-leaked-a-secret-check-your-github-alerts-for-free",
+          "publishedOn": "2022-12-23T00:27:16.000Z",
+          "wordCount": 754,
+          "title": "シークレットの漏洩が疑われる場合は、無料のGitHubアラートをご確認ください",
+          "imageUrl": "https://github.blog/jp/wp-content/uploads/sites/2/2022/12/Security-Community.jpeg"
+        },
+        {
+          "id": "https://comemo.nikkei.com/n/nd7e01871cd12",
+          "author": null,
+          "description": "",
+          "link": "https://comemo.nikkei.com/n/nd7e01871cd12",
+          "publishedOn": "2022-12-23T00:26:32.000Z",
+          "wordCount": null,
+          "title": "不況期こそ起業のチャンスか。北欧から学ぶ「救うのは企業でなく人」｜村上 臣（電脳コラムニスト）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://meti.go.jp/press/2022/12/20221221002/20221221002.html",
+          "author": null,
+          "description": "",
+          "link": "https://meti.go.jp/press/2022/12/20221221002/20221221002.html",
+          "publishedOn": "2022-12-23T00:25:32.000Z",
+          "wordCount": null,
+          "title": "「デジタルスキル標準」をとりまとめました！ （METI/経済産業省）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://speakerdeck.com/mtx2s/technical-debt-and-developer-experience",
+          "author": null,
+          "description": "2022-12-21 技術的負債の返済から改善する開発者体験 - Techmee vol.5\nhttps://timeedev.connpass.com/event/268296/",
+          "link": "https://speakerdeck.com/mtx2s/technical-debt-and-developer-experience",
+          "publishedOn": "2022-12-23T00:23:19.000Z",
+          "wordCount": 2084,
+          "title": "技術的負債は開発者体験を悪化させる / Technical Debt and Developer Experience",
+          "imageUrl": "https://files.speakerdeck.com/presentations/aae556ee5785424b9911ce40492b2833/slide_0.jpg?23855174"
+        },
+        {
+          "id": "https://type.jp/et/feature/21457",
+          "author": null,
+          "description": "キャディ・ばんくしさん、Sansan・藤倉成太さん、ZOZO・瀬尾直利さんの三名がエンジニアからの相談に回答！今回のテーマは「何でも屋ってキャリア、どう？」です。",
+          "link": "https://type.jp/et/feature/21457",
+          "publishedOn": "2022-12-23T00:19:27.000Z",
+          "wordCount": 376,
+          "title": "「何でも屋」は「何もできない屋」？ エンジニアの専門性の深め方 【キャディばんくし・Sansan藤倉成太・ZOZO瀬尾直利／聴くエンジニアtype Vol.6】",
+          "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2022/12/listen06.jpg"
+        },
+        {
+          "id": "https://levtech.jp/media/article/column/detail_179",
+          "author": null,
+          "description": "デジタル庁に入庁し、ほぼゼロの状態からプロダクトマネジメントの仕組みをつくりあげたことは、自身のこれまでの動きを振り返る「回帰」の機会だと語る、デジタル庁CPOの水島壮太氏。「右も左も分からない状況だった」と語る水島氏のまわりでは、この1年でどのような変化が起こったのか。",
+          "link": "https://levtech.jp/media/article/column/detail_179",
+          "publishedOn": "2022-12-23T00:15:11.000Z",
+          "wordCount": 229,
+          "title": "デジタル庁設立から1年の活動報告。CPO水島氏に聞く、デジタル庁のプロダクトマネジメントの在り方",
+          "imageUrl": "https://levtech.jp/media/wp-content/uploads/2022/12/221215_LAB_banner_pmconf___1___720-450.png"
+        },
+        {
+          "id": "https://2022.stateofcss.com/ja-JP",
+          "author": null,
+          "description": "The 2022 edition of the annual survey about the latest trends in the CSS ecosystem.",
+          "link": "https://2022.stateofcss.com/ja-JP",
+          "publishedOn": "2022-12-22T22:11:54.000Z",
+          "wordCount": 2321,
+          "title": "The State of CSS 2022",
+          "imageUrl": "https://devographics.github.io/surveys/state_of_css/2022/images/css2022-og.png"
+        },
+        {
+          "id": "https://boomy.com",
+          "author": null,
+          "description": "",
+          "link": "https://boomy.com/",
+          "publishedOn": "2022-12-22T11:57:22.000Z",
+          "wordCount": 22,
+          "title": "Boomy - Make Instant Music with Artificial Intelligence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://midjourney.com/home",
+          "author": null,
+          "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+          "link": "https://midjourney.com/home",
+          "publishedOn": "2022-12-22T11:57:09.000Z",
+          "wordCount": 293,
+          "title": "Midjourney",
+          "imageUrl": null
+        },
+        {
+          "id": "https://stability.ai",
+          "author": null,
+          "description": "AI for Humanity. Stability AI is a solution studio dedicated to innovating ideas. By using collective intelligence principles and augmented technology we design and implement feasible solutions to seemingly intractable problems.",
+          "link": "https://stability.ai/",
+          "publishedOn": "2022-12-22T11:57:01.000Z",
+          "wordCount": 3313,
+          "title": "Stability AI Blog Page",
+          "imageUrl": "http://static1.squarespace.com/static/6213c340453c3f502425776e/t/637b6405dbe560301bf55a4b/1669030917648/Artboard+9.png?format=1500w"
+        },
+        {
+          "id": "https://openai.com/dall-e-2",
+          "author": null,
+          "description": "DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.",
+          "link": "https://openai.com/dall-e-2",
+          "publishedOn": "2022-12-22T11:55:18.000Z",
+          "wordCount": 1498,
+          "title": "DALL·E 2",
+          "imageUrl": "https://openai.com/content/images/2022/04/dall-e-2-og.jpg"
+        },
+        {
+          "id": "https://photoshopvip.net/142460",
+          "author": null,
+          "description": "実際、ここ数年のあいだに、AIテクノロジーは目覚ましい進歩を続け、2022年は大流行した年にもなりました。今回は、クリエイターが活用したい、AI搭載の便利なウェブツールをまとめてご紹介します",
+          "link": "https://photoshopvip.net/142460",
+          "publishedOn": "2022-12-22T11:54:47.000Z",
+          "wordCount": 4968,
+          "title": "クリエイター注目！人工知能（AI）活用のすごい＆無料ウェブサービス22選",
+          "imageUrl": "https://photoshopvip.net/wp-content/uploads/2022/12/dreamstudio.webp"
+        },
         {
           "id": "https://nazology.net/archives/118839",
           "author": null,
