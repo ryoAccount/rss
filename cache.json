@@ -100,26 +100,6 @@
           "wordCount": 1269,
           "title": "So, you’d like to animate the display property",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375714"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376201",
-          "author": "Geoff Graham",
-          "description": "Every so often, I find that the links I save to read later fall into natural groups or patterns that reveal common threads of interest. The past couple of weeks have produced a lot of thoughts about ChatGPT, an …\nSome Links on AI-Related Stuff originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-links-on-ai-related-stuff/",
-          "publishedOn": "2022-12-14T21:34:06.000Z",
-          "wordCount": 1292,
-          "title": "Some Links on AI-Related Stuff",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376201"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375952",
-          "author": "Geoff Graham",
-          "description": "Suzy Naschansky from the HTMHell Advent Calendar:\n<h2 id=\"article1-heading\"All About Dragons</h2<pI like dragons. Blah blah blah blah blah.</p<p<a id=\"article1-read-more\" aria-labelledby=\"article1-read-more article1-heading\"Read more</a</p\nSee that aria-labelledby attribute? It chains two IDs from the …\nUnchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/",
-          "publishedOn": "2022-12-14T14:08:20.000Z",
-          "wordCount": 1173,
-          "title": "Unchain My Inaccessibly-Labelled Heart",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375952"
         }
       ]
     },
@@ -360,6 +340,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/",
+          "author": "Sampurna Chapagain",
+          "description": "Nowadays, most web applications have a search feature. Users can use the search feature in order to navigate websites more easily. Implementing a search feature in Ruby on Rails is very easy. By using only a few lines of code you can set it up. This tutorial assumes that you",
+          "link": "https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/",
+          "publishedOn": "2023-01-13T18:22:33.000Z",
+          "wordCount": 1443,
+          "title": "How to Add Search Functionality to a Ruby on Rails Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/markus-winkler-afW1hht0NSs-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A Pandas Dataframe is a 2-dimensional data structure that displays data in tables with rows and columns.  In this article, you'll learn how to rename columns in a Pandas Dataframe by using:   * The rename() function.  * A List.  * The set_axis() function. How to",
+          "link": "https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/",
+          "publishedOn": "2023-01-13T18:18:13.000Z",
+          "wordCount": 1301,
+          "title": "How to Rename a Column in Pandas – Python Pandas Dataframe Renaming Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/how-to-rename-column-in-pandas.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/",
+          "author": "Kolade Chris",
+          "description": "In SQL, the COALESCE() function returns the first non-null value in an entry. It evaluates the values of the entries one by one, ignores the null values, then returns the first value that is not null. It works in PostgreSQL, SQL server, and MySQL. In this article, I will show",
+          "link": "https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/",
+          "publishedOn": "2023-01-13T18:14:20.000Z",
+          "wordCount": 1199,
+          "title": "Coalesce SQL – Example PostgreSQL and SQL Server Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/coalesce.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/",
+          "author": "Edeh Israel Chidera",
+          "description": "Coding conventions ensure that your code is consistent, readable, understandable, and maintainable.  When it comes to writing clean and quality code, there are conventions developers should follow to make this possible.  There are a few things you should keep in mind while writing your code. In this article,",
+          "link": "https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/",
+          "publishedOn": "2023-01-13T16:31:30.000Z",
+          "wordCount": 1800,
+          "title": "C# Coding Best Practices – Coding Conventions with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/",
+          "author": "Arunachalam B",
+          "description": "When it comes to large organizations, Users and Groups in Linux play an important role in helping keep systems secure and properly functioning.  There can be different levels of users in an organization with different roles and permissions. And you'll need a good understanding Linux permissions to manage and/or",
+          "link": "https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/",
+          "publishedOn": "2023-01-13T16:25:20.000Z",
+          "wordCount": 2544,
+          "title": "File Permissions in Linux – How to Use the chown and chgrp Commands",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Manage-Users-and-Groups-in-Linux.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/",
           "author": "Joel Olawanle",
@@ -1269,56 +1299,6 @@
           "wordCount": 1461,
           "title": "What is the Difference Between an Independent Variable and a Dependent Variable?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/snowy-4689675_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
-          "author": "Joel Olawanle",
-          "description": "The .from() method is a static method of the Array object in JavaScript ES6. It creates a new, shallow-copied Array instance from an array-like or iterable object like map and set. This method returns an array from any object with a length property. You can use it to create an",
-          "link": "https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/",
-          "publishedOn": "2022-12-14T21:15:06.000Z",
-          "wordCount": 1466,
-          "title": "JavaScript Range – How to Create an Array of Numbers with .from() in JS ES6",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
-          "author": "Beau Carnes",
-          "description": "Building projects is a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a digital card game with JavaScirpt, HTML, and CSS. This tutorial not only covers creating a basic card game using JavaScript but",
-          "link": "https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/",
-          "publishedOn": "2022-12-14T18:56:08.000Z",
-          "wordCount": 759,
-          "title": "Improve Your JavaScript Skills by Coding a Card Game",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/jsgavin.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Next.js is a popular framework for building server-rendered JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn how to use Next.js. Next.js is built on top of React, which is a popular JavaScript library for building user interfaces. Next.js makes it",
-          "link": "https://www.freecodecamp.org/news/learn-next-js-tutorial/",
-          "publishedOn": "2022-12-14T18:35:12.000Z",
-          "wordCount": 811,
-          "title": "Learn Next.js for Scalable Web Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Next.js-Course.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/",
-          "author": "Dionysia Lemonaki",
-          "description": "When coding in Python, there may be times when you need to open and read the contents of a text file. Luckily enough, there are several ways to do this in Python. The language has many built-in functions, methods, and keywords that you can use to create, write, read and",
-          "link": "https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/",
-          "publishedOn": "2022-12-14T17:58:48.000Z",
-          "wordCount": 1795,
-          "title": "How to Read a File Line by Line in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-mateusz-dach-450035.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-solidity-handbook/",
-          "author": "Zubin Pratap",
-          "description": "When I changed careers from lawyer to software engineer [/news/from-lawyer-to-google-engineer/] in 2018, I never imagined that I’d enjoy being a developer as much as I do. I also never thought I'd end up working for amazing organizations like Google [/news/coding-interview-prep-for-big-tech/]  and Chainlink labs.  After 15 years in law",
-          "link": "https://www.freecodecamp.org/news/learn-solidity-handbook/",
-          "publishedOn": "2022-12-14T15:45:30.000Z",
-          "wordCount": 19072,
-          "title": "Learn Solidity – A Handbook for Smart Contract Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-pixabay-417173--2-.jpg"
         }
       ]
     },
@@ -1327,6 +1307,16 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://qiita.com/degudegu2510/items/a8085951e3322eec9ce8",
+          "author": null,
+          "description": "はじめに\nとしが明け、2023年になり、2022年を振り帰ったり、今年の目標を立てている頃でしょうか？\nみなさんは2022年どんな1年でしたか？\nこの記事では、2022年に話題になったWebサイトをまとめて、\nみなさんの振り返りや今...",
+          "link": "https://qiita.com/degudegu2510/items/a8085951e3322eec9ce8",
+          "publishedOn": "2023-01-13T14:18:18.000Z",
+          "wordCount": 686,
+          "title": "【まとめ】2022年に話題になったWebサイト",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwJUUzJTgxJUJFJUUzJTgxJUE4JUUzJTgyJTgxJUUzJTgwJTkxMjAyMiVFNSVCOSVCNCVFMyU4MSVBQiVFOCVBOSVCMSVFOSVBMSU4QyVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RldlYiVFMyU4MiVCNSVFMyU4MiVBNCVFMyU4MyU4OCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MjAwZDNkYTgwYjRjNGM4MjhjMzIxNDkwNDhlZjIxMzY&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwZGVndWRlZ3UyNTEwJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0zMjIxMmUyYWZhYmI1ZTY3ZjJlZTNiMTA3NWJlMzJlZA&blend-x=142&blend-y=491&blend-mode=normal&s=f5df36c779c33d898fa615089015d018"
+        },
         {
           "id": "https://gigazine.net/news/20230113-replace-programmers-lethal-software-companies",
           "author": null,
@@ -1856,76 +1846,6 @@
           "wordCount": 1316,
           "title": "GraphQL Client Architecture Recommendation 社外版",
           "imageUrl": "/img/ogp/ogp_a.jpg"
-        },
-        {
-          "id": "https://type.jp/et/feature/21398",
-          "author": null,
-          "description": "キャディ・ばんくしさん、Sansan・藤倉成太さん、ZOZO・瀬尾直利さんの三名がエンジニアからの相談に回答！今回のテーマは「マネジャーになるってどう？」です。",
-          "link": "https://type.jp/et/feature/21398",
-          "publishedOn": "2022-12-15T12:29:56.000Z",
-          "wordCount": 370,
-          "title": "「コードを書かなくなる不安からマネジャー職に抵抗が…」Sansan藤倉成太・ZOZO瀬尾直利のアドバイスは？【聴くエンジニアtype Vol.5／MC・キャディばんくし】",
-          "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2022/12/listen05.jpg"
-        },
-        {
-          "id": "https://engineer-lab.findy-code.io/career-spiral",
-          "author": null,
-          "description": "プレイヤーとマネージャーを交互に経験するキャリアを歩んできた曽根壮大（soudai）さんに寄稿いただきました。キャリアは一見「振り子」のように見えて、同じ場所には戻っておらず、実は「螺旋」のようにつながっているといいます。",
-          "link": "https://engineer-lab.findy-code.io/career-spiral",
-          "publishedOn": "2022-12-14T13:22:14.000Z",
-          "wordCount": 486,
-          "title": "もっと成長したいソフトウェアエンジニアへ、出会いと経験で自分を変える「キャリアの螺旋」の歩み方",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/b/blog-media/20221205/20221205225333.jpg"
-        },
-        {
-          "id": "https://meitu.com/en",
-          "author": null,
-          "description": "",
-          "link": "https://meitu.com/en",
-          "publishedOn": "2022-12-14T13:16:05.000Z",
-          "wordCount": 1044,
-          "title": "Meitu Inc.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://itmedia.co.jp/news/articles/2212/06/news129.html",
-          "author": null,
-          "description": "�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB",
-          "link": "https://itmedia.co.jp/news/articles/2212/06/news129.html",
-          "publishedOn": "2022-12-14T13:12:34.000Z",
-          "wordCount": 1522,
-          "title": "AIスゴっ！　下手な漫画が秒で“プロ並み”に　「ネームだけで原稿完成」の時代に？",
-          "imageUrl": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_top.gif"
-        },
-        {
-          "id": "https://openai.com/blog/chatgpt",
-          "author": null,
-          "description": "We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in",
-          "link": "https://openai.com/blog/chatgpt",
-          "publishedOn": "2022-12-14T13:03:26.000Z",
-          "wordCount": 3510,
-          "title": "ChatGPT: Optimizing Language Models for Dialogue",
-          "imageUrl": "https://openai.com/content/images/2022/11/ChatGPT.jpg"
-        },
-        {
-          "id": "https://ituki-yu2.net/entry/ChatGPT",
-          "author": null,
-          "description": "",
-          "link": "https://ituki-yu2.net/entry/ChatGPT",
-          "publishedOn": "2022-12-14T13:02:44.000Z",
-          "wordCount": null,
-          "title": "「ChatGPT」というwebサービスがすごかった。 - 超メモ帳（Web式）＠復活",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/alrra/browser-logos",
-          "author": null,
-          "description": "🗂 High resolution web browser logos. Contribute to alrra/browser-logos development by creating an account on GitHub.",
-          "link": "https://github.com/alrra/browser-logos",
-          "publishedOn": "2022-12-14T12:59:06.000Z",
-          "wordCount": 865,
-          "title": "Browser Logos",
-          "imageUrl": "https://repository-images.githubusercontent.com/6583352/f54c1c00-8a98-11eb-85ff-5bb28b12dec1"
         }
       ]
     }
