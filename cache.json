@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376659",
+          "author": "Geoff Graham",
+          "description": "Geez, leave it to Patrick Brosset to talk CSS performance in the most approachable and practical way possible. Not that CSS is always what’s gunking up the speed, or even the lowest hanging fruit when it comes to improving …\nThe truth about CSS selector performance originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-truth-about-css-selector-performance/",
+          "publishedOn": "2023-02-07T15:59:35.000Z",
+          "wordCount": 874,
+          "title": "The truth about CSS selector performance",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376659"
+        },
+        {
           "id": "https://css-tricks.com/?p=376548",
           "author": "Geoff Graham",
           "description": "I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.\n<pI used to have this \n…\nThe Double Emphasis Thing originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.",
+          "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
+          "publishedOn": "2023-02-07T09:30:00.000Z",
+          "wordCount": 11156,
+          "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
           "author": "hello@smashingmagazine.com (Jennifer Brehm)",
@@ -492,21 +517,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
-          "author": "hello@smashingmagazine.com (Eric Burel)",
-          "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
-          "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
-          "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 8927,
-          "title": "Understanding Authentication In Websites: A Banking Analogy",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg"
         }
       ]
     },
@@ -515,6 +525,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "There are several ways to lookup data in a spreadsheet. If you're building a dashboard, you'll find this very useful.  The =XLOOKUP() function is my new favorite way to lookup data. It's discussed in the last section 👇. We'll look at four of the built in lookup functions in",
+          "link": "https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/",
+          "publishedOn": "2023-02-07T20:47:26.000Z",
+          "wordCount": 1997,
+          "title": "LOOKUP Functions in Google Sheets and Excel – VLOOKUP, XLOOKUP, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lookupFCC.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/modern-compute-platforms/",
+          "author": "David Clinton",
+          "description": "The way things sit now, if you were somehow allergic to computers, you'd be hard pressed to really banish them from your life, no matter where you found yourself.  Taking a quiet walk in the woods? What about the smartphone in your pocket. Left the phone in the car?",
+          "link": "https://www.freecodecamp.org/news/modern-compute-platforms/",
+          "publishedOn": "2023-02-07T20:22:32.000Z",
+          "wordCount": 3938,
+          "title": "How Modern Compute Platforms Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-panumas-nikhomkhai-1148820--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-for-loop-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use loops in programming to carry out a set of instructions repeatedly until a certain condition is met. There are three types of loops in Java:   * for loop.  * while loop.   * do...while loop. In this article, we'll focus on the for",
+          "link": "https://www.freecodecamp.org/news/java-for-loop-example/",
+          "publishedOn": "2023-02-07T17:41:44.000Z",
+          "wordCount": 1230,
+          "title": "Java For Loop Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/java-for-loop.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/apis-for-beginners/",
           "author": "Beau Carnes",
@@ -1753,6 +1793,36 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
         {
+          "id": "https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search",
+          "author": null,
+          "description": "A look at what went into building the world's largest public code search index.",
+          "link": "https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search",
+          "publishedOn": "2023-02-07T14:57:18.000Z",
+          "wordCount": 3930,
+          "title": "The technology behind GitHub’s new code search",
+          "imageUrl": "https://github.blog/wp-content/uploads/2023/02/code-search-header.png"
+        },
+        {
+          "id": "https://togetter.com/li/2071894",
+          "author": null,
+          "description": "よく見るグルグルのやつより分かりやすいかも",
+          "link": "https://togetter.com/li/2071894",
+          "publishedOn": "2023-02-07T14:54:04.000Z",
+          "wordCount": 840,
+          "title": "東京ガスのログイン時のローディングがとんでもない見せ方をしていた→仕様でもミスでもなくChromeの拡張機能が悪さをしていた",
+          "imageUrl": "https://s.togetter.com/ogp2/1c500f470fd9cf993fb213df88abe6c2-1200x630.png"
+        },
+        {
+          "id": "https://publickey1.jp/blog/23/webssrdenoisomorphic_javascriptuniversal_javascript.html",
+          "author": null,
+          "description": "静的なHTMLファイルをWebサーバが配信する仕組みから始まったWebは、サーバ側で動的にHTMLを生成するCGIの仕組みや、Webブラウザ上でJavaScriptを実行してインタラクティブな操作を実現するなどの仕組みを得たことでWebアプ...",
+          "link": "https://publickey1.jp/blog/23/webssrdenoisomorphic_javascriptuniversal_javascript.html",
+          "publishedOn": "2023-02-07T14:49:52.000Z",
+          "wordCount": 1440,
+          "title": "Webの将来はサーバサイドレンダリング（SSR）に回帰していく。Denoが主張するIsomorphic JavaScript（もしくはUniversal JavaScript）とは何か？",
+          "imageUrl": "https://www.publickey1.jp/2023/1uUM3zku.jpg"
+        },
+        {
           "id": "https://blog.google/technology/ai/bard-google-ai-search-updates",
           "author": null,
           "description": "Introducing Bard, Google's experimental conversational AI service powered by LaMDA — plus, new AI features in Search coming soon.",
@@ -2591,16 +2661,6 @@
           "wordCount": 1815,
           "title": "文化祭で滞在状況記録システムを運用しました",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--UYvahnVP--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:newt%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E6%2596%2587%25E5%258C%2596%25E7%25A5%25AD%25E3%2581%25A7%25E6%25BB%259E%25E5%259C%25A8%25E7%258A%25B6%25E6%25B3%2581%25E8%25A8%2598%25E9%258C%25B2%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E9%2581%258B%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS0tTTlyS1F0Mi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NkMzBkZDdjMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
-        },
-        {
-          "id": "https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1",
-          "author": null,
-          "description": "Learning Typescript is often a rediscovery journey. Your initial impression can be pretty deceptive:...",
-          "link": "https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1",
-          "publishedOn": "2023-01-09T01:15:12.000Z",
-          "wordCount": 5233,
-          "title": "11 Tips That Make You a Better Typescript Programmer",
-          "imageUrl": "https://res.cloudinary.com/practicaldev/image/fetch/s--xzdfciJE--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l1x8yg5jxz0ond3yh2fb.png"
         }
       ]
     }
