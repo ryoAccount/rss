@@ -169,6 +169,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
+          "author": "hello@smashingmagazine.com (Chiara Aliotta)",
+          "description": "How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the [Smart Interface Design Patterns landing page](https://smart-interface-design-patterns.com/).",
+          "link": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
+          "publishedOn": "2023-02-15T10:00:00.000Z",
+          "wordCount": 7019,
+          "title": "Five Steps To Sell Your Product With Powerful Storytelling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sell-product-powerful-storytelling/meta-sell-product-powerful-storytelling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sell-product-powerful-storytelling/meta-sell-product-powerful-storytelling.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/",
           "author": "hello@smashingmagazine.com (Kirill Myshkin)",
           "description": "In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.",
@@ -512,21 +527,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
-          "author": "hello@smashingmagazine.com (Eloïse Martin)",
-          "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
-          "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
-          "publishedOn": "2023-01-16T18:00:00.000Z",
-          "wordCount": 5227,
-          "title": "Optimizing The Image Element LCP",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg"
         }
       ]
     },
@@ -535,6 +535,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/",
+          "author": "TAPAS ADHIKARY",
+          "description": "JavaScript is a widely used programming language that has ruled the software development technology stack for over a decade.  You can find JavaScript in web applications, mobile applications, or apps for your desktop. According to a survey done by Statista in 2022, JavaScript developer communities worldwide have about 17.4",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/",
+          "publishedOn": "2023-02-15T17:21:13.000Z",
+          "wordCount": 2819,
+          "title": "How to Learn JavaScript Effectively – Tips and Learning Strategies",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/freeCodeCamp-Cover-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use functions in programming to store a piece of code that can be invoked when needed. This prevents you from retyping the same logic every time you need that code. In this article, you'll learn how to create and use anonymous functions in Python. They are also called",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/",
+          "publishedOn": "2023-02-15T17:17:35.000Z",
+          "wordCount": 1547,
+          "title": "Python Anonymous Function – How to Use Lambda Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lambda-functions-in-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/",
+          "author": "Tejan Singh",
+          "description": "As a JavaScript developer, you've likely encountered different types of errors while coding. Most of the time these will be type errors or reference errors. But have you ever wondered what they mean? Have you ever tried reading about the error type specified by the interpreter before solving these errors?",
+          "link": "https://www.freecodecamp.org/news/type-error-vs-reference-error-javascript/",
+          "publishedOn": "2023-02-15T17:12:30.000Z",
+          "wordCount": 1660,
+          "title": "Type Error vs Reference Error in JavaScript – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-kim-stiver-909256.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tensorflow-basics/",
+          "author": "Manish Shivanandhan",
+          "description": "TensorFlow is a library that helps engineers build and train deep learning models. It provides all the tools we need to create neural networks. We can use TensorFlow to train simple to complex neural networks using large sets of data. TensorFlow is used in a variety of applications, from image",
+          "link": "https://www.freecodecamp.org/news/tensorflow-basics/",
+          "publishedOn": "2023-02-14T23:46:51.000Z",
+          "wordCount": 2955,
+          "title": "How to Use TensorFlow for Deep Learning – Basics for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/tensorflow.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/",
+          "author": "Kolade Chris",
+          "description": "In Computer Science, Prim’s algorithm helps you find the minimum spanning tree of a graph. It is a greedy algorithm – meaning it selects the option available at the moment. In this article, I’ll show you the pseudocode representation of Prim’s algorithm. But before that, let’s take a deeper look",
+          "link": "https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/",
+          "publishedOn": "2023-02-14T22:12:43.000Z",
+          "wordCount": 2009,
+          "title": "Prim's Algorithm – Explained with a Pseudocode Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/prim-cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/vim-language-and-motions-explained/",
           "author": "Simon Späti",
@@ -1694,66 +1744,6 @@
           "wordCount": 3255,
           "title": "JavaScript 2D Array – Two Dimensional Arrays in JS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--9-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! Hooks are one of the main features of modern React code and one of the first concepts you should get comfortable with when learning about this library.  In this article I'm going to explain some of the most useful hooks React provides us with, how they work,",
-          "link": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
-          "publishedOn": "2023-01-17T01:04:42.000Z",
-          "wordCount": 5133,
-          "title": "How to Use React Hooks – Full Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/steve-johnson-6sB8gMRlEAU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
-          "author": "Jennifer Bland",
-          "description": "If you have been a programmer for a while, then you have likely used a  console.log to display data.  You may want to see the value of data while your program is running, or you may be trying to troubleshoot a problem.  Sometimes the data displayed in",
-          "link": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
-          "publishedOn": "2023-01-16T21:46:19.000Z",
-          "wordCount": 1055,
-          "title": "How to Format Output You Send to the Console",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Formatting-Output-To-The-Console.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
-          "author": "Tomer Ben Rachel",
-          "description": "Let's say that you are using a version control system and your project uses services that require API keys. Everything is all good when they're on your local machine, but you don’t want to share these API keys with the world. So how can you still preserve your API keys",
-          "link": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
-          "publishedOn": "2023-01-16T21:03:19.000Z",
-          "wordCount": 1083,
-          "title": "How to Hide Your API Keys in an Android Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/oleg-didenko-lMNo9SwBN_o-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
-          "author": "David Clinton",
-          "description": "You may not always be aware of it, but you're enjoying the many fruits of the cloud just about every hour of every day. Many of the joys (and horrors) of modern life would be impossible without it.  Before we talk about what it does and where it's taking",
-          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
-          "publishedOn": "2023-01-16T19:03:48.000Z",
-          "wordCount": 3764,
-          "title": "What is Cloud Computing? Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-210158--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
-          "author": "Andrew Brown",
-          "description": "The old authentication systems from monolithic applications don't work well in modern applications. When you build a web-application, you need a way to handle user authentication (the ability for a user to log in to your web-application). Traditionally, web-applications were built as monoliths and authentication systems were installed via a",
-          "link": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
-          "publishedOn": "2023-01-16T18:32:55.000Z",
-          "wordCount": 2451,
-          "title": "How to Run Your Own Decentralized Authentication Service Using AuthN",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-39624--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
-          "author": "Jennifer Bland",
-          "description": "In this article, I will show you how to create a toggle to display items in a grid from a list. This will be using basic JavaScript skills with no external code or libraries. We will be using CSS Grid. What We Will Be Creating How to Create Our Starter",
-          "link": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
-          "publishedOn": "2023-01-16T17:13:21.000Z",
-          "wordCount": 1488,
-          "title": "How to Build a Grid to List Toggle using CSS Grid and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Grid-To-List-Toggle-Using-CSS-Grid.png"
         }
       ]
     },
@@ -1762,6 +1752,16 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/entries/63e258533eeaf27f79e38112",
+          "author": null,
+          "description": "MIXI GROUPは多様な事業領域でサービスを展開しています。各プロダクトで使われている技術について技術を全３回に分けて、すべてご紹介します！",
+          "link": "https://techfeed.io/entries/63e258533eeaf27f79e38112",
+          "publishedOn": "2023-02-15T11:48:36.000Z",
+          "wordCount": 7423,
+          "title": "【最新版】MIXIのサービスと技術スタック、開発環境についてまとめてみた（前編） DRANK",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/dpngfeqhcumnv1fp46qc.jpg"
+        },
         {
           "id": "https://note.com/adlersalon/n/n37cb83bde4de",
           "author": null,
@@ -2561,36 +2561,6 @@
           "wordCount": 846,
           "title": "yarnからpnpmに移行した時の話",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--F2u_Cocr--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25BF%25E3%2581%25BB%25E3%2582%258A%25E3%2582%2593%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:yarn%25E3%2581%258B%25E3%2582%2589pnpm%25E3%2581%25AB%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%25E6%2599%2582%25E3%2581%25AE%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FGZFp1Y3JqYW56TVA3SW91aE13ckhJUWxMN3Itb2lHbWxpQTV6MjU4Y0JIPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
-        },
-        {
-          "id": "https://midjourney.com/home?callbackUrl=%2Fapp%2F",
-          "author": null,
-          "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
-          "link": "https://midjourney.com/home?callbackUrl=%2Fapp%2F",
-          "publishedOn": "2023-01-16T16:52:08.000Z",
-          "wordCount": 293,
-          "title": "Midjourney",
-          "imageUrl": null
-        },
-        {
-          "id": "https://biz-journal.jp/2023/01/post_331344.html",
-          "author": null,
-          "description": "AI（人工知能）の台頭によって仕事が奪われる――このようなSF的ディストピア世界の到来を予見する人は多い。たとえば、2022年ごろから流行した「Stable Diffusion」「Midjourney」などのAI画像生成サービスは、そのイラスト生成の精度の高さ、手軽さからイラストレーターの仕事を奪うのではないかといわれていた。人類の歴史上、写真、映像、コンピュータなどの登場によってなくなった仕事も多いが、今存在する仕事もAIの発展によっていずれなくなる可能性はある。",
-          "link": "https://biz-journal.jp/2023/01/post_331344.html",
-          "publishedOn": "2023-01-16T13:36:01.000Z",
-          "wordCount": 223,
-          "title": "プログラミングをするプログラマー、需要が激減か…すでにノーコードが当たり前に",
-          "imageUrl": "https://biz-journal.jp/wp-content/uploads/2023/01/post_331344_20230113samune.jpg"
-        },
-        {
-          "id": "https://gyao.yahoo.co.jp/thankyou",
-          "author": null,
-          "description": "誠に勝手ながら、「GYAO!」「GYAO!ストア」「トレンドニュース」は、2023年3月31日（金）午後5時（※）をもちまして､すべてのサービスを終了いたします。サービス開始より多くのお客様にご支持いただきましたことに、運営チーム一同、深く御礼申し上げます。",
-          "link": "https://gyao.yahoo.co.jp/thankyou",
-          "publishedOn": "2023-01-16T13:34:17.000Z",
-          "wordCount": 59,
-          "title": "GYAO! サービス終了のお知らせ",
-          "imageUrl": "https://assets-gyao-ssk.c.yimg.jp/images/meta/default-page-thumbnail.png"
         }
       ]
     }
