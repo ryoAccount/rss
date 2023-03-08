@@ -99,6 +99,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
+          "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
+          "publishedOn": "2023-03-07T15:30:00.000Z",
+          "wordCount": 4514,
+          "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/",
+          "author": "hello@smashingmagazine.com (Adam Cowley)",
+          "description": "In this article, Adam Cowley examines the Graph behind GraphQL and demonstrates why Neo4j could be the best fit for your next project.",
+          "link": "https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/",
+          "publishedOn": "2023-03-07T12:00:00.000Z",
+          "wordCount": 4883,
+          "title": "Why You Should Consider Graphs For Your Next GraphQL Project",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/consider-graphs-graphql-project/consider-graphs-graphql-project.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/consider-graphs-graphql-project/consider-graphs-graphql-project.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
@@ -390,6 +420,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/",
+          "author": "Dillion Megida",
+          "description": "Have you ever encountered a \"circular reference\" error when working with JSON? In this tutorial, I'll explain what this error means as well as how to fix it. This error, in my experience, occurs when you try to convert an object with circular references to JSON. You may have experienced",
+          "link": "https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/",
+          "publishedOn": "2023-03-07T21:52:14.000Z",
+          "wordCount": 1811,
+          "title": "Circular Reference Error in JavaScript – Meaning and How to Fix It",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/22.-circular-reference-error.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-loops-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Loops are an essential concept in programming. They allow you to execute a block of code repeatedly based on certain conditions.  Python offers two types of loops: for and while loops. In this article, we will explore both of these loop types and provide examples of how to use",
+          "link": "https://www.freecodecamp.org/news/how-to-use-loops-in-python/",
+          "publishedOn": "2023-03-07T21:36:52.000Z",
+          "wordCount": 1452,
+          "title": "How to Use Loops in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Loops.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deep-learning-with-julia/",
+          "author": "Andrey Germanov",
+          "description": "Julia [https://julialang.org/] is a general purpose programming language well suited for numerical analysis and computational science. Some consider it the future of machine learning and the most natural replacement for Python in this field. In the previous post \"Machine learning with Julia – How to Build and Deploy a Trained",
+          "link": "https://www.freecodecamp.org/news/deep-learning-with-julia/",
+          "publishedOn": "2023-03-07T21:34:07.000Z",
+          "wordCount": 8443,
+          "title": "Deep Learning with Julia – How to Build and Train a Model using a Neural Network",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/",
+          "author": "David Clinton",
+          "description": "Getting a new technology out to consumers will usually require good people and boat loads of resources – including money. Generally, lots of money.  A lot of that money will be spent on research. And, more often than not, the hard research needed to translate a great idea into",
+          "link": "https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/",
+          "publishedOn": "2023-03-07T17:07:38.000Z",
+          "wordCount": 3027,
+          "title": "The Business of Technology Research – Who Funds It, And What's Being Done",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-2156.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/variable-data-types-explained/",
+          "author": "Deborah Kurata",
+          "description": "Walking into a hardware store, it's not enough to say: \"I need a tool\". You need to be specific about the type of tool you need.  Each tool type has its particular purpose: A hammer to drive a nail into wood, a paint brush to paint, and a wrench",
+          "link": "https://www.freecodecamp.org/news/variable-data-types-explained/",
+          "publishedOn": "2023-03-07T16:54:47.000Z",
+          "wordCount": 2180,
+          "title": "Variable Data Types Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/data-types-thumbnail2.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Conditional statements are an essential part of programming in Python. They allow you to make decisions based on the values of variables or the result of comparisons.  In this article, we'll explore how to use if, else, and elif statements in Python, along with some examples of how to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/",
+          "publishedOn": "2023-03-07T16:03:51.000Z",
+          "wordCount": 1997,
+          "title": "How to Use Conditional Statements in Python – Examples of if, else, and elif",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Conditional.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/static-variables-in-java/",
+          "author": "Edeh Israel Chidera",
+          "description": "Static variables and static methods are two important concepts in Java.  Whenever a variable is declared as static, this means there is only one copy of it for the entire class, rather than each instance having its own copy. A static method means it can be called without creating",
+          "link": "https://www.freecodecamp.org/news/static-variables-in-java/",
+          "publishedOn": "2023-03-07T15:57:36.000Z",
+          "wordCount": 1545,
+          "title": "Static Variables in Java – Why and How to Use Static Methods",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/markus-spiske-AaEQmoufHLk-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/",
+          "author": "Kolade Chris",
+          "description": "In regular expressions, “S” is a metacharacter that represents space. The small letter “s” metacharacter stands for space, and the capital letter “S” stands for non-space. That's how the pattern for most metacharacters works. For instance, the small letter “d” is the metacharacter for a digit, and the capital letter",
+          "link": "https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/",
+          "publishedOn": "2023-03-07T14:09:22.000Z",
+          "wordCount": 1038,
+          "title": "What does \\S in Regex Mean? Space and Negated Space Metacharacters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "SQL is a powerful language that allows you to extract, manipulate and analyze data from relational databases. But writing and debugging SQL queries can be a challenging task.  Testing and debugging SQL queries is crucial to ensure that they produce accurate and efficient results. And you can use Python",
+          "link": "https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/",
+          "publishedOn": "2023-03-06T22:20:45.000Z",
+          "wordCount": 1242,
+          "title": "How to Test and Debug SQL Queries with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Testing.JPG"
+        },
         {
           "id": "https://www.freecodecamp.org/news/using-scanf-in-c/",
           "author": "Valentine Gatwiri",
@@ -1627,6 +1747,96 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://note.com/heisuke335/n/n4735eebc0cec",
+          "author": null,
+          "description": "ジャンボ！ feppiness株式会社の代表の本橋へいすけです。  仕事の視察でケニアに行ってきました。初のアフリカ大陸、初のケニア。今までたくさんの旅をしてきましたが、今までの旅で１番多くのことを感じた印象に残ったのが今回のケニア。 記憶が薄れないうちに記録として残しておこうと思います。  ケニアってどんな国？                       View this post on Instagram                                    A post shared by Heisuke Motohashi📔本橋へいすけ (@heisuke33",
+          "link": "https://note.com/heisuke335/n/n4735eebc0cec",
+          "publishedOn": "2023-03-07T14:25:17.000Z",
+          "wordCount": 5752,
+          "title": "初めてのケニアで人生観が変わった話｜本橋へいすけ｜note",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/99616555/rectangle_large_type_2_ee641628e1aba2ffa6a761fbdf2d010b.jpeg?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://dailyportalz.jp/kiji/how-to-sleep-in-an-office-chair",
+          "author": null,
+          "description": "会社のイスでうまく寝れたことがない。そもそも会社に泊まるという状況が良くないのだけど、上手な寝かたがどうしても気になる。上級者に教えてもらった寝かたを全部試した。 (トルー)",
+          "link": "https://dailyportalz.jp/kiji/how-to-sleep-in-an-office-chair",
+          "publishedOn": "2023-03-07T14:05:56.000Z",
+          "wordCount": 904,
+          "title": "会社のイスで寝る方法、全部試す",
+          "imageUrl": "https://img.dailyportalz.jp/5416/7811/7767/000.jpg"
+        },
+        {
+          "id": "https://huffingtonpost.jp/entry/utan_jp_64070670e4b0586db70fb857",
+          "author": null,
+          "description": "うーたん、はるちゃんが3月31日で番組を卒業。チョーさん演じるワンワンは続投します",
+          "link": "https://huffingtonpost.jp/entry/utan_jp_64070670e4b0586db70fb857",
+          "publishedOn": "2023-03-07T13:57:46.000Z",
+          "wordCount": 7165,
+          "title": "「うーたんロスがもうすでにすごい」てぃ先生が悲嘆に暮れる。20年間出演した『いないいないばぁ！』を離れる",
+          "imageUrl": "https://img.huffingtonpost.com/asset/6407073f2200003900965c64.jpg?cache=rVMIx7YiVc&ops=1200_630"
+        },
+        {
+          "id": "https://logmi.jp/business/articles/328306",
+          "author": null,
+          "description": "スタートアップカフェ大阪が主催したイベントに、『児童養護施設という私のおうち』の著者・田中れいか氏が登壇。7歳から18歳までを過ごした児童養護施設を退所後にモデル活動を始め、現在は社会起業家との二足の草鞋を使いこなす田中氏が、児童養護施設内のルールや、モデルの道を進むきっかけになったコーチングなどを語りました。",
+          "link": "https://logmi.jp/business/articles/328306",
+          "publishedOn": "2023-03-07T13:55:08.000Z",
+          "wordCount": 586,
+          "title": "やりたいことをやらないという選択は「自分を裏切る行為」　『児童養護施設という私のおうち』著者が語る、幸せのループの作り方",
+          "imageUrl": "https://img.logmi.jp/article_images/5dqUzCR84kfFmfGDz4s57C.jpg"
+        },
+        {
+          "id": "https://ux-mov.com",
+          "author": null,
+          "description": "UX-movは様々なアプリのUIを動画で集めたギャラリーサイトです。",
+          "link": "https://ux-mov.com/",
+          "publishedOn": "2023-03-07T13:50:44.000Z",
+          "wordCount": 115,
+          "title": "アプリのUIが動画で見れるギャラリーサイト",
+          "imageUrl": "https://ux-mov.com/images/ogp.png"
+        },
+        {
+          "id": "https://reffect.co.jp/react/react-test",
+          "author": null,
+          "description": "Reactを学び初めてテストを実施してみたいという人向けに公開したTesting Library/Jestを利用する上で必要となる基本を記述した記事です。実践的なTodoリストアプリケーションでのテストや外部のAPIからデータを取得するために利用したaxiosのモック方法についても記述した幅の広い内容になっています。",
+          "link": "https://reffect.co.jp/react/react-test",
+          "publishedOn": "2023-03-07T13:10:26.000Z",
+          "wordCount": 3097,
+          "title": "ReactでTesting Library/Jestを使ってテストを学ぼう",
+          "imageUrl": "https://reffect.co.jp/wp-content/uploads/2022/04/react_testing_library.png"
+        },
+        {
+          "id": "https://reffect.co.jp/react/next-js-13-app",
+          "author": null,
+          "description": "Next.js 13で新たに追加されたappディレクトリについて簡単なコードを利用しながら動作確認を行なっています。本文書を読み終えるとSuspense, Data Fetchig, Server Component, Client Component, Nested Layoutsなどの理解を深めることができます。",
+          "link": "https://reffect.co.jp/react/next-js-13-app",
+          "publishedOn": "2023-03-07T13:03:34.000Z",
+          "wordCount": 3506,
+          "title": "Next.js 13のappディレクトリの基礎(Layout, Suspense, Data Fetching…)",
+          "imageUrl": "https://reffect.co.jp/wp-content/uploads/2022/11/nextjs-13.png"
+        },
+        {
+          "id": "https://roomgpt.io",
+          "author": null,
+          "description": "Generate your dream room in seconds.",
+          "link": "https://roomgpt.io/",
+          "publishedOn": "2023-03-07T12:57:06.000Z",
+          "wordCount": 142,
+          "title": "Dream Room Generator",
+          "imageUrl": "https://www.roomgpt.io/og-image.png"
+        },
+        {
+          "id": "https://engineer-lab.findy-code.io/ngsw_taro",
+          "author": null,
+          "description": "国内最大のKotlin技術カンファレンス「Kotlin Fest」の代表を務め、Kotlinエバンジェリストとして、講演や執筆などを通じてKotlinの楽しさを広める活動をしている長澤太郎さん。今に至るまでのエピソードと得られた学びについてご執筆いただきました。",
+          "link": "https://engineer-lab.findy-code.io/ngsw_taro",
+          "publishedOn": "2023-03-07T12:56:16.000Z",
+          "wordCount": 428,
+          "title": "Kotlinエバンジェリストとなった僕を形作ったのは、人との出会いが9割と、1割の“運を引き寄せる努力”",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/marikaakamatsu/20230302/20230302101709.jpg"
+        },
         {
           "id": "https://mad.firstmarkcap.com",
           "author": null,
