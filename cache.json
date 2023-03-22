@@ -69,12 +69,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
+          "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
+          "publishedOn": "2023-03-21T07:00:00.000Z",
+          "wordCount": 12030,
+          "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
           "link": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
           "publishedOn": "2023-03-20T09:00:00.000Z",
-          "wordCount": 4660,
+          "wordCount": 4653,
           "title": "Free Fonts For Interface Designers",
           "enclosure": {
             "url": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg",
@@ -361,6 +376,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/",
+          "author": "Swatej Patil",
+          "description": "Data visualization is an essential part of data analysis. And charts are one of the most effective ways to present data in a clear and concise manner.  Marimekko charts are an excellent choice for displaying complex data sets in a compact and visually appealing format.  A Marimekko chart,",
+          "link": "https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/",
+          "publishedOn": "2023-03-21T17:51:26.000Z",
+          "wordCount": 1463,
+          "title": "Chart.js Tutorial – How to Make Marimekko Charts in Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/austin-distel-DfjJMVhwH_8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/advanced-sql-techniques/",
+          "author": "Oluseye Jeremiah",
+          "description": "Structured Query Language or SQL is an effective tool for managing and modifying data that is stored in databases.  The SELECT, INSERT, UPDATE, and DELETE SQL commands are suitable for many common use cases. But sometimes, more sophisticated techniques can help you perform out more complex queries and analyses",
+          "link": "https://www.freecodecamp.org/news/advanced-sql-techniques/",
+          "publishedOn": "2023-03-21T17:01:39.000Z",
+          "wordCount": 1656,
+          "title": "Advanced SQL Techniques for Complex Queries",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/GBL.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/",
+          "author": "Beau Carnes",
+          "description": "Embark on an exciting journey to learn the fundamentals of reinforcement learning and its implementation using Gymnasium, the open-source Python library previously known as OpenAI Gym. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of reinforcement learning using Gymnasium. Mustafa Esoofally",
+          "link": "https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/",
+          "publishedOn": "2023-03-21T14:17:07.000Z",
+          "wordCount": 1068,
+          "title": "Use OpenAI Gymnasium for Reinforcement Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/gym.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
+          "author": "Dmitry Dragilev",
+          "description": "Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of",
+          "link": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
+          "publishedOn": "2023-03-20T22:32:41.000Z",
+          "wordCount": 2873,
+          "title": "How Developers Can Prevent Fraud and Stop Scammers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/48332996261_4f1a1657fc_b.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/nextjs-seo/",
           "author": "Scott Gary",
           "description": "Next.js is a popular React-based web framework that has gained popularity and a growing community in recent years. It's a powerful tool for building fast and SEO-friendly web applications with dynamic pages that work great on mobile devices.  Due to the complex nature of isomorphic system design, Next.js SEO",
@@ -419,46 +474,6 @@
           "wordCount": 1681,
           "title": "List Flatten in Python – Flattening Nested Lists",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/flattenList.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
-          "author": "Popoola Temitope",
-          "description": "Form building in React [https://reactjs.org/] can be complex and time-consuming, requiring state management, validation, and error handling.  To simplify this process, the Formik [https://formik.org/] library provides an intuitive solution for building forms in React. Formik has a straightforward API and built-in validation, making collecting and manipulating input data in",
-          "link": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
-          "publishedOn": "2023-03-20T16:56:05.000Z",
-          "wordCount": 1598,
-          "title": "How to Build React Forms with Formik",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Group-1--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
-          "author": "Michael Yuan",
-          "description": "Since OpenAI released an official API for ChatGPT [https://openai.com/blog/introducing-chatgpt-and-whisper-apis] in March 2023, many developers and entrepreneurs are interested in integrating it into their own business operations.  But some significant barriers remain that make it difficult for them to do this:  * OpenAI provides a simple stateless API",
-          "link": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
-          "publishedOn": "2023-03-20T16:52:42.000Z",
-          "wordCount": 1923,
-          "title": "How to Create a Serverless ChatGPT App in 10 Minutes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/c0fd422e-f234-49e2-85a6-24f91b0b9991-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/django-model-relationships/",
-          "author": "Damilola Oladele",
-          "description": "Django [https://www.djangoproject.com/] is a free and open-source web framework written in Python. It helps with rapid web development and provides out-of-the-box web security. Websites must be able to store and retrieve data from databases. Django makes provisions for this. By default, Django operates a Relational Database Management System.  >",
-          "link": "https://www.freecodecamp.org/news/django-model-relationships/",
-          "publishedOn": "2023-03-20T16:05:18.000Z",
-          "wordCount": 1582,
-          "title": "How to Define Relationships Between Django Models",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner-560x315-px-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learning-to-code-tips/",
-          "author": "Justice Ekemezie",
-          "description": "Starting out on a new career path or picking up a new skill is an exciting and ambitious endeavour. But maintaining consistency can be a challenge. It's easy to get lost in the excitement of setting goals and creating strategies, but staying on track when no one is watching can",
-          "link": "https://www.freecodecamp.org/news/learning-to-code-tips/",
-          "publishedOn": "2023-03-20T14:34:43.000Z",
-          "wordCount": 2221,
-          "title": "Tips for Learning to Code – How to Stay Consistent and Enjoy Yourself",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/7-Ways-to--1-.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/",
@@ -1823,7 +1838,7 @@
           "description": "ボタン１つで生ゴミがパリッパリ。 ゴミ箱が1個増えた程度の気楽さで、想像を超えた快適さが手に入ります。",
           "link": "https://loofen.jp/",
           "publishedOn": "2023-03-20T16:05:23.000Z",
-          "wordCount": 2189,
+          "wordCount": 2183,
           "title": "loofen 世界100万台大ヒットの生ゴミ乾燥機",
           "imageUrl": "https://d2w53g1q050m78.cloudfront.net/loofenjp/uploads/common/img/ogp.jpg"
         },
@@ -1843,7 +1858,7 @@
           "description": "マイクロソフトはローコードでスマートフォン用の業務アプリケーションを開発する「Power Apps」と、CRMなどの既存の業務アプリケーションを組み合わせて新たな業務アプリケーションを開発できる「Power Automate」にChatGP...",
           "link": "https://publickey1.jp/blog/23/_copilot_in_power_automatecopilot_in_power_apps.html",
           "publishedOn": "2023-03-20T13:41:03.000Z",
-          "wordCount": 1283,
+          "wordCount": 1285,
           "title": "［速報］マイクロソフト、自然言語で誰でもアプリケーション開発が可能になる「Copilot in Power Automate」「Copilot in Power Apps」発表",
           "imageUrl": "https://www.publickey1.jp/2023/powerai05.png"
         },
@@ -2746,16 +2761,6 @@
           "wordCount": 631,
           "title": "イベント資料一覧",
           "imageUrl": "https://connpass.com/static/img/event/no_image_presen_210.png"
-        },
-        {
-          "id": "https://zenn.dev/1227yukimura/articles/9a96f4435f65eb",
-          "author": null,
-          "description": "",
-          "link": "https://zenn.dev/1227yukimura/articles/9a96f4435f65eb",
-          "publishedOn": "2023-02-19T12:36:45.000Z",
-          "wordCount": 4407,
-          "title": "えっ？Browser内でNode.jsアプリが動く？？ WebContainerAPIをTypeScriptで動かしてみた",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--EIrpBDB4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2588%25E3%2581%25A3%25EF%25BC%259FBrowser%25E5%2586%2585%25E3%2581%25A7Node.js%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2581%258C%25E5%258B%2595%25E3%2581%258F%25EF%25BC%259F%25EF%25BC%259F%2520WebContainerAPI%25E3%2582%2592TypeScript%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yukimura1227%2Cx_203%2Cy_98/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E5YTNjZDdiYTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/og-base.png"
         }
       ]
     }
