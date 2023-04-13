@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377305",
+          "author": "Neal Fennimore",
+          "description": "These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …\nPasskeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/passkeys-what-the-heck-and-why/",
+          "publishedOn": "2023-04-12T17:41:53.000Z",
+          "wordCount": 3346,
+          "title": "Passkeys: What the Heck and Why?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
+        },
+        {
           "id": "https://css-tricks.com/?p=377264",
           "author": "Pankaj Parashar",
           "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -20,16 +30,6 @@
           "wordCount": 1861,
           "title": "Some Cross-Browser DevTools Features You Might Not Know",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376950",
-          "author": "Mads Stoumann",
-          "description": "Doing a quick search here on CSS-Tricks shows just how many different ways there are to approach calendars. Some show how CSS Grid can create the layout efficiently. Some attempt to bring actual data into the mix. Some …\nMaking Calendars With Accessibility and Internationalization in Mind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/",
-          "publishedOn": "2023-03-13T13:23:52.000Z",
-          "wordCount": 3413,
-          "title": "Making Calendars With Accessibility and Internationalization in Mind",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376950"
         }
       ]
     },
@@ -240,6 +240,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
+          "author": "Beau Carnes",
+          "description": "Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll",
+          "link": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
+          "publishedOn": "2023-04-12T20:52:38.000Z",
+          "wordCount": 835,
+          "title": "Use Bash Scripting to Enhance Your Productivity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/bashscrippting.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
+          "author": "Beau Carnes",
+          "description": "Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,",
+          "link": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
+          "publishedOn": "2023-04-12T20:46:42.000Z",
+          "wordCount": 962,
+          "title": "Create Mobile Apps with Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Slide-16_9---4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
+          "author": "Michael Frederick",
+          "description": "Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram",
+          "link": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
+          "publishedOn": "2023-04-12T17:46:38.000Z",
+          "wordCount": 1537,
+          "title": "How to Apply Borders to Clip Paths with CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screen-Shot-2023-04-05-at-7.04.59-PM-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use Conda to create and manage different environments and their packages. It is mostly used for data science and machine learning projects.  In this article, you'll learn how to remove an environment's package using in built Conda commands.  You'll learn the following:   * How",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/",
+          "publishedOn": "2023-04-12T12:21:34.000Z",
+          "wordCount": 942,
+          "title": "Conda Remove Package - How To Remove Matplotlib in Anaconda",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Arrays and lists are two of the most commonly used data structures in Python.  You can use both arrays and lists to store collections of values, but they have some key differences.  For example, arrays are more efficient than lists for certain operations, such as mathematical operations on",
+          "link": "https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/",
+          "publishedOn": "2023-04-12T00:04:30.000Z",
+          "wordCount": 1137,
+          "title": "How to Convert a List to an Array and Back in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/dare.JPG"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-validate-forms-in-react/",
           "author": "Yazdun Fadali",
@@ -1679,106 +1729,6 @@
           "wordCount": 1209,
           "title": "How To Change Legend Font Size in Matplotlib",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/",
-          "author": "Quincy Larson",
-          "description": "Hack Summit is one of the largest online developer conferences in history. Across its 5 events over the past decade, more than 130,000 developers have attended. And this year's event should be no different – filled with opportunities to learn from speakers and expand your professional network. This year, the",
-          "link": "https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/",
-          "publishedOn": "2023-03-14T08:03:17.000Z",
-          "wordCount": 762,
-          "title": "Hack Summit 2023 – Developer Conference Focused on Blockchain Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/hacksummit_fcc.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Matplotlib is a Python library used for data visualization [/news/data-visualization-tools-guide], and creating interactive plots and graphs.  In this article, you'll learn how to add colors to your Matplotlib plots using parameter values provided by the Matplotlib plot() function. You'll learn how to change the color of a plot using:",
-          "link": "https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/",
-          "publishedOn": "2023-03-13T21:55:25.000Z",
-          "wordCount": 959,
-          "title": "Matplotlib Add Color – How To Change Line Color in Matplotlib",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When analyzing and manipulating data using Pandas, you might want to sort the data in a certain order. This makes it easier to understand and visualize data. In this article, you'll learn how to sort data in ascending and descending order using Pandas' sort_values() method.  How To Sort Values",
-          "link": "https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/",
-          "publishedOn": "2023-03-13T21:52:10.000Z",
-          "wordCount": 1137,
-          "title": "pandas.DataFrame.sort_values - How To Sort Values in Pandas",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sort-in-pandas-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use the Pandas library in Python to manipulate and analyze data. In most cases, it is used for manipulating and analyzing tabular data.  In this article, you'll learn how to use the Pandas round() method to round a float value to a specified number of decimal places.",
-          "link": "https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/",
-          "publishedOn": "2023-03-13T21:49:09.000Z",
-          "wordCount": 900,
-          "title": "Pandas round() Method – How To Round a Float in Pandas",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/round-float-in-pandas.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
-          "author": "Beau Carnes",
-          "description": "Are you currently in the job market for a data-focused role? Or perhaps you are looking to expand your understanding of the machine learning process? If so, then we have just the video for you! We just published a mock data science job interview on the freeCodeCamp.org YouTube channel. This",
-          "link": "https://www.freecodecamp.org/news/mock-data-science-job-interview/",
-          "publishedOn": "2023-03-13T19:52:54.000Z",
-          "wordCount": 945,
-          "title": "Mock Data Science Job Interview",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/datamock.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
-          "author": "Oluseye Jeremiah",
-          "description": "Python is a popular programming language that is easy to learn and use. But like any programming language, Python is prone to errors.  In this tutorial, we'll cover some of the most common errors in Python and how to fix them. Syntax Errors in Python Syntax errors occur when",
-          "link": "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
-          "publishedOn": "2023-03-13T19:07:43.000Z",
-          "wordCount": 1826,
-          "title": "Common Errors in Python and How to Fix Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/errors.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at some of the many ways you can build a React application these days. We'll compare their main characteristics, along with their pros and cons. We'll start by explaining what React is and what improvements it brought over the",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/",
-          "publishedOn": "2023-03-13T19:01:24.000Z",
-          "wordCount": 7965,
-          "title": "How to Build a React App – A Walkthrough of the Many Different Ways",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/randy-fath-ymf4_9Y9S_A-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/",
-          "author": "Eamonn Cottrell",
-          "description": "There are 513 built-in functions in Google Sheets at the time of this writing. But what if you needed a custom function that wasn't included?  In this tutorial, I'll show you how to create and use your own custom function in Google Sheets. Why would you need a custom",
-          "link": "https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/",
-          "publishedOn": "2023-03-13T17:56:24.000Z",
-          "wordCount": 1171,
-          "title": "How to Create Custom Named Functions in Google Sheets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fCC-thumbp.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn how to work with arrays in C. I will first explain how to declare and initialize arrays. Then, I will also go over how to access and change items in an array in C with the help of code examples along the way. Let's",
-          "link": "https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/",
-          "publishedOn": "2023-03-13T17:22:07.000Z",
-          "wordCount": 1459,
-          "title": "Integer Array in C – How to Declare Int Arrays with C Programming",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nick-hillier-yD5rv8_WzxA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "When querying data from a database, you will frequently encounter the date datatype. Depending on what you want to achieve, you may need to extract subset information from the date column, perform some operation, and so on.  SQL provides a variety of date functions that can assist you with",
-          "link": "https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/",
-          "publishedOn": "2023-03-13T16:49:25.000Z",
-          "wordCount": 1987,
-          "title": "How to Write Common Date Functions in SQL with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-bich-tran-760710.jpg"
         }
       ]
     },
@@ -1787,6 +1737,56 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://webcreatorbox.com/tech/sass-to-css",
+          "author": null,
+          "description": "CSSをより便利に、効率よく記述できるSass。利用しているWebサイト制作者も多いでしょう。近年はCSSでもSassのような書き方ができるようになってきているので、Sassとの書き方の違いとともに紹介します！ 変数 何 […]",
+          "link": "https://webcreatorbox.com/tech/sass-to-css",
+          "publishedOn": "2023-04-13T00:29:44.000Z",
+          "wordCount": 877,
+          "title": "Sass不要！CSSだけでも変数やネスト、演算子が使えるよ！",
+          "imageUrl": "https://www.webcreatorbox.com/wp-content/uploads/2023/04/thumb-cssnest.jpg"
+        },
+        {
+          "id": "https://blog.playstation.com/2023/04/12/the-elder-scrolls-online-necrom-chapter-gameplay-revealed",
+          "author": null,
+          "description": "Discover the secrets of Apocrypha, revealed by ESO’s development team during a recent livestream.",
+          "link": "https://blog.playstation.com/2023/04/12/the-elder-scrolls-online-necrom-chapter-gameplay-revealed",
+          "publishedOn": "2023-04-13T00:25:35.000Z",
+          "wordCount": 1951,
+          "title": "The Elder Scrolls Online – Necrom chapter gameplay revealed",
+          "imageUrl": "https://blog.playstation.com/tachyon/2023/04/2e6b88a0b3d16d158105d45e06ae5d703ff62dd1.jpg"
+        },
+        {
+          "id": "https://publickey1.jp/blog/23/github200railsrailsruby.html",
+          "author": null,
+          "description": "4月10日でサービス開始からちょうど15周年を迎えたGitHubは、当初からRuby on Railsを用いたモノリシックなアプリケーションとして作られてきました。現在では200万行近い規模のコードになっているそうです。 今年1月にはGtH...",
+          "link": "https://publickey1.jp/blog/23/github200railsrailsruby.html",
+          "publishedOn": "2023-04-13T00:21:58.000Z",
+          "wordCount": 1830,
+          "title": "GitHubは200万行規模のRailsアプリケーションであり、毎週RailsとRubyを最新版にアップデートし続けている",
+          "imageUrl": "https://www.publickey1.jp/2023/QaZxFqvQ.jpg"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/chatgpt-mentalcare",
+          "author": null,
+          "description": "私が経営しているベイジという会社には日報という制度があり、毎日社員が日報をアップしてくれています。 この日報をChatGPTに読み込ませて診断してもらうことで、社員のメンタルの状態を観測できるのではないかと思いました。  …",
+          "link": "https://dev.classmethod.jp/articles/chatgpt-mentalcare",
+          "publishedOn": "2023-04-13T00:19:21.000Z",
+          "wordCount": 2030,
+          "title": "ChatGPTで社員の心を分析できるか？",
+          "imageUrl": "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2023/03/chatgpt.png"
+        },
+        {
+          "id": "https://heartbeats.jp/hbblog/2023/04/rfc.html",
+          "author": null,
+          "description": "こんにちは。技術開発室の伊藤です。ハートビーツではメールサーバを自社で運用しています。そのメールサーバの移設を実施するにあたり、移設を対応するチームでさまざまなメールの仕様を理解しておく必要がありました。メールプロトコルの仕様についてはRFC（Request For Comments）が発行されているため、メールに関するRFCを読んでまとめる勉強会を行いました。その際にRFCを読むにあたっ",
+          "link": "https://heartbeats.jp/hbblog/2023/04/rfc.html",
+          "publishedOn": "2023-04-13T00:13:03.000Z",
+          "wordCount": 814,
+          "title": "RFCの読み方",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.tai2.net/how-to-code-review.html",
           "author": null,
@@ -2636,36 +2636,6 @@
           "wordCount": 350,
           "title": "時は金なり！ 「時間配分」を最適化できる、エンジニアのためのロードマップ活用マニュアル【連載：小城久美子】",
           "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2023/03/636020441d1eab2d35c7e0876db3f743.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20230301-scribble-diffusion",
-          "author": null,
-          "description": "画像生成AIのStable Diffusionはテキストを入力して指示を出すことで画像を生成できますが、テキストだけだと自分の望み通りの絵を生成するのはなかなか難しいもの。「Scribble Diffusion」は、ブラウザ上で描いた落書きとテキスト入力から自分の希望に近い絵をStable Diffusionで生成することが可能で、動作デモをブラウザから試すことが可能です。",
-          "link": "https://gigazine.net/news/20230301-scribble-diffusion",
-          "publishedOn": "2023-03-14T00:23:17.000Z",
-          "wordCount": 2458,
-          "title": "ブラウザ上で描いたイラストと同じ構図で画像生成AIに絵を描いてもらえる「Scribble Diffusion」が登場",
-          "imageUrl": "https://i.gzn.jp/img/2023/03/01/scribble-diffusion/00.png"
-        },
-        {
-          "id": "https://4gamer.net/games/999/G999905/20230313105",
-          "author": null,
-          "description": "�кѻ��Ⱦʤ����ܷ򹯲�Ĥ���Ʊ�Ǽ»ܤ���ַ򹯷б�ͥ��ˡ�͡��絬��ˡ������ˡ�   �ۿ��� �����ץ� �ۿ��� 2023/03/13    �ڥ����ץ�ַۡ򹯷б�ͥ��ˡ�͡פ�3ǯϢ³��ǧ�� ���󥿥�ʤ�ǤϤΥ�ˡ����ʼ���Ȥߡ����Ȱ��η򹯤Ȱ�������θ�����ܺ����⤤ɾ���� ������ҥ����ץ����ɽ�������Ĺ�����ܵ��֡��ܼҡ�����Թ��衢�ʲ��֥����ץ�סˤϡ�ͥ�ɤʷ򹯷бĤ�������Ƥ����ȤȤ��ơ��кѻ��Ⱦʤ����ܷ򹯲�Ĥ���Ʊ�Ǽ»ܤ���ַ򹯷б�ͥ��ˡ�͡��絬��ˡ������ˡפ�3ǯ��",
-          "link": "https://4gamer.net/games/999/G999905/20230313105",
-          "publishedOn": "2023-03-14T00:19:02.000Z",
-          "wordCount": 7274,
-          "title": "コロプラ，ユニークな制度づくりや従業員の健康と安全に配慮した施策が評価され「健康経営優良法人」に3年連続で認定",
-          "imageUrl": "https://www.4gamer.net/games/999/G999905/20230313105/SS/001.jpg"
-        },
-        {
-          "id": "https://devblogs.microsoft.com/typescript/typescripts-migration-to-modules",
-          "author": null,
-          "description": "One of the most impactful things we’ve worked on in TypeScript 5.0 isn’t a feature, a bug fix, or a data structure optimization. Instead, it’s an infrastructure change. In TypeScript 5.0, we restructured our entire codebase to use ECMAScript modules, and switched to a newer emit target.",
-          "link": "https://devblogs.microsoft.com/typescript/typescripts-migration-to-modules",
-          "publishedOn": "2023-03-14T00:05:16.000Z",
-          "wordCount": 10760,
-          "title": "TypeScript’s Migration to Modules",
-          "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png"
         }
       ]
     }
