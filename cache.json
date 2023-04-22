@@ -20,16 +20,6 @@
           "wordCount": 3346,
           "title": "Passkeys: What the Heck and Why?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
-        },
-        {
-          "id": "https://css-tricks.com/?p=377264",
-          "author": "Pankaj Parashar",
-          "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/",
-          "publishedOn": "2023-03-22T20:22:42.000Z",
-          "wordCount": 1861,
-          "title": "Some Cross-Browser DevTools Features You Might Not Know",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
         }
       ]
     },
@@ -38,6 +28,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
+          "author": "hello@smashingmagazine.com (Sarah Oke Okolo)",
+          "description": "In this article, Sarah Oke Okolo explores the importance of Web Workers for multithreading on the web, including the limitations and considerations of using them and the strategies for mitigating potential issues associated with them.",
+          "link": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
+          "publishedOn": "2023-04-21T10:00:00.000Z",
+          "wordCount": 6220,
+          "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/",
           "author": "hello@smashingmagazine.com (Tejas Kumar)",
@@ -225,6 +230,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/navigation-in-flutter/",
+          "author": "Arunachalam B",
+          "description": "Almost any app that you design or develop will use some type of navigation.  There are three types of navigation that are common to all apps – stack, tab, and drawer navigation. Flutter supports all three types, and implementing them is similar to how you do it in other",
+          "link": "https://www.freecodecamp.org/news/navigation-in-flutter/",
+          "publishedOn": "2023-04-21T18:10:23.000Z",
+          "wordCount": 2917,
+          "title": "Navigation in Flutter – How to Add Stack, Tab, and Drawer Navigators to Your Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Types-of-Navigations-in-Flutter---Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/",
+          "author": "Natalie Pina",
+          "description": "In CSS, pseudo-classes and pseudo-elements are two types of keywords that you can combine with selectors. They are used to target the element's state or specific parts of an element.  In this article, we'll explore the differences between the two along with their history and best practices. Syntax",
+          "link": "https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/",
+          "publishedOn": "2023-04-21T17:34:29.000Z",
+          "wordCount": 1449,
+          "title": "The Difference Between Pseudo-Classes and Pseudo-Elements in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pseudo-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use an ArrayList in Java to store and manipulate a collection of similar variables.  An ArrayList is just like an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] but offers more flexibility. An ArrayList is more dynamic with the size of the collection, and gives you more control over the elements in a",
+          "link": "https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/",
+          "publishedOn": "2023-04-21T06:34:22.000Z",
+          "wordCount": 1312,
+          "title": "How to Initialize an ArrayList in Java – Declaration with Values",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/java-arraylist-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/",
+          "author": "Rahul",
+          "description": "As web developers, we all know that practice makes perfect. But when it comes to practice, it's easy to get stuck in a programming rut. But how do you come up with new ideas to build? Sooner or later, you will find yourself running out of features to add or",
+          "link": "https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/",
+          "publishedOn": "2023-04-20T22:28:01.000Z",
+          "wordCount": 2206,
+          "title": "How to Use APIs in Your Projects to Practice Your Coding Skills",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-build-projects.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/handle-file-uploads-on-the-backend-in-node-js-nuxt/",
+          "author": "Austin Gil",
+          "description": "In some previous tutorials, I covered how to upload files using HTML [https://austingil.com/uploading-files-with-html/] and JavaScript [https://austingil.com/upload-files-with-javascript/]. It requires sending HTTP requests with the Content-Type [https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type] header set to multipart/form-data. Today, we are going to the back end to receive those multipart/form-data  requests and access the binary data from those",
+          "link": "https://www.freecodecamp.org/news/handle-file-uploads-on-the-backend-in-node-js-nuxt/",
+          "publishedOn": "2023-04-20T22:27:42.000Z",
+          "wordCount": 2849,
+          "title": "How to Handle File Uploads on the Back End in Node.js and Nuxt",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Command-Line-Blog-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-communicate-with-ai-tools-prompt-engineering/",
           "author": "Hillary Nyakundi",
@@ -1614,76 +1669,6 @@
           "wordCount": 1081,
           "title": "Use Vite to Speed Up Web Development",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/vite.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
-          "author": "Oluseye Jeremiah",
-          "description": "Hello and welcome to the world of data analysis! If you're considering a career in this field, you're in good company. Data analysis is a growing and exciting field that's becoming increasingly important in today's data-driven world. Let's face it, we're all drowning in data these days. From social media",
-          "link": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
-          "publishedOn": "2023-03-23T00:06:48.000Z",
-          "wordCount": 3406,
-          "title": "How to Get Started in Data Analytics – A Roadmap for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/dataa.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-squash-commits/",
-          "author": "Kolade Chris",
-          "description": "If you are working on a project and trying to implement a new feature, you might commit your code a few times to test things out. This lets you see how the code works or looks. While doing this, things might get messy because you now have several commits, even",
-          "link": "https://www.freecodecamp.org/news/git-squash-commits/",
-          "publishedOn": "2023-03-22T23:16:43.000Z",
-          "wordCount": 1464,
-          "title": "Git Squash Commits – Squashing the Last N Commits into One Commit",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/squashCommits.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
-          "author": "Beau Carnes",
-          "description": "Are you interested in learning how to build a customer relationship management (CRM) app with Django, Python, and MySQL? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step on how to build a fully-functional CRM application using Django, Python, and MySQL. John Elder developed",
-          "link": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
-          "publishedOn": "2023-03-22T19:58:56.000Z",
-          "wordCount": 997,
-          "title": "CRM App Development with Django, Python, and MySQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/crmdjango.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/print-newline-in-python/",
-          "author": "Shittu Olumide",
-          "description": "Working with strings or text data in programming frequently involves printing a newline. The end of a line is indicated by a newline character, which also advances the cursor to the start of the following line. Using the escape character \"\\n,\" we can print a newline in Python. Other programming",
-          "link": "https://www.freecodecamp.org/news/print-newline-in-python/",
-          "publishedOn": "2023-03-22T19:17:24.000Z",
-          "wordCount": 1323,
-          "title": "Print Newline in Python – Printing a New Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Print-Newline-in-Python---Printing-a-New-Line-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-variables/",
-          "author": "Reed Barger",
-          "description": "Variables are an essential part of Python. They allow us to easily store, manipulate, and reference data throughout our projects. This article will give you all the understanding of Python variables you need to use them effectively in your projects. If you want the most convenient way to review all",
-          "link": "https://www.freecodecamp.org/news/python-variables/",
-          "publishedOn": "2023-03-22T18:30:52.000Z",
-          "wordCount": 1741,
-          "title": "Python Variables – The Complete Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/mugshotbot.com_customize_color-yellow-image-9820e115-mode-light-pattern-texture-theme-two_up-url-https___gifcoins.io.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
-          "author": "Obumuneme Nwabude",
-          "description": "If someone gains unauthorized access to your passwords, two-factor authentication (2FA) can prevent them from accessing your account.  But if you ever lose access to all your 2FA methods, you have lost your account. How do you prevent such loss? In this article, we will look at two-factor authentication",
-          "link": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
-          "publishedOn": "2023-03-22T16:28:07.000Z",
-          "wordCount": 3306,
-          "title": "How to Prevent Account Loss When using Two-Factor Authentication",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-karolina-grabowska-4467737.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
-          "author": "David Clinton",
-          "description": "The word \"audit\" describes any process designed to review and assess a system's current state, capacity, and integrity.  An internal audit is a review process initiated and carried out by an organization itself. External audits are often performed by or on behalf of banking entities or government regulatory bodies",
-          "link": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
-          "publishedOn": "2023-03-22T16:25:10.000Z",
-          "wordCount": 1593,
-          "title": "How to Incorporate Cybersecurity Audits into Your Workflow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-39584.jpg"
         }
       ]
     },
@@ -1692,6 +1677,46 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://freeblog-video.com/stable-diffusion_prompt_japan",
+          "author": null,
+          "description": "『もっとリアルなイラストを作りたい』『どんな呪文（プロンプト）を入力すれば日本人っぽくなる？』こんなお悩みはありませんか？この記事ではStable Diffusionで写真のようにリアルな日本人のイラストを生成するための呪文（プロンプト）を一覧で表示しています。お気に入りのイラストを生成したい方は読んでみてください。",
+          "link": "https://freeblog-video.com/stable-diffusion_prompt_japan",
+          "publishedOn": "2023-04-21T10:13:51.000Z",
+          "wordCount": 1974,
+          "title": "【Stable Diffusion】写真のようにリアルな日本人イラスト用の呪文（プロンプト）",
+          "imageUrl": "https://freeblog-video.com/wp-content/uploads/2023/04/stable-diffusion_prompt_japan_ic.webp"
+        },
+        {
+          "id": "https://type.jp/et/feature/22219",
+          "author": null,
+          "description": "元LinkedIn日本代表で、書籍『稼ぎ方2.0』（SBクリエイティブ）の著者・村上臣さんは、「自動生成AIの進化による後押しも加わり、これまで以上に副業しやすくなっている」と話す。クリエーターエコノミーがより拡大していく中で、エンジニアにはどのようなキャリアのチャンスが待っているのだろうか。これからの時代の稼ぎ方についてお話しいただいた。",
+          "link": "https://type.jp/et/feature/22219",
+          "publishedOn": "2023-04-21T09:46:49.000Z",
+          "wordCount": 378,
+          "title": "副業する人・しない人で収入＆幸せ格差が広がる？ 元LikedIn日本代表・村上臣がエンジニアに説く「稼ぎ方2.0」",
+          "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2023/04/murakami-shin.jpg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2304.09339",
+          "author": null,
+          "description": "We analyse the effects of the ban of ChatGPT, a generative pre-trained\ntransformer chatbot, on individual productivity. We first compile data on the\nhourly coding output of over 8,000 professional GitHub users in Italy and other\nEuropean countries to analyse the impact of the ban on individual productivity.\nCombining the high-frequency data with the sudden announcement of the ban in a\ndifference-in-differences framework, we find that the output of Italian\ndevelopers decreased by around 50% in the first two business days after the ban\nand recovered after that. Applying a synthetic control approach to daily Google\nsearch and Tor usage data shows that the ban led to a significant increase in\nthe use of censorship bypassing tools. Our findings show that users swiftly\nimplement strategies to bypass Internet restrictions but this adaptation\nactivity creates short-term disruptions and hampers productivity.",
+          "link": "https://arxiv.org/abs/2304.09339",
+          "publishedOn": "2023-04-21T09:35:07.000Z",
+          "wordCount": 643,
+          "title": "Title:The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy&#039;s ChatGPT Ban",
+          "imageUrl": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://tech.fastdoctor.jp/entry/2023/04/17/163239",
+          "author": null,
+          "description": "記事を書く背景 ばんくしさんの「エンジニアとビジネスの距離感の難しさ」というブログを読みました。経営とエンジニアリングをつなぐ立場であるCTOとしては永遠のテーマだと思います。 申し遅れましたが、私はファストドクター株式会社CTOの宮田 芳郎です。昨年、ファストドクターの開発組織は、大きな技術的意思決定を経営陣とともに実施できました。具体的には次の2点です。 アプリのFlutter化（意思決定は2022年5月） 新規のバックエンド開発時の言語をRubyからTypeScriptへ切り替え（意思決定は2022年6月末） いずれも一度の経営会議で、上記の方針について経営陣との合意を取っています。 5…",
+          "link": "https://tech.fastdoctor.jp/entry/2023/04/17/163239",
+          "publishedOn": "2023-04-21T09:33:48.000Z",
+          "wordCount": 331,
+          "title": "アーキテクチャ変更を決断するときCTOは何を考えているか？ 技術的意思決定を経営陣に説明する実践的Tips",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/f/fastdoctor-tech/20230411/20230411122939.png"
+        },
         {
           "id": "https://hybridwork.cybozu.co.jp/articles/booksandapps-productivity",
           "author": null,
@@ -2551,56 +2576,6 @@
           "wordCount": 1244,
           "title": "【3/24＠オンライン開催】エイチーム×レバレジーズ フロントエンド勉強会 (2023/03/24 17 : 00〜)",
           "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e2/72/e27262283e837fe73b4d4e1711f88557.png"
-        },
-        {
-          "id": "https://nexthub.jp",
-          "author": null,
-          "description": "Experience the benefits of a strong community and access global talent at our coworking space",
-          "link": "https://nexthub.jp/",
-          "publishedOn": "2023-03-22T23:59:19.000Z",
-          "wordCount": 5033,
-          "title": "週１〜利用可能なグローバルビジネスのための秘密基地",
-          "imageUrl": "https://nexthub.jp/assets/images/card.jpg?v=49a35ed4"
-        },
-        {
-          "id": "https://inside.java/2023/03/21/the-arrival-of-java-20",
-          "author": null,
-          "description": "Oracle is proud to announce the general availability of JDK 20. This release is the 11th Feature Release delivered on time through the six-month release cadence. This level of predictability allows developers to easily manage their adoption of innov…",
-          "link": "https://inside.java/2023/03/21/the-arrival-of-java-20",
-          "publishedOn": "2023-03-22T23:36:28.000Z",
-          "wordCount": 2176,
-          "title": "The arrival of java 20! – Inside.java",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience",
-          "author": null,
-          "description": "GitHub Copilot is evolving to bring chat and voice interfaces, support pull requests, answer questions, and adopt OpenAI's GPT-4.",
-          "link": "https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience",
-          "publishedOn": "2023-03-22T23:34:55.000Z",
-          "wordCount": 2164,
-          "title": "GitHub Copilot X: The AI-powered developer experience",
-          "imageUrl": "https://github.blog/wp-content/uploads/2023/03/Blog-Unfurl-Social-Card_LightMode.png"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1487097.html",
-          "author": null,
-          "description": "Adobeは、3月22日から3月24日(米国時間、日本時間3月23日～3月25日)、米国ネバダ州ラスベガス市の会場において、同社のデジタルマーケティング事業向けの年次イベント「Adobe Summit」を開催する。それに先だって、3月21日に報道発表を行ない、同社の画像生成AI(Generative AI)の新しいサービス「Firefly」をベータ版として提供開始することを明らかにした。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1487097.html",
-          "publishedOn": "2023-03-22T15:01:44.000Z",
-          "wordCount": 5457,
-          "title": "Adobeから画像生成AI「Firefly」登場。権利関係もクリア",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1487/097/001.jpg"
-        },
-        {
-          "id": "https://super.so",
-          "author": null,
-          "description": "Create a website in less than a minute with instant page loads, SEO optimization, and no-code theming. All your content is kept and managed in Notion so you can focus on creating while Super handles the rest.",
-          "link": "https://super.so/",
-          "publishedOn": "2023-03-22T14:57:43.000Z",
-          "wordCount": 4611,
-          "title": "Super — Build websites with Notion",
-          "imageUrl": "https://super-static-assets.s3.amazonaws.com/186f4256-f467-4f79-8d6f-40defe12b9b4/uploads/cover/40c0203e-deb6-424e-aa02-b9a43f88cf65.png"
         }
       ]
     }
