@@ -10,24 +10,28 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=377305",
-          "author": "Neal Fennimore",
-          "description": "These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …\nPasskeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/passkeys-what-the-heck-and-why/",
-          "publishedOn": "2023-04-12T17:41:53.000Z",
-          "wordCount": 3346,
-          "title": "Passkeys: What the Heck and Why?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.",
+          "link": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
+          "publishedOn": "2023-05-12T11:00:00.000Z",
+          "wordCount": 3899,
+          "title": "Designing Sticky Menus: UX Guidelines",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
           "author": "hello@smashingmagazine.com (Rachel How)",
@@ -290,6 +294,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "author": "Faith Oyama",
+          "description": "Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a",
+          "link": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "publishedOn": "2023-05-12T20:46:41.000Z",
+          "wordCount": 2133,
+          "title": "Advanced Indexing Strategies in PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/postresql-indexing.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "According to the Oxford English Dictionary, \"greedy\" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the",
+          "link": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "publishedOn": "2023-05-12T17:57:48.000Z",
+          "wordCount": 4298,
+          "title": "What is a Greedy Algorithm? Examples of Greedy Algorithms",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-206627.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "author": "Palistha",
+          "description": "A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build",
+          "link": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "publishedOn": "2023-05-12T17:45:27.000Z",
+          "wordCount": 2730,
+          "title": "How Does a Linked List Work? A Beginner's Guide to Linked Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-joey-kyber-119562.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/number-systems-in-java/",
           "author": "Mikael Lassa",
@@ -1589,46 +1623,6 @@
           "wordCount": 1944,
           "title": "Call vs Put vs Post – HTTP Request Methods Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
-          "author": "Kolade Chris",
-          "description": "Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,",
-          "link": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
-          "publishedOn": "2023-04-13T12:24:56.000Z",
-          "wordCount": 1419,
-          "title": "Python Delete File – How to Remove Files and Folders",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pyDeleteFilesAndFolders.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll",
-          "link": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
-          "publishedOn": "2023-04-12T20:52:38.000Z",
-          "wordCount": 835,
-          "title": "Use Bash Scripting to Enhance Your Productivity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/bashscrippting.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
-          "author": "Beau Carnes",
-          "description": "Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,",
-          "link": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
-          "publishedOn": "2023-04-12T20:46:42.000Z",
-          "wordCount": 962,
-          "title": "Create Mobile Apps with Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Slide-16_9---4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
-          "author": "Michael Frederick",
-          "description": "Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram",
-          "link": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
-          "publishedOn": "2023-04-12T17:46:38.000Z",
-          "wordCount": 1537,
-          "title": "How to Apply Borders to Clip Paths with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screen-Shot-2023-04-05-at-7.04.59-PM-1.png"
         }
       ]
     },
@@ -1637,6 +1631,26 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://type.jp/et/feature/22419",
+          "author": null,
+          "description": "ここ数年で「心理的安全性」という言葉の認知が広がっている。しかし、Googleで人材開発等に従事した経歴を持ち『心理的安全性 最強の教科書』（東洋経済新報社）の著者であるピョートル・フェリクス・クジバチさんは、「ただメンバーを肯定するだけでは、心理的安全性はむしろ損なわれる可能性がある」と指摘する。今回は、ピョートルさんに日本のマネジャーが誤解しがちな「心理的安全性」の基本と合わせて聞いた。",
+          "link": "https://type.jp/et/feature/22419",
+          "publishedOn": "2023-05-12T13:59:19.000Z",
+          "wordCount": 373,
+          "title": "良かれと思ってやったのに…元Google人事が説く、日本の管理職がやりがちなエンジニアの心理的安全性を下げるNG行動四つ",
+          "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2023/05/p_og.jpg"
+        },
+        {
+          "id": "https://type.jp/et/feature/22363",
+          "author": null,
+          "description": "技術力で付加価値を発揮する「スタッフエンジニア」という上級職の重要性が欧米を中心に認識されるようになり、その存在が目立つようになってきた。「スタッフエンジニア」のようなキャリアパスは今後、欧米のみならず日本でも開かれる可能性があるのだろうか。書籍『スタッフエンジニア　マネジメントを超えるリーダーシップ』（日経BP）で解説者を務めた増井雄一郎さんに話を聞いた。",
+          "link": "https://type.jp/et/feature/22363",
+          "publishedOn": "2023-05-12T13:54:13.000Z",
+          "wordCount": 363,
+          "title": "【新潮流】管理職にならずに築く「スタッフエンジニア」のキャリアとは？ 増井雄一郎が説く“生涯技術屋”で生きる新しい選択肢",
+          "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2023/05/143f23651fc6d8f0890b92c18c94585d.jpg"
+        },
         {
           "id": "https://decrypt.co/139633/snapchat-star-caryn-marjorie-ai-girlfriend-carynai",
           "author": null,
@@ -2496,86 +2510,6 @@
           "wordCount": 1982,
           "title": "Svelteと他JSフレームワークの比較 - Svelte不定期連載-01",
           "imageUrl": "https://blog.kinto-technologies.com/assets/blog/authors/YusukeIkeda/svelte_01/thumbnail.jpg"
-        },
-        {
-          "id": "https://vuefes.jp/2023",
-          "author": null,
-          "description": "2023年10月28日（土）に開催される日本最大級の Vue.js カンファレンスです。国内外の著名スピーカーによるセッションの他、LT、初心者向けハンズオン、グッズ販売などのイベントも企画しています。ぜひ一緒に Vue.js を楽しみ、盛り上げていきましょう！",
-          "link": "https://vuefes.jp/2023",
-          "publishedOn": "2023-04-13T11:21:51.000Z",
-          "wordCount": 265,
-          "title": "Vue Fes Japan 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://netlify.com/blog/framework-popularity-on-netlify",
-          "author": null,
-          "description": "You can build any type of site on Netlify, with or without a framework, but most developers choose a framework to accelerate their development process.",
-          "link": "https://netlify.com/blog/framework-popularity-on-netlify",
-          "publishedOn": "2023-04-13T03:44:46.000Z",
-          "wordCount": 2568,
-          "title": "Popularity of top frameworks on Netlify : Next.js, Gatsby, create-react-app",
-          "imageUrl": "https://cdn.sanity.io/images/o0o2tn5x/production/826b1c299947d5a297f1ce044dd007e0bf2a5208-2560x1440.png"
-        },
-        {
-          "id": "https://promptingguide.ai/jp",
-          "author": null,
-          "description": "A Comprehensive Overview of Prompt Engineering",
-          "link": "https://promptingguide.ai/jp",
-          "publishedOn": "2023-04-13T00:33:57.000Z",
-          "wordCount": 106,
-          "title": "Prompt Engineering Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://webcreatorbox.com/tech/sass-to-css",
-          "author": null,
-          "description": "CSSをより便利に、効率よく記述できるSass。利用しているWebサイト制作者も多いでしょう。近年はCSSでもSassのような書き方ができるようになってきているので、Sassとの書き方の違いとともに紹介します！ 変数 何 […]",
-          "link": "https://webcreatorbox.com/tech/sass-to-css",
-          "publishedOn": "2023-04-13T00:29:44.000Z",
-          "wordCount": 877,
-          "title": "Sass不要！CSSだけでも変数やネスト、演算子が使えるよ！",
-          "imageUrl": "https://www.webcreatorbox.com/wp-content/uploads/2023/04/thumb-cssnest.jpg"
-        },
-        {
-          "id": "https://blog.playstation.com/2023/04/12/the-elder-scrolls-online-necrom-chapter-gameplay-revealed",
-          "author": null,
-          "description": "Discover the secrets of Apocrypha, revealed by ESO’s development team during a recent livestream.",
-          "link": "https://blog.playstation.com/2023/04/12/the-elder-scrolls-online-necrom-chapter-gameplay-revealed",
-          "publishedOn": "2023-04-13T00:25:35.000Z",
-          "wordCount": 1951,
-          "title": "The Elder Scrolls Online – Necrom chapter gameplay revealed",
-          "imageUrl": "https://blog.playstation.com/tachyon/2023/04/2e6b88a0b3d16d158105d45e06ae5d703ff62dd1.jpg"
-        },
-        {
-          "id": "https://publickey1.jp/blog/23/github200railsrailsruby.html",
-          "author": null,
-          "description": "4月10日でサービス開始からちょうど15周年を迎えたGitHubは、当初からRuby on Railsを用いたモノリシックなアプリケーションとして作られてきました。現在では200万行近い規模のコードになっているそうです。 今年1月にはGtH...",
-          "link": "https://publickey1.jp/blog/23/github200railsrailsruby.html",
-          "publishedOn": "2023-04-13T00:21:58.000Z",
-          "wordCount": 1830,
-          "title": "GitHubは200万行規模のRailsアプリケーションであり、毎週RailsとRubyを最新版にアップデートし続けている",
-          "imageUrl": "https://www.publickey1.jp/2023/QaZxFqvQ.jpg"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/chatgpt-mentalcare",
-          "author": null,
-          "description": "私が経営しているベイジという会社には日報という制度があり、毎日社員が日報をアップしてくれています。 この日報をChatGPTに読み込ませて診断してもらうことで、社員のメンタルの状態を観測できるのではないかと思いました。  …",
-          "link": "https://dev.classmethod.jp/articles/chatgpt-mentalcare",
-          "publishedOn": "2023-04-13T00:19:21.000Z",
-          "wordCount": 2030,
-          "title": "ChatGPTで社員の心を分析できるか？",
-          "imageUrl": "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2023/03/chatgpt.png"
-        },
-        {
-          "id": "https://heartbeats.jp/hbblog/2023/04/rfc.html",
-          "author": null,
-          "description": "こんにちは。技術開発室の伊藤です。ハートビーツではメールサーバを自社で運用しています。そのメールサーバの移設を実施するにあたり、移設を対応するチームでさまざまなメールの仕様を理解しておく必要がありました。メールプロトコルの仕様についてはRFC（Request For Comments）が発行されているため、メールに関するRFCを読んでまとめる勉強会を行いました。その際にRFCを読むにあたっ",
-          "link": "https://heartbeats.jp/hbblog/2023/04/rfc.html",
-          "publishedOn": "2023-04-13T00:13:03.000Z",
-          "wordCount": 814,
-          "title": "RFCの読み方",
-          "imageUrl": null
         }
       ]
     }
