@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
+          "author": "hello@smashingmagazine.com (Ben Clemens)",
+          "description": "Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.",
+          "link": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
+          "publishedOn": "2023-05-16T11:00:00.000Z",
+          "wordCount": 5823,
+          "title": "Design Patterns Are A Better Way To Collaborate On Your Design System",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
           "description": "This article covers common problems using CSS floats and how to solve them using a block formatting context (BFC). Whether you are a beginner or an experienced web developer, you will learn valuable insights and practical solutions for dealing with CSS float issues.",
@@ -309,6 +324,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/",
+          "author": "Amazing Enyichi Agu",
+          "description": "JavaScript is a popular programming language used for developing interactive front-end web applications, among other things.  It's widely known for its major features: it is single-threaded, non-blocking, and asynchronous. But what do these three things mean? What Does \"Single-Threaded\" Mean? When a programming language is referred to as single-threaded,",
+          "link": "https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/",
+          "publishedOn": "2023-05-16T21:58:01.000Z",
+          "wordCount": 3742,
+          "title": "How JavaScript’s Asynchronous Operations Work in the Browser",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/",
+          "author": "Beau Carnes",
+          "description": "Ionic and Capacitor are two powerful tools that can be used to build native mobile applications. Ionic is a UI framework that provides a wide range of components and features for building mobile apps, while Capacitor is a runtime that allows Ionic apps to be deployed to both iOS and",
+          "link": "https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/",
+          "publishedOn": "2023-05-16T21:14:30.000Z",
+          "wordCount": 1000,
+          "title": "Create Native Apps with Ionic and Capacitor",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/ionic.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-does-the-javascript-sort-function-work/",
+          "author": "Grant Weatherston",
+          "description": "In this article I will explain how to use, and maximize the full potential of the sort() function. What is the sort() Function? The sort() function allows you to sort an array object by either the default sorting order, or by a custom sorting function. By default, it sorts the",
+          "link": "https://www.freecodecamp.org/news/how-does-the-javascript-sort-function-work/",
+          "publishedOn": "2023-05-16T20:29:44.000Z",
+          "wordCount": 2655,
+          "title": "JavaScript Sort() – How to Use the Sort Function in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/blog_header2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/",
+          "author": "Beau Carnes",
+          "description": "In a world where cybersecurity threats are more prevalent than ever, understanding how to safeguard your web applications is of paramount importance. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn common JavaScript security vulnerabilities and how to prevent them. Brandon teaches this course.",
+          "link": "https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/",
+          "publishedOn": "2023-05-16T17:43:07.000Z",
+          "wordCount": 1040,
+          "title": "Can you find the bug? JavaScript security vulnerabilities course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/semgrep2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/",
+          "author": "Eamonn Cottrell",
+          "description": "Google Sheets are powerful, and Apps Script makes them even more versatile and useful. Yes, you can use them for finance dashboards, personal budgets, and project management (and we'll cover these as future topics). But in this article, I'll go through the basics of Apps Script by building a simple",
+          "link": "https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/",
+          "publishedOn": "2023-05-16T16:58:37.000Z",
+          "wordCount": 1990,
+          "title": "Learn Google Apps Script Basics by Building a Tic Tac Toe Game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Tic-Tac-Toe-Google-Sheet2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can execute Python code in a terminal just like you would in an IDE like VS Code, Atom, and so on. You can do this in both Windows and Unix operating systems like Linux and macOS.  In this article, you'll learn how to exit a Python program in",
+          "link": "https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/",
+          "publishedOn": "2023-05-16T16:48:59.000Z",
+          "wordCount": 1143,
+          "title": "Python End Program – How to Exit a Python Program in the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/jake-walker-MPKQiDpMyqU-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/",
+          "author": "Adekola Olawale",
+          "description": "If you're a software developer, you may be familiar with the concept of version control. Version control is the practice of managing changes to your codebase over time. It's an essential tool for any development project.  One of the most popular version control systems is Git, which is widely",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/",
+          "publishedOn": "2023-05-16T16:33:59.000Z",
+          "wordCount": 6224,
+          "title": "Git Best Practices – A Guide to Version Control for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/header-min-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/",
+          "author": "Daniel Adetunji",
+          "description": "Abstracting is the process of reducing something to its most basic form. It is the hiding away of the inessential.  For a drawing, this could be reducing it to its basic lines and shapes. Naturally, there are many levels of an abstraction, since what is inessential is subjective.",
+          "link": "https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/",
+          "publishedOn": "2023-05-16T16:31:36.000Z",
+          "wordCount": 2728,
+          "title": "Cloud Computing Abstractions – IaaS, PaaS, FaaS, and SaaS Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pictures-2.001-2.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-networking-in-flutter/",
           "author": "Arunachalam B",
@@ -1577,6 +1672,36 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
         {
+          "id": "https://speakerdeck.com/sugitk/tekunikarusapotonooshi-shi",
+          "author": null,
+          "description": "https://speakerdeck.com/sugitk\nhttps://www.linkedin.com/in/takashi-sugimura-8604a0185/",
+          "link": "https://speakerdeck.com/sugitk/tekunikarusapotonooshi-shi",
+          "publishedOn": "2023-05-16T23:54:19.000Z",
+          "wordCount": 1010,
+          "title": "テクニカルサポートのお仕事",
+          "imageUrl": "https://files.speakerdeck.com/presentations/77f1b58f794a4d0692d812006805636a/slide_0.jpg?25647330"
+        },
+        {
+          "id": "https://automaton-media.com/articles/newsjp/20230516-247500",
+          "author": null,
+          "description": "505 Gamesは5月15日、メックアクションゲーム『HAWKEN REBORN』を発表した。対応プラットフォームはPC（Steam）で、基本プレイ無料にて5月17日に早期アクセス配信予定。",
+          "link": "https://automaton-media.com/articles/newsjp/20230516-247500",
+          "publishedOn": "2023-05-16T11:52:35.000Z",
+          "wordCount": 5369,
+          "title": "オープンワールド基本プレイ無料メックアクション『HAWKEN REBORN』発表、5月17日にSteam早期アクセス配信へ。操縦席で戦うPvE",
+          "imageUrl": "https://automaton-media.com/wp-content/uploads/2023/05/20230516-247500-header.jpg"
+        },
+        {
+          "id": "https://forbesjapan.com/articles/detail/62972",
+          "author": null,
+          "description": "日本の企業が世界に出るときに足りないものは何か。そのひとつが“クリエイティビティ”だとしたら、どうしたら乗り越えていけるのか。Kitchen & Companyの中道大輔がナビゲートするPodcast「VISION TO THE F...",
+          "link": "https://forbesjapan.com/articles/detail/62972",
+          "publishedOn": "2023-05-16T11:52:35.000Z",
+          "wordCount": 1955,
+          "title": "自分の感覚と思考を持つ　ある絵画教室と星野リゾート社長の教え",
+          "imageUrl": "https://images.forbesjapan.com/media/article/62972/images/main_image_c8a332754f0248fb63bc3d73358d40943e1391ec.jpg"
+        },
+        {
           "id": "https://blog.tinect.jp?p=81042",
           "author": null,
           "description": "AIの発展が目覚ましい。   Twitterをみていると、お絵かきAIやChat GPTによる優秀な仕事がサラサラと流れていく。 その仕事のお点前は、既に平均的なビジネスパーソンの域を超えているようにすら見え、…",
@@ -2515,36 +2640,6 @@
           "wordCount": 885,
           "title": "VS Codeのこのダークテーマ、コードが見やすい！ 色の一貫性を向上させ、見やすさを改善したテーマ -Darcula Dark",
           "imageUrl": "https://coliss.com/wp-content/uploads-202302/2023041801@2x.png"
-        },
-        {
-          "id": "https://vondy.com",
-          "author": null,
-          "description": "Browse and create AI-powered apps that can do anything, from generating recipes all the way to writing code. Whatever makes sense for you, we've got you covered.",
-          "link": "https://vondy.com/",
-          "publishedOn": "2023-04-17T00:00:15.000Z",
-          "wordCount": 77,
-          "title": "Vondy - Next Generation AI Apps",
-          "imageUrl": "https://res.cloudinary.com/vondy/image/upload/q_auto/v1646246895/logo/Gradient_icon_ybup8k.png"
-        },
-        {
-          "id": "https://news.mynavi.jp/techplus/kikaku/20230413-2627208",
-          "author": null,
-          "description": "昨年8月に開催した「情シス苦労川柳withタマちゃん」でテレワーク環境整備の苦労話を見事に表現した山宗雲水さん。川柳だけでは伝えきれない苦労話を聞くために、ねこぱん田さんと情シスのタマちゃんがインタビューを行うことに。",
-          "link": "https://news.mynavi.jp/techplus/kikaku/20230413-2627208",
-          "publishedOn": "2023-04-16T12:52:00.000Z",
-          "wordCount": 3711,
-          "title": "無念のテレワーク廃止「あんなに苦労したのに……」ワンオペ情シスの本音",
-          "imageUrl": "https://news.mynavi.jp/techplus/kikaku/20230413-2627208/ogp_images/ogp.jpg"
-        },
-        {
-          "id": "https://yunico.hateblo.jp/entry/2023/04/14/180216",
-          "author": null,
-          "description": "一年前に、お菓子屋さんで働きたいと言う日記を書いていたのだけど、有言実行という感じで、ケーキ屋さんでアルバイトを始めました！平日は会社員、週末はケーキ屋さんの店員です！ yunico.hateblo.jp 週5は会社員として働き、土日をアルバイトに捧げるのは、どう考えても正気の沙汰ではないので難しい と、書いていたけど、正気の沙汰ではない方へ転んでいます。 ⭐️ 5年くらい前からずっと異業種のアルバイトをやりたいと思い続けていて、実際に行動に起こしたのは今年に入ってから。 今年のはじめに書いた抱負のエントリーにも、 40も過ぎて、確実に人生はあと半分程度なんだなと実感することが増えてきた。なら…",
-          "link": "https://yunico.hateblo.jp/entry/2023/04/14/180216",
-          "publishedOn": "2023-04-16T12:35:57.000Z",
-          "wordCount": 262,
-          "title": "平日は会社員、週末はケーキ屋さんのアルバイト始めました",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/12704346814673850236/4207112889980854924/1681462936"
         }
       ]
     }
