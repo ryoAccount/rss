@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
+          "author": "hello@smashingmagazine.com (Ben Shih)",
+          "description": "This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.",
+          "link": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
+          "publishedOn": "2023-05-26T15:30:00.000Z",
+          "wordCount": 5874,
+          "title": "Designing A Better Design Handoff File In Figma",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/success-at-scale-pre-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Meet “Success At Scale”, our upcoming book with best-practice case studies from industry experts. Print and eBook shipping in fall 2023. Pre-order the book.",
@@ -271,21 +286,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.",
-          "link": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
-          "publishedOn": "2023-04-27T12:00:00.000Z",
-          "wordCount": 4111,
-          "title": "Accessible Target Sizes Cheatsheet",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png"
         }
       ]
     },
@@ -294,6 +294,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/new-ish-things-about-c-strings/",
+          "author": "Deborah Kurata",
+          "description": "Much of what we work with in our code are strings. Let's look at some of the newish things about C# strings ... including raw string literals and raw string interpolation that are new in C# 11. Raw string literals make it easy to build complex, multi-line strings, including JSON,",
+          "link": "https://www.freecodecamp.org/news/new-ish-things-about-c-strings/",
+          "publishedOn": "2023-05-26T13:49:06.000Z",
+          "wordCount": 2460,
+          "title": "Strings in C# – What's New, Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/things-about-strings.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/",
+          "author": "Otavio Ehrenberger",
+          "description": "In this article, we'll explore the differences between the traditional GOPATH  environment and the go.mod based environment for Go programming.  This distinction has significant implications for how Go developers structure and manage their project workspaces and dependencies. We'll start by understanding the GOPATH environment, its organization and its",
+          "link": "https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/",
+          "publishedOn": "2023-05-26T00:23:11.000Z",
+          "wordCount": 2424,
+          "title": "Golang Environment – GOPATH vs go.mod",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-james-wheeler-1578750.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-data-validation-rules-excel/",
+          "author": "Faith Oyama",
+          "description": "Data validation is a feature in Excel used in restricting data entry in specific cells. It can also prompt the user to enter valid data into the cells based on the rules and restrictions provided by the creator of the Excel worksheet.  When setting up a workbook, you might",
+          "link": "https://www.freecodecamp.org/news/create-data-validation-rules-excel/",
+          "publishedOn": "2023-05-26T00:07:47.000Z",
+          "wordCount": 1314,
+          "title": "How to Create Data Validation Rules in Excel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-262438.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-sort-dictionary-by-key/",
+          "author": "Shittu Olumide",
+          "description": "Sorting is a fundamental operation in computer programming that involves arranging elements in a specific order.  Whether you're working with numbers, strings, or complex data structures, sorting plays a crucial role in organizing and manipulating data efficiently.  From small arrays to large datasets, sorting algorithms allow programmers to",
+          "link": "https://www.freecodecamp.org/news/python-sort-dictionary-by-key/",
+          "publishedOn": "2023-05-25T23:57:54.000Z",
+          "wordCount": 1329,
+          "title": "Python Sort Dictionary by Key – How to Sort a Dict with Keys",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Python-Sort-Dictionary-by-Key---How-to-Sort-a-Dict-with-Keys.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/",
+          "author": "Amazing Enyichi Agu",
+          "description": "If you're thinking about doing back-end development using JavaScript, you will hear the term ‘Node.js’. Node is often associated with developing powerful web servers. But what exactly is Node.js? Is it a JavaScript framework just like Angular [https://angular.io/]? Is it a programming language? Is it a JavaScript Library? Is it",
+          "link": "https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/",
+          "publishedOn": "2023-05-25T23:08:59.000Z",
+          "wordCount": 3349,
+          "title": "What Exactly is Node.js? A Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/revised_node.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-golang-handbook/",
           "author": "Lane Wagner",
@@ -1413,76 +1463,6 @@
           "wordCount": 6753,
           "title": "The REST API Handbook – How to Build, Test, Consume, and Document REST APIs",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pavan-trikutam-71CjSSB83Wo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/",
-          "author": "Kolade Chris",
-          "description": "In this article, you’ll learn about what square brackets do in regular expressions, how to use them for specifying ranges, and how to match them as a character. What Does Square Bracket Do in RegEx? In regular expressions, square brackets ([ ]) are characters that have a special meaning of",
-          "link": "https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/",
-          "publishedOn": "2023-04-27T12:31:45.000Z",
-          "wordCount": 1114,
-          "title": "How do I Enable Square Brackets in RegEx?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/regexSquareBrackets.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Comparing strings is a common task in most programming languages. In C, you can use the strcmp function to handle string comparisons.  In this article, I will show you practical examples of the strcmp function, and offer insights into how it compares strings, what its return values mean, and",
-          "link": "https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/",
-          "publishedOn": "2023-04-26T20:32:19.000Z",
-          "wordCount": 2291,
-          "title": "strcmp in C – How to Compare Strings in C",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/max-duzij-qAjJk-un3BI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-tenary-operator/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use conditional operators in Python to execute code based on a predefined condition(s).  In this article, you'll learn how to use the ternary operator in Python. You'll see its syntax along with some practical examples.  What Is the Ternary Operator Used for in Python? The ternary",
-          "link": "https://www.freecodecamp.org/news/python-tenary-operator/",
-          "publishedOn": "2023-04-26T15:29:37.000Z",
-          "wordCount": 914,
-          "title": "Python Ternary Operator – Conditional Operators in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/chris-ried-ieic5Tq8YMk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/",
-          "author": "Beau Carnes",
-          "description": "Embark on an exciting journey to master frontend development with this course created by Jess, the expert behind the acclaimed Coder Coder YouTube channel. This comprehensive course on the freeCodeCamp.org YouTube channel is tailored to empower you with the knowledge and skills required to excel in JavaScript, HTML, and CSS,",
-          "link": "https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/",
-          "publishedOn": "2023-04-26T14:59:39.000Z",
-          "wordCount": 954,
-          "title": "Create a Simple Website with HTML, CSS, JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/codercoder.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/application-deployment-strategies/",
-          "author": "Daniel Adetunji",
-          "description": "When deploying changes to an application, there are several strategies you can use.  In this article, I'll explain the different strategies with an analogy, and then we'll analyze the benefits and tradeoffs. Deployment Strategies Imagine you are the manager of a popular pizza restaurant that is open 24/7 for",
-          "link": "https://www.freecodecamp.org/news/application-deployment-strategies/",
-          "publishedOn": "2023-04-26T14:41:00.000Z",
-          "wordCount": 3039,
-          "title": "How to Deploy Changes to an Application – Deployment Strategies Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/",
-          "author": "Kolade Chris",
-          "description": "In regular expressions, \"m\" is a flag that signifies multiple lines. So, it is popularly called the \"multiline flag\". In this article, I will show you what the \"m\" flag does and how you can use it in both regex engines and JavaScript. What Does the \"m\" Flag Do? Sometimes,",
-          "link": "https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/",
-          "publishedOn": "2023-04-26T14:31:31.000Z",
-          "wordCount": 1016,
-          "title": "What Does M Mean in Regular Expressions? M Flag for RegEx",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/mFlagRegex.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/",
-          "author": "Roy Chng",
-          "description": "The useEffect hook in React has become a common tool for managing side effects in functional components. But there's a common pitfall when using it: the potential for infinite loops. These can cause performance issues and disrupt the intended behavior of components.  In this tutorial, we will explore how",
-          "link": "https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/",
-          "publishedOn": "2023-04-26T14:07:12.000Z",
-          "wordCount": 1860,
-          "title": "How to Prevent Infinite Loops When Using useEffect() in ReactJS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/preventing-infinite-loops-react.png"
         }
       ]
     },
@@ -1491,6 +1471,46 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://dev.to/badges",
+          "author": null,
+          "description": "",
+          "link": "https://dev.to/badges",
+          "publishedOn": "2023-05-26T12:54:27.000Z",
+          "wordCount": 3384,
+          "title": "DEV Community",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gamespark.jp/article/2023/05/26/130299.html",
+          "author": null,
+          "description": "『The Matrix Awakens』に組み込んだデモ映像も公開。",
+          "link": "https://gamespark.jp/article/2023/05/26/130299.html",
+          "publishedOn": "2023-05-26T12:41:58.000Z",
+          "wordCount": 1451,
+          "title": "NPCとのリアルタイム音声会話を可能にする「Smart NPCs」発表！AIを利用したUnreal Engine向けプラグイン",
+          "imageUrl": "https://www.gamespark.jp/imgs/ogp_f/681698.jpg"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/051801290",
+          "author": null,
+          "description": "2023年4月28日、フリーランス・事業者間取引適正化等法が参院本会議で可決、成立した。新法は業務を委託する企業に報酬や納期、仕事の範囲などの取引条件を書面やメールで示すように義務付ける。フリーランスエンジニアの働き方をどう変えるのか。",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/051801290",
+          "publishedOn": "2023-05-26T12:23:33.000Z",
+          "wordCount": 1022,
+          "title": "「自由」を手放した20代エンジニア、フリーランス保護新法は悪習を打破できるか",
+          "imageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/051801290/topm.jpg?20220512"
+        },
+        {
+          "id": "https://news.microsoft.com/ja-jp/2023/03/29/230329-digital-human-resource-development-to-change-japanese-society",
+          "author": null,
+          "description": "国内総生産 (GDP) が世界第 3 位で、経済的に発展しているにも関わらず、デジタル競争力ランキングは、他のアジア勢より低い 29 位にとどまっています。",
+          "link": "https://news.microsoft.com/ja-jp/2023/03/29/230329-digital-human-resource-development-to-change-japanese-society",
+          "publishedOn": "2023-05-26T04:09:27.000Z",
+          "wordCount": 1171,
+          "title": "日本の社会を変えていく “デジタル人材育成”",
+          "imageUrl": "https://news.microsoft.com/wp-content/uploads/prod/sites/47/2023/03/230329_p1.jpg"
+        },
         {
           "id": "https://speakerdeck.com/nsakki55/cyberagent-aishi-ye-ben-bu-mlopsyan-xiu-ying-yong-bian",
           "author": null,
@@ -2450,76 +2470,6 @@
           "wordCount": 48,
           "title": "ARMORED CORE VI OFFICIAL SITE | アーマード・コア６ オフィシャルサイト",
           "imageUrl": "https://www.armoredcore.net/resources/images/common/ogp/ogp_image.png"
-        },
-        {
-          "id": "https://shinyorke.hatenablog.com/entry/retro-spective-career-2023",
-          "author": null,
-          "description": "最初に言っておきます. このエントリーは「いい本を読んだついでに自分のキャリアを振り返ってオススメを残す」という長文ブログです. 適当に読み流してもいいですし, 心の琴線に触れる事があれば最後までお付き合い頂けると幸いです. さて, 4月の末と言えば, GWが近づいてくると共に色々考えることがあります. 例えば社会人23年目の私は今年, GWの予定（決まっていない場合に限る） 「こどもの日」にしてあげられること キャリアの振り返りと数年先のキャリアプラン検討 この3つについて真剣に考えています. 今年でいうとGW予定（1.）は90%程度計画済み, こどもの日（2.）は甥っ子に渡すお小遣いを検討…",
-          "link": "https://shinyorke.hatenablog.com/entry/retro-spective-career-2023",
-          "publishedOn": "2023-04-27T03:45:11.000Z",
-          "wordCount": 999,
-          "title": "エンジニアとして30代までにやってて良かった・やれば良かった事を自分のキャリアから振り返ってみた.",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/s/shinyorke/20230424/20230424200344.png"
-        },
-        {
-          "id": "https://tabi-labo.com/306409/wt-deceasedindividual-live-forever",
-          "author": null,
-          "description": "科学者のPratik Desai氏によると、今年中には人間の意識をコンピューターにアップロードできるようになるらしい。永遠に生き続けてほしい人の動画や音声などを集めてAIシステムにアップロードすると、その人のアバターが作られるという。",
-          "link": "https://tabi-labo.com/306409/wt-deceasedindividual-live-forever",
-          "publishedOn": "2023-04-27T00:51:38.000Z",
-          "wordCount": 493,
-          "title": "死が「永遠の別れ」ではなくなる未来",
-          "imageUrl": "https://image.tabi-labo.com/jp/260412/5960746716364800.jpg"
-        },
-        {
-          "id": "https://reffect.co.jp/vue/vuetify3",
-          "author": null,
-          "description": "Vite環境で構築したVueプロジェクトに手動でVuefityをインストールした後のVuefityの基本設定について説明を行っています。コンポーネントの自動importやSass変数の設定について解説を行っているので理解することができればVuetifyのカスタマイズも簡単に行うようになります。",
-          "link": "https://reffect.co.jp/vue/vuetify3",
-          "publishedOn": "2023-04-27T00:47:45.000Z",
-          "wordCount": 1414,
-          "title": "Vuetify3を使いこなすためのTheme, Styles, Sassの設定の基礎",
-          "imageUrl": "https://reffect.co.jp/wp-content/uploads/2023/04/vuetify3.png"
-        },
-        {
-          "id": "https://coliss.com/articles/build-websites/operation/work/how-chatgpt-works.html",
-          "author": null,
-          "description": "ChatGPTをすでに使用している人は多いと思います。また、使用していなくても興味があり、これから使用してみようという人もいるでしょう。 ChatGPTはその仕組みが分からなくても使用できますが、どの",
-          "link": "https://coliss.com/articles/build-websites/operation/work/how-chatgpt-works.html",
-          "publishedOn": "2023-04-27T00:47:17.000Z",
-          "wordCount": 1046,
-          "title": "ChatGPTがどのように機能しているか、深く掘り下げて解説",
-          "imageUrl": "https://coliss.com/wp-content/uploads-202302/2023042201@2x.png"
-        },
-        {
-          "id": "https://coliss.com/articles/build-websites/operation/css/css-transition-display.html",
-          "author": null,
-          "description": "朗報です！！！ 今までJavaScriptや複雑なCSSを使用しないと実装できなかったアニメーションが、簡単なCSSだけで実装できるようなります！ たとえば現在のCSSではtransitionでdis",
-          "link": "https://coliss.com/articles/build-websites/operation/css/css-transition-display.html",
-          "publishedOn": "2023-04-27T00:45:54.000Z",
-          "wordCount": 1010,
-          "title": "CSSのこの新機能、すごく楽しみ！ UI要素にさまざまなアニメーションを簡単に実装できるようになります",
-          "imageUrl": "https://coliss.com/wp-content/uploads-202302/2023042701.gif"
-        },
-        {
-          "id": "https://toyokeizai.net/articles/-/668059?page=4",
-          "author": null,
-          "description": "さまざまな企業で「1on1」の導入が進むなか、実際にやってみると「何をどう話せばいいのかわからない」「質問の仕方や内容によってはハラスメントになるのでは？」と戸惑う管理職や上司も多く、導入しても形だけの…",
-          "link": "https://toyokeizai.net/articles/-/668059?page=4",
-          "publishedOn": "2023-04-27T00:43:25.000Z",
-          "wordCount": 2174,
-          "title": "話をまとめるのが苦手な人が知ると便利な超裏技 ｢1on1面談｣をする際に気を付けるポイントも",
-          "imageUrl": "https://tk.ismcdn.jp/mwimgs/1/e/1200w/img_1e77b09f48c0dcd42bc3cda56a10e17f228318.jpg"
-        },
-        {
-          "id": "https://pawelgrzybek.com/whats-new-in-ecmascript-2023",
-          "author": null,
-          "description": "After reading notes from the last TC39 meeting, it looks like the list of new features coming to JavaScript is already known. The final version of the ECMAScript specification is expected to be published at the end of June.",
-          "link": "https://pawelgrzybek.com/whats-new-in-ecmascript-2023",
-          "publishedOn": "2023-04-27T00:34:30.000Z",
-          "wordCount": 952,
-          "title": "What&#039;s new in ECMAScript 2023",
-          "imageUrl": "https://pawelgrzybek.com/photos/2023-04-18.jpg"
         }
       ]
     }
