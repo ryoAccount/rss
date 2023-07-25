@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T00:37:39.921Z</updated>
+    <updated>2023-07-25T00:40:59.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[私がとあるOSS開発から手を引いた経緯]]></title>
+        <id>https://blog.kengo-toda.jp/entry/why-I-stop-oss-contribution</id>
+        <link href="https://blog.kengo-toda.jp/entry/why-I-stop-oss-contribution"/>
+        <updated>2023-07-24T21:44:46.000Z</updated>
+        <summary type="html"><![CDATA[ホットな話題に乗っかって、私がSpotBugsというJava向け静的解析ツールのOSS開発から手を引いた理由をまとめてみます。 自分がJavaを使わなくなった 先のブログでも指摘されている通りで、自分がそのソフトウェアを必要としなくなったというのは大きな理由になりました。Kotlinに乗り換えたことでJavaを書く機会がなくなり、Kotlinが生成したclassファイルの解析はSpotBugsには向かなかったので、SpotBugsを使わなくなりました。 SpotBugsにKotlin対応させることは技術的には可能ですが、ソースコードも考慮して解析できるdetekt（ktlint, diktat…]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7月25日ランキング】Runa: Ruby で中規模アプリケーションを書くためのフレームワーク／ほか19本]]></title>
+        <id>https://techfeed.io/categories/all/selections/daily/2023/7/25?from=rss</id>
+        <link href="https://techfeed.io/categories/all/selections/daily/2023/7/25?from=rss"/>
+        <updated>2023-07-24T20:00:10.077Z</updated>
+        <summary type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/t/tuto0621/20230723/20230723112912.gif"><br>すべてカテゴリー 2023年7月25日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Runa: Ruby で中規模アプリケーションを書くためのフレームワーク（ongaeshi.hatenablog.com）<br>2位: GitLabで1クリックアカウント乗っ取りが可能だった脆弱性から学ぶ、OpenID Connect実装の注意点（blog.flatt.tech）<br>3位: ChatGPT｢使う会社･使わない会社｣に生じている差（toyokeizai.net）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/7/25?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating YouTube’s Ambient Mode Glow Effect]]></title>
+        <id>https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/</id>
+        <link href="https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/"/>
+        <updated>2023-07-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Adrian deconstructs YouTube’s “Ambient Mode” feature and how HTML `` and the `requestAnimationFrame` function are used to create the glowing effect.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスク氏、Twitterの社名と「鳥」のロゴ廃止を正式に発表]]></title>
+        <id>https://iphone-mania.jp/news-546301</id>
+        <link href="https://iphone-mania.jp/news-546301"/>
+        <updated>2023-07-24T11:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Twitterのオーナーであるイーロン・マスク氏は、現地時間7月23日にTwitterに投稿したとおり、「Twitter」の名称および青い鳥のロゴマークを廃止し、今後はブランド名を「X」とすることを、7月2 […]]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Next.js App with Custom Domain on AWS Using SST]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/"/>
+        <updated>2023-07-24T07:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「どうカーソルを動かしたか」「どこをクリックしたか」「どの部分をスクロールして読み飛ばしたか」などのアクセス情報を全て入手し解析・分析できるオープンソースのアプリ「highlight.io」を使ってみた]]></title>
         <id>https://gigazine.net/news/20230722-highlight-io</id>
