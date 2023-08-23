@@ -226,21 +226,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modern-technology-future-language-translation/modern-technology-future-language-translation.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "In this article, Adrian deconstructs YouTube’s “Ambient Mode” feature and how HTML `` and the `requestAnimationFrame` function are used to create the glowing effect.",
-          "link": "https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/",
-          "publishedOn": "2023-07-24T12:00:00.000Z",
-          "wordCount": 5712,
-          "title": "Recreating YouTube’s Ambient Mode Glow Effect",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/recreating-youtube-ambient-mode-glow-effect/recreating-youtube-ambient-mode-glow-effect.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/recreating-youtube-ambient-mode-glow-effect/recreating-youtube-ambient-mode-glow-effect.jpg"
         }
       ]
     },
@@ -249,6 +234,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
+          "author": "Valentine Gatwiri",
+          "description": "Bundling is an important phase in the web development process, particularly when dealing with JavaScript frameworks like React. It entails combining all the various JavaScript files and dependencies into a single file for faster browser loading and execution.  esbuild is a lightweight and efficient bundler for React apps. Here's",
+          "link": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
+          "publishedOn": "2023-08-22T20:56:13.000Z",
+          "wordCount": 1397,
+          "title": "How to Bundle a Simple React Application Using esbuild",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot-from-2023-08-21-16-04-04.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/",
+          "author": "Nathan Sebhastian",
+          "description": "There are times when you need to validate a date input in your JavaScript applications. This article will show you how to perform the following date validations:  1. Check if a string is a valid date  2. Validate a string in the DD/MM/YYYY format  3. Check if",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/",
+          "publishedOn": "2023-08-22T19:08:29.000Z",
+          "wordCount": 1582,
+          "title": "JS Date Validations – How To Validate a Date in JavaScript (With Examples)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/js-date-validations.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/",
+          "author": "Kunal Nalawade",
+          "description": "In today's ever-changing technology landscape, companies are looking for reliable and scalable ways to run and manage software. And containers have transformed the way we deliver software. Container orchestration platforms have made it possible to deploy and manage containerised applications. Kubernetes is one such platform that has been a game-changer",
+          "link": "https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/",
+          "publishedOn": "2023-08-22T16:34:30.000Z",
+          "wordCount": 3408,
+          "title": "How to Deploy an Application to a Kubernetes Cluster",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/deploy-app-to-k8s-cluster.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
+          "author": "Isah Jacob",
+          "description": "In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO",
+          "link": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
+          "publishedOn": "2023-08-22T16:20:41.000Z",
+          "wordCount": 3680,
+          "title": "How to Protect Your Website Against SEO Poisoning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/How-to-Protect-Your-Website-Against-SEO-Poisoning.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "Svelte is an open-source front-end JavaScript framework used for building web applications, designed to make developing interactive user interfaces more efficient and performant.  Compared to other front-end frameworks like React, Vue, or Angular, it focuses on a different approach by compiling components. In most traditional frameworks, you build components",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/",
+          "publishedOn": "2023-08-22T15:48:35.000Z",
+          "wordCount": 2775,
+          "title": "How to Build a Calculator App with Svelte",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/",
+          "author": "Daniel Adetunji",
+          "description": "In programming, \"state\" refers to the condition of a system, component, or application at a particular point in time.  As a simple example, if you are shopping on amazon.com, whether you are currently logged into the site or if you have anything stored in your cart are some examples",
+          "link": "https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/",
+          "publishedOn": "2023-08-21T21:08:59.000Z",
+          "wordCount": 2217,
+          "title": "Stateful vs Stateless Architecture – Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover-photo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practice-web-scraping-safely/",
+          "author": "Quincy Larson",
+          "description": "When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal",
+          "link": "https://www.freecodecamp.org/news/practice-web-scraping-safely/",
+          "publishedOn": "2023-08-21T19:50:15.000Z",
+          "wordCount": 999,
+          "title": "Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/shawn-henry-eK_aInAXydw-unsplash--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/development-with-large-language-models/",
           "author": "Beau Carnes",
@@ -888,16 +943,6 @@
           "wordCount": 2384,
           "title": "How to Use Google Sheets – A Beginner's Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/maxresdefault.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
-          "author": "Arunachalam B",
-          "description": "Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
-          "publishedOn": "2023-07-24T07:18:19.000Z",
-          "wordCount": 2563,
-          "title": "How to Deploy a Next.js App with Custom Domain on AWS Using SST",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/AWS---SST---Banner.png"
         }
       ]
     },
@@ -1425,26 +1470,6 @@
           "wordCount": 906,
           "title": "私がとあるOSS開発から手を引いた経緯",
           "imageUrl": "https://ogimage.blog.st-hatena.com/13208692334729908800/820878482952066936/1690161909"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-546301",
-          "author": null,
-          "description": "Twitterのオーナーであるイーロン・マスク氏は、現地時間7月23日にTwitterに投稿したとおり、「Twitter」の名称および青い鳥のロゴマークを廃止し、今後はブランド名を「X」とすることを、7月2 […]",
-          "link": "https://iphone-mania.jp/news-546301",
-          "publishedOn": "2023-07-24T11:09:54.000Z",
-          "wordCount": 1497,
-          "title": "マスク氏、Twitterの社名と「鳥」のロゴ廃止を正式に発表",
-          "imageUrl": "https://iphone-mania.jp/uploads/2023/07/24/F1yPk5VXoAA3rGZ-e1690188783177.jpeg"
-        },
-        {
-          "id": "https://gigazine.net/news/20230722-highlight-io",
-          "author": null,
-          "description": "ウェブアプリの開発をする時、ユーザーに「どこが分かりにくかったか」や「どこでエラーが発生したのか」などの情報をフィードバックしてもらいたいものですが、そうしたフィードバックを送る作業はなかなかに面倒なもので、全然直接のフィードバックは来ないのにTwitterにはいろんな意見が書かれている……ということはよくあります。「highlight.io」はそうしたフィードバックを勝手にやってくれるツールということで、実際に使って試してみました。",
-          "link": "https://gigazine.net/news/20230722-highlight-io",
-          "publishedOn": "2023-07-24T00:03:48.000Z",
-          "wordCount": 2477,
-          "title": "「どうカーソルを動かしたか」「どこをクリックしたか」「どの部分をスクロールして読み飛ばしたか」などのアクセス情報を全て入手し解析・分析できるオープンソースのアプリ「highlight.io」を使ってみた",
-          "imageUrl": "https://i.gzn.jp/img/2023/07/22/highlight-io/00.png"
         }
       ]
     },
@@ -1453,6 +1478,26 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2023/8/23?from=rss",
+          "author": null,
+          "description": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/t/tenkoma/20230816/20230816170317.png\"><br>すべてカテゴリー 2023年8月23日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 10年開発してきたPHPアプリケーションにPHPStanを導入した（devblog.thebase.in）<br>2位: コピペしたAPI仕様書をAIが「理解」し、アプリができあがるローコード開発環境「Flowise」を試す【イニシャルB】（internet.watch.impress.co.jp）<br>3位: 3日で作った業務アプリで「毎月最大550時間」の工数削減　非効率なアナログ作業が多い「現場」のDX成功事例（logmi.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/8/23?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2023/8/23?from=rss",
+          "publishedOn": "2023-08-22T20:00:10.442Z",
+          "wordCount": 6984,
+          "title": "【8月23日ランキング】10年開発してきたPHPアプリケーションにPHPStanを導入した／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftenkoma%2F20230816%2F20230816170317.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/649e99b64f5d391db83ed896?from=rss",
+          "author": null,
+          "description": "今回は、株式会社リチカさんに、「リチカ クラウドスタジオ」におけるリアルタイム静止画編集機能の作り方を詳しく伺ってきました！",
+          "link": "https://techfeed.io/entries/649e99b64f5d391db83ed896?from=rss",
+          "publishedOn": "2023-08-22T08:40:01.153Z",
+          "wordCount": 7178,
+          "title": "ReactカスタムフックからヘッドレスChromeまで！リアルタイム静止画編集機能の作り方を、リチカのエンジニアに聞いてきた",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/richka_0.png"
+        },
         {
           "id": "https://techfeed.io/entries/64e3f69eb813884736be506a?from=rss",
           "author": null,
@@ -1822,26 +1867,6 @@
           "wordCount": 6986,
           "title": "【7月25日ランキング】Runa: Ruby で中規模アプリケーションを書くためのフレームワーク／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftuto0621%2F20230723%2F20230723112912.gif"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/7/24?from=rss",
-          "author": null,
-          "description": "<img src=\"https://www.sbbit.jp/article/image/118842/OGP_bit202307181519553616.jpg\"><br>すべてカテゴリー 2023年7月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: ChatGPTは「Excelになる」、マッキンゼーが社内で生成AIを活用する「4C」とは何か（www.sbbit.jp）<br>2位: ChatGPT｢使う会社･使わない会社｣に生じている差（toyokeizai.net）<br>3位: 例示で精度を高める「Few-shot Learning」、思考の連鎖「Chain of Thought」…　新しいパラダイム「プロンプトエンジニアリング」に対するアイデア（logmi.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/7/24?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/7/24?from=rss",
-          "publishedOn": "2023-07-23T20:00:10.477Z",
-          "wordCount": 6987,
-          "title": "【7月24日ランキング】ChatGPTは「Excelになる」、マッキンゼーが社内で生成AIを活用する「4C」とは何か／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.sbbit.jp%2Farticle%2Fimage%2F118842%2FOGP_bit202307181519553616.jpg"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/weekly/2023/W29?from=rss",
-          "author": null,
-          "description": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/A/ASnoKaze/20230717/20230717013835.png\"><br>すべてカテゴリー 2023年7月3週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: 逆向きに接続する Reverse HTTP Transport の仕様（asnokaze.hatenablog.com）<br>2位: 無料で商用可、ChatGPT（3.5）に匹敵する生成AI「Llama 2」　Metaが発表、Microsoftと優先連携（www.itmedia.co.jp）<br>3位: 生成AIグラビアをグラビアカメラマンが作るとどうなる？第二回：「アジア美女」最新モデルBRAV6作例とネガティブプロンプトの基礎（www.techno-edge.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/weekly/2023/W29?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/weekly/2023/W29?from=rss",
-          "publishedOn": "2023-07-23T14:59:59.999Z",
-          "wordCount": 6989,
-          "title": "【7月3週ランキング】逆向きに接続する Reverse HTTP Transport の仕様／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FA%2FASnoKaze%2F20230717%2F20230717013835.png"
         }
       ]
     },
