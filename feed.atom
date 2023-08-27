@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T00:28:06.756Z</updated>
+    <updated>2023-08-27T00:31:25.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Release v8.7.0 · pnpm/pnpm]]></title>
+        <id>https://realtime.jser.info/2023/08/27/release-v8-7-0-pnpm-pnpm/</id>
+        <link href="https://realtime.jser.info/2023/08/27/release-v8-7-0-pnpm-pnpm/"/>
+        <updated>2023-08-27T00:18:55.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/pnpm/pnpm/releases/tag/v8.7.0
+ pnpm v8.7.0リリース。
+worker_threadsを使ったパッケージの解凍処理でパフォーマンスの改善。
+v8.0.0では依存する最小バージョンをインストールするresolution-mode: lowestがデフォルトだったが、v8.7.0でresolution-mode: highestに変更。
+pnpm importがnpmのlockfileVersion 3をサポートなど]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「10年後、エンジニアとしてどうなっていたい？」　ビジネス・テクノロジー・エンジニアリングの軸から見る、技術職のキャリアパス]]></title>
+        <id>https://logmi.jp/tech/articles/328014</id>
+        <link href="https://logmi.jp/tech/articles/328014"/>
+        <updated>2023-08-26T20:58:05.000Z</updated>
+        <summary type="html"><![CDATA[エンジニアとして「やりたいことをできる」環境を作っていくためには、どうキャリアの道をつくっていけばいいのか？ 何を考え、何を学習し、日々どういうコードを書いていけばよいのか？ 「Meets Professional #1」に登壇したのは、元DMM、現デジタルハーツCTOの城倉和孝氏。今の開発現場と、これまでの経験からの気づきを共有しました。全2回。前半は、エンジニアのキャリアの行き先について。]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 5.2]]></title>
+        <id>https://devblogs.microsoft.com/typescript/announcing-typescript-5-2</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-5-2"/>
+        <updated>2023-08-26T20:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re excited to announce the release of TypeScript 5.2! If you’re not familiar with TypeScript, it’s a language that builds on top of JavaScript by making it possible to declare and describe types. Writing types in our code allows us to explain intent and have other tools check our code to catch mistakes like typos,]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuxt 3.7 · Nuxt]]></title>
+        <id>https://realtime.jser.info/2023/08/26/nuxt-3-7-nuxt/</id>
+        <link href="https://realtime.jser.info/2023/08/26/nuxt-3-7-nuxt/"/>
+        <updated>2023-08-26T04:40:27.000Z</updated>
+        <summary type="html"><![CDATA[https://nuxt.com/blog/v3-7
+ Nuxt v3.7リリース。
+Web StreamとResponseのサポート、capo.jsを使った&lt;head&gt;内の要素の最適化をサポート、Vite 4.4へのアップデート、Nitro 2.6へのアップデート。
+tsconfig.jsonのbaseUrlではなく相対パスを使うように変更、AsyncLocalStorageを使った非同期コンテキストのサポートなど
+関連URL
+Announcing Nitro 2.6 · UnJS]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-Time Notification System with Go and Kafka]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/"/>
+        <updated>2023-08-25T21:41:27.000Z</updated>
+        <summary type="html"><![CDATA[These days, applications need to have instant data access and processing capabilities. Whether it's updating real-time stock trades for financial institutions or navigating through live traffic data, the ability to process and react to data in real time is crucial. In this tutorial, you’ll delve into the mechanics of Kafka]]></summary>
+        <author>
+            <name>Hermann Rösch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Large Language Model from Scratch Using Python]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/</id>
@@ -1913,98 +1972,6 @@ https://428lab.connpass.com/event/290514/]]></summary>
         <summary type="html"><![CDATA[Hello! My name is Rafael Hernandez and I'm excited to announce the launch of our new podcast: El Podcast de freeCodeCamp en Español [https://freecodecamp-en-espanol.transistor.fm/].  ‌‌‌‌In this podcast, we'll dive into the stories of inspiring people in the world of technology and content creation. Our goal is to bring you]]></summary>
         <author>
             <name>Rafael D. Hernandez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Define An Array Of Colors With CSS]]></title>
-        <id>https://smashingmagazine.com/2023/07/define-array-colors-css/</id>
-        <link href="https://smashingmagazine.com/2023/07/define-array-colors-css/"/>
-        <updated>2023-07-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[k6による負荷試験の入門から実践まで]]></title>
-        <id>https://techfeed.io/entries/64c350cb704ddd0bc8f1bfcb?from=rss</id>
-        <link href="https://techfeed.io/entries/64c350cb704ddd0bc8f1bfcb?from=rss"/>
-        <updated>2023-07-28T06:00:59.761Z</updated>
-        <summary type="html"><![CDATA[Grafana k6は負荷テストシナリオをJavaScriptによって柔軟に構成できる便利なツールです。k6を使って、今まで負荷試験をやったことがない方が最初の一歩を踏み出すところから、シナリオ構築のコツや実践的な使い方を紹介します]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カーネルコードの歩き方 ‐ ソースコードを読むための勘所を知る]]></title>
-        <id>https://techfeed.io/entries/64c344b2704ddd0bc8f1b8a6?from=rss</id>
-        <link href="https://techfeed.io/entries/64c344b2704ddd0bc8f1b8a6?from=rss"/>
-        <updated>2023-07-28T04:47:31.064Z</updated>
-        <summary type="html"><![CDATA[数千万行に及ぶLinuxカーネルのコードのうち、どんなときにどこのコードを読めばいいか、そのときに何を手がかりにすればいいか、などについてお話します。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Networks、CI/CDプラットフォームのセキュリティ強化のためCNAPPを拡大]]></title>
-        <id>https://techfeed.io/entries/64c2c2e9704ddd0bc8f14eed?from=rss</id>
-        <link href="https://techfeed.io/entries/64c2c2e9704ddd0bc8f14eed?from=rss"/>
-        <updated>2023-07-27T23:46:09.066Z</updated>
-        <summary type="html"><![CDATA[7月28日、Palo Alto Networksは、クラウドネイティブアプリケーション保護プラットフォーム（CNAPP）の範囲を拡大し、CI/CDプラットフォームのセキュリティを確保する機能を追加しました。
-ソフトウェアの供給チェーンをより安全にするために、この拡張が行われました。
-詳細は以下の通りです。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7月28日ランキング】WEARをリノベ！Objective-CからSwiftへのリプレイス戦略でも使えるスナップショットテスト／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/7/28?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/7/28?from=rss"/>
-        <updated>2023-07-27T20:00:11.074Z</updated>
-        <summary type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/v/vasilyjp/20230724/20230724125913.jpg"><br>すべてカテゴリー 2023年7月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: WEARをリノベ！Objective-CからSwiftへのリプレイス戦略でも使えるスナップショットテスト（techblog.zozo.com）<br>2位: パナソニックは「ChatGPT」をこんな仕事に使っている (1/4)（ascii.jp）<br>3位: 画像生成AIに“AIが作った画像”を学習させ続けると？　“品質や多様性が悪化”　「モデル自食症」に（www.itmedia.co.jp）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/7/28?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeScript Generics with Functional React Components]]></title>
-        <id>https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/</id>
-        <link href="https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/"/>
-        <updated>2023-07-27T18:53:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore the powerful synergy between TypeScript generics and functional React components. Generics allow you to define flexible components that can adapt to different data structures and enforce type safety throughout your codebase. By leveraging Generics in functional components, you can create highly reusable and adaptable]]></summary>
-        <author>
-            <name>Olasunkanmi Balogun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations]]></title>
-        <id>https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/</id>
-        <link href="https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/"/>
-        <updated>2023-07-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augmented Reality Course – Take Your First Steps into the World of AR]]></title>
-        <id>https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/</id>
-        <link href="https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/"/>
-        <updated>2023-07-27T13:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Imagine transforming your surroundings with interactive digital overlays, creating new experiences, and changing the way you interact with the world around you. Welcome to the future – the future of Augmented Reality (AR). The freeCodeCamp.org YouTube channel just launched a comprehensive new course that will teach you how to implement]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Next.js by Building a Custom API with MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/"/>
-        <updated>2023-07-27T12:28:05.000Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce the launch of a new course on the freeCodeCamp.org YouTube channel that will give you an in-depth understanding of how to build a custom API using Next.js and MongoDB. This course was created by Hitesh Choudhary. He is an an expert in the field and has]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

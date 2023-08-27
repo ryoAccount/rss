@@ -211,36 +211,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2023/aug-23-summer-day-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/define-array-colors-css/",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "description": "Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.",
-          "link": "https://smashingmagazine.com/2023/07/define-array-colors-css/",
-          "publishedOn": "2023-07-28T10:00:00.000Z",
-          "wordCount": 4710,
-          "title": "How To Define An Array Of Colors With CSS",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/define-array-colors-css/define-array-colors-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/define-array-colors-css/define-array-colors-css.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).",
-          "link": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
-          "publishedOn": "2023-07-27T15:00:00.000Z",
-          "wordCount": 4099,
-          "title": "How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/artificial-intelligence-machine-learning-summarize-chat-conversations/artificial-intelligence-machine-learning-summarize-chat-conversations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/artificial-intelligence-machine-learning-summarize-chat-conversations/artificial-intelligence-machine-learning-summarize-chat-conversations.jpg"
         }
       ]
     },
@@ -249,6 +219,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/",
+          "author": "Hermann Rösch",
+          "description": "These days, applications need to have instant data access and processing capabilities. Whether it's updating real-time stock trades for financial institutions or navigating through live traffic data, the ability to process and react to data in real time is crucial. In this tutorial, you’ll delve into the mechanics of Kafka",
+          "link": "https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/",
+          "publishedOn": "2023-08-25T21:41:27.000Z",
+          "wordCount": 3562,
+          "title": "How to Build a Real-Time Notification System with Go and Kafka",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Go_Kafka_Vert_Rev2.svg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/",
           "author": "Beau Carnes",
@@ -908,36 +888,6 @@
           "wordCount": 952,
           "title": "freeCodeCamp is Launching a Podcast in Spanish",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/fcc-podcast-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/",
-          "author": "Olasunkanmi Balogun",
-          "description": "In this article, we will explore the powerful synergy between TypeScript generics and functional React components. Generics allow you to define flexible components that can adapt to different data structures and enforce type safety throughout your codebase. By leveraging Generics in functional components, you can create highly reusable and adaptable",
-          "link": "https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/",
-          "publishedOn": "2023-07-27T18:53:32.000Z",
-          "wordCount": 2364,
-          "title": "How to Use TypeScript Generics with Functional React Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/federico-beccari-ahi73ZN5P0Y-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/",
-          "author": "Beau Carnes",
-          "description": "Imagine transforming your surroundings with interactive digital overlays, creating new experiences, and changing the way you interact with the world around you. Welcome to the future – the future of Augmented Reality (AR). The freeCodeCamp.org YouTube channel just launched a comprehensive new course that will teach you how to implement",
-          "link": "https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/",
-          "publishedOn": "2023-07-27T13:00:56.000Z",
-          "wordCount": 1093,
-          "title": "Augmented Reality Course – Take Your First Steps into the World of AR",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/augmented-reality.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/",
-          "author": "Beau Carnes",
-          "description": "We're excited to announce the launch of a new course on the freeCodeCamp.org YouTube channel that will give you an in-depth understanding of how to build a custom API using Next.js and MongoDB. This course was created by Hitesh Choudhary. He is an an expert in the field and has",
-          "link": "https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/",
-          "publishedOn": "2023-07-27T12:28:05.000Z",
-          "wordCount": 1204,
-          "title": "Learn Next.js by Building a Custom API with MongoDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/next.png"
         }
       ]
     },
@@ -946,6 +896,26 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://logmi.jp/tech/articles/328014",
+          "author": null,
+          "description": "エンジニアとして「やりたいことをできる」環境を作っていくためには、どうキャリアの道をつくっていけばいいのか？ 何を考え、何を学習し、日々どういうコードを書いていけばよいのか？ 「Meets Professional #1」に登壇したのは、元DMM、現デジタルハーツCTOの城倉和孝氏。今の開発現場と、これまでの経験からの気づきを共有しました。全2回。前半は、エンジニアのキャリアの行き先について。",
+          "link": "https://logmi.jp/tech/articles/328014",
+          "publishedOn": "2023-08-26T20:58:05.000Z",
+          "wordCount": 609,
+          "title": "「10年後、エンジニアとしてどうなっていたい？」　ビジネス・テクノロジー・エンジニアリングの軸から見る、技術職のキャリアパス",
+          "imageUrl": "https://img.logmi.jp/article_images/GhF5dH7k91K8DQPTJWoCbG.png"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-2",
+          "author": null,
+          "description": "Today we’re excited to announce the release of TypeScript 5.2! If you’re not familiar with TypeScript, it’s a language that builds on top of JavaScript by making it possible to declare and describe types. Writing types in our code allows us to explain intent and have other tools check our code to catch mistakes like typos,",
+          "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-2",
+          "publishedOn": "2023-08-26T20:51:59.000Z",
+          "wordCount": 9622,
+          "title": "Announcing TypeScript 5.2",
+          "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png"
+        },
         {
           "id": "https://speakerdeck.com/minodriven/ghosts-of-technical-debt",
           "author": null,
@@ -1792,46 +1762,6 @@
           "wordCount": 6985,
           "title": "【7月4週ランキング】Google、iPaaS「Application Integration」正式リリース。Salesforceやkintone、BigQuery、MySQLなど多数のサービスをGUIで接続／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2023%2F9wqMldy7.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/64c350cb704ddd0bc8f1bfcb?from=rss",
-          "author": null,
-          "description": "Grafana k6は負荷テストシナリオをJavaScriptによって柔軟に構成できる便利なツールです。k6を使って、今まで負荷試験をやったことがない方が最初の一歩を踏み出すところから、シナリオ構築のコツや実践的な使い方を紹介します",
-          "link": "https://techfeed.io/entries/64c350cb704ddd0bc8f1bfcb?from=rss",
-          "publishedOn": "2023-07-28T06:00:59.761Z",
-          "wordCount": 7073,
-          "title": "k6による負荷試験の入門から実践まで",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/dxxvtap8whloh2vbxxts.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/64c344b2704ddd0bc8f1b8a6?from=rss",
-          "author": null,
-          "description": "数千万行に及ぶLinuxカーネルのコードのうち、どんなときにどこのコードを読めばいいか、そのときに何を手がかりにすればいいか、などについてお話します。",
-          "link": "https://techfeed.io/entries/64c344b2704ddd0bc8f1b8a6?from=rss",
-          "publishedOn": "2023-07-28T04:47:31.064Z",
-          "wordCount": 7026,
-          "title": "カーネルコードの歩き方 ‐ ソースコードを読むための勘所を知る",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/wk4c4hovube87ayk4fut.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/64c2c2e9704ddd0bc8f14eed?from=rss",
-          "author": null,
-          "description": "7月28日、Palo Alto Networksは、クラウドネイティブアプリケーション保護プラットフォーム（CNAPP）の範囲を拡大し、CI/CDプラットフォームのセキュリティを確保する機能を追加しました。\nソフトウェアの供給チェーンをより安全にするために、この拡張が行われました。\n詳細は以下の通りです。",
-          "link": "https://techfeed.io/entries/64c2c2e9704ddd0bc8f14eed?from=rss",
-          "publishedOn": "2023-07-27T23:46:09.066Z",
-          "wordCount": 7019,
-          "title": "Palo Alto Networks、CI/CDプラットフォームのセキュリティ強化のためCNAPPを拡大",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fdevops.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmapping.jpg"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/7/28?from=rss",
-          "author": null,
-          "description": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/v/vasilyjp/20230724/20230724125913.jpg\"><br>すべてカテゴリー 2023年7月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: WEARをリノベ！Objective-CからSwiftへのリプレイス戦略でも使えるスナップショットテスト（techblog.zozo.com）<br>2位: パナソニックは「ChatGPT」をこんな仕事に使っている (1/4)（ascii.jp）<br>3位: 画像生成AIに“AIが作った画像”を学習させ続けると？　“品質や多様性が悪化”　「モデル自食症」に（www.itmedia.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/7/28?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/7/28?from=rss",
-          "publishedOn": "2023-07-27T20:00:11.074Z",
-          "wordCount": 6986,
-          "title": "【7月28日ランキング】WEARをリノベ！Objective-CからSwiftへのリプレイス戦略でも使えるスナップショットテスト／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20230724%2F20230724125913.jpg"
         }
       ]
     },
@@ -1846,6 +1776,26 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2023/08/27/release-v8-7-0-pnpm-pnpm/",
+          "author": null,
+          "description": "https://github.com/pnpm/pnpm/releases/tag/v8.7.0\n pnpm v8.7.0リリース。\nworker_threadsを使ったパッケージの解凍処理でパフォーマンスの改善。\nv8.0.0では依存する最小バージョンをインストールするresolution-mode: lowestがデフォルトだったが、v8.7.0でresolution-mode: highestに変更。\npnpm importがnpmのlockfileVersion 3をサポートなど",
+          "link": "https://realtime.jser.info/2023/08/27/release-v8-7-0-pnpm-pnpm/",
+          "publishedOn": "2023-08-27T00:18:55.000Z",
+          "wordCount": 53,
+          "title": "Release v8.7.0 · pnpm/pnpm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/08/26/nuxt-3-7-nuxt/",
+          "author": null,
+          "description": "https://nuxt.com/blog/v3-7\n Nuxt v3.7リリース。\nWeb StreamとResponseのサポート、capo.jsを使った&lt;head&gt;内の要素の最適化をサポート、Vite 4.4へのアップデート、Nitro 2.6へのアップデート。\ntsconfig.jsonのbaseUrlではなく相対パスを使うように変更、AsyncLocalStorageを使った非同期コンテキストのサポートなど\n関連URL\nAnnouncing Nitro 2.6 · UnJS",
+          "link": "https://realtime.jser.info/2023/08/26/nuxt-3-7-nuxt/",
+          "publishedOn": "2023-08-26T04:40:27.000Z",
+          "wordCount": 58,
+          "title": "Nuxt 3.7 · Nuxt",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2023/08/25/announcing-typescript-5-2-typescript/",
           "author": null,
