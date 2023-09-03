@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T00:28:28.958Z</updated>
+    <updated>2023-09-03T00:31:24.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Design Trade-offs in Bundler: The Rationale Behind Creating Rspack · web-infra-dev/wg · Discussion #1]]></title>
+        <id>https://realtime.jser.info/2023/09/02/design-trade-offs-in-bundler-the-rationale-behind-creating-rspack-web-infra-dev-wg-discussion-1/</id>
+        <link href="https://realtime.jser.info/2023/09/02/design-trade-offs-in-bundler-the-rationale-behind-creating-rspack-web-infra-dev-wg-discussion-1/"/>
+        <updated>2023-09-02T06:31:58.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/web-infra-dev/wg/discussions/1
+ Rspackの開発の目的やwebpack/parcel/esbuild/rollupなどのbundlerのアーキテクチャについて。
+webpackにはデバッグやパフォーマンスの問題があり、Vite/Rollupも大規模プロジェクトではパフォーマンスにビルド環境の差異の問題があり、esbuildはプラグインの柔軟性に問題がある。
+RollupはESMのみが第一級市民であり、RspackはwebpackとParcelと同じく言語に依存しないことを目的にしている。
+それぞれのbundlerのプラグインAPIの設計と複雑性、ASTの再利用とパフォーマンスの問題、Tree ShakingをASTベースで行った場合の課題について。
+また、今後のRspackが目指す方向して簡単に使えるようにすること、デバッグをしやすくすること、最適化をwebpackと同等以上にすること、リモートキャッシュなどについて触れている。]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern.js]]></title>
+        <id>https://realtime.jser.info/2023/09/02/modern-js/</id>
+        <link href="https://realtime.jser.info/2023/09/02/modern-js/"/>
+        <updated>2023-09-02T06:21:18.000Z</updated>
+        <summary type="html"><![CDATA[https://modernjs.dev/en
+ ByteDanceのJavaScript向けのウェブアプリケーションフレームワーク。
+Reactをベースにしたクライアントサイド向けのモデルやルーティング、Rspack/ESLint/Jestなどの統合、BFFのサポート、MicroFrontendのサポートなどをしている。]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lampというバンドをご存じですか？]]></title>
         <id>https://portalshit.net/2005/10/28/129</id>
@@ -2197,116 +2224,6 @@ https://428lab.connpass.com/event/290514/]]></summary>
         <link href="https://vim-jp.org/blog/2023/08/05/Vim-boss-passed-away.html"/>
         <updated>2023-08-05T22:46:40.000Z</updated>
         <summary type="html"><![CDATA[本日 2023-08-05、悲しいお知らせが入ってきました。Vim の作者 Bram Moolenaar 氏が亡くなりました。謹んでお悔やみを申し上げます。 以下は Bram Moolenaar 氏のご家族から vim_announce に送られたメッセージです。]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/</id>
-        <link href="https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/"/>
-        <updated>2023-08-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this two-part series of articles, Hannah Milan covers the best practices when using various accessible text over images techniques for designing your web and mobile app content.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Hannah Milan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform CRUD Operations – JavaScript and SQL Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-perform-crud-operations-js-and-sql/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-js-and-sql/"/>
-        <updated>2023-08-03T20:41:40.000Z</updated>
-        <summary type="html"><![CDATA[For the most part, interactive website architectures will involve generating or dispensing data of one sort or another. You can certainly use HTML forms to collect user input. But the kind of web form that's described here [/news/creating-html-forms/] will only take you so far.  What we really need is]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Dynamic Wordpress Site with Advanced Custom Fields and Custom Post Types]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-dynamic-wordpress-website/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-dynamic-wordpress-website/"/>
-        <updated>2023-08-03T20:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Hello, fellow WordPress enthusiasts! Today, I want to share with you an exciting journey I took while building Honeymoons.com [https://honeymoons.com]. It's a dynamic website that uses Advanced Custom Fields (ACF) [https://www.advancedcustomfields.com/] and Custom Post Types [https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/] .  As a travel company specializing in dreamy honeymoon destinations, it was crucial]]></summary>
-        <author>
-            <name>Jim Campbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【8月4日ランキング】Pythonがグローバルインタプリタロックの解消へ、マルチスレッド処理の高速化実現／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/8/4?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/8/4?from=rss"/>
-        <updated>2023-08-03T20:00:10.075Z</updated>
-        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2023/python_nogil01.png"><br>すべてカテゴリー 2023年8月4日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Pythonがグローバルインタプリタロックの解消へ、マルチスレッド処理の高速化実現（www.publickey1.jp）<br>2位: NTTデータが生成AI使うシステム開発手法を全技術者に展開、人月型契約が見直しに（xtech.nikkei.com）<br>3位: 9ヶ月かけて全ての API を REST から GraphQL にリプレースした話（gabu.hatenablog.com）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/8/4?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETL vs ELT – Which Data Integration Technique Should You Choose?]]></title>
-        <id>https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/</id>
-        <link href="https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/"/>
-        <updated>2023-08-03T16:04:29.000Z</updated>
-        <summary type="html"><![CDATA[These days, organizations are collecting large volumes of data from diverse sources. And their data teams need to harness the power of that data efficiently. Both ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) pipelines play pivotal roles in integrating data from various sources into a centralized data repository.]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Data Structure For Storing Non-Duplicate Items In Python]]></title>
-        <id>https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/the-best-data-structure-for-storing-non-duplicate-items-in-python/"/>
-        <updated>2023-08-03T15:08:47.000Z</updated>
-        <summary type="html"><![CDATA[If you're coding in Python and you need to store non-duplicate items while ensuring each item is unique, which data structure should you use?  I'd recommend the set data structure. It's an unordered collection of unique elements, meaning it cannot contain any duplicate items.  When you add elements]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medical AI Models with TensorFlow – Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/medical-ai-models-with-tensorflow-tutorial/"/>
-        <updated>2023-08-03T13:20:47.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is transforming many industries, including healthcare. Artificial intelligence is playing a pivotal role in saving lives and improving patient outcomes. And it is easier than you may think to start applying AI models to medical imaging. We just posted a course on the freeCodeCamp.org YouTube channel that will]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「これってなんだっけ？」なデザイン様式の名前について調べました。]]></title>
-        <id>https://liginc.co.jp/631231</id>
-        <link href="https://liginc.co.jp/631231"/>
-        <updated>2023-08-03T12:55:30.000Z</updated>
-        <summary type="html"><![CDATA[わかると便利なデザインの様式に関する用語をご紹介します。実務で使えそうな素材のリファレンス付きです。「こんなテイストを探したいけど、言語化できない……」そんな方はぜひ参考にされてください。]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Safe AI – Reducing Existential Risks in Machine Learning]]></title>
-        <id>https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/</id>
-        <link href="https://www.freecodecamp.org/news/building-safe-ai-reducing-existential-risks-in-machine-learning/"/>
-        <updated>2023-08-03T12:38:54.000Z</updated>
-        <summary type="html"><![CDATA[As technology advances at an unprecedented pace, so does the development of Machine Learning (ML) and Artificial Intelligence (AI) systems. These systems have grown exponentially in size, capability, and are now being deployed in critical and high-stakes environments. As with any powerful technology, safety becomes an important concern. We just]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【catnose】Zennを生んだ個人開発者に聞く、プロダクト開発の美学]]></title>
-        <id>https://levtech.jp/media/article/interview/detail_283</id>
-        <link href="https://levtech.jp/media/article/interview/detail_283"/>
-        <updated>2023-08-03T12:34:16.000Z</updated>
-        <summary type="html"><![CDATA[個人開発者として数々のプロダクトをヒットさせてきたcatnose氏のこれまでを振り返りながら、開発哲学や、30代になるとともに起きた心境の変化など、ざっくばらんに語っていただきました。]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイデアの宝庫、すごい最新Webデザイン40個まとめ]]></title>
-        <id>https://photoshopvip.net/149235</id>
-        <link href="https://photoshopvip.net/149235"/>
-        <updated>2023-08-03T12:28:53.000Z</updated>
-        <summary type="html"><![CDATA[「ウェブサイトのアイデアが浮かばない」「刺激的なインスピレーションが欲しい」「打ち合わせでイメージをすり合わせたい」そんなときに目を通したい、世界で話題の最新Webデザインをまとめてご紹介します。]]></summary>
         <author>
             <name>My Reading List: Read and Unread</name>
         </author>
