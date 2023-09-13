@@ -166,21 +166,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
-          "author": "hello@smashingmagazine.com (Lars Kappert)",
-          "description": "Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.",
-          "link": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
-          "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 4634,
-          "title": "Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg"
         }
       ]
     },
@@ -189,6 +174,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/",
+          "author": "Eivind Kjosbakken",
+          "description": "The Donut model in Python is a model you can use to extract text from a given image. This can be useful in various scenarios, like scanning receipts, for example.  You can easily download the Donut model from GitHub [https://github.com/clovaai/donut]. But as is common with AI models, you should",
+          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/",
+          "publishedOn": "2023-09-12T17:59:17.000Z",
+          "wordCount": 1848,
+          "title": "How to Fine-Tune the Donut Model – With Example Use Case",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/undraw_Dashboard_re_3b76-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/",
+          "author": "Manish Shivanandhan",
+          "description": "In 2023, the digital landscape is filled with unprecedented cybersecurity risks. From phishing scams to ransomware attacks. This article outlines different types of cyber attacks that individuals and businesses should be vigilant about. Cyber-attacks are a prevalent threat in the online world. They have the potential to cause substantial difficulties",
+          "link": "https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/",
+          "publishedOn": "2023-09-12T17:28:42.000Z",
+          "wordCount": 3371,
+          "title": "13 Types of Cyber Attacks You Should Know in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/cyberattack.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/",
+          "author": "Chinwendu Enyinna",
+          "description": "When you’re building the backend of an application, you’ve got to figure out how all the different components are going to talk to each other.  It’s like setting up a communication network for your app’s brain, and the way you do it can seriously impact how well your app",
+          "link": "https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/",
+          "publishedOn": "2023-09-12T16:25:03.000Z",
+          "wordCount": 3894,
+          "title": "Communication Design Patterns for Backend Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/comm-design-patterns.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/",
+          "author": "Beau Carnes",
+          "description": "In the ever-evolving landscape of business, understanding the intricacies of finance and economics is essential for success. Topics such as the principles of money and deciphering the impact of macroeconomic changes serve as the bedrock of strategic decision-making. We just posted a full course on the freeCodeCamp.org YouTube channel that",
+          "link": "https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/",
+          "publishedOn": "2023-09-12T14:58:32.000Z",
+          "wordCount": 1066,
+          "title": "Fundamentals of Finance & Economics for Businesses",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/finance.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/",
+          "author": "Vikram Aruchamy",
+          "description": "Amazon Simple Storage Service (S3) is a highly scalable, durable, and available object storage service. It is designed to store any amount of data, anytime, from anywhere on the web.  S3 is a key component of the Amazon Web Services (AWS) cloud platform. AWS Lambda is a serverless computing",
+          "link": "https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/",
+          "publishedOn": "2023-09-12T10:44:09.000Z",
+          "wordCount": 1928,
+          "title": "How to Read a CSV File from S3 Bucket in AWS Lambda - A Definitive Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/unnamed.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
+          "author": "Oluwatobi Sofela",
+          "description": "CSS transitions and animations provide smooth, gradual ways to change an element's style. But they work in different ways. Here are the main distinctions between them: CSS Transition CSS Animation  * Creates smooth transitions from one CSS value to    another.   * You need triggers",
+          "link": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
+          "publishedOn": "2023-09-12T00:20:36.000Z",
+          "wordCount": 5908,
+          "title": "CSS Transition vs Animation Handbook – How to Animate Elements in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/How-to-Animate-Elements-in-CSS-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/improve-reactjs-code/",
           "author": "Neha sharma",
@@ -1017,6 +1062,16 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
         {
+          "id": "https://japan.zdnet.com/article/35208968",
+          "author": null,
+          "description": "",
+          "link": "https://japan.zdnet.com/article/35208968",
+          "publishedOn": "2023-09-12T11:46:40.000Z",
+          "wordCount": null,
+          "title": "ハイブリッドワークを求める声は強まっている--デロイト調査",
+          "imageUrl": null
+        },
+        {
           "id": "https://waveditor.qvantor.space",
           "author": null,
           "description": "Waveditor is a developer-friendly open-source low-code platform for easily building,\nstoring, and sending emails.",
@@ -1535,16 +1590,6 @@
           "wordCount": 585,
           "title": "“細かすぎるリソース管理”が「いかにメンバーに空きを作らせないか」という思考の原因になる プロジェクトマネージャーが陥りがちなアンチパターン回避法",
           "imageUrl": "https://img.logmi.jp/article_images/2P6xJoymJ9ndu28xu24ZyA.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20230814-internet-archive-library-appeal",
-          "author": null,
-          "description": "ウェブサイトなどのさまざまなデジタル情報を記録・保存してインターネット上に公開する非営利団体・インターネットアーカイブは、2020年3月にデジタル書籍を図書館のように借りて読むことができる電子図書館「National Emergency Library(国立緊急図書館)」を発表しました。この国立緊急図書館に対して大手出版社が「インターネットアーカイブによる国立緊急図書館は著作権侵害」と訴訟を起こし、ニューヨークの連邦地方裁判所が出版社側の主張を認めました。これを受けて、インターネットアーカイブ側は控訴する姿勢をみせています。",
-          "link": "https://gigazine.net/news/20230814-internet-archive-library-appeal",
-          "publishedOn": "2023-08-14T10:35:38.000Z",
-          "wordCount": 2446,
-          "title": "インターネットアーカイブが敗訴で電子図書館の貸出に大きな制限がかかる見通し、インターネットアーカイブ側は控訴する予定",
-          "imageUrl": "https://i.gzn.jp/img/2023/08/14/internet-archive-library-appeal/00_m.jpg"
         }
       ]
     },
@@ -1553,6 +1598,26 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2023/9/13?from=rss",
+          "author": null,
+          "description": "<img src=\"https://image.itmedia.co.jp/ait/articles/2309/12/cover_news026.jpg\"><br>すべてカテゴリー 2023年9月13日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも（atmarkit.itmedia.co.jp）<br>2位: 3大クラウド(AWS,Azure,GCP)をそれぞれプロダクションで実運用した感想(その3 AWS固有の優位性について)（qiita.com）<br>3位: アニメの常識、画像生成AIが変える可能性「AnimateDiff」のすごい進化 (1/3)（ascii.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/9/13?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2023/9/13?from=rss",
+          "publishedOn": "2023-09-12T20:00:10.967Z",
+          "wordCount": 7002,
+          "title": "【9月13日ランキング】Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fait%2Farticles%2F2309%2F12%2Fcover_news026.jpg"
+        },
+        {
+          "id": "https://techfeed.io/entries/64ff266ea660b5535f019138?from=rss",
+          "author": null,
+          "description": "2023年12月にリリース予定のRuby 3.3に関する現状と、Rubyインタプリタ開発をするための基礎知識をご紹介します。",
+          "link": "https://techfeed.io/entries/64ff266ea660b5535f019138?from=rss",
+          "publishedOn": "2023-09-12T05:11:30.522Z",
+          "wordCount": 7098,
+          "title": "最新のRubyとその開発について",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/vfynkbuptuwwsmj7rkk6.jpg"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2023/9/12?from=rss",
           "author": null,
@@ -1952,26 +2017,6 @@
           "wordCount": 6984,
           "title": "【8月15日ランキング】面倒な「ダミーデータ作成」をChatGPTに任せる〜Code Interpreterの限界までリアリティを追求した作業の記録【イニシャルB】／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1520%2F407%2F001.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/8/14?from=rss",
-          "author": null,
-          "description": "<img src=\"https://i.gzn.jp/img/2023/08/12/mindy-hyperporn/00.jpg\"><br>すべてカテゴリー 2023年8月14日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: AIが架空の女性やセクシーな写真、ストーリーや音声まで作成する「ハイパーポルノ」（gigazine.net）<br>2位: Pythonにおけるimportの危険性とは　全ての運用関係者が知っておくべきPython特有のセキュリティリスク（atmarkit.itmedia.co.jp）<br>3位: トーマツ、AIで不正会計を検知　300社の財務データ学習（www.nikkei.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/8/14?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/8/14?from=rss",
-          "publishedOn": "2023-08-13T20:00:10.510Z",
-          "wordCount": 6985,
-          "title": "【8月14日ランキング】AIが架空の女性やセクシーな写真、ストーリーや音声まで作成する「ハイパーポルノ」／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2023%2F08%2F12%2Fmindy-hyperporn%2F00.jpg"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/weekly/2023/W32?from=rss",
-          "author": null,
-          "description": "<img src=\"https://www.publickey1.jp/2023/nativephp_la.png\"><br>すべてカテゴリー 2023年8月2週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: 「NativePHP」、PHPでデスクトップアプリを開発できるフレームワークが登場（www.publickey1.jp）<br>2位: AIが架空の女性やセクシーな写真、ストーリーや音声まで作成する「ハイパーポルノ」（gigazine.net）<br>3位: Pythonにおけるimportの危険性とは　全ての運用関係者が知っておくべきPython特有のセキュリティリスク（atmarkit.itmedia.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/weekly/2023/W32?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/weekly/2023/W32?from=rss",
-          "publishedOn": "2023-08-13T14:59:59.999Z",
-          "wordCount": 6984,
-          "title": "【8月2週ランキング】「NativePHP」、PHPでデスクトップアプリを開発できるフレームワークが登場／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2023%2Fnativephp_la.png"
         }
       ]
     },
@@ -1986,6 +2031,26 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2023/09/13/doc-mark-v16-x-as-end-of-life-by-targos-pull-request-908-nodejs-release/",
+          "author": null,
+          "description": "https://github.com/nodejs/Release/pull/908\n Node.js 16がEOLとなった\n関連URL\nBringing forward the End-of-Life Date for Node.js 16 | Node.js",
+          "link": "https://realtime.jser.info/2023/09/13/doc-mark-v16-x-as-end-of-life-by-targos-pull-request-908-nodejs-release/",
+          "publishedOn": "2023-09-12T22:45:16.000Z",
+          "wordCount": 75,
+          "title": "doc: mark v16.x as End-of-Life by targos · Pull Request #908 · nodejs/Release",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/09/12/release-v29-7-0-jestjs-jest/",
+          "author": null,
+          "description": "https://github.com/jestjs/jest/releases/tag/v29.7.0\n Jest v29.7.0リリース。\njest --initに変わってセットアップができるcreate-jestパッケージの追加など",
+          "link": "https://realtime.jser.info/2023/09/12/release-v29-7-0-jestjs-jest/",
+          "publishedOn": "2023-09-12T12:56:17.000Z",
+          "wordCount": 50,
+          "title": "Release v29.7.0 · jestjs/jest",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2023/09/11/doc-mark-v16-x-as-end-of-life-by-targos-pull-request-908-nodejs-release/",
           "author": null,
@@ -2484,16 +2549,6 @@
           "publishedOn": "2023-08-14T13:17:17.000Z",
           "wordCount": 47,
           "title": "Release v1.37.0 · microsoft/playwright",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/08/14/google-online-security-blog-an-update-on-chrome-security-updates-shipping-security-fixes-to-you-faster/",
-          "author": null,
-          "description": "https://security.googleblog.com/2023/08/an-update-on-chrome-security-updates.html\n Chrome 116から、2週間ごとのセキュリティリリースが1週間ごとのリリースへと短縮される。",
-          "link": "https://realtime.jser.info/2023/08/14/google-online-security-blog-an-update-on-chrome-security-updates-shipping-security-fixes-to-you-faster/",
-          "publishedOn": "2023-08-13T23:48:24.000Z",
-          "wordCount": 73,
-          "title": "Google Online Security Blog: An update on Chrome Security updates – shipping security fixes to you faster",
           "imageUrl": null
         }
       ]
