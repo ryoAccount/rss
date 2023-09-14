@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/",
+          "author": "hello@smashingmagazine.com (Ben Shih)",
+          "description": "Running a workshop can be an effective alternative to traditional, long-standing meetings. To help ensure its success, Ben Shih introduces the concept of an inclusive workshop. In Part 1 of the series, you discover the fundamentals of inclusivity and get some solid guidance on how to plan an inclusive remote workshop.",
+          "link": "https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/",
+          "publishedOn": "2023-09-13T11:00:00.000Z",
+          "wordCount": 6252,
+          "title": "Facilitating Inclusive Online Workshops (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/facilitating-inclusive-online-workshops-part1/facilitating-inclusive-online-workshops.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/facilitating-inclusive-online-workshops-part1/facilitating-inclusive-online-workshops.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/",
           "author": "hello@smashingmagazine.com (Preethi Samathanam)",
           "description": "Gradients are a powerful CSS feature. We use them for texture, depth, and even to hide parts of elements with CSS masking. This article covers another interesting way to use gradients — as a hover effect that affects the appearance of other elements around the hovered element.",
@@ -151,21 +166,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/better-context-menus-safe-triangles/better-context-menus-safe-triangles.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
-          "author": "hello@smashingmagazine.com (Mike Herchel)",
-          "description": "The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.",
-          "link": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
-          "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 4437,
-          "title": "Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg"
         }
       ]
     },
@@ -174,6 +174,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/",
+          "author": "Seth Falco",
+          "description": "On the modern web, we've normalized fetching fonts from client-side, or embedding fonts in resources that are served to users. While this may be tempting, it actually makes very little sense for most use-cases. This isn't suggesting to never use external fonts. Just a reminder that fonts aren't free, and",
+          "link": "https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/",
+          "publishedOn": "2023-09-13T11:18:31.000Z",
+          "wordCount": 2517,
+          "title": "Things to Consider When Picking Fonts for your Next Project – An In-Depth Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/markus-spiske-f81ym3dE5N4-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/",
           "author": "Eivind Kjosbakken",
@@ -1003,56 +1013,6 @@
           "wordCount": 5569,
           "title": "JavaScript Tips to Help You Build Better Web Development Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/start-graph--15-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-web-scraping-with-python-and-beautiful-soup-in-spanish-course-for-beginners/",
-          "author": "Estefania Cassingena Navone",
-          "description": "If your goal is to collect data from websites automatically, web scraping may be exactly what you need. In this course, you will learn all the basics with exercises and practical projects. We published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you how to use",
-          "link": "https://www.freecodecamp.org/news/learn-web-scraping-with-python-and-beautiful-soup-in-spanish-course-for-beginners/",
-          "publishedOn": "2023-08-15T04:50:16.000Z",
-          "wordCount": 1077,
-          "title": "Learn Web Scraping with Python and Beautiful Soup in Spanish – Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Web-Scraping-Thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/",
-          "author": "Yazdun Fadali",
-          "description": "JavaScript is one of the most popular programming languages among web developers. And it offers multiple ways to organize and share code between different files.  When working with modules, you might come across two common ways of exporting: Default exports and Named exports.  Understanding the difference between these",
-          "link": "https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/",
-          "publishedOn": "2023-08-14T16:36:15.000Z",
-          "wordCount": 3290,
-          "title": "What's the Difference Between Default and Named Exports in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Frame-6-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/",
-          "author": "Salim Oyinlola",
-          "description": "The Microsoft Learn Student Ambassadors [https://mvp.microsoft.com/studentambassadors] program is a student-focused program designed to empower students to become advocates and leaders in the tech ecosystem.  Microsoft Learn Student Ambassadors are student leaders who collaborate with Microsoft to help fellow students learn about technology and engage with various Microsoft technologies and",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/",
-          "publishedOn": "2023-08-14T16:11:33.000Z",
-          "wordCount": 2238,
-          "title": "How to Become a Microsoft Learn Student Ambassador",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/asdfghjkl-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-operators/",
-          "author": "Nathan Sebhastian",
-          "description": "JavaScript has many operators that you can use to perform operations on values and variables (also called operands) Based on the types of operations these JS operators perform, we can divide them up into seven groups:  1. Arithmetic Operators  2. Assignment Operators  3. Comparison Operators  4.",
-          "link": "https://www.freecodecamp.org/news/javascript-operators/",
-          "publishedOn": "2023-08-14T15:44:58.000Z",
-          "wordCount": 4006,
-          "title": "Learn JavaScript Operators – Logical, Comparison, Ternary, and More JS Operators With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/JS-EVERY-OPERATOR.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stable-diffusion-crash-course/",
-          "author": "Lynn Zheng",
-          "description": "Learn how to make AI Art with Stable Diffusion",
-          "link": "https://www.freecodecamp.org/news/stable-diffusion-crash-course/",
-          "publishedOn": "2023-08-14T13:35:55.000Z",
-          "wordCount": 1034,
-          "title": "How to Make AI Art with Stable Diffusion",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/stableif.png"
         }
       ]
     },
@@ -1061,6 +1021,26 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://agilepainrelief.com/blog/why-having-a-tech-lead-or-manager-as-scrum-master-is-a-bad-idea.html",
+          "author": null,
+          "description": "Making a tech lead or manager the Scrum Master of a team is a bad choice that can cause damage and have the opposite effect of what is intended. Here's why.",
+          "link": "https://agilepainrelief.com/blog/why-having-a-tech-lead-or-manager-as-scrum-master-is-a-bad-idea.html",
+          "publishedOn": "2023-09-13T23:54:24.000Z",
+          "wordCount": 7567,
+          "title": "Why Having a Tech Lead or Manager as Scrum Master is a Bad Idea",
+          "imageUrl": null
+        },
+        {
+          "id": "https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing",
+          "author": null,
+          "description": "【GitHub x サイバーエージェント共催】GitHub Copilotで変わる開発文化の現実\nhttps://cyberagent.connpass.com/event/292982/",
+          "link": "https://speakerdeck.com/kurochan/saihaesientonogithub-copilotdao-ru-to-kai-fa-sheng-chan-xing",
+          "publishedOn": "2023-09-13T04:00:01.000Z",
+          "wordCount": 2662,
+          "title": "サイバーエージェントのGitHub Copilot導入と 開発生産性",
+          "imageUrl": "https://files.speakerdeck.com/presentations/6da8b84c9a25403bb9a0b361bd3d336e/slide_0.jpg?26983661"
+        },
         {
           "id": "https://japan.zdnet.com/article/35208968",
           "author": null,
@@ -1570,26 +1550,6 @@
           "wordCount": 547,
           "title": "アーキテクチャ・デシジョン・レコードの勧め",
           "imageUrl": "https://developer.mamezou-tech.com/previews/アーキテクチャ・デシジョン・レコードの勧め.png"
-        },
-        {
-          "id": "https://speakerdeck.com/zigorou/zu-zhi-wosukerusaserutameno-four-keys-totimutoporozi",
-          "author": null,
-          "description": "Findy 開発生産性 Conference における発表です",
-          "link": "https://speakerdeck.com/zigorou/zu-zhi-wosukerusaserutameno-four-keys-totimutoporozi",
-          "publishedOn": "2023-08-15T03:34:04.000Z",
-          "wordCount": 2493,
-          "title": "組織をスケールさせるための Four Keys とチームトポロジー",
-          "imageUrl": "https://files.speakerdeck.com/presentations/3619efb6db1b4b21aa8fe2feb466b871/slide_0.jpg?26331240"
-        },
-        {
-          "id": "https://logmi.jp/tech/articles/327540",
-          "author": null,
-          "description": "ソフトウェア開発において「悪い結果に陥りやすい、避けるべき典型例」を指す、「アンチパターン」。 プロジェクトマネジメントの世界にも存在するアンチパターンは、プロジェクトの遅延や成果物の品質低下を招く原因となります。今回のセミナーでは、プロジェクトマネジメントの現場でよく見かける「プロジェクトマネジメントのアンチパターン」と、その回避方法を紹介しました。全4回。2回目は、アンチパターンその2「細かすぎるリソース管理」について。",
-          "link": "https://logmi.jp/tech/articles/327540",
-          "publishedOn": "2023-08-15T03:21:46.000Z",
-          "wordCount": 585,
-          "title": "“細かすぎるリソース管理”が「いかにメンバーに空きを作らせないか」という思考の原因になる プロジェクトマネージャーが陥りがちなアンチパターン回避法",
-          "imageUrl": "https://img.logmi.jp/article_images/2P6xJoymJ9ndu28xu24ZyA.png"
         }
       ]
     },
@@ -1598,6 +1558,26 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2023/9/14?from=rss",
+          "author": null,
+          "description": "<img src=\"https://i.gzn.jp/img/2023/09/12/chatgpt-diagnosis-pain/00.jpg\"><br>すべてカテゴリー 2023年9月14日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 3年間で17人の医師が見つけられなかった少年の痛みの原因をChatGPTが特定することに成功（gigazine.net）<br>2位: Microsoft、「基礎C#認定資格」を公開　無料でC#が学べる35時間分のトレーニングコースも（atmarkit.itmedia.co.jp）<br>3位: PHP標準のアプリケーションサーバー「PHP-FPM」から「NGINX Unit」に乗り換えるだけで約8倍も応答速度が改善したというテスト結果（gigazine.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/9/14?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2023/9/14?from=rss",
+          "publishedOn": "2023-09-13T20:00:10.638Z",
+          "wordCount": 7001,
+          "title": "【9月14日ランキング】3年間で17人の医師が見つけられなかった少年の痛みの原因をChatGPTが特定することに成功／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2023%2F09%2F12%2Fchatgpt-diagnosis-pain%2F00.jpg"
+        },
+        {
+          "id": "https://techfeed.io/entries/6500129aa660b5535f021576?from=rss",
+          "author": null,
+          "description": "体験した事例をもとに、パフォーマンスチューニングには必須のモニタリングの大切さについて紹介します。",
+          "link": "https://techfeed.io/entries/6500129aa660b5535f021576?from=rss",
+          "publishedOn": "2023-09-13T03:00:00.884Z",
+          "wordCount": 7122,
+          "title": "Kubenetesトラブル事例で学ぶ、モニタリングの大切さ 〜 トラブルとの出会いは突然に 〜",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/dsnh88b5gprpk5neakqx.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2023/9/13?from=rss",
           "author": null,
@@ -2007,16 +1987,6 @@
           "wordCount": 6986,
           "title": "【8月16日ランキング】面倒な「ダミーデータ作成」をChatGPTに任せる〜Code Interpreterの限界までリアリティを追求した作業の記録【イニシャルB】／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1520%2F407%2F001.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/8/15?from=rss",
-          "author": null,
-          "description": "<img src=\"https://internet.watch.impress.co.jp/img/iw/list/1520/407/001.png\"><br>すべてカテゴリー 2023年8月15日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 面倒な「ダミーデータ作成」をChatGPTに任せる〜Code Interpreterの限界までリアリティを追求した作業の記録【イニシャルB】（internet.watch.impress.co.jp）<br>2位: 意外と良くなってきてしまった動画生成と音楽生成。第二回AIアートグランプリはどうなる!?（wirelesswire.jp）<br>3位: 3D生成AIサービスの現在地（note.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/8/15?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/8/15?from=rss",
-          "publishedOn": "2023-08-14T20:00:10.359Z",
-          "wordCount": 6984,
-          "title": "【8月15日ランキング】面倒な「ダミーデータ作成」をChatGPTに任せる〜Code Interpreterの限界までリアリティを追求した作業の記録【イニシャルB】／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1520%2F407%2F001.png"
         }
       ]
     },
@@ -2031,6 +2001,26 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2023/09/13/release-v3-6-0-honojs-hono/",
+          "author": null,
+          "description": "https://github.com/honojs/hono/releases/tag/v3.6.0\n Hono v3.6.0リリース。\nc.render()とc.setRenderer()の追加、c.varの追加。\nHMRに対応するViteプラグインとして@hono/vite-dev-serverを公開など",
+          "link": "https://realtime.jser.info/2023/09/13/release-v3-6-0-honojs-hono/",
+          "publishedOn": "2023-09-13T13:41:20.000Z",
+          "wordCount": 50,
+          "title": "Release v3.6.0 · honojs/hono",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/09/13/new-in-chrome-117-chrome-developers/",
+          "author": null,
+          "description": "https://developer.chrome.com/en/blog/new-in-chrome-117/\n Chrome 117リリース。\nCSSのアニメーションに関する機能の追加、\nCSS subgridの実装。\nECMAScript Stage 3のObject.groupBy/Map.groupByの実装、Iterator Helpersの実装など\n関連URL\nChrome 117 beta - Chrome Developers",
+          "link": "https://realtime.jser.info/2023/09/13/new-in-chrome-117-chrome-developers/",
+          "publishedOn": "2023-09-13T13:32:38.000Z",
+          "wordCount": 66,
+          "title": "New in Chrome 117 - Chrome Developers",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2023/09/13/doc-mark-v16-x-as-end-of-life-by-targos-pull-request-908-nodejs-release/",
           "author": null,
@@ -2519,36 +2509,6 @@
           "publishedOn": "2023-08-16T06:46:44.000Z",
           "wordCount": 46,
           "title": "React - Speaker Deck",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/08/15/electron-26-0-0-electron/",
-          "author": null,
-          "description": "https://www.electronjs.org/blog/electron-26-0\n Electron 26リリース。\nChromium 116, V8 11.2, Node.js 18.16.1へのアップデート。",
-          "link": "https://realtime.jser.info/2023/08/15/electron-26-0-0-electron/",
-          "publishedOn": "2023-08-15T11:12:41.000Z",
-          "wordCount": 52,
-          "title": "Electron 26.0.0 | Electron",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/08/15/release-v1-3-0-vega-ts-json-schema-generator/",
-          "author": null,
-          "description": "https://github.com/vega/ts-json-schema-generator/releases/tag/v1.3.0\n ts-json-schema-generator v1.3.0リリース。\nsatisfies演算子のサポート、TypeScript 5へのアップデート、Bunのサポートなど",
-          "link": "https://realtime.jser.info/2023/08/15/release-v1-3-0-vega-ts-json-schema-generator/",
-          "publishedOn": "2023-08-14T21:58:58.000Z",
-          "wordCount": 49,
-          "title": "Release v1.3.0 · vega/ts-json-schema-generator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/08/14/release-v1-37-0-microsoft-playwright/",
-          "author": null,
-          "description": "https://github.com/microsoft/playwright/releases/tag/v1.37.0\n playwright v1.37.0リリース。\n--shardフラグで分割実行した結果のレポートを結合できるmerge-reportsコマンドの追加など",
-          "link": "https://realtime.jser.info/2023/08/14/release-v1-37-0-microsoft-playwright/",
-          "publishedOn": "2023-08-14T13:17:17.000Z",
-          "wordCount": 47,
-          "title": "Release v1.37.0 · microsoft/playwright",
           "imageUrl": null
         }
       ]
