@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T00:28:52.056Z</updated>
+    <updated>2023-09-17T00:32:16.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドのディレクトリ構成を変えた 2023]]></title>
+        <id>https://scrapbox.io/kobayang/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AE%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E6%A7%8B%E6%88%90%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F_2023</id>
+        <link href="https://scrapbox.io/kobayang/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AE%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E6%A7%8B%E6%88%90%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F_2023"/>
+        <updated>2023-09-16T04:39:27.000Z</updated>
+        <summary type="html"><![CDATA[背景 Atomic Design ベースのディレクトリ構成になっていたが、 molecules と ogranisms のルールが定まっておらず、コンポーネントがどっちに入るのかが個々人の感覚になっていた 一部の機能は機能ごとにディレクトリを切っていてルールが曖昧になっていた テストと実装が別ディレクトリにあって、集約性の観点で見通しが悪かった 一行まとめ Atomic Design ベースから]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find the Exact Line of an Infinite Loop Bug in the code | by Abdu Tawfik | Medium]]></title>
+        <id>https://realtime.jser.info/2023/09/16/how-to-find-the-exact-line-of-an-infinite-loop-bug-in-the-code-by-abdu-tawfik-medium/</id>
+        <link href="https://realtime.jser.info/2023/09/16/how-to-find-the-exact-line-of-an-infinite-loop-bug-in-the-code-by-abdu-tawfik-medium/"/>
+        <updated>2023-09-16T00:44:57.000Z</updated>
+        <summary type="html"><![CDATA[https://abduvik.medium.com/how-to-find-infinite-loops-in-javascript-using-devtools-ea5fc84aec73
+ Chromeで無限ループが起きてる時にパフォーマンスのプロファイルを取る方法について。
+無限ループが起きるとProfile自体も完了しないため、記録を開始してタブのプロセスを強制的に停止すると取得できるという方法について。
+また同期的な無限ループと非同期的な無限ループについて]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Disney Data Scientist Eric Leung on Math, Medicine, and Learning to Code]]></title>
         <id>https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/</id>
@@ -2563,78 +2586,6 @@ RSCのネットワークリクエストをパースし、ペイロードを可�
         <summary type="html"><![CDATA[めがねにブルーライトをカットするフィルターを付けても、コンピューター作業による目の負担を軽減したり、網膜を保護したり、睡眠の質を改善したりする効果は期待できないかもしれない――。そんな研究結果が１７日の学術誌に発表された。]]></summary>
         <author>
             <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js: next/testmodeという概念が出現しMSW x Playwrightのテストがやりやすくなりそう]]></title>
-        <id>https://zenn.dev/uyas/articles/bc58a4bed15ed4</id>
-        <link href="https://zenn.dev/uyas/articles/bc58a4bed15ed4"/>
-        <updated>2023-08-18T11:39:09.000Z</updated>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fresh 1.4 – Faster Page Loads, Layouts and More]]></title>
-        <id>https://realtime.jser.info/2023/08/18/fresh-1-4-faster-page-loads-layouts-and-more/</id>
-        <link href="https://realtime.jser.info/2023/08/18/fresh-1-4-faster-page-loads-layouts-and-more/"/>
-        <updated>2023-08-18T10:18:12.000Z</updated>
-        <summary type="html"><![CDATA[https://deno.com/blog/fresh-1.4
- Fresh 1.4リリース。
-事前コンパイルによるページ読み込みの改善、&lt;head&gt;/&lt;head&gt;/&lt;body&gt;タグを定義できるように、_layoutフィアルのサポート。
-defineRoute/defineLayout/defineApp関数の追加、ルートグループの追加など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【8月18日ランキング】AWS、LinuxからAmazon S3をファイルシステムとしてマウントし利用できる「Mountpoint for Amazon S3」正式公開／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/8/18?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/8/18?from=rss"/>
-        <updated>2023-08-17T20:00:10.531Z</updated>
-        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2023/m4s301.png"><br>すべてカテゴリー 2023年8月18日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: AWS、LinuxからAmazon S3をファイルシステムとしてマウントし利用できる「Mountpoint for Amazon S3」正式公開（www.publickey1.jp）<br>2位: なぜデスクトップ「Linux」のユーザーは一向に増えないのか？（japan.zdnet.com）<br>3位: AIはどのような仕事ができるようになったのか？ChatGPTで変わる「優秀な人材」（tokoroten.medium.com）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/8/18?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is College Still Worth it? Tips from my 20 Years in Adult Education]]></title>
-        <id>https://www.freecodecamp.org/news/is-college-worth-it/</id>
-        <link href="https://www.freecodecamp.org/news/is-college-worth-it/"/>
-        <updated>2023-08-17T17:46:36.000Z</updated>
-        <summary type="html"><![CDATA[So many people ask me each week: is college still worth it? In this 1-hour video I answer this question and other commonly asked questions about university. I've been in adult education for two decades at this point, and even though I'm not a labor market economist, I do feel]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement a Blender Model in a React.js Application using Three.js]]></title>
-        <id>https://www.freecodecamp.org/news/blender-three-js-react-js/</id>
-        <link href="https://www.freecodecamp.org/news/blender-three-js-react-js/"/>
-        <updated>2023-08-17T14:58:49.000Z</updated>
-        <summary type="html"><![CDATA[In this step-by-step guide, you'll learn how to build a basic Blender file with incorporated fundamental animations. After that, you'll learn how to integrate Three.js with your React apps using React Three Fiber.  Getting familiar with these concepts can help you make sure your upcoming React.js applications stand out.]]></summary>
-        <author>
-            <name>Matthes Bär</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML and CSS – Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/html-css-handbook-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/html-css-handbook-for-beginners/"/>
-        <updated>2023-08-17T14:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Greetings, and welcome to this comprehensive HTML and CSS handbook. My goal is to teach you everything you need to know about building fast and beautiful websites that look great on any device. I'm assuming you have no knowledge of HTML or CSS and want to learn everything from scratch.]]></summary>
-        <author>
-            <name>Karlgusta Annoh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 7 Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/</id>
-        <link href="https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/"/>
-        <updated>2023-08-17T14:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification (003) with this free 7-hour course. What is the HashiCorp Terraform Associate? HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple]]></summary>
-        <author>
-            <name>Andrew Brown</name>
         </author>
     </entry>
 </feed>
