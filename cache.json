@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "This article is a peek behind the curtain of how content is managed here at Smashing Magazine. In it, you’ll get a tour of an article’s full lifecycle, from a basic outline to the sort of thing you’re reading right this second.",
+          "link": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
+          "publishedOn": "2023-09-18T18:00:00.000Z",
+          "wordCount": 4780,
+          "title": "How Smashing Magazine Uses TinaCMS To Manage An Editorial Workflow",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/revealing-images-css-mask-animations/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
           "description": "Let’s play with images and experiment with CSS masks. The idea is fairly simple: take a single `` tag and harness the power of CSS to accomplish complex hover transitions. Through different demos, you will see how CSS masks combined with gradients allow us to create fancy effects — with efficient, reusable code.",
@@ -189,6 +204,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
+          "author": "Beau Carnes",
+          "description": "It is easier than ever to launch your own Software as a Service (SaaS) company! (The hard part is getting people interested in it). We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through every step of building and deploying a full-stack AI SaaS application.",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
+          "publishedOn": "2023-09-18T17:14:49.000Z",
+          "wordCount": 906,
+          "title": "Build and Deploy an AI SaaS with Paid Subscriptions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/saas.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/",
+          "author": "Jose Vicente Nunez",
+          "description": "I was tasked recently to find which of our processes was accessing a NFS share [https://en.wikipedia.org/wiki/Network_File_System]. During this process, I found that some tools are better adapted than others for the task. In this article, I want to share with you my findings. The whole process was fun and gave",
+          "link": "https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/",
+          "publishedOn": "2023-09-18T06:54:37.000Z",
+          "wordCount": 4154,
+          "title": "Network File System – How to Confirm Your Application is Using NFS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/article-raspberrypi-cover.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/",
           "author": "Quincy Larson",
@@ -1037,6 +1072,26 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
         {
+          "id": "https://markezine.jp/article/detail/43501",
+          "author": null,
+          "description": "電通は、社内のクリエイティブ部門に在籍するゲームに精通した約200人のメンバーからなる、横断的なゲームクリエイティブチーム「デンツウゲームセンター」を発足した。  同チームでは、家庭用ゲーム・アプリゲ...",
+          "link": "https://markezine.jp/article/detail/43501",
+          "publishedOn": "2023-09-18T23:57:57.000Z",
+          "wordCount": 5196,
+          "title": "電通、ゲーム愛好家のクリエイターを集めた組織横断型チームを結成　魅力あるコミュニケーションを提供",
+          "imageUrl": "https://markezine.jp/static/images/article/43501/43501_fb.png"
+        },
+        {
+          "id": "https://orangeitems.com/entry/2023/09/18/000000",
+          "author": null,
+          "description": "",
+          "link": "https://orangeitems.com/entry/2023/09/18/000000",
+          "publishedOn": "2023-09-18T05:08:26.000Z",
+          "wordCount": null,
+          "title": "エンジニア、そこまでストイックに生きる必要、ある？",
+          "imageUrl": null
+        },
+        {
           "id": "https://scrapbox.io/kobayang/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E3%81%AE%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E6%A7%8B%E6%88%90%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F_2023",
           "author": null,
           "description": "背景 Atomic Design ベースのディレクトリ構成になっていたが、 molecules と ogranisms のルールが定まっておらず、コンポーネントがどっちに入るのかが個々人の感覚になっていた 一部の機能は機能ごとにディレクトリを切っていてルールが曖昧になっていた テストと実装が別ディレクトリにあって、集約性の観点で見通しが悪かった 一行まとめ Atomic Design ベースから",
@@ -1555,16 +1610,6 @@
           "wordCount": 2361,
           "title": "Visional南壮一郎 「早く成功することに、何か意味はあるのか」",
           "imageUrl": "https://images.forbesjapan.com/media/article/65285/images/main_image_6415152c5bed3553cb6b7c21215447a3de516e3b.jpg"
-        },
-        {
-          "id": "https://cnn.co.jp/fringe/35207965.html",
-          "author": null,
-          "description": "めがねにブルーライトをカットするフィルターを付けても、コンピューター作業による目の負担を軽減したり、網膜を保護したり、睡眠の質を改善したりする効果は期待できないかもしれない――。そんな研究結果が１７日の学術誌に発表された。",
-          "link": "https://cnn.co.jp/fringe/35207965.html",
-          "publishedOn": "2023-08-19T23:28:58.000Z",
-          "wordCount": 1304,
-          "title": "ブルーライトカットのめがね、目の負担軽減の助けにならず　国際研究で結論",
-          "imageUrl": "https://www.cnn.co.jp/storage/2023/08/18/1d91f95696fce9592dcd246f6ad856c8/image (2).jpg"
         }
       ]
     },
@@ -1573,6 +1618,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2023/9/19?from=rss",
+          "author": null,
+          "description": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgzJTkxJUUzJTgyJUI5JUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgxJThDJUUzJTgzJThGJUUzJTgzJTgzJUUzJTgyJUI3JUUzJTgzJUE1JUU1JTgwJUE0JUUzJTgxJUE3JUU0JUJGJTlEJUU1JUFEJTk4JUUzJTgxJTk1JUUzJTgyJThDJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUFFU1FMJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgyJUI3JUUzJTgzJUE3JUUzJTgzJUIzJUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCJUU4JUFBJThEJUU4JUE4JUJDJUU1JTlCJTlFJUU5JTgxJUJGJUUzJTgxJUFFJUU3JUI3JUI0JUU3JUJGJTkyJUU1JTk1JThGJUU5JUExJThDJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz02ZTNhZTE4MTQwMGY0YWE5NWY2NzY5ZDJhYzJhMWVlYQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwb2NrZWdoZW0mdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWM5NThlZmFmOWViYTFkMjRlOTAwNDVjZDVhMTI3Y2Yz&blend-x=142&blend-y=491&blend-mode=normal&s=ec44fe0a3bd7becbeb6e83ce33f63127\"><br>すべてカテゴリー 2023年9月19日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: パスワードがハッシュ値で保存されているサイトのSQLインジェクションによる認証回避の練習問題（qiita.com）<br>2位: 「AIで業務効率を10倍に」、電子機器大手「Anker」のChatGPT活用法（36kr.jp）<br>3位: Unity、批判相次ぐ新料金システムについて「混乱させてしまった」としてユーザーに謝罪。さまざまな声を聞き、近日中にポリシー変更へ（automaton-media.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/9/19?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2023/9/19?from=rss",
+          "publishedOn": "2023-09-18T20:00:10.448Z",
+          "wordCount": 6999,
+          "title": "【9月19日ランキング】パスワードがハッシュ値で保存されているサイトのSQLインジェクションによる認証回避の練習問題／ほか19本",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgzJTkxJUUzJTgyJUI5JUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgxJThDJUUzJTgzJThGJUUzJTgzJTgzJUUzJTgyJUI3JUUzJTgzJUE1JUU1JTgwJUE0JUUzJTgxJUE3JUU0JUJGJTlEJUU1JUFEJTk4JUUzJTgxJTk1JUUzJTgyJThDJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgxJUFFU1FMJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgyJUI3JUUzJTgzJUE3JUUzJTgzJUIzJUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCJUU4JUFBJThEJUU4JUE4JUJDJUU1JTlCJTlFJUU5JTgxJUJGJUUzJTgxJUFFJUU3JUI3JUI0JUU3JUJGJTkyJUU1JTk1JThGJUU5JUExJThDJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz02ZTNhZTE4MTQwMGY0YWE5NWY2NzY5ZDJhYzJhMWVlYQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwb2NrZWdoZW0mdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWM5NThlZmFmOWViYTFkMjRlOTAwNDVjZDVhMTI3Y2Yz&blend-x=142&blend-y=491&blend-mode=normal&s=ec44fe0a3bd7becbeb6e83ce33f63127"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2023/9/18?from=rss",
           "author": null,
@@ -2564,16 +2619,6 @@
           "publishedOn": "2023-08-23T03:51:43.000Z",
           "wordCount": 48,
           "title": "Release v29.6.3 · jestjs/jest",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/08/20/alvarlagerlof-rsc-parser-a-parser-for-the-react-server-components-when-sent-over-the-network/",
-          "author": null,
-          "description": "https://github.com/alvarlagerlof/rsc-parser\n React Server Component(RSC)のデバッグをするブラウザ拡張。\nRSCのネットワークリクエストをパースし、ペイロードを可視化できる",
-          "link": "https://realtime.jser.info/2023/08/20/alvarlagerlof-rsc-parser-a-parser-for-the-react-server-components-when-sent-over-the-network/",
-          "publishedOn": "2023-08-19T23:30:34.000Z",
-          "wordCount": 68,
-          "title": "alvarlagerlof/rsc-parser: A parser for the React Server components when sent over the network",
           "imageUrl": null
         }
       ]
