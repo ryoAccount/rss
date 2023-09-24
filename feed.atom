@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T00:28:59.308Z</updated>
+    <updated>2023-09-24T00:32:06.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Release v3.7.0 · honojs/hono]]></title>
+        <id>https://realtime.jser.info/2023/09/24/release-v3-7-0-honojs-hono/</id>
+        <link href="https://realtime.jser.info/2023/09/24/release-v3-7-0-honojs-hono/"/>
+        <updated>2023-09-23T23:46:18.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/honojs/hono/releases/tag/v3.7.0
+ Hono v3.7.0リリース。
+c.stream()とc.streamText()を追加、hono/testingを追加、hono/jwtがverify/descode/sign関数をexportするように変更など]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of HTML 2023 now open! • Lea Verou]]></title>
+        <id>https://realtime.jser.info/2023/09/23/state-of-html-2023-now-open-lea-verou/</id>
+        <link href="https://realtime.jser.info/2023/09/23/state-of-html-2023-now-open-lea-verou/"/>
+        <updated>2023-09-23T06:42:42.000Z</updated>
+        <summary type="html"><![CDATA[https://lea.verou.me/blog/2023/state-of-html-2023/
+ HTMLについての開発者アンケートであるState of HTMLの回答の募集が始まった
+関連URL
+State of HTML 2023]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bun v1.0.3 | Bun Blog]]></title>
         <id>https://realtime.jser.info/2023/09/23/bun-v1-0-3-bun-blog/</id>
@@ -2529,143 +2554,6 @@ Announcing Nitro 2.6 · UnJS]]></summary>
         <summary type="html"><![CDATA[Have you ever been fascinated by the capabilities of large language models like GPT-4 but wondered how they are actually work? If you want to uncover the mysteries behind these powerful models, our latest video course on the freeCodeCamp.org YouTube channel is perfect for you. In this comprehensive course, you]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Double Diamond Design Process]]></title>
-        <id>https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/</id>
-        <link href="https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/"/>
-        <updated>2023-08-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The so-called “Double Diamond” is a great way of visualizing an ideal design process — but it’s just not the way most companies deliver new projects or services. Andy Budd proposes a new “Double Diamond” idea that better aligns with the way work actually gets done and highlights the place where design has the most leverage.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Budd)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing TypeScript 5.2 - TypeScript]]></title>
-        <id>https://realtime.jser.info/2023/08/25/announcing-typescript-5-2-typescript/</id>
-        <link href="https://realtime.jser.info/2023/08/25/announcing-typescript-5-2-typescript/"/>
-        <updated>2023-08-25T04:11:49.000Z</updated>
-        <summary type="html"><![CDATA[https://devblogs.microsoft.com/typescript/announcing-typescript-5-2/
- TypeScript 5.2リリース。
-Stage 3 ProposalのExplicit Resource Management(using宣言)のサポート、Decorator Metadataのサポート。
-Tupleにおけるラベルありなしの組み合わせの制限を削除、配列のUnion型の扱いの改善。
-import typeでは.tsファイルをimportできるように修正、moduleオプションとmoduleResolutionオプションの間違った組み合わせのチェックを追加など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技術的負債の怨霊と除霊方法 / ghosts-of-technical-debt]]></title>
-        <id>https://speakerdeck.com/minodriven/ghosts-of-technical-debt</id>
-        <link href="https://speakerdeck.com/minodriven/ghosts-of-technical-debt"/>
-        <updated>2023-08-24T23:56:22.000Z</updated>
-        <summary type="html"><![CDATA[このイベントの登壇資料です
-『ミノ駆動さんと語るエンジニア怪談〜技術的負債の呪いにどう立ち向かうのかLT〜』
-https://forkwell.connpass.com/event/291332/]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangChainとVectorStoreで作るかんたん自社チャット ー 複数のAIモデルを組み合わせる方法と利点]]></title>
-        <id>https://techfeed.io/entries/64e36844b813884736be2970?from=rss</id>
-        <link href="https://techfeed.io/entries/64e36844b813884736be2970?from=rss"/>
-        <updated>2023-08-24T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[投げかけられた質問にAIが答える企業チャットボット。担当者1人でも簡単に作成できる方法、教えます。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【8月25日ランキング】Microsoft、「Python in Excel」を発表 ～Windows向けベータ版でテスト開始／統計処理、機械学習、ビジュアライゼーションなどに「Python」の力を／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/8/25?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/8/25?from=rss"/>
-        <updated>2023-08-24T20:00:10.831Z</updated>
-        <summary type="html"><![CDATA[<img src="https://forest.watch.impress.co.jp/img/wf/list/1525/532/image_top.png"><br>すべてカテゴリー 2023年8月25日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Microsoft、「Python in Excel」を発表 ～Windows向けベータ版でテスト開始／統計処理、機械学習、ビジュアライゼーションなどに「Python」の力を（forest.watch.impress.co.jp）<br>2位: IBMがAIを活用してCOBOL言語をJavaに変換するツール「Watsonx Code Assistant for Z」をリリースすることを発表（gigazine.net）<br>3位: OpenAI API の ファインチューニングガイド（note.com）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/8/25?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Routing in Next.js – How to Use App Router in your Next Apps]]></title>
-        <id>https://www.freecodecamp.org/news/routing-in-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/routing-in-nextjs/"/>
-        <updated>2023-08-24T15:13:32.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving world of web development, Next.js has consistently been a beacon of hope for developers seeking a balance between performance and ease of use.  With the introduction of the App Router in 2023, the framework has once again stirred the pot, leaving many of us scratching our]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering SQL for Web Developers – Full Course]]></title>
-        <id>https://www.freecodecamp.org/news/sql-for-web-devs/</id>
-        <link href="https://www.freecodecamp.org/news/sql-for-web-devs/"/>
-        <updated>2023-08-24T13:55:38.000Z</updated>
-        <summary type="html"><![CDATA[In today's data-driven world, the ability to effectively manage and query databases is an essential skill for any programmer, data analyst, or software engineer. Whether you want to streamline business operations, uncover critical insights, or create dynamic applications, a solid understanding of Structured Query Language (SQL) is paramount. We just]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering SQL for Web Developers – Full Course]]></title>
-        <id>https://www.freecodecamp.org/news/untitled-135/</id>
-        <link href="https://www.freecodecamp.org/news/untitled-135/"/>
-        <updated>2023-08-24T13:55:38.000Z</updated>
-        <summary type="html"><![CDATA[In today's data-driven world, the ability to effectively manage and query databases is an essential skill for any programmer, data analyst, or software engineer. Whether you want to streamline business operations, uncover critical insights, or create dynamic applications, a solid understanding of Structured Query Language (SQL) is paramount. We just]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release v2.3.0 · parcel-bundler/watcher]]></title>
-        <id>https://realtime.jser.info/2023/08/24/release-v2-3-0-parcel-bundler-watcher/</id>
-        <link href="https://realtime.jser.info/2023/08/24/release-v2-3-0-parcel-bundler-watcher/"/>
-        <updated>2023-08-24T13:52:27.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/parcel-bundler/watcher/releases/tag/v2.3.0
- @parcel/watcher 2.3.0リリース。
-FreeBSDのサポート、Wasmバックエンドである@parcel/watcher-wasmパッケージの追加など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patterns for Reactivity with Modern Vanilla JavaScript | Frontend Masters]]></title>
-        <id>https://realtime.jser.info/2023/08/24/patterns-for-reactivity-with-modern-vanilla-javascript-frontend-masters/</id>
-        <link href="https://realtime.jser.info/2023/08/24/patterns-for-reactivity-with-modern-vanilla-javascript-frontend-masters/"/>
-        <updated>2023-08-24T13:30:07.000Z</updated>
-        <summary type="html"><![CDATA[https://frontendmasters.com/blog/vanilla-javascript-reactivity/
- JavaScriptでReactiveな処理をどう実装するかについて。
-EventTargetとCustomEventを使ったPubSub/Observerパターン、Proxyを使ったリフアクティブなオブジェクト、Signal。
-またDOMのMutationObserverやIntersectionObserverなどAPIについて]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rspack 0.3 Release Announcement - Rspack]]></title>
-        <id>https://realtime.jser.info/2023/08/24/rspack-0-3-release-announcement-rspack/</id>
-        <link href="https://realtime.jser.info/2023/08/24/rspack-0-3-release-announcement-rspack/"/>
-        <updated>2023-08-24T13:15:44.000Z</updated>
-        <summary type="html"><![CDATA[https://www.rspack.dev/blog/announcing-0.3.html
- Rspack 0.3リリース。
-CSSの挙動をwebpackと合わせるオプションとしてexperiments.css = trueを追加、post-css関係のloaderの変更など。
-Web Workerのサポート、builtin:swc-loaderのサポート、RSPACK_PROFILE=ALLでのプロファイルを取れるようになるなど]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun v0.8.0 | Bun Blog]]></title>
-        <id>https://realtime.jser.info/2023/08/24/bun-v0-8-0-bun-blog/</id>
-        <link href="https://realtime.jser.info/2023/08/24/bun-v0-8-0-bun-blog/"/>
-        <updated>2023-08-24T13:08:52.000Z</updated>
-        <summary type="html"><![CDATA[https://bun.sh/blog/bun-v0.8.0
- Bun v0.8.0リリース。
---inspectでのDebuggerサポート、bun updateでの依存関係のアップデートのサポート、SvelteKit/Nuxtのサポート。
-Fetch APIのresponse body streamingのサポート、File contrustorのサポートなど]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
         </author>
     </entry>
 </feed>
