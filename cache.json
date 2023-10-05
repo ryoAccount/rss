@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.",
+          "link": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
+          "publishedOn": "2023-10-03T10:00:00.000Z",
+          "wordCount": 4181,
+          "title": "The Problem With WordPress Is Positioning, Not Plugins",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/problem-wordpress-positioning-not-plugins/problem-wordpress-positioning-not-plugins.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/problem-wordpress-positioning-not-plugins/problem-wordpress-positioning-not-plugins.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.",
@@ -241,21 +256,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "In this article, Joas Pambou builds the tool to provide a sentiment score in **real-time** with enhanced user experience by providing multilingual support. You will use an OpenAI library called Whisper that transcribes audio files into text and detects the language, and Gradio, a UI framework, to establish the interface.",
-          "link": "https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/",
-          "publishedOn": "2023-09-04T13:00:00.000Z",
-          "wordCount": 5386,
-          "title": "Generating Real-Time Audio Sentiment Analysis With AI",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/generating-real-time-audio-sentiment-analysis-ai/generating-real-time-audio-sentiment-analysis-ai.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/generating-real-time-audio-sentiment-analysis-ai/generating-real-time-audio-sentiment-analysis-ai.jpg"
         }
       ]
     },
@@ -264,6 +264,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/html-lists-with-examples/",
+          "author": "Joan Ayebola",
+          "description": "Imagine you're creating an article with a list of recommendations or a web page with a menu of options. How do you structure this information to make it visually appealing and easy to navigate?  This is where HTML lists come to the rescue. In this article, we'll dive into",
+          "link": "https://www.freecodecamp.org/news/html-lists-with-examples/",
+          "publishedOn": "2023-10-04T16:01:18.000Z",
+          "wordCount": 1717,
+          "title": "HTML Lists – Ordered, Unordered and Definition List Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Blue-And-White-Modern-Effective-Leadership-In-Business-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/",
+          "author": "Hrittik Roy",
+          "description": "Modern software development workflows are complicated, involving many tools and dependencies.  When working in a team, it's not uncommon to use several different software programs, each with its own dependencies. This can quickly become confusing, with each software requiring different configurations and management.  One solution is to use",
+          "link": "https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/",
+          "publishedOn": "2023-10-04T14:45:34.000Z",
+          "wordCount": 2550,
+          "title": "How to Standardize Your Development Environment with devcontainer.json",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/image--9-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/increase-your-vs-code-productivity/",
+          "author": "Beau Carnes",
+          "description": "Have you watched a seasoned developer work in Visual Studio Code (VS Code) and wondered how they make it look so effortless? The freeCodeCamp YouTube channel is here to help you unlock your coding superpowers with a new course we just published about increasing your productivity in VS Code. Chris",
+          "link": "https://www.freecodecamp.org/news/increase-your-vs-code-productivity/",
+          "publishedOn": "2023-10-04T14:05:32.000Z",
+          "wordCount": 1006,
+          "title": "Increase Your VS Code Productivity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/productivevscode.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/firebase-remote-config/",
           "author": "Tomer Ben Rachel",
@@ -283,6 +313,16 @@
           "wordCount": 1001,
           "title": "Learn SvelteKit and Tailwind CSS by Building a Web Portfolio",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/sveltekit.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-portuguese-podcast/",
+          "author": "Nielda Karla",
+          "description": "Hello everyone! My name is Nielda Karla and I'm thrilled to announce the launch of our new podcast: freeCodeCamp Podcast em Português [https://www.freecodecamp.org/portuguese/news/freecodecamp-podcast-em-portugues/] . On this podcast, you'll hear the stories of those making a difference in the Portuguese-speaking developer community – each with their own unique journey.  Our",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-portuguese-podcast/",
+          "publishedOn": "2023-10-03T13:25:37.000Z",
+          "wordCount": 962,
+          "title": "New Portuguese freeCodeCamp Podcast",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/podcast-cover-portuguese-Nielda-1300---700-px-.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/freecodecamp-is-launching-a-podcast-in-portuguese/",
@@ -1490,16 +1530,6 @@
           "wordCount": 2511,
           "title": "Nuxt Studio を使ってみた / nuxt-studio-intro",
           "imageUrl": "https://files.speakerdeck.com/presentations/14087ab236c34c7297b35cee3b0a5655/slide_0.jpg?26930699"
-        },
-        {
-          "id": "https://ask-albert.com",
-          "author": null,
-          "description": "Ask Albert - Compare Rates And Get Expert Insights",
-          "link": "https://ask-albert.com/",
-          "publishedOn": "2023-09-05T00:01:15.000Z",
-          "wordCount": 7471,
-          "title": "© 2021 All rights Reserved by Ask-Albert",
-          "imageUrl": "https://ask-albert.com/wp-content/uploads/2022/06/askalbertlogo.jpg"
         }
       ]
     },
@@ -1508,6 +1538,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2023/10/5?from=rss",
+          "author": null,
+          "description": "<img src=\"https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/article2023/STUDIO/STUDIO_ogp.jpg?itok=0Oa6Kd-n\"><br>すべてカテゴリー 2023年10月5日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: FigmaからコピペでWebサイトが完成！ HTMLもCSSも書かないノーコードツール「STUDIO」がスゴすぎる（webtan.impress.co.jp）<br>2位: 社員に“AWS手当”　SIerが福利厚生で（www.itmedia.co.jp）<br>3位: クックパッドのフロントエンド CSS in JS をゼロランタイムに切り替えました（techlife.cookpad.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/10/5?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2023/10/5?from=rss",
+          "publishedOn": "2023-10-04T20:00:10.442Z",
+          "wordCount": 7009,
+          "title": "【10月5日ランキング】FigmaからコピペでWebサイトが完成！ HTMLもCSSも書かないノーコードツール「STUDIO」がスゴすぎる／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwebtan.impress.co.jp%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1200x630%2Fpublic%2Fimages%2Farticle2023%2FSTUDIO%2FSTUDIO_ogp.jpg%3Fitok%3D0Oa6Kd-n"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2023/10/4?from=rss",
           "author": null,
@@ -1857,16 +1897,6 @@
           "wordCount": 7001,
           "title": "【9月6日ランキング】社団法人の電子公告が「Telnet」で行われる珍事発生、早速「Tera Term」で読んでみる／PHPで読む方法を解説する有志も【やじうまの杜】／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1528%2F962%2Fimage-top.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/9/5?from=rss",
-          "author": null,
-          "description": "<img src=\"https://i.gzn.jp/img/2023/09/03/ffmpeg-explorer/00.png\"><br>すべてカテゴリー 2023年9月5日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 無料でFFmpegのフィルター機能をブラウザ上でチェックできてさらにコマンドも出力してくれる「FFmpeg Explorer」（gigazine.net）<br>2位: AWSのPublic IPv4構成をIPv6に切り替える（blog.father.gedow.net）<br>3位: ｢πが3.14より大きい理由は｣ChatGPTの驚愕回答（toyokeizai.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/9/5?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/9/5?from=rss",
-          "publishedOn": "2023-09-04T20:00:10.695Z",
-          "wordCount": 7001,
-          "title": "【9月5日ランキング】無料でFFmpegのフィルター機能をブラウザ上でチェックできてさらにコマンドも出力してくれる「FFmpeg Explorer」／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2023%2F09%2F03%2Fffmpeg-explorer%2F00.png"
         }
       ]
     },
@@ -2489,16 +2519,6 @@
           "publishedOn": "2023-09-05T22:24:17.000Z",
           "wordCount": 67,
           "title": "Faster Vue.js Execution in Firefox - Mozilla Hacks - the Web developer blog",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/09/05/node-v20-6-0-current-node-js/",
-          "author": null,
-          "description": "https://nodejs.org/ja/blog/release/v20.6.0\n Node.js v20.6.0リリース。\n.envをビルトインサポート、import.meta.resolveをフラグなしで利用できるように、module.register() APIの追加。\nLoaderのload hookがCommonJSをサポートし、非推奨のrequire.extensionsを使わなくてもCommonJSを扱うcustom loaderを書けるようになるなど",
-          "link": "https://realtime.jser.info/2023/09/05/node-v20-6-0-current-node-js/",
-          "publishedOn": "2023-09-05T04:15:52.000Z",
-          "wordCount": 53,
-          "title": "Node v20.6.0 (Current) | Node.js",
           "imageUrl": null
         }
       ]
