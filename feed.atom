@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T00:29:29.621Z</updated>
+    <updated>2023-10-22T00:33:10.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing TanStack Query v5 | TanStack Blog]]></title>
+        <id>https://realtime.jser.info/2023/10/21/announcing-tanstack-query-v5-tanstack-blog/</id>
+        <link href="https://realtime.jser.info/2023/10/21/announcing-tanstack-query-v5-tanstack-blog/"/>
+        <updated>2023-10-21T13:18:21.000Z</updated>
+        <summary type="html"><![CDATA[https://tanstack.com/blog/announcing-tanstack-query-v5
+ TanStack Query v5リリース。
+APIの引数の形式を変更、Suspenseのサポート、開発者ツールの刷新など。
+関連URL
+Announcing TanStack Query v5 | TanStack Blog
+Migrating to TanStack Query v5 | TanStack Query Docs]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Roundup Of WCAG 2.2 Explainers]]></title>
+        <id>https://smashingmagazine.com/2023/10/roundup-wcag-explainers/</id>
+        <link href="https://smashingmagazine.com/2023/10/roundup-wcag-explainers/"/>
+        <updated>2023-10-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Findy Team+ Award 2023」 - 開発生産性が優れたエンジニア企業を称える式典]]></title>
+        <id>https://award.findy-team.io/2023</id>
+        <link href="https://award.findy-team.io/2023"/>
+        <updated>2023-10-21T08:15:45.000Z</updated>
+        <summary type="html"><![CDATA[エンジニア組織における開発者体験向上への一助となるべく、開発生産性が優れたエンジニア組織を表彰する式典です。]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storybook 7.5]]></title>
+        <id>https://realtime.jser.info/2023/10/21/storybook-7-5/</id>
+        <link href="https://realtime.jser.info/2023/10/21/storybook-7-5/"/>
+        <updated>2023-10-21T06:25:51.000Z</updated>
+        <summary type="html"><![CDATA[https://storybook.js.org/blog/storybook-7-5/
+ Storybook 7.5リリース。
+Vite 5のサポート、storiesOfを非推奨化。
+Next.jsとAngularのサポート改善、Lit 3.0のサポートなど]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release v3.8.0 · nuxt/nuxt]]></title>
+        <id>https://realtime.jser.info/2023/10/21/release-v3-8-0-nuxt-nuxt/</id>
+        <link href="https://realtime.jser.info/2023/10/21/release-v3-8-0-nuxt-nuxt/"/>
+        <updated>2023-10-21T04:08:44.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/nuxt/nuxt/releases/tag/v3.8.0
+ Nuxt.js v3.8.0リリース。
+Nuxt DevTools 1.0、@nuxt/imageの自動インストール、アプリの構成を定義したメタファイルの出力に対応、NuxtLinkのデフォルトの挙動を設定できるように。
+useAsyncDataとuseFetchにdeepオプションの追加、getCachedDataでカスタムキャッシュをサポートなど
+関連URL
+Release v1.0.0 · nuxt/devtools]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install Node.js on Ubuntu – Node Linux Installation Guide]]></title>
         <id>https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/</id>
@@ -2284,165 +2347,6 @@ console.Consoleのサポート、bunxのバグ修正など]]></summary>
         <summary type="html"><![CDATA[The first time I learned about open source was through a tweet that promoted Hacktoberfest in 2019. And my first-ever accepted pull request was to add a book title in emojis to a list. You might think, "You can't count that as an open source contribution. That's a joke!" I]]></summary>
         <author>
             <name>Ayu Adiati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno 1.37: Modern JavaScript in Jupyter Notebooks]]></title>
-        <id>https://realtime.jser.info/2023/09/22/deno-1-37-modern-javascript-in-jupyter-notebooks/</id>
-        <link href="https://realtime.jser.info/2023/09/22/deno-1-37-modern-javascript-in-jupyter-notebooks/"/>
-        <updated>2023-09-22T11:19:25.000Z</updated>
-        <summary type="html"><![CDATA[https://deno.com/blog/v1.37
- Deno v1.37リリース。
-deno jupyter --unstableの追加、deno testに--reporter=tapレポーターを追加、Node.jsとの互換性改善。
-ロックファイルの形式をversion 3にアップデート、std/urlの追加、std/ulidの追加など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript Origins: The Documentary - YouTube]]></title>
-        <id>https://realtime.jser.info/2023/09/22/typescript-origins-the-documentary-youtube/</id>
-        <link href="https://realtime.jser.info/2023/09/22/typescript-origins-the-documentary-youtube/"/>
-        <updated>2023-09-22T10:16:05.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=U6s2pdxebSo
- TypeScriptのドキュメンタリー動画]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebKit Features in Safari 17.0 | WebKit]]></title>
-        <id>https://realtime.jser.info/2023/09/22/webkit-features-in-safari-17-0-webkit/</id>
-        <link href="https://realtime.jser.info/2023/09/22/webkit-features-in-safari-17-0-webkit/"/>
-        <updated>2023-09-22T10:13:52.000Z</updated>
-        <summary type="html"><![CDATA[https://webkit.org/blog/14445/webkit-features-in-safari-17-0/
- Safari 17リリース。
-HTMLでは、&lt;search&gt;要素の対応、popover属性の対応。
-CSSでは、font-size-adjust、text-transform、@counter-style、image-set()の対応。
-JavaScriptでは、Storage API、正規表現のvフラグ(ES2024)、Stage 3のSet Operationsの対応。
-画像では、JPEG XL/HEIC/AV1コーデックのサポート。
-実験的なフラグの管理方法や開発者ツールの変更なども含まれる
-関連URL
-Safari 17 Release Notes | Apple Developer Documentation]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing runes]]></title>
-        <id>https://realtime.jser.info/2023/09/22/introducing-runes/</id>
-        <link href="https://realtime.jser.info/2023/09/22/introducing-runes/"/>
-        <updated>2023-09-22T10:00:02.000Z</updated>
-        <summary type="html"><![CDATA[https://svelte.dev/blog/runes
- Svelte 5はrunesという$state/$derived/$effectといったマクロを使いreactiveなステート管理を実現するという話。
-$:のラベルでのReactiveではアプリケーションが複雑になるとどれがReactiveなのかがわからなくなる問題があったため。]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Path To Awesome CSS Easing With The linear() Function]]></title>
-        <id>https://smashingmagazine.com/2023/09/path-css-easing-linear-function/</id>
-        <link href="https://smashingmagazine.com/2023/09/path-css-easing-linear-function/"/>
-        <updated>2023-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From WebGL to WebGPU - Chrome for Developers]]></title>
-        <id>https://realtime.jser.info/2023/09/22/from-webgl-to-webgpu-chrome-for-developers/</id>
-        <link href="https://realtime.jser.info/2023/09/22/from-webgl-to-webgpu-chrome-for-developers/"/>
-        <updated>2023-09-22T09:57:29.000Z</updated>
-        <summary type="html"><![CDATA[https://developer.chrome.com/en/blog/from-webgl-to-webgpu/
- WebGLとWebGPUの違いについて]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「X（旧Twitter）を有料化する方向」→ Blueskyの新規ユーザー数が過去最大の伸びを見せる]]></title>
-        <id>https://internet.watch.impress.co.jp/docs/yajiuma/1532994.html</id>
-        <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1532994.html"/>
-        <updated>2023-09-22T04:35:45.000Z</updated>
-        <summary type="html"><![CDATA[SNS「Bluesky」が9月19日、過去最大となる新規ユーザーの流入を記録したことが明らかになった。]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Hypothesis Testing? Types and Python Code Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-hypothesis-testing/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-hypothesis-testing/"/>
-        <updated>2023-09-22T00:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Curiosity has always been a part of human nature. Since the beginning of time, this has been one of the most important tools for birthing civilizations. Still, our curiosity grows — it tests and expands our limits. Humanity has explored the plains of land, water, and air. We've built underwater]]></summary>
-        <author>
-            <name>MENE-EJEGI OGBEMI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織・プロセス・技術 - フロントエンドの生産性向上への複眼的アプローチ / 20230921]]></title>
-        <id>https://speakerdeck.com/bengo4com/20230921</id>
-        <link href="https://speakerdeck.com/bengo4com/20230921"/>
-        <updated>2023-09-22T00:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Findy社主催「フロントエンドの開発生産性〜Online Conference〜」のスポンサーセッションにて、クラウドサイン EMの芳賀が登壇した際の資料です。
-イベントURL：https://findy.connpass.com/event/294482/
-
-■ 採用情報はこちら
-https://hrmos.co/pages/bengo4/jobs]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京ゲームショウ 2023「Xbox Digital Broadcast」全発表と公開内容まとめ]]></title>
-        <id>https://news.xbox.com/ja-jp/2023/09/21/tokyo-game-show-xbox-digital-broadcast-recap</id>
-        <link href="https://news.xbox.com/ja-jp/2023/09/21/tokyo-game-show-xbox-digital-broadcast-recap"/>
-        <updated>2023-09-21T22:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Xbox が東京ゲームショウにて配信した「Xbox Digital Broadcast」では、様々な発表でプレイヤーが中心にいました。本配信では、Xbox 本体や PC で登場する、日本や日本にインスパイアされたタイトル […]]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9月22日ランキング】Terraformのフォークが「OpenTofu」としてLinux Foundation傘下で正式ローンチ。OpenTFから改名／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/9/22?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/9/22?from=rss"/>
-        <updated>2023-09-21T20:00:11.014Z</updated>
-        <summary type="html"><![CDATA[<img src="https://www.publickey1.jp/2023/F6c1nOIWIAAOSAy.jpg"><br>すべてカテゴリー 2023年9月22日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Terraformのフォークが「OpenTofu」としてLinux Foundation傘下で正式ローンチ。OpenTFから改名（www.publickey1.jp）<br>2位: 新卒向け「統計学の基礎」100ページ超　SaaS企業が無料で資料公開（www.itmedia.co.jp）<br>3位: 無料で大量のデータを見やすいグラフで可視化できるオープンソースのセルフホスト可能なアプリ「Metabase」でGIGAZINE読者アンケートの結果を分析してみた（gigazine.net）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/9/22?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ladle v3 | Ladle]]></title>
-        <id>https://ladle.dev/blog/ladle-v3</id>
-        <link href="https://ladle.dev/blog/ladle-v3"/>
-        <updated>2023-09-21T14:35:24.000Z</updated>
-        <summary type="html"><![CDATA[Ladle is a tool designed for building and testing React components through stories. It serves as a seamless alternative to Storybook and is built using Vite and SWC. Our main goal is to ensure it's as swift and user-friendly as conceivable.]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Classification with TensorFlow Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/</id>
-        <link href="https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/"/>
-        <updated>2023-09-21T14:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Binary classification is a fundamental task in machine learning, where the goal is to categorize data into one of two classes or categories.  Binary classification is used in a wide range of applications, such as spam email detection, medical diagnosis, sentiment analysis, fraud detection, and many more. In this]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Mojo Programming Language for AI Developers]]></title>
-        <id>https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/</id>
-        <link href="https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/"/>
-        <updated>2023-09-21T14:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Mojo combines the usability of Python with the performance of C, leading to greater programmability of AI hardware and extensibility of AI models. It's basically an enhanced version of Python specifically designed for Artificial Intelligence developers. We just posted a full Mojo course on the freeCodeCamp.org YouTube channel. Elliot Arledge]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
