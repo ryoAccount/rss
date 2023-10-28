@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T00:29:56.428Z</updated>
+    <updated>2023-10-28T00:29:11.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing WinterJS]]></title>
+        <id>https://realtime.jser.info/2023/10/28/announcing-winterjs/</id>
+        <link href="https://realtime.jser.info/2023/10/28/announcing-winterjs/"/>
+        <updated>2023-10-27T23:23:26.000Z</updated>
+        <summary type="html"><![CDATA[https://wasmer.io/posts/announcing-winterjs-service-workers
+ WinterCG仕様に準拠したJavaScript Runtime。
+SpiderMonkeyをRuntimeとして使い、Service Workers APIを実装している。
+WasmerのWASIX準拠にしている。
+関連URL
+wasmerio/winterjs: Winter is coming... :snowflake:]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release v8.10.0 · pnpm/pnpm]]></title>
+        <id>https://realtime.jser.info/2023/10/28/release-v8-10-0-pnpm-pnpm/</id>
+        <link href="https://realtime.jser.info/2023/10/28/release-v8-10-0-pnpm-pnpm/"/>
+        <updated>2023-10-27T23:09:45.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/pnpm/pnpm/releases/tag/v8.10.0
+ pnpm v8.10.0リリース。
+supportedArchitecturesで複数のアーキテクチャを指定できるように。
+ホスト環境とDocker環境に両方のアーキテクチャのバイナリをインストール際などに利用できる。]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Overcoming 3 Layoffs with Senior Dev Kevin Miller]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-kevin-miller-coder-conversations/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-kevin-miller-coder-conversations/"/>
+        <updated>2023-10-27T17:22:26.000Z</updated>
+        <summary type="html"><![CDATA[On this week's podcast, I interview Kevin Miller. He's a senior developer and host of the Coder Conversations YouTube channel. Kevin studied accounting in Texas and worked overnight for 7 years at hotels, making only $11 an hour. But his knowledge of spreadsheets lead to him learning more about]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Wish I Knew About Working In Development Right Out Of School]]></title>
+        <id>https://smashingmagazine.com/2023/10/beginner-web-development-working-career/</id>
+        <link href="https://smashingmagazine.com/2023/10/beginner-web-development-working-career/"/>
+        <updated>2023-10-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Victoria Johnson began a career in front-end development upon graduating from college. Now, roughly one year later, she reflects back on the decisions she made to crack into the field and find her first full-time job. This is her story, and she’s sharing it to provide those who are just starting out with another beginner’s perspective.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victoria Johnson)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of Unit Testing. ‍Never Write a Test Again.]]></title>
+        <id>https://sapient.ai</id>
+        <link href="https://sapient.ai/"/>
+        <updated>2023-10-27T04:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Sapient is generative QA that automatically writes your unit tests at mind-boggling scale. Shift your focus to developing exciting features while we remove the manual labor from your testing processes. Join the revolution where tests write themselves, and developers regain their weekends.]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 tips for making your GitHub profile page accessible]]></title>
         <id>https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible</id>
@@ -2501,101 +2559,6 @@ Resizable and growable ArrayBuffersがStage 4となりES2024に入ることが�
         <summary type="html"><![CDATA[In this article, Ganesh Dahal explains how the features have evolved since reusable blocks were officially released in WordPress 5.0 — and how the two have converged in WordPress 6.3 to form a powerful feature capable of allowing content creators to sync content and design patterns consistently in pages and posts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ganesh Dahal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023年】SWR &amp; TanStack Query比較]]></title>
-        <id>https://realtime.jser.info/2023/09/28/2023-swr-tanstack-query/</id>
-        <link href="https://realtime.jser.info/2023/09/28/2023-swr-tanstack-query/"/>
-        <updated>2023-09-28T11:30:18.000Z</updated>
-        <summary type="html"><![CDATA[https://zenn.dev/taisei_13046/articles/288e4470cfc45e
- SWRとTanStack Queryの比較記事。
-それぞれのライブラリの特徴、APIインターフェース、機能的な違い、キャッシュの考え方の違いについてなど]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Project Maintainer's Guide to Hacktoberfest]]></title>
-        <id>https://www.freecodecamp.org/news/project-maintainer-guide-to-hacktoberfest/</id>
-        <link href="https://www.freecodecamp.org/news/project-maintainer-guide-to-hacktoberfest/"/>
-        <updated>2023-09-28T07:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Hacktoberfest is a month-long event that promotes open-source contributions, collaboration, and projects.  Participating in this event as either a project maintainer or a contributor gives new perspectives to either your project or your career. You also get to meet fun people. This article will walk you through how to]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraform Security Best Practices]]></title>
-        <id>https://www.freecodecamp.org/news/terraform-security-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/terraform-security-best-practices/"/>
-        <updated>2023-09-28T05:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Terraform is a popular Infrastructure as Code (IaC) tool that allows users to define and manage cloud infrastructure in a declarative way.  However, like any tool, Terraform can introduce security risks if not used properly. In this article, we will explore the most common security risks when using Terraform, the]]></summary>
-        <author>
-            <name>Aaron Katz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Deno Queues]]></title>
-        <id>https://realtime.jser.info/2023/09/28/announcing-deno-queues/</id>
-        <link href="https://realtime.jser.info/2023/09/28/announcing-deno-queues/"/>
-        <updated>2023-09-27T21:49:31.000Z</updated>
-        <summary type="html"><![CDATA[https://deno.com/blog/queues
- Deno KVを使ったキューであるDeno Queuesについて]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これからはじめるReact実践入門 | SBクリエイティブ]]></title>
-        <id>https://realtime.jser.info/2023/09/28/react-sb/</id>
-        <link href="https://realtime.jser.info/2023/09/28/react-sb/"/>
-        <updated>2023-09-27T21:41:46.000Z</updated>
-        <summary type="html"><![CDATA[https://www.sbcr.jp/product/4815619480/
- 2023年9月28日発売
-React、Next.jsについての書籍]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9月28日ランキング】Unityへの信頼が失われたとして最古の公式Unityユーザーグループ「B.U.G.」が解散／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/9/28?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/9/28?from=rss"/>
-        <updated>2023-09-27T20:00:10.744Z</updated>
-        <summary type="html"><![CDATA[<img src="https://i.gzn.jp/img/2023/09/26/bostonunitygroup-unity-community-dissolution/00.png"><br>すべてカテゴリー 2023年9月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Unityへの信頼が失われたとして最古の公式Unityユーザーグループ「B.U.G.」が解散（gigazine.net）<br>2位: 【文系でもわかる】ChatGPTのキモ「Transformer」「Attention」のしくみ（www.sbbit.jp）<br>3位: Microsoft、「ChatGPT」向けの「Power Automate」プラグインを発表／チャットでフローを作成・一覧・実行。「ChatGPT Plus」ユーザーならば追加コストなし（forest.watch.impress.co.jp）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/9/28?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Taught Developer's Fastest Path to a Developer Job]]></title>
-        <id>https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/</id>
-        <link href="https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/"/>
-        <updated>2023-09-27T15:41:30.000Z</updated>
-        <summary type="html"><![CDATA[This morning while I was eating breakfast, I opened YouTube and saw a video by self-taught developer Brian Cache: "The FASTEST Way to Learn to Code and ACTUALLY Get a Developer Job" (Capital letter emphasis is his own. The video is an 11 minute watch): I love watching these types]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Basics of Java Programming]]></title>
-        <id>https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/"/>
-        <updated>2023-09-27T14:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Java has been a popular programming language for over two decades. Learning Java is a good way to mastering the fundamentals of modern coding practices.  We just posted a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Java programming. Alex Dobinca Cristian developed]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Overview of Prismane  – An Open-Source React UI Library]]></title>
-        <id>https://www.freecodecamp.org/news/prismane-react-ui-library/</id>
-        <link href="https://www.freecodecamp.org/news/prismane-react-ui-library/"/>
-        <updated>2023-09-27T12:52:48.000Z</updated>
-        <summary type="html"><![CDATA[Prismane is a free, comprehensive, have-it-all React UI library that provides a broad array of hooks, components, and form validators to help you build beautiful and functional user interfaces. Prismane was designed with performance in mind, ensuring lightning-fast loading times for a better user experience. In this article, you will]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
         </author>
     </entry>
 </feed>
