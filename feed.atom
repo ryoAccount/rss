@@ -2,10 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T00:30:57.656Z</updated>
+    <updated>2023-11-04T00:30:12.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Call an API in JavaScript – with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/make-api-calls-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/make-api-calls-in-javascript/"/>
+        <updated>2023-11-03T18:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Calling an API (Application Programming Interface) in JavaScript is a fundamental action that web developers need to know how to perform. It allows you to fetch data from external sources and integrate it into your web applications.  In this tutorial, I'll walk you through the process of making API]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript Helps You Write Better Code]]></title>
+        <id>https://www.freecodecamp.org/news/benefits-of-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/benefits-of-typescript/"/>
+        <updated>2023-11-03T15:16:26.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is taking over the web. In this article I'll give you a high-level overview of the benefits of TypeScript and how can it help you create websites with fewer bugs.  You'll learn how TypeScript helps with handling edge cases, catching typos, refactoring code, and how types make code]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get started with Quarkus and JPAStreamer]]></title>
+        <id>https://www.freecodecamp.org/news/get-started-with-quarkus-and-jpastreamer-2/</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-quarkus-and-jpastreamer-2/"/>
+        <updated>2023-11-03T14:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Note: This article is by Julia Gustafsson. In the world of software development, innovation often arrives in the form of powerful tools that transform the way we build applications - enter Quarkus, a development platform that's reshaping the Java landscape.  If you are new to the Quarkiverse, this tutorial]]></summary>
+        <author>
+            <name>Julia Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[farm-fe/farm: Extremely fast Vite-compatible web build tool written in Rust]]></title>
+        <id>https://realtime.jser.info/2023/11/03/farm-fe-farm-extremely-fast-vite-compatible-web-build-tool-written-in-rust/</id>
+        <link href="https://realtime.jser.info/2023/11/03/farm-fe-farm-extremely-fast-vite-compatible-web-build-tool-written-in-rust/"/>
+        <updated>2023-11-03T04:41:41.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/farm-fe/farm
+ Vite/Rollupプラグイン互換の仕組みを持ったRust製のBundlerツール。
+ビルドパフォーマンス、devとproductionビルドでの一貫性、dev環境でbundleしないことでのリクエスト数の問題を解決する目的。
+モジュールをグループという単位でbundleして、リクエスト数を削減とキャッシュヒット率の向上を目的にしたPartial Bundlingという仕組みを持つ。
+関連URL
+rfcs/rfcs/003-partial-bundling/rfc.md at main · farm-fe/rfcs]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 120 beta - Chrome for Developers]]></title>
+        <id>https://realtime.jser.info/2023/11/03/chrome-120-beta-chrome-for-developers/</id>
+        <link href="https://realtime.jser.info/2023/11/03/chrome-120-beta-chrome-for-developers/"/>
+        <updated>2023-11-03T03:00:38.000Z</updated>
+        <summary type="html"><![CDATA[https://developer.chrome.com/en/blog/chrome-120-beta/
+ Chrome 120 betaリリース。
+CSSの@propertyでsyntax:&lt;image&gt;をサポート、maskingを-webkit prefixなしでサポート、nestingのrelaxed parsing behaviorに対応。
+&lt;details name&gt;のサポート、FontFaceSet.check()のサポート、Intersection ObserverのscrollMarginオプションをサポート。
+Fenced Framesの機能更新、Permissions-Policy-Report-Onlyヘッダの対応。
+Origin Trialとして、priorityリクエストヘッダの対応、Performance.measureUserAgentSpecificMemory()などが含まれている。]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun v1.0.8 | Bun Blog]]></title>
+        <id>https://realtime.jser.info/2023/11/03/bun-v1-0-8-bun-blog/</id>
+        <link href="https://realtime.jser.info/2023/11/03/bun-v1-0-8-bun-blog/"/>
+        <updated>2023-11-03T02:40:58.000Z</updated>
+        <summary type="html"><![CDATA[https://bun.sh/blog/bun-v1.0.8
+ Bun v1.0.8リリース。
+require()のメモリリークを修正、bun testでモジュールのモックをサポート、bun installのバグ修正、setTimeout(fn, 0)のバグ修正など]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N|Solid Runtime: NodeSource&#039;s Open Source Release for Node.js]]></title>
+        <id>https://realtime.jser.info/2023/11/03/n-solid-runtime-nodesources-open-source-release-for-node-js/</id>
+        <link href="https://realtime.jser.info/2023/11/03/n-solid-runtime-nodesources-open-source-release-for-node-js/"/>
+        <updated>2023-11-03T02:31:56.000Z</updated>
+        <summary type="html"><![CDATA[https://nodesource.com/blog/nsolid-oss-release
+ 
+  
+    
+Node.jsに詳細なメトリクスや細かい動作の制御などを組み込んだRuntimeであるN
+      SolidのコードがMITライセンスで公開された。
+    
+関連URL
+nodesource/nsolid: N|Solid Runtime]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドの知識地図—— 一冊でHTML/CSS/JavaScriptの開発技術が学べる本:書籍案内|技術評論社]]></title>
+        <id>https://realtime.jser.info/2023/11/03/html-css-javascript/</id>
+        <link href="https://realtime.jser.info/2023/11/03/html-css-javascript/"/>
+        <updated>2023-11-03T01:05:32.000Z</updated>
+        <summary type="html"><![CDATA[https://gihyo.jp/book/2023/978-4-297-13871-4
+ 2023年11月24日発売。
+フロントエンドの入門書]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deno 1.38: HTML doc generator and HMR]]></title>
         <id>https://realtime.jser.info/2023/11/03/deno-1-38-html-doc-generator-and-hmr/</id>
@@ -19,6 +121,16 @@ deno run --envで.envのロードをサポート、std/httpでEventSource APIの
 その他には、http/serverの非推奨化、std/ioの非推奨化、std/wasiの非推奨化などが含まれている。]]></summary>
         <author>
             <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacktoberfest 2023 Contributors]]></title>
+        <id>https://www.freecodecamp.org/news/hacktoberfest-2023-contributors/</id>
+        <link href="https://www.freecodecamp.org/news/hacktoberfest-2023-contributors/"/>
+        <updated>2023-11-03T00:03:39.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just finished participating in this year's Hacktoberfest – a month-long celebration of open source. Our core team is excited to recognize all of our wonderful open source contributors. A big thank you to all of these folks for the effort they put into helping improve our curriculum]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
         </author>
     </entry>
     <entry>
@@ -2459,56 +2571,6 @@ Node.js 14/16のサポート終了、パーサにAcornの代わりにSWCを使�
         <summary type="html"><![CDATA[Arduino is an open-source platform that combines hardware and software in designing and building electronic projects. Arduino can be applied in a variety of projects like:  * Home automation.  * Internet of Things (IoT).  * Audio and music.  * Automated and remote controlled systems.  *]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/</id>
-        <link href="https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/"/>
-        <updated>2023-10-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10月5日ランキング】FigmaからコピペでWebサイトが完成！ HTMLもCSSも書かないノーコードツール「STUDIO」がスゴすぎる／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/10/5?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/10/5?from=rss"/>
-        <updated>2023-10-04T20:00:10.442Z</updated>
-        <summary type="html"><![CDATA[<img src="https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/article2023/STUDIO/STUDIO_ogp.jpg?itok=0Oa6Kd-n"><br>すべてカテゴリー 2023年10月5日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: FigmaからコピペでWebサイトが完成！ HTMLもCSSも書かないノーコードツール「STUDIO」がスゴすぎる（webtan.impress.co.jp）<br>2位: 社員に“AWS手当”　SIerが福利厚生で（www.itmedia.co.jp）<br>3位: クックパッドのフロントエンド CSS in JS をゼロランタイムに切り替えました（techlife.cookpad.com）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/10/5?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Lists – Ordered, Unordered and Definition List Examples]]></title>
-        <id>https://www.freecodecamp.org/news/html-lists-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/html-lists-with-examples/"/>
-        <updated>2023-10-04T16:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're creating an article with a list of recommendations or a web page with a menu of options. How do you structure this information to make it visually appealing and easy to navigate?  This is where HTML lists come to the rescue. In this article, we'll dive into]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Standardize Your Development Environment with devcontainer.json]]></title>
-        <id>https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/</id>
-        <link href="https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/"/>
-        <updated>2023-10-04T14:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Modern software development workflows are complicated, involving many tools and dependencies.  When working in a team, it's not uncommon to use several different software programs, each with its own dependencies. This can quickly become confusing, with each software requiring different configurations and management.  One solution is to use]]></summary>
-        <author>
-            <name>Hrittik Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increase Your VS Code Productivity]]></title>
-        <id>https://www.freecodecamp.org/news/increase-your-vs-code-productivity/</id>
-        <link href="https://www.freecodecamp.org/news/increase-your-vs-code-productivity/"/>
-        <updated>2023-10-04T14:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Have you watched a seasoned developer work in Visual Studio Code (VS Code) and wondered how they make it look so effortless? The freeCodeCamp YouTube channel is here to help you unlock your coding superpowers with a new course we just published about increasing your productivity in VS Code. Chris]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
