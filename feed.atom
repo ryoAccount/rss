@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T00:30:12.500Z</updated>
+    <updated>2023-11-05T00:33:30.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 5.3 RC - TypeScript]]></title>
+        <id>https://realtime.jser.info/2023/11/04/announcing-typescript-5-3-rc-typescript/</id>
+        <link href="https://realtime.jser.info/2023/11/04/announcing-typescript-5-3-rc-typescript/"/>
+        <updated>2023-11-04T10:05:38.000Z</updated>
+        <summary type="html"><![CDATA[https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-rc/
+ TypeScript 5.3 RCリリース。
+Stage 3のImport Attributesをサポート、resolution-modeを///コメントで指定できるように。
+switch(true)でのNarrowingをサポート、[Symbol.hasInstance]とinsteanceofを使ったNarrowingをサポート。
+パッケージ内のbundleファイルの重複を避けることで、パッケージサイズの改善など。]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドラッグ＆ドロップでWebページを作成できるセルフホスト可能なReact向けコンテンツエディター・「puck」]]></title>
+        <id>http://kachibito.net/useful-resource/puck</id>
+        <link href="http://kachibito.net/useful-resource/puck"/>
+        <updated>2023-11-04T09:20:27.000Z</updated>
+        <summary type="html"><![CDATA[puckpuckはドラッグ＆ドロップでWebページを作成できるセルフホスト可能なReact向けコンテンツエディターです。上記SSのようによくあるUIのコンテンツエディターでD&Dで操作可能、サードパーティのヘッドレスCMSと統合して]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「404 Not Found」ページに悪意のあるコードを埋め込むサイバー攻撃が発見される]]></title>
+        <id>https://internet.watch.impress.co.jp/docs/yajiuma/1540022.html</id>
+        <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1540022.html"/>
+        <updated>2023-11-04T09:17:44.000Z</updated>
+        <summary type="html"><![CDATA[「404 Not Found」ページを悪用したサイバー攻撃が確認されたという。]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルが「パスキー」による認証を標準設定に。パスワードを“時代遅れ”にする取り組みを加速]]></title>
+        <id>https://wired.jp/article/google-passkey-default</id>
+        <link href="https://wired.jp/article/google-passkey-default"/>
+        <updated>2023-11-04T09:17:10.000Z</updated>
+        <summary type="html"><![CDATA[パスワードに代わる認証方式「パスキー」によるログインをグーグルが標準設定にすると発表した。半ば強制的ともいえる利用促進により、“パスワードのない世界”の実現に向けた動きが加速することになる。]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSでライトモードとダークモードのスタイルを簡単に定義できる、新しいプロパティ「light-dark()」が便利すぎる！]]></title>
+        <id>https://coliss.com/articles/build-websites/operation/css/light-and-dark-mode-switching-with-css-light-dark.html</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/light-and-dark-mode-switching-with-css-light-dark.html"/>
+        <updated>2023-11-04T09:11:38.000Z</updated>
+        <summary type="html"><![CDATA[CSS Color Module Level 5に追加された新しい関数light-dark()を使用すると、ライトモードとダークモードのスタイルを簡単に定義できるようになります。 下記のようにligh]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Trello and Stack Overflow Founder Joel Spolsky]]></title>
+        <id>https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/</id>
+        <link href="https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/"/>
+        <updated>2023-11-04T00:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Joel Spolsky. He's co-founder of Trello and Stack Overflow, and author of the iconic developer blog Joel on Software. I hung out with Joel in his New York City home to discuss his 4-decade-long career as a developer and a CEO. He shared his insights]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Call an API in JavaScript – with Examples]]></title>
         <id>https://www.freecodecamp.org/news/make-api-calls-in-javascript/</id>
@@ -2488,89 +2552,6 @@ Origin Trialとしてwindow.open()にfullscreenパラメータを追加など]]>
         <summary type="html"><![CDATA[The rapid ascent of Artificial Intelligence (AI) and Machine Learning (ML) into mainstream technology and its influence on various sectors of our society raises a series of profound ethical questions. It's not just about the technical ability of these systems but the ethical implications that could shape our future.]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release v4.0.0 · rollup/rollup]]></title>
-        <id>https://realtime.jser.info/2023/10/06/release-v4-0-0-rollup-rollup/</id>
-        <link href="https://realtime.jser.info/2023/10/06/release-v4-0-0-rollup-rollup/"/>
-        <updated>2023-10-06T06:57:40.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/rollup/rollup/releases/tag/v4.0.0
- Rollup v4.0.0リリース。
-Node.js 14/16のサポート終了、パーサにAcornの代わりにSWCを使うように変更。
-非推奨なオプションの削除など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Browser Compatibility Testing – Best Practices for Web Developers]]></title>
-        <id>https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/</id>
-        <link href="https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/"/>
-        <updated>2023-10-05T23:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Imagine putting in a ton of work to build a web application. And then it works in the Chrome browser, but misbehaves in Mozilla, Safari, or any other browser. As a web developer, you're likely eager to create amazing web applications that reach users across the globe. But one major]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古いリセットCSSからはもう卒業！ モダンブラウザに最適化された新しいリセットCSS -A (more) Modern CSS Reset]]></title>
-        <id>https://coliss.com/articles/build-websites/operation/css/a-more-modern-css-reset.html</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/a-more-modern-css-reset.html"/>
-        <updated>2023-10-05T23:11:25.000Z</updated>
-        <summary type="html"><![CDATA[モダンブラウザをターゲットにしたWeb制作では、リセットCSS自体が必要ないかもしれません。とは言っても、設定しておきたいスタイルや一部のブラウザ用に設定しておきたいスタイルがあります。 現在のWeb]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週1回30分の1on1を続けたらエンゲージメント偏差値が80超 部下の「今の心情」を定期的に聞くことで得られる3つの効果]]></title>
-        <id>https://logmi.jp/business/articles/329438</id>
-        <link href="https://logmi.jp/business/articles/329438"/>
-        <updated>2023-10-05T23:01:45.000Z</updated>
-        <summary type="html"><![CDATA[4割以上の企業が導入していると言われる「1on1ミーティング」。リモートワーク下でのチーム力向上や社員のエンゲージメント向上を目的に開始したものの、期待通りとは言えない状況にある企業も少なくありません。そうした中、「モチベーションを高めるマネジャー育成の秘訣」をテーマに、株式会社ベネッセコーポレーションと株式会社リンクアンドモチベーションの共催で行われたセミナーに、『できるリーダーは、「これ」しかやらない［聞き方・話し方編］』の著者で、株式会社らしさラボ代表の伊庭正康氏が登壇。1on1が必要になっている背景や1on1によって企業が得られる効果などを語りました。]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10月6日ランキング】AWS Lambda×Fargate×PlanetScaleを組み合わせれば、超絶スケールするWebアプリを作れる　約2ドルから作れる“ニッチで俺得な”環境の布教／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/10/6?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/10/6?from=rss"/>
-        <updated>2023-10-05T20:00:10.984Z</updated>
-        <summary type="html"><![CDATA[<img src="https://img.logmi.jp/article_images/LakD1V3sJJVNWCPqzMgUgR.png"><br>すべてカテゴリー 2023年10月6日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: AWS Lambda×Fargate×PlanetScaleを組み合わせれば、超絶スケールするWebアプリを作れる　約2ドルから作れる“ニッチで俺得な”環境の布教（logmi.jp）<br>2位: まだChatGPTを使ってない人は「人生を悔い改めた方がいい」――孫正義節が炸裂（www.itmedia.co.jp）<br>3位: ランサムウェアを含まない信頼できるThunderbirdのダウンロード方法をWindows・macOS・Linux向けにMozillaが解説（gigazine.net）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/10/6?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Request Location Permissions in Jetpack Compose]]></title>
-        <id>https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/</id>
-        <link href="https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/"/>
-        <updated>2023-10-05T19:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Getting a user’s location can be a bit of hassle. Over the years, the permissions required to do this and the logic associated with it have changed quite drastically.  If your application depends on getting the user’s location, you want to ensure that the user has a good experience]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Deploy an Ecommerce Site with Next.js, Tailwind CSS, Prisma, Vercel, and daisyUI]]></title>
-        <id>https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/</id>
-        <link href="https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/"/>
-        <updated>2023-10-05T15:36:56.000Z</updated>
-        <summary type="html"><![CDATA[When learning how to build a web app it can be helpful to see how everything works together, instead of learning a lot of technologies individually. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a full-stack e-commerce website with]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Arduino Handbook – Learn Microcontrollers for Embedded Systems]]></title>
-        <id>https://www.freecodecamp.org/news/the-arduino-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-arduino-handbook/"/>
-        <updated>2023-10-05T13:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Arduino is an open-source platform that combines hardware and software in designing and building electronic projects. Arduino can be applied in a variety of projects like:  * Home automation.  * Internet of Things (IoT).  * Audio and music.  * Automated and remote controlled systems.  *]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>
