@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "Ribbons have been used to accent designs for many years now. But, the way we approach them in CSS has evolved with the introduction of newer features. In this article, Temani Afif combines background and gradient tricks to create ribbon shapes in CSS that are not only responsive but support multi-line text and are easily adjustable with a few CSS variables.",
+          "link": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
+          "publishedOn": "2023-11-15T10:00:00.000Z",
+          "wordCount": 4616,
+          "title": "CSS Responsive Multi-Line Ribbon Shapes (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/designing-web-design-documentation/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.",
@@ -256,21 +271,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-66/smashing-podcast-episode-66.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "In the final part of this two-part series on solving headaches when working with media files in Gatsby projects, Juan Rodriguez demonstrates strategies and techniques for handling various types of documents, including Markdown files, PDFs, and 3D models.",
-          "link": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
-          "publishedOn": "2023-10-16T13:00:00.000Z",
-          "wordCount": 7228,
-          "title": "Gatsby Headaches: Working With Media (Part 2)",
-          "enclosure": {
-            "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/gatsby-headaches-working-media-part2/gatsby-headaches-working-media.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/gatsby-headaches-working-media-part2/gatsby-headaches-working-media.jpg"
         }
       ]
     },
@@ -279,6 +279,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/use-typescript-with-react/",
+          "author": "Yogesh Chavan",
+          "description": "In this article, you will learn how to use TypeScript with React. By the end, you will have a solid understanding of how to write React code with TypeScript. Want to watch the video version of this tutorial? You can check out the video below: Table of Contents  *",
+          "link": "https://www.freecodecamp.org/news/use-typescript-with-react/",
+          "publishedOn": "2023-11-15T18:53:19.000Z",
+          "wordCount": 4663,
+          "title": "How to Use TypeScript with React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/article_introdcotion_to_typescript_with_react_cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-palm-2-api/",
+          "author": "Beau Carnes",
+          "description": "PaLM 2 is a cutting-edge AI tool from Google that opens up tons of possibilities for developers. The PaLM 2 API allows people to easily add generative AI to their apps. We just published a course on the freeCodeCamp.or YouTube channel that will teach you all about the PaLM 2",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-palm-2-api/",
+          "publishedOn": "2023-11-15T14:31:46.000Z",
+          "wordCount": 867,
+          "title": "How to Use the PaLM 2 API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/palm2b.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/master-engineering-management/",
           "author": "Beau Carnes",
@@ -958,46 +978,6 @@
           "wordCount": 3151,
           "title": "How to Use a Design System – a Case Study",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-toa-heftiba-s-inca-1194420.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-fully-animated-sidebar/",
-          "author": "Yazdun Fadali",
-          "description": "Adding smooth and professional animations to your user interfaces can be a bit tricky. In this tutorial, I'll show you how to use Framer Motion in your React apps to create beautiful animations. This guide is perfect if you're new to Framer Motion or just want to make your animations",
-          "link": "https://www.freecodecamp.org/news/create-a-fully-animated-sidebar/",
-          "publishedOn": "2023-10-16T23:49:46.000Z",
-          "wordCount": 2158,
-          "title": "How to Create a Fully Animated Sidebar in React.js using Framer Motion",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Frame-11.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-tabnabbing/",
-          "author": "Juanita Washington",
-          "description": "Sometimes when you're building a website, you may need a link to open in a new tab. What you might not realize, though, is that doing so could leave your users vulnerable to malicious attacks via a practice called \"tabnabbing\". And while nothing is foolproof, there is a way to",
-          "link": "https://www.freecodecamp.org/news/what-is-tabnabbing/",
-          "publishedOn": "2023-10-16T22:56:14.000Z",
-          "wordCount": 1237,
-          "title": "What is Tabnabbing and How to Prevent it",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Tab-pg-6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/",
-          "author": "MENE-EJEGI OGBEMI",
-          "description": "Have you ever performed some task without really thinking about the process involved? For example, making coffee, tying your shoes, or walking through your neighborhood.  In these types of activities, you've done these things so many times that you've mastered the process. You can be thinking about something unrelated,",
-          "link": "https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/",
-          "publishedOn": "2023-10-16T20:21:22.000Z",
-          "wordCount": 2996,
-          "title": "What is Overfitting in Machine Learning?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Banner---Tech-writing---Overfitting.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/godot-game-development-for-unity-developers/",
-          "author": "Beau Carnes",
-          "description": "In the wake of the recent controversy surrounding Unity's pricing changes, many game developers have found themselves at a crossroads. The new pricing model proposed by Unity not only shook the indie developer community but led to a significant number of developers contemplating a switch to alternative game engines. If",
-          "link": "https://www.freecodecamp.org/news/godot-game-development-for-unity-developers/",
-          "publishedOn": "2023-10-16T15:36:42.000Z",
-          "wordCount": 979,
-          "title": "Godot Game Development for Unity Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/godotcrash.png"
         }
       ]
     },
@@ -1006,6 +986,46 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://coliss.com/articles/build-websites/operation/work/select-element-with-horizontal-rules.html",
+          "author": null,
+          "description": "先日リリースされたChrome 119に地味だけど嬉しい新機能が実装されていたので、紹介します。 フォームのセレクトボックスで区切り線にhrを使用できるようになりました。すでにSafariでもサポート",
+          "link": "https://coliss.com/articles/build-websites/operation/work/select-element-with-horizontal-rules.html",
+          "publishedOn": "2023-11-15T23:59:53.000Z",
+          "wordCount": 993,
+          "title": "地味だけど嬉しい新機能！ フォームのセレクトボックスで区切り線にhrを使用できるようになりました",
+          "imageUrl": "https://coliss.com/wp-content/uploads-202304/2023111101@2x.png"
+        },
+        {
+          "id": "https://dwango.github.io/articles/html-loading-attribute",
+          "author": null,
+          "description": "",
+          "link": "https://dwango.github.io/articles/html-loading-attribute",
+          "publishedOn": "2023-11-15T14:55:20.000Z",
+          "wordCount": 233,
+          "title": "仕様と実装から読み解くHTMLのloading属性",
+          "imageUrl": "https://dwango.github.io/images/html-loading-attribute/thumb.webp"
+        },
+        {
+          "id": "https://phuoc.ng/collection/html-dom",
+          "author": null,
+          "description": "",
+          "link": "https://phuoc.ng/collection/html-dom",
+          "publishedOn": "2023-11-15T14:54:20.000Z",
+          "wordCount": 6965,
+          "title": "Mastering DOM manipulation with vanilla JavaScript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://speedvitals.com",
+          "author": null,
+          "description": "Website Speed Test to measure and optimize Web Vitals. With SpeedVitals, you can measure & monitor Page Speed from 30+ Locations & Devices.",
+          "link": "https://speedvitals.com/",
+          "publishedOn": "2023-11-15T14:52:52.000Z",
+          "wordCount": 2313,
+          "title": "Optimize Your Website for Core Web Vitals",
+          "imageUrl": "https://speedvitals.com/images/speedvitals_banner.png"
+        },
         {
           "id": "http://kachibito.net/useful-resource/open-audio-tts",
           "author": null,
@@ -1425,46 +1445,6 @@
           "wordCount": 751,
           "title": "GitHub Actionsのワークフローを可視化するactions-timelineを作った",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--niDpXBNZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Actions%25E3%2581%25AE%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%2592%25E5%258F%25AF%25E8%25A6%2596%25E5%258C%2596%25E3%2581%2599%25E3%2582%258Bactions-timeline%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%259C%25E3%2582%25A6%25E3%2582%25BA%2520%25E7%2594%259F%25E7%2594%25A3%25E6%2580%25A7%25E5%2590%2591%25E4%25B8%258A%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%2520%2Cx_220%2Cy_160/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kesin11%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I0ZGFiZjEwMjAuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l5YnpxY196Y2VPbEhIWlJGajNaSDdYWlM0OXVCNzdFZVZjV2xrbXc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://speakerdeck.com/takakobem/itienziniavuekarareacthenocheng-rihuan-ewoti-an-sicheng-sisui-getahua?slide=18",
-          "author": null,
-          "description": "",
-          "link": "https://speakerdeck.com/takakobem/itienziniavuekarareacthenocheng-rihuan-ewoti-an-sicheng-sisui-getahua?slide=18",
-          "publishedOn": "2023-10-17T00:49:26.000Z",
-          "wordCount": 2396,
-          "title": "いちエンジニアVueからReactへの乗り換えを提案し成し遂げた話",
-          "imageUrl": "https://files.speakerdeck.com/presentations/9fbc4c190fa0442bb0ea11063ded0a89/slide_17.jpg?27434741"
-        },
-        {
-          "id": "https://toyokeizai.net/articles/-/708348?page=3",
-          "author": null,
-          "description": "――今回の新NISAについてどう評価していますか。私は当初の期待以上のものになったと評価している。期待以上、という理由は2つある。1つ目は、非課税保有の限度額がつみたてNISAの800万円から、つみたて投資枠・…",
-          "link": "https://toyokeizai.net/articles/-/708348?page=3",
-          "publishedOn": "2023-10-16T21:53:47.000Z",
-          "wordCount": 2604,
-          "title": "新NISAで選ぶべき投資信託は｢アレ｣1本でいい タイミングを見きわめるのはプロでも不可能",
-          "imageUrl": "https://tk.ismcdn.jp/mwimgs/c/2/1200w/img_c291b3328f0c4083b8ce2445012bb1f4205103.jpg"
-        },
-        {
-          "id": "https://eslint.org/blog/2023/10/flat-config-rollout-plans",
-          "author": null,
-          "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
-          "link": "https://eslint.org/blog/2023/10/flat-config-rollout-plans",
-          "publishedOn": "2023-10-16T13:41:44.000Z",
-          "wordCount": 1564,
-          "title": "Flat config rollout plans",
-          "imageUrl": "https://eslint.org/icon-512.png"
-        },
-        {
-          "id": "https://japa.dev/docs/introduction",
-          "author": null,
-          "description": "",
-          "link": "https://japa.dev/docs/introduction",
-          "publishedOn": "2023-10-16T13:36:48.000Z",
-          "wordCount": 730,
-          "title": "Introduction",
-          "imageUrl": null
         }
       ]
     },
@@ -1473,6 +1453,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2023/11/16?from=rss",
+          "author": null,
+          "description": "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/m/monotaro-tech-blog/20231107/20231107073041.png\"><br>すべてカテゴリー 2023年11月16日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 社内ChatGPTを使ったGASアプリ開発の完全解説！業務改善の高速化を実現（tech-blog.monotaro.com）<br>2位: メールソフト「Thunderbird」の知られざる歴史をプロジェクトマネージャーが明かす（gigazine.net）<br>3位: 多言語化対応における TypeScript の型定義を通して開発のしやすさについて考えた（tech.smarthr.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/11/16?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2023/11/16?from=rss",
+          "publishedOn": "2023-11-15T20:00:10.833Z",
+          "wordCount": 7083,
+          "title": "【11月16日ランキング】社内ChatGPTを使ったGASアプリ開発の完全解説！業務改善の高速化を実現／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmonotaro-tech-blog%2F20231107%2F20231107073041.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2023/11/15?from=rss",
           "author": null,
@@ -1772,16 +1762,6 @@
           "wordCount": 7015,
           "title": "【10月18日ランキング】画像生成AI「DALL·E 3」の性能が凄まじい。これを無料で使わせるマイクロソフトは本気で競合をつぶしに来ている (1/3)／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fascii.jp%2Fimg%2F2023%2F10%2F14%2F3621491%2Fxl%2F8b395489af735789.jpg%3F20200122"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/10/17?from=rss",
-          "author": null,
-          "description": "<img src=\"https://ascii.jp/img/2023/10/14/3621491/xl/8b395489af735789.jpg?20200122\"><br>すべてカテゴリー 2023年10月17日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 画像生成AI「DALL·E 3」の性能が凄まじい。これを無料で使わせるマイクロソフトは本気で競合をつぶしに来ている (1/3)（ascii.jp）<br>2位: 【図解】Pythonのライブラリ 24選＋α（qiita.com）<br>3位: 【永久保存版】0からAWSを勉強するならこのロードマップに従え！（qiita.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/10/17?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/10/17?from=rss",
-          "publishedOn": "2023-10-16T20:00:10.829Z",
-          "wordCount": 7013,
-          "title": "【10月17日ランキング】画像生成AI「DALL·E 3」の性能が凄まじい。これを無料で使わせるマイクロソフトは本気で競合をつぶしに来ている (1/3)／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fascii.jp%2Fimg%2F2023%2F10%2F14%2F3621491%2Fxl%2F8b395489af735789.jpg%3F20200122"
         }
       ]
     },
@@ -1796,6 +1776,56 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2023/11/15/html-loading-dwango-on-github/",
+          "author": null,
+          "description": "https://dwango.github.io/articles/html-loading-attribute/\n ブラウザごとのimg/iframeのloading=lazyの挙動の違いについて",
+          "link": "https://realtime.jser.info/2023/11/15/html-loading-dwango-on-github/",
+          "publishedOn": "2023-11-15T12:25:39.000Z",
+          "wordCount": 48,
+          "title": "仕様と実装から読み解くHTMLのloading属性 - dwango on GitHub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/11/15/jetbrains-javascript-day-2023-youtube/",
+          "author": null,
+          "description": "https://www.youtube.com/playlist?list=PLQ176FUIyIUZmRHOyz_n9iy2qfHo4_GRT\n JetBrains JavaScript Day 2023の動画まとめ",
+          "link": "https://realtime.jser.info/2023/11/15/jetbrains-javascript-day-2023-youtube/",
+          "publishedOn": "2023-11-15T12:05:56.000Z",
+          "wordCount": 53,
+          "title": "JetBrains JavaScript Day 2023 - YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/11/15/html-dom-phuoc-nguyen/",
+          "author": null,
+          "description": "https://phuoc.ng/collection/html-dom/\n DOM APIを使った逆引きリファレンス的なサイト",
+          "link": "https://realtime.jser.info/2023/11/15/html-dom-phuoc-nguyen/",
+          "publishedOn": "2023-11-15T12:01:31.000Z",
+          "wordCount": 50,
+          "title": "HTML DOM — Phuoc Nguyen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/11/15/project-status-maintenance-reboot-issue-5027-mochajs-mocha/",
+          "author": null,
+          "description": "https://github.com/mochajs/mocha/issues/5027\n Mochaのプロジェクトをリブートしメンテナンスを再開するというアナウンス。",
+          "link": "https://realtime.jser.info/2023/11/15/project-status-maintenance-reboot-issue-5027-mochajs-mocha/",
+          "publishedOn": "2023-11-15T11:54:24.000Z",
+          "wordCount": 56,
+          "title": "Project Status: Maintenance Reboot · Issue #5027 · mochajs/mocha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/11/15/node-v21-2-0-current-node-js/",
+          "author": null,
+          "description": "https://nodejs.org/blog/release/v21.2.0\n Node.js v21.2.0リリース。\nimport.meta.dirnameとimport.meta.filenameを追加、fs/promisesにスタックトレースを追加。\nnavigator.language/navigator.platformを追加、--no-experimental-global-navigatorフラグを追加など。",
+          "link": "https://realtime.jser.info/2023/11/15/node-v21-2-0-current-node-js/",
+          "publishedOn": "2023-11-15T01:20:11.000Z",
+          "wordCount": 50,
+          "title": "Node v21.2.0 (Current) | Node.js",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2023/11/14/speedvitals-website-speed-test-monitoring/",
           "author": null,
@@ -2284,16 +2314,6 @@
           "publishedOn": "2023-10-17T13:16:21.000Z",
           "wordCount": 49,
           "title": "Release v0.3.7 · web-infra-dev/rspack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/10/16/flat-config-rollout-plans-eslint-pluggable-javascript-linter/",
-          "author": null,
-          "description": "https://eslint.org/blog/2023/10/flat-config-rollout-plans/\n ESLintのConfigファイルの今後について。\nESLintでは、ESLint 9でeslint.config.jsのFlat Configがデフォルトとなり、.eslintrc.*の形式は非推奨となる。\n.eslinrc.*のサポートはESLint 10で削除される予定となっている。",
-          "link": "https://realtime.jser.info/2023/10/16/flat-config-rollout-plans-eslint-pluggable-javascript-linter/",
-          "publishedOn": "2023-10-16T12:42:36.000Z",
-          "wordCount": 62,
-          "title": "Flat config rollout plans - ESLint - Pluggable JavaScript Linter",
           "imageUrl": null
         }
       ]
