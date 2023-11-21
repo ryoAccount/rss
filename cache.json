@@ -235,6 +235,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/",
+          "author": "Chua Hui Shun",
+          "description": "The python-telegram-bot v20 release introduced major structural changes. According to the documentation, > “All networking and I/O-related logic now works via coroutine functions (i.e.  async def ... functions). In particular, all methods of the telegram.Bot class that make requests to the Bot API are now coroutine functions and need",
+          "link": "https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/",
+          "publishedOn": "2023-11-20T20:43:21.000Z",
+          "wordCount": 1379,
+          "title": "How to Build and Deploy a python-telegram-bot v20 Webhook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/iPhone-8---1--1-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/",
           "author": "Quincy Larson",
           "description": "Today I'm joined by Dr. Curran Kelleher. He's a data visualization expert and has taught a number of in-depth data visualization courses on freeCodeCamp's YouTube channel. We talk about what it's like to get a Ph.D. under one of the pioneers of data visualization. We also talk about how he",
@@ -1260,16 +1270,6 @@
           "wordCount": 3402,
           "title": "Storybookを書くだけでリグレッションテストが 実行される世界へようこそ",
           "imageUrl": "https://files.speakerdeck.com/presentations/bab929bca2ed49b7b18f750b964150a3/slide_0.jpg?27489168"
-        },
-        {
-          "id": "https://storybook.js.org/blog/storybook-7-5",
-          "author": null,
-          "description": "Next.js improvements, enhanced Angular support, and 2.2x faster startup for React TypeScript projects",
-          "link": "https://storybook.js.org/blog/storybook-7-5",
-          "publishedOn": "2023-10-22T04:52:41.000Z",
-          "wordCount": 3798,
-          "title": "Storybook 7.5",
-          "imageUrl": "https://storybookblog.ghost.io/content/images/2023/10/storybook-7.5.png"
         }
       ]
     },
@@ -1278,6 +1278,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2023/11/21?from=rss",
+          "author": null,
+          "description": "<img src=\"https://gihyo.jp/assets/images/ICON/2023/2174_memorial-to-bram-moolenaar.png\"><br>すべてカテゴリー 2023年11月21日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 追悼 Bram Moolenaar  ～Vimへの情熱と貢献を振り返る（gihyo.jp）<br>2位: チャット形式でプログラミングが可能なローカルで動作するオープンソースなAIツール「Open Interpreter」を使ってみた（gigazine.net）<br>3位: 無料・無制限で「GPT-4」を使い放題！ 生成AIチャットサービス「リートン」（wrtn）／用途別にカスタマイズされた生成ツールを多数用意【レビュー】（forest.watch.impress.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/11/21?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2023/11/21?from=rss",
+          "publishedOn": "2023-11-20T20:00:10.927Z",
+          "wordCount": 7086,
+          "title": "【11月21日ランキング】追悼 Bram Moolenaar  ～Vimへの情熱と貢献を振り返る／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fgihyo.jp%2Fassets%2Fimages%2FICON%2F2023%2F2174_memorial-to-bram-moolenaar.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2023/11/20?from=rss",
           "author": null,
@@ -1601,6 +1611,36 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2023/11/21/intl-speaker-deck/",
+          "author": null,
+          "description": "https://speakerdeck.com/sajikix/intlnojin-madetokorekara\n ECMA-402のIntlオブジェクトについてのスライド。\nIntl APIの紹介、仕様バージョンごとの追加された機能、国際化や地域化を扱うためUnicodeなどの外部仕様に依存している点、Temporalとの組み合わせなどについて",
+          "link": "https://realtime.jser.info/2023/11/21/intl-speaker-deck/",
+          "publishedOn": "2023-11-20T23:49:41.000Z",
+          "wordCount": 49,
+          "title": "Intlの今までとこれから - Speaker Deck",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/11/21/announcing-typescript-5-3-typescript/",
+          "author": null,
+          "description": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-3/\n TypeScript 5.3リリース。\nStage 3のImport Attributesをサポート、resolution-modeを///コメントで指定できるように。\nswitch(true)でのNarrowingをサポート、[Symbol.hasInstance]とinsteanceofを使ったNarrowingをサポート。\nパッケージ内のbundleファイルの重複を避けることで、パッケージサイズの改善など。",
+          "link": "https://realtime.jser.info/2023/11/21/announcing-typescript-5-3-typescript/",
+          "publishedOn": "2023-11-20T23:17:26.000Z",
+          "wordCount": 53,
+          "title": "Announcing TypeScript 5.3 - TypeScript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/11/20/release-8-0-0-vvo-iron-session/",
+          "author": null,
+          "description": "https://github.com/vvo/iron-session/releases/tag/v8.0.0\n iron-session 8.0.0リリース。\nNext.js App Routerに対応し、APIも合わせて変更。",
+          "link": "https://realtime.jser.info/2023/11/20/release-8-0-0-vvo-iron-session/",
+          "publishedOn": "2023-11-20T12:17:12.000Z",
+          "wordCount": 51,
+          "title": "Release 8.0.0 · vvo/iron-session",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2023/11/19/2023-x/",
           "author": null,
@@ -2129,26 +2169,6 @@
           "publishedOn": "2023-10-23T13:09:45.000Z",
           "wordCount": 81,
           "title": "Faster TypeScript builds with --isolatedDeclarations by Titian-Cornel Cernicova-Dragomir - GitNation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/10/22/alexsergey-rockpack-rockpack-is-a-simple-solution-for-creating-react-application-with-server-side-rendering-bundling-linting-testing-within-5-minutes/",
-          "author": null,
-          "description": "https://github.com/AlexSergey/rockpack\n Create React App的なReactでのアプリケーション開発をするツールキット",
-          "link": "https://realtime.jser.info/2023/10/22/alexsergey-rockpack-rockpack-is-a-simple-solution-for-creating-react-application-with-server-side-rendering-bundling-linting-testing-within-5-minutes/",
-          "publishedOn": "2023-10-22T10:27:33.000Z",
-          "wordCount": 81,
-          "title": "AlexSergey/rockpack: Rockpack is a simple solution for creating React Application with Server Side Rendering, bundling, linting, testing within 5 minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/10/21/announcing-tanstack-query-v5-tanstack-blog/",
-          "author": null,
-          "description": "https://tanstack.com/blog/announcing-tanstack-query-v5\n TanStack Query v5リリース。\nAPIの引数の形式を変更、Suspenseのサポート、開発者ツールの刷新など。\n関連URL\nAnnouncing TanStack Query v5 | TanStack Blog\nMigrating to TanStack Query v5 | TanStack Query Docs",
-          "link": "https://realtime.jser.info/2023/10/21/announcing-tanstack-query-v5-tanstack-blog/",
-          "publishedOn": "2023-10-21T13:18:21.000Z",
-          "wordCount": 76,
-          "title": "Announcing TanStack Query v5 | TanStack Blog",
           "imageUrl": null
         }
       ]
