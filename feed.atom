@@ -2,10 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T00:36:03.232Z</updated>
+    <updated>2023-12-02T00:31:30.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラウザ上でデバッグするときに使えるテクニック]]></title>
+        <id>https://gigazine.net/news/20231118-browser-debugging-tricks</id>
+        <link href="https://gigazine.net/news/20231118-browser-debugging-tricks"/>
+        <updated>2023-12-02T00:01:42.000Z</updated>
+        <summary type="html"><![CDATA[ウェブ上でJavaScriptを実行してバグが発生した場合、ブラウザに内蔵されている開発者ツールを使ってデバッグすることがよくあります。そうしたブラウザでのデバッグにおいて役立つテクニックをNetflixでフロントエンドの開発に携わっているアラン・ノルバウアーさんがまとめています。]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fresh 1.6: Tailwind CSS plugin, simplified typings and more]]></title>
+        <id>https://realtime.jser.info/2023/12/02/fresh-1-6-tailwind-css-plugin-simplified-typings-and-more/</id>
+        <link href="https://realtime.jser.info/2023/12/02/fresh-1-6-tailwind-css-plugin-simplified-typings-and-more/"/>
+        <updated>2023-12-01T23:54:56.000Z</updated>
+        <summary type="html"><![CDATA[https://deno.com/blog/fresh-1.6
+ Fresh 1.6リリース。
+TwindからTailwind CSSへの移行、fresh.gen.tsの自動生成結果がコンフリクトしにくい形式へと変更、Pluginからislandsが作成できるように。
+ルーティングにURLPatternではなく正規表現を使うことでパフォーマンスを改善、Contextの型定義をまとめるなどの変更が含まれる
+関連URL
+Release 1.6.0 · denoland/fresh
+Migrating to Tailwind | Fresh docs
+Poor URLPattern performance · Issue #19861 · denoland/deno]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nue / Frontend troublesolver]]></title>
+        <id>https://nuejs.org</id>
+        <link href="https://nuejs.org/"/>
+        <updated>2023-12-01T23:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Nue is a simple React, Next.js, Vite, and Astro alternative focusing on minimalism, separation of concerns, and semantic web design.]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Table of Contents to Your Article on Ghost]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/"/>
+        <updated>2023-12-01T19:47:28.000Z</updated>
+        <summary type="html"><![CDATA[A table of contents (or TOC) is a list of chapters or section titles in an article. You'll usually find it at the beginning of an article, right after the introduction. When you write a long blog post or an article with independent sections, consider adding a table of contents.]]></summary>
+        <author>
+            <name>Ayu Adiati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Tutorial – How to Code Images with 7 Examples]]></title>
+        <id>https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/</id>
+        <link href="https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/"/>
+        <updated>2023-12-01T19:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering Deleted Files From Your Git Working Tree]]></title>
+        <id>https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/</id>
+        <link href="https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/"/>
+        <updated>2023-12-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git is designed to assure us that we can track a project’s files at different points in time. But it doesn’t assure us that those files are always safe along the way. For those of you who have dealt with the sinking feeling that you’ve irrevocably deleted and lost files, Sanmi has a couple of approaches that, in the right situations, may help bring them back.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Oluwasanmi Akande)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tapjs/tsimp]]></title>
+        <id>https://realtime.jser.info/2023/12/01/tapjs-tsimp/</id>
+        <link href="https://realtime.jser.info/2023/12/01/tapjs-tsimp/"/>
+        <updated>2023-12-01T08:15:10.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/tapjs/tsimp
+ ts-nodeのようにTypeScriptのコードを型チェックしながらコンパイルできるローダー。
+Node.js 20からサポートされているModule.register()を使ってnode --importで動作する。またデーモンとキャッシュを使うことで、不要な処理をスキップできる。]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Containmentの仕組みを理解してレンダリングパフォーマンスをアップする1 概要 | フロントエンドBlog | ミツエーリンクス]]></title>
+        <id>https://realtime.jser.info/2023/12/01/css-containment-blog/</id>
+        <link href="https://realtime.jser.info/2023/12/01/css-containment-blog/"/>
+        <updated>2023-12-01T08:13:34.000Z</updated>
+        <summary type="html"><![CDATA[https://www.mitsue.co.jp/knowledge/blog/frontend/202311/28_1448.html
+ CSS Containmentについて]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluent React]]></title>
+        <id>https://realtime.jser.info/2023/12/01/fluent-react/</id>
+        <link href="https://realtime.jser.info/2023/12/01/fluent-react/"/>
+        <updated>2023-12-01T07:28:20.000Z</updated>
+        <summary type="html"><![CDATA[https://learning.oreilly.com/library/view/fluent-react/9781098138707/
+ 2024年3月発売。
+Reactについての書籍]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prettier&#039;s CLI: A Performance Deep Dive · Prettier]]></title>
+        <id>https://realtime.jser.info/2023/12/01/prettiers-cli-a-performance-deep-dive-prettier/</id>
+        <link href="https://realtime.jser.info/2023/12/01/prettiers-cli-a-performance-deep-dive-prettier/"/>
+        <updated>2023-12-01T07:22:26.000Z</updated>
+        <summary type="html"><![CDATA[https://prettier.io/blog/2023/11/30/cli-deep-dive
+ PrettierのCLIのパフォーマンス改善について。
+globのファイル探索の改善、INIファイルのパースの改善、キャッシュをデフォルト化、console.logの出力をバッファリングするように変更など]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node v21.3.0 (Current) | Node.js]]></title>
+        <id>https://realtime.jser.info/2023/12/01/node-v21-3-0-current-node-js/</id>
+        <link href="https://realtime.jser.info/2023/12/01/node-v21-3-0-current-node-js/"/>
+        <updated>2023-12-01T07:11:31.000Z</updated>
+        <summary type="html"><![CDATA[https://nodejs.org/en/blog/release/v21.3.0
+ Node.js v21.3.0リリース。
+--disable-warningフラグの追加、ルート証明書をNSS 3.95に更新、UTF-8の文字列をfs.writeFileSyncで書き込む時のパフォーマンス改善など]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storybook 7.6]]></title>
+        <id>https://realtime.jser.info/2023/12/01/storybook-7-6/</id>
+        <link href="https://realtime.jser.info/2023/12/01/storybook-7-6/"/>
+        <updated>2023-12-01T03:23:42.000Z</updated>
+        <summary type="html"><![CDATA[https://storybook.js.org/blog/storybook-7-6/
+ Storybook 7.6リリース。
+webpackプロジェクトでもSWCを利用するように変更、@storybook/testのassertionをVitestのexpectに変更、Test modeの追加。
+react-docgenのアップデートによる起動時間の改善、StoryshotsとVue2のサポートを非推奨化するなど]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12月1日ランキング】Git の Squash マージをやめた話／ほか19本]]></title>
         <id>https://techfeed.io/categories/all/selections/daily/2023/12/1?from=rss</id>
@@ -2066,80 +2205,6 @@ deno run --envで.envのロードをサポート、std/httpでEventSource APIの
         <summary type="html"><![CDATA[A visual regression test tool for github actions :octocat:. - GitHub - reg-viz/reg-actions: A visual regression test tool for github actions :octocat:.]]></summary>
         <author>
             <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn to Code & Get a Developer Job [Full Book]]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-code-book/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-code-book/"/>
-        <updated>2023-11-01T23:52:00.000Z</updated>
-        <summary type="html"><![CDATA[If you want to learn to code and get a job as a developer, you're in the right place. This book will show you how. And yes this is the full book – for free – right here on this page of freeCodeCamp. Update October 20, 2023: I've recorded a]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome - Chrome for Developers]]></title>
-        <id>https://realtime.jser.info/2023/11/02/webassembly-garbage-collection-wasmgc-now-enabled-by-default-in-chrome-chrome-for-developers/</id>
-        <link href="https://realtime.jser.info/2023/11/02/webassembly-garbage-collection-wasmgc-now-enabled-by-default-in-chrome-chrome-for-developers/"/>
-        <updated>2023-11-01T23:25:26.000Z</updated>
-        <summary type="html"><![CDATA[https://developer.chrome.com/en/blog/wasmgc/
- Chrome 119でサポートされたWasmGCについて。
-Wasm上に独自のGCを実装せずに、既存のGCを再利用できるようにするHeap管理の仕組みについて]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New in Chrome 119 - Chrome for Developers]]></title>
-        <id>https://realtime.jser.info/2023/11/02/new-in-chrome-119-chrome-for-developers/</id>
-        <link href="https://realtime.jser.info/2023/11/02/new-in-chrome-119-chrome-for-developers/"/>
-        <updated>2023-11-01T22:53:17.000Z</updated>
-        <summary type="html"><![CDATA[https://developer.chrome.com/en/blog/new-in-chrome-119/
- Chrome 119リリース。
-CookieのExpiresの最大値を400日にする変更を過去分に対して適応、WebSQLの削除。
-CSSの:user-valid/:user-invalidの擬似クラスのサポート、relative color構文のサポート、clip-pathプロパティの改善など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Cypress for End-to-End Testing Your React Apps]]></title>
-        <id>https://www.freecodecamp.org/news/cypress-for-end-to-end-testing-react-apps/</id>
-        <link href="https://www.freecodecamp.org/news/cypress-for-end-to-end-testing-react-apps/"/>
-        <updated>2023-11-01T22:45:46.000Z</updated>
-        <summary type="html"><![CDATA[React is a popular framework for building web applications. It's is one of the best options for frontend engineering because of its declarative approach to user interface design and component-based architecture.  But it can be difficult to make sure your React application functions as intended in various different scenarios.]]></summary>
-        <author>
-            <name>Okosa Leonard Onyekachukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11月2日ランキング】Railsで秒間1000コミットを捌くにはどうすればいいのか (Kaigi on Railsのフリースペースより)／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2023/11/2?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2023/11/2?from=rss"/>
-        <updated>2023-11-01T20:00:10.671Z</updated>
-        <summary type="html"><![CDATA[<img src="https://ogimage.blog.st-hatena.com/8599973812290844300/6801883189054390838/1698728865"><br>すべてカテゴリー 2023年11月2日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Railsで秒間1000コミットを捌くにはどうすればいいのか (Kaigi on Railsのフリースペースより)（joker1007.hatenablog.com）<br>2位: RailsアプリのCI高速化（r7kamura.com）<br>3位: 2023年版「データサイエンティストスキルチェックリスト」が無料公開　生成AIの利活用スキルなどを追加（www.itmedia.co.jp）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2023/11/2?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンライン版ロングマン現代英英辞典へようこそ]]></title>
-        <id>https://ldoceonline.com/jp</id>
-        <link href="https://ldoceonline.com/jp"/>
-        <updated>2023-11-01T15:09:19.000Z</updated>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create and Deploy IaC by Chatting with AI]]></title>
-        <id>https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/</id>
-        <link href="https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/"/>
-        <updated>2023-11-01T13:39:47.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure as Code (IaC) is a revolutionary approach to managing and provisioning computing infrastructure. With IaC, you can automate the process of provisioning, configuring, and managing infrastructure using code and software development techniques. This approach provides a more efficient, consistent, and reliable way of managing infrastructure compared to traditional manual]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
