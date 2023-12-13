@@ -235,6 +235,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/",
+          "author": "Victoria Poromon",
+          "description": "Django is a high-level web framework written in Python that encourages a rapid and realistic functional design. The Django web framework is free and open-source and is widely used to create both small and large web applications. In this tutorial, you will learn the following:  * What a development",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/",
+          "publishedOn": "2023-12-12T15:52:32.000Z",
+          "wordCount": 1317,
+          "title": "How to Set Up a Django Development Environment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/DDE-cover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/",
+          "author": "Benjamin Semah",
+          "description": "In HTML, innerHTML, innerText, and textContent are properties of the DOM (Document Object Model). They allow you to read and update the content of HTML elements. But they have different behaviours in terms of the content they include and how they handle HTML markup. By the end of this article,",
+          "link": "https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/",
+          "publishedOn": "2023-12-11T21:57:38.000Z",
+          "wordCount": 1875,
+          "title": "innerHTML vs innerText vs textContent – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Benjamin-Semah---DevAfterHours-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/comment-your-javascript-code/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Writing comments in JavaScript is crucial for code readability, maintainability, and developer collaboration. Comments serve as notes within the codebase, explaining its functionality and logic, or providing context.  In this article, I will explain the significance of commenting your code, best practices to follow, and examples showcasing effective commenting",
+          "link": "https://www.freecodecamp.org/news/comment-your-javascript-code/",
+          "publishedOn": "2023-12-11T21:55:46.000Z",
+          "wordCount": 1709,
+          "title": "How to Comment Your JavaScript Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Comment-Your-JS-Code-fCC.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "JavaScript is a versatile programming language that powers the dynamic behavior of websites.  As web applications become more sophisticated, the need to handle asynchronous operations efficiently becomes crucial. Asynchronous JavaScript allows you to execute code without blocking the main thread, ensuring a smoother user experience.  Promises are a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/",
+          "publishedOn": "2023-12-11T21:52:05.000Z",
+          "wordCount": 3425,
+          "title": "Asynchronous JavaScript – How to Use Promises in Your JS Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Orange-and-white-modern-creative-marketing-plan-Presentation-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-api-gateways/",
+          "author": "Daniel Adetunji",
+          "description": "APIs are often referred to as the front-door for applications to access data and business logic from backend services. As explained here [https://lightcloud.substack.com/p/api-integration-patterns], an API is essentially the interface that a piece of software presents to other humans or programs, allowing them to interact with that software. When creating an",
+          "link": "https://www.freecodecamp.org/news/what-are-api-gateways/",
+          "publishedOn": "2023-12-11T21:40:25.000Z",
+          "wordCount": 2806,
+          "title": "What is an API Gateway and Why is it Useful?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/cover.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/",
           "author": "Matheus A. S. Freitas",
           "description": "In this tutorial, you will learn how to install MongoDB with support for the latest version of OpenSSL on the Fedora Linux operating system.  If you already have it installed, this tutorial will help you fix the mongosh OpenSSL configuration error. To follow along, you will need a terminal",
@@ -1370,16 +1420,6 @@
           "wordCount": 2313,
           "title": "Optimize Your Website for Core Web Vitals",
           "imageUrl": "https://speedvitals.com/images/speedvitals_banner.png"
-        },
-        {
-          "id": "http://kachibito.net/useful-resource/open-audio-tts",
-          "author": null,
-          "description": "Open-Audio TTSOpen-Audio TTSはOpenAIのTTSでテキストを自然な音声に変換し、ダウンロードできるようにするオープンソースのWebアプリです。公開されて間もないOpenAIのTTS（Text-To-Speech",
-          "link": "http://kachibito.net/useful-resource/open-audio-tts",
-          "publishedOn": "2023-11-12T22:57:21.000Z",
-          "wordCount": 3515,
-          "title": "OpenAIのTTSでテキストを自然な音声に変換し、ダウンロードできるようにするオープンソースの「Open-Audio TTS」",
-          "imageUrl": "http://kachibito.net/wp-content/uploads/2023/11/open-audio-ai-tts01.jpg"
         }
       ]
     },
@@ -1388,6 +1428,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2023/12/13?from=rss",
+          "author": null,
+          "description": "<img src=\"https://www.publickey1.jp/2023/e9wvKNtf.png\"><br>すべてカテゴリー 2023年12月13日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: GitHub、1200台以上のMySQL 5.7を8.0へアップグレード。サービス無停止のまま成功させる（www.publickey1.jp）<br>2位: あらゆるプログラミング言語の最先端を行くScala 3のマクロ（tarao.hatenablog.com）<br>3位: トーバルズ氏、Linux開発の現状や生成AIについて語る（japan.zdnet.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/12/13?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2023/12/13?from=rss",
+          "publishedOn": "2023-12-12T20:00:10.639Z",
+          "wordCount": 7152,
+          "title": "【12月13日ランキング】GitHub、1200台以上のMySQL 5.7を8.0へアップグレード。サービス無停止のまま成功させる／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2023%2Fe9wvKNtf.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2023/12/12?from=rss",
           "author": null,
@@ -1657,26 +1707,6 @@
           "wordCount": 7083,
           "title": "【11月14日ランキング】ChatGPT授乳ハックという失われつつある技術について／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhoneshabri%2F20231112%2F20231112144943.jpg"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/11/13?from=rss",
-          "author": null,
-          "description": "<img src=\"https://i.gzn.jp/img/2023/11/11/confusing-git-terminology/00.png\"><br>すべてカテゴリー 2023年11月13日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 混乱を引き起こしがちなGitの用語まとめ（gigazine.net）<br>2位: VSCodeの拡張機能【Gist】が便利すぎて開発効率がかなり上がった話（qiita.com）<br>3位: curl で AWS API を叩いてみた（dev.classmethod.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/11/13?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/11/13?from=rss",
-          "publishedOn": "2023-11-12T20:00:11.296Z",
-          "wordCount": 7081,
-          "title": "【11月13日ランキング】混乱を引き起こしがちなGitの用語まとめ／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2023%2F11%2F11%2Fconfusing-git-terminology%2F00.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/weekly/2023/W45?from=rss",
-          "author": null,
-          "description": "<img src=\"https://blog.tinect.jp/wp-content/uploads/2023/11/8ad26ac6658b0faf1cc6b6f56c11ef6c.jpg\"><br>すべてカテゴリー 2023年11月2週のTechFeed記事週間ランキングです（日本語記事10本、英語記事10本）。<br>1位: 「生成AIを仕事で使い倒す人たち」に取材して回ったら「自分の10年後の失業」が見えてしまった（blog.tinect.jp）<br>2位: 「京大生でもx＝x＋1が分からない」、喜多教授が明かすPython教育の実態（xtech.nikkei.com）<br>3位: GitHub Projects を利用したタスク管理（user-first.ikyu.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/weekly/2023/W45?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/weekly/2023/W45?from=rss",
-          "publishedOn": "2023-11-12T14:59:59.999Z",
-          "wordCount": 7079,
-          "title": "【11月2週ランキング】「生成AIを仕事で使い倒す人たち」に取材して回ったら「自分の10年後の失業」が見えてしまった／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fblog.tinect.jp%2Fwp-content%2Fuploads%2F2023%2F11%2F8ad26ac6658b0faf1cc6b6f56c11ef6c.jpg"
         }
       ]
     },
@@ -1691,6 +1721,36 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2023/12/12/vite-jest-vitest/",
+          "author": null,
+          "description": "https://zenn.dev/sa2knight/articles/migrating_vitest_from_jest\n JestからVitestへの移行方法について",
+          "link": "https://realtime.jser.info/2023/12/12/vite-jest-vitest/",
+          "publishedOn": "2023-12-12T13:53:03.000Z",
+          "wordCount": 50,
+          "title": "Vite は使ってないけど Jest を Vitest に移行する",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/12/12/npm-install-production/",
+          "author": null,
+          "description": "https://zenn.dev/zawa_kyo/articles/d671e0935ae0c0\n npm install --omit=devや--production、--inculdeフラグについて",
+          "link": "https://realtime.jser.info/2023/12/12/npm-install-production/",
+          "publishedOn": "2023-12-12T12:18:46.000Z",
+          "wordCount": 45,
+          "title": "npm install --productionみたいなの色々ありすぎ問題",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2023/12/12/webkit-features-in-safari-17-2-webkit/",
+          "author": null,
+          "description": "https://www.webkit.org/blog/14787/webkit-features-in-safari-17-2/\n Safari 17.2リリース。\nHTMLでは、&lt;detail name&gt;のサポート、&lt;input autocomplete=&quot;one-time-code&quot;&gt;のサポートなど。\nCSSでは、Nestingのルール緩和、cap unit、rem()/mod()/round()の追加、mask-borderのサポート、Custom Highlight APIのサポートなど。\nJavaScriptでは、Import attributesのサポート。\nその他には、&lt;link rel=preload&gt;でimagesizes/imagesrcset属性でのresponsive imageをサポート。\nSVG画像を&lt;image crossorigin&gt;で読み込むときにCORSを考慮して扱えるように。\nFetch Priorityのサポート、HTML Formのform.reportValidity() APIをサポートなど",
+          "link": "https://realtime.jser.info/2023/12/12/webkit-features-in-safari-17-2-webkit/",
+          "publishedOn": "2023-12-12T07:03:14.000Z",
+          "wordCount": 70,
+          "title": "WebKit Features in Safari 17.2 | WebKit",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2023/12/10/ecmascript-proposal-updates-2023-11-ecmascript-daily/",
           "author": null,
@@ -2239,16 +2299,6 @@
           "publishedOn": "2023-11-14T11:25:59.000Z",
           "wordCount": 53,
           "title": "SpeedVitals - Website Speed Test &amp; Monitoring",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/11/13/prettier-3-1-new-experimental-ternaries-formatting-and-angular-control-flow-syntax-prettier/",
-          "author": null,
-          "description": "https://prettier.io/blog/2023/11/13/3.1.0.html\n Prettier 3.1リリース。\n--experimental-ternariesで三項演算子の新しい整形ルールを試せるように。\nBabel 7.23.0でサポートされた構文をサポート、Angular 17で追加されたcontrol flow構文のサポートなど",
-          "link": "https://realtime.jser.info/2023/11/13/prettier-3-1-new-experimental-ternaries-formatting-and-angular-control-flow-syntax-prettier/",
-          "publishedOn": "2023-11-13T07:47:41.000Z",
-          "wordCount": 70,
-          "title": "Prettier 3.1: New experimental ternaries formatting and Angular control flow syntax! · Prettier",
           "imageUrl": null
         }
       ]
