@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.",
+          "link": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
+          "publishedOn": "2023-12-22T13:00:00.000Z",
+          "wordCount": 7938,
+          "title": "The View Transitions API And Delightful UI Animations (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
           "author": "hello@smashingmagazine.com (Šime Vidas)",
           "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
@@ -993,66 +1008,6 @@
           "wordCount": 1306,
           "title": "freeCodeCamp's Top Open Source Contributors of 2023",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Top-Open-Source-Contributors-2023-Static.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dom-manipulation-in-javascript/",
-          "author": "Joan Ayebola",
-          "description": "JavaScript, the language of the web, empowers developers to create dynamic and interactive web pages. One of the key features that enables this interactivity is Document Object Model (DOM) manipulation.  DOM manipulation allows developers to interact with and modify the structure, style, and content of web pages. In this",
-          "link": "https://www.freecodecamp.org/news/dom-manipulation-in-javascript/",
-          "publishedOn": "2023-11-23T08:16:19.000Z",
-          "wordCount": 2193,
-          "title": "DOM Manipulation in JavaScript – A Comprehensive Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Beige-Aesthetic-Neutral-Thesis-Defense-Presentation-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/",
-          "author": "Victoria Poromon",
-          "description": "Django model fields define the structure of a database within a Django web application. Using this essential component will keep your work organized and help you make fewer mistakes in your code. This article will discuss some common Django model fields and how to use them in your code. To",
-          "link": "https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/",
-          "publishedOn": "2023-11-23T00:03:28.000Z",
-          "wordCount": 1984,
-          "title": "Django Model Fields – Common Use Cases and How They Work",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Django-models-article-cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/",
-          "author": "Ayu Adiati",
-          "description": "> Hey {username}, we've merged a PR before yours. Please resolve the merge conflicts so we can review and merge your PR. Have you ever received that kind of message from a maintainer while waiting for your pull request to be reviewed and merged? And then, you're panicking because you",
-          "link": "https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/",
-          "publishedOn": "2023-11-22T23:23:20.000Z",
-          "wordCount": 2023,
-          "title": "How to Keep Branches Up-to-Date and Resolve Merge Conflicts in GitHub and VS Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/How-to-Keep-Branches-Up-to-Date-and-Resolve-Merge-Conflicts-in-GitHub-and-VS-Code.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/get-your-first-data-science-internship/",
-          "author": "Tatev Aslanyan",
-          "description": "Do you want to break into Data Science in 2024? Then you should consider trying to get your first Data Science internship.  Internships can help you gain invaluable experience and set you up for success in the ever-evolving field of Data Science. But with fierce competition, limited opportunities, unclear",
-          "link": "https://www.freecodecamp.org/news/get-your-first-data-science-internship/",
-          "publishedOn": "2023-11-22T23:01:18.000Z",
-          "wordCount": 9001,
-          "title": "How to Get Your First Data Science Internship",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Data-Science-Internship-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
-          "author": "Vahe Aslanyan",
-          "description": "If you're regularly confronted by the complexity of modern data, you’re not alone. In our data-centric world, understanding data structures isn’t optional — it’s essential.  Whether you’re a novice coder or an experienced developer, this handbook is your concise guide to the critical skill of data management through data structures. Data",
-          "link": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
-          "publishedOn": "2023-11-22T20:44:53.000Z",
-          "wordCount": 15753,
-          "title": "Data Structures Handbook – The Key to Scalable Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/The-Data-Structures-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
-          "author": "Beau Carnes",
-          "description": "Scikit-learn is an open-source machine learning library for Python, known for its simplicity, versatility, and accessibility. The library is well-documented and supported by a large community, making it a popular choice for both beginners and experienced practitioners in the field of machine learning. We just published an 18-hour course on",
-          "link": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
-          "publishedOn": "2023-11-22T16:14:14.000Z",
-          "wordCount": 969,
-          "title": "Machine Learning with Python and Scikit-Learn",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/machinelearning.png"
         }
       ]
     },
@@ -1390,26 +1345,6 @@
           "wordCount": 521,
           "title": "【電子版】雰囲気でOAuth2.0を使っているエンジニアがOAuth2.0を整理して、手を動かしながら学べる本",
           "imageUrl": "https://booth.pximg.net/c/620x620/cf80a27c-5163-4a4b-9d2b-2ba823d41bec/i/1296585/e4c73e6e-fc1c-433e-803f-3600aad8e634_base_resized.jpg"
-        },
-        {
-          "id": "https://speakerdeck.com/sajikix/intlnojin-madetokorekara?slide=29",
-          "author": null,
-          "description": "JSConf JP 2023 :  2023/11/19\n- https://jsconf.jp/2023/talk/ryusei-sajiki-1/",
-          "link": "https://speakerdeck.com/sajikix/intlnojin-madetokorekara?slide=29",
-          "publishedOn": "2023-11-23T01:04:51.000Z",
-          "wordCount": 3256,
-          "title": "Intlの今までとこれから",
-          "imageUrl": "https://files.speakerdeck.com/presentations/2b8451dc32d64d6c925025b1dd00390a/slide_28.jpg?27874878"
-        },
-        {
-          "id": "https://void.dev",
-          "author": null,
-          "description": "",
-          "link": "https://void.dev/",
-          "publishedOn": "2023-11-22T13:33:45.000Z",
-          "wordCount": 105,
-          "title": "Coming Soon",
-          "imageUrl": null
         }
       ]
     },
@@ -1687,16 +1622,6 @@
           "wordCount": 7086,
           "title": "【11月24日ランキング】あなたの開発生産性を爆上げする、エンジニア向けAIツール22個／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F122412841%2Frectangle_large_type_2_e73b609f7a3d5a9ee8d4cdb2755106d1.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/11/23?from=rss",
-          "author": null,
-          "description": "<img src=\"https://image.itmedia.co.jp/news/articles/2311/21/cover_news089.jpg\"><br>すべてカテゴリー 2023年11月23日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Amazon、生成AIスキルを習得できる無料講座を「AI Ready」で提供へ（www.itmedia.co.jp）<br>2位: 無料お絵描きアプリ「Krita」に画像生成AIを組み込んで落書きから美麗イラストを作成する方法まとめ、Stable DiffusionとControlNetをコマンドなしでサクッと導入可能（gigazine.net）<br>3位: Ruby の oneshot coverage で本番稼働中の Rails アプリの使用状況を収集して不要なコードを発見するための仕組みを導入した話（diggle.engineer）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/11/23?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/11/23?from=rss",
-          "publishedOn": "2023-11-22T20:00:11.067Z",
-          "wordCount": 7093,
-          "title": "【11月23日ランキング】Amazon、生成AIスキルを習得できる無料講座を「AI Ready」で提供へ／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2311%2F21%2Fcover_news089.jpg"
         }
       ]
     },
@@ -1711,6 +1636,16 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2023/12/22/bun-v1-0-19-bun-blog/",
+          "author": null,
+          "description": "https://bun.sh/blog/bun-v1.0.19\n Bun v1.0.19リリース。\nbun-typesには色々問題があったため@types/bunに変更、setTimeout/setIntervalのパフォーマンスを改善など",
+          "link": "https://realtime.jser.info/2023/12/22/bun-v1-0-19-bun-blog/",
+          "publishedOn": "2023-12-22T13:18:28.000Z",
+          "wordCount": 50,
+          "title": "Bun v1.0.19 | Bun Blog",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2023/12/21/introducing-catalyst-a-modern-ui-kit-for-react-tailwind-css/",
           "author": null,
