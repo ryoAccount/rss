@@ -151,21 +151,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/preparing-interaction-next-paint-web-core-vital/preparing-interaction-next-paint-web-core-vital.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.",
-          "link": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
-          "publishedOn": "2023-12-06T10:00:00.000Z",
-          "wordCount": 5933,
-          "title": "Five-Second Testing: Taking A Closer Look At First Impressions (Case Study)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/five-second-testing-case-study/five-second-testing-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/five-second-testing-case-study/five-second-testing-case-study.jpg"
         }
       ]
     },
@@ -174,6 +159,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/",
+          "author": "Elizabeth  Meshioye",
+          "description": "Sometimes you might want to use a different select element to match your style based on the theme of your design. Or perhaps the default design is different on separate browsers and you want uniformity.  But when designing this new element, you might forget to consider the accessibility of",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/",
+          "publishedOn": "2024-01-04T17:06:29.000Z",
+          "wordCount": 3119,
+          "title": "How to Build an Accessible Custom Dropdown Select Element",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/a11y-select.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/new-vs-make-functions-in-go/",
+          "author": "Destiny Erhabor",
+          "description": "Go, also known as Golang, is a statically-typed, compiled programming language designed for simplicity and efficiency.  When it comes to working with data structures like slices, maps, and channels, you'll likely encounter the new() and make() functions. While both are used for memory allocation, they serve distinct purposes.",
+          "link": "https://www.freecodecamp.org/news/new-vs-make-functions-in-go/",
+          "publishedOn": "2024-01-04T15:44:43.000Z",
+          "wordCount": 1069,
+          "title": "The new() vs make() Functions in Go – When to Use Each One",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-skitterphoto-422844.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-advanced-operators/",
+          "author": "Nathan Sebhastian",
+          "description": "Hi Everyone! In this article, I'm going to teach you how to use three advanced JavaScript operators: the Nullish Coalescing, Optional Chaining, and Destructuring Assignment operators. These three operators will help you write clearer and less error-prone code.  The Nullish Coalescing Operator When you’re inspecting JavaScript code, you may",
+          "link": "https://www.freecodecamp.org/news/javascript-advanced-operators/",
+          "publishedOn": "2024-01-04T15:22:39.000Z",
+          "wordCount": 2526,
+          "title": "Advanced JavaScript Operators – Nullish Coalescing, Optional Chaining, and Destructuring Assignment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/js-advanced-operators.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/",
+          "author": "SUDHEER KUMAR REDDY GOWRIGARI",
+          "description": "In the ever-evolving landscape of web development, performance optimization remains a top priority.  Among the plethora of strategies you can use to enhance web performance, lazy loading stands out for its efficiency and impact.  But what exactly is lazy loading, and how does it revolutionize the way we",
+          "link": "https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/",
+          "publishedOn": "2024-01-04T01:08:30.000Z",
+          "wordCount": 1759,
+          "title": "How Lazy Loading Works in Web Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/A-simple-banner-image-depicting-the-concept-of-lazy-loading-images.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/",
+          "author": "Chris Blakely",
+          "description": "Have you ever wondered how modern web applications are built? How you can learn and master the technologies that you can use to build your own full stack projects from scratch? In this handbook, I'm going to introduce you to the MERN stack, a widely-used technology stack embraced by many",
+          "link": "https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/",
+          "publishedOn": "2024-01-04T00:57:45.000Z",
+          "wordCount": 5450,
+          "title": "MERN Stack Roadmap – How to Learn MERN and Become a Full-Stack Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Copy-of-mern-stack-hotel-booking-website--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing/",
+          "author": "Zubair Idris Aweda",
+          "description": "As the digital landscape continues to evolve and technology marches forward, cloud computing has remained an important topic for developers to learn. You've probably encountered cloud requirements in job listings, heard people talk about it in conversations, or seen ads by companies offering cloud services – and now you're interested",
+          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing/",
+          "publishedOn": "2024-01-03T21:40:31.000Z",
+          "wordCount": 2590,
+          "title": "What is Cloud Computing? Introduction to the Cloud for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/cloud-sky.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/",
+          "author": "CHRISTINE T. BELZIE",
+          "description": "Imagine a beautiful cherry tree full of sweet, red, round fruit hanging on lush, glistening branches. But imagine if those cherries grew so quickly that the branches started bending, overlapping, and breaking...sounds chaotic right?  This is what can happen if you don't use Git's cherry-pick command properly in open",
+          "link": "https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/",
+          "publishedOn": "2024-01-03T21:33:29.000Z",
+          "wordCount": 1463,
+          "title": "How to Use Git Cherry Pick and Avoid Duplicate Commits",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/blog-cover-for-git-cherry-pick.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/manage-secrets-in-docker/",
+          "author": "Abraham Dahunsi",
+          "description": "Protecting sensitive data like API keys, passwords, and certificates in your Docker projects can be quite daunting and error-prone. And many devs neglect it when dealing with applications deployed in containers. There is no global way of storing and sharing secrets in containers. Traditional methods of storing them, such as",
+          "link": "https://www.freecodecamp.org/news/manage-secrets-in-docker/",
+          "publishedOn": "2024-01-03T16:26:00.000Z",
+          "wordCount": 2731,
+          "title": "How to Manage Secrets in Docker",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/feature-image.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/",
           "author": "Kedar Makode",
@@ -713,56 +778,6 @@
           "wordCount": 13567,
           "title": "How to Launch Your Coding Career and Land Your First Software Engineering Internship",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Software-Engineering-Intership-Handbook-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/",
-          "author": "Furkan Emin Can",
-          "description": "React is un-opinionated about how you fetch and manage the remote data in your application. You may think of using the useEffect hook for simple fetching operations, but it will not help you with caching, request deduplication, always serving real-time data, and so on. Things will get more complicated when",
-          "link": "https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/",
-          "publishedOn": "2023-12-05T21:59:00.000Z",
-          "wordCount": 1948,
-          "title": "How to Use the SWR Library for Better Data Fetching in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-python-best-for/",
-          "author": "Juan Cruz Martinez",
-          "description": "Developers are often very passionate about their tech stack, and they'll likely recommend it for anything.  It is very common to see devs on social media sharing how you can build anything with JavaScript or how Python is great for data scientists. As a Python fanatic myself, I actually",
-          "link": "https://www.freecodecamp.org/news/what-is-python-best-for/",
-          "publishedOn": "2023-12-05T21:22:56.000Z",
-          "wordCount": 2159,
-          "title": "Python Use Cases – What is Python Best For?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/python-best-for.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/",
-          "author": "Sophia Iroegbu",
-          "description": "Maintaining safe and frictionless user authentication is paramount in today's fast-changing web application landscape.  Among the many authentication methods available, GitHub OAuth has emerged as a useful tool for improving user login experience while strengthening security measures.  Django [https://docs.djangoproject.com/en/4.2/], a Python web framework, has recently gained popularity in",
-          "link": "https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/",
-          "publishedOn": "2023-12-05T21:19:14.000Z",
-          "wordCount": 1900,
-          "title": "How to Set Up GitHub OAuth in a Django App for User Authentication",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Blog-Banner---Template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/",
-          "author": "Amarachi Johnson-Ubah",
-          "description": "The proverb \"it takes a village\" applies to more than child-rearing. It also takes a village to maintain an open source project.  Community is a large part of open source. After all, Open Source projects can't thrive without a strong network of people (community) who contribute towards it, either",
-          "link": "https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/",
-          "publishedOn": "2023-12-05T21:14:18.000Z",
-          "wordCount": 2599,
-          "title": "How to Contribute to Open Source as a Community Manager",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/OSS-cover.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/",
-          "author": "Beau Carnes",
-          "description": "Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published a free 14-hour course that will help you prepare for the exam.  This exam mostly deals with cloud computing concepts. Even if you are new to",
-          "link": "https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/",
-          "publishedOn": "2023-12-05T19:51:55.000Z",
-          "wordCount": 1980,
-          "title": "AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/clfc01.jpg"
         }
       ]
     },
@@ -1000,56 +1015,6 @@
           "wordCount": 579,
           "title": "CSS に 4 つの新しい国際化機能を導入",
           "imageUrl": null
-        },
-        {
-          "id": "https://chrome.google.com/webstore/detail/mark-tab-manager/filgplhfalgafolkffphilkgckdgnona",
-          "author": null,
-          "description": "Automatically group tabs by domain",
-          "link": "https://chrome.google.com/webstore/detail/mark-tab-manager/filgplhfalgafolkffphilkgckdgnona",
-          "publishedOn": "2023-12-06T04:32:11.000Z",
-          "wordCount": 1651,
-          "title": "Mark tab manager",
-          "imageUrl": "https://lh3.googleusercontent.com/dqa1MqjG-w_-GdP_CFWhRQrZzLKNwtF8sxMYDYsfr8Hx7zfYb76ppNTtJ54H1jdgfKggu0GD4NmmtlWZQU3v_4y5oW8=w128-h128-e365-rj-sc0x00ffffff"
-        },
-        {
-          "id": "https://famitsu.com/news/202312/05326557.html",
-          "author": null,
-          "description": "『グランド・セフト・オートVI』（『GTA6』）のトレイラーが公開された。対応ハードはPS5とXbox Series X|Sを予定。YouTube動画URLや内容を紹介。",
-          "link": "https://famitsu.com/news/202312/05326557.html",
-          "publishedOn": "2023-12-06T00:15:27.000Z",
-          "wordCount": 1738,
-          "title": "【GTA6】『グランド・セフト・オートVI』のトレイラーが公開。発売は2025年を予定！ 太陽が満点の悪徳の都にルシアとパートナーが殴り込む",
-          "imageUrl": "https://www.famitsu.com/images/000/326/557/z_656e6b8a6dae2.jpg"
-        },
-        {
-          "id": "https://stylexjs.com",
-          "author": null,
-          "description": "",
-          "link": "https://stylexjs.com/",
-          "publishedOn": "2023-12-06T00:02:21.000Z",
-          "wordCount": 97,
-          "title": "StyleX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://antler.co",
-          "author": null,
-          "description": "Antler is the world's day zero investor, enabling exceptional founders to build startups and great companies, from the very beginning.",
-          "link": "https://antler.co/",
-          "publishedOn": "2023-12-05T14:17:30.000Z",
-          "wordCount": 4626,
-          "title": "Global early-stage VC enabling and investing in the world&#039;s most exceptional people",
-          "imageUrl": "https://assets-global.website-files.com/62d19f82a58657afab15127b/6434b3ab54422e4923398562_Antler.co_Social%20Sharing%20Image_1200x630.png"
-        },
-        {
-          "id": "https://coliss.com/articles/build-websites/operation/work/add-sizesauto-to-lazy-loaded.html",
-          "author": null,
-          "description": "朗報です！ 来年の2024年に、ブラウザはCSSから画像の実際の幅を取得し、それを画像のサイズとして使用することができるようになります。 srcsetで遅延読み込みされた画像の場合、ブラウザはsrcs",
-          "link": "https://coliss.com/articles/build-websites/operation/work/add-sizesauto-to-lazy-loaded.html",
-          "publishedOn": "2023-12-05T14:08:06.000Z",
-          "wordCount": 1058,
-          "title": "これは朗報！ レスポンシブ対応の遅延画像が「sizes=auto」を使用すると簡単に実装できるようになります",
-          "imageUrl": "https://coliss.com/wp-content/uploads-202304/2023120210@2x.png"
         }
       ]
     },
@@ -1058,6 +1023,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/1/5?from=rss",
+          "author": null,
+          "description": "<img src=\"https://www.publickey1.jp/2023/maia_la02.png\"><br>すべてカテゴリー 2024年1月5日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: PublickeyのIT業界予想2024。ハイパースケーラーの優位性高まる、AzureはAWSに追いつくか？ ITエンジニアの給与レベル上昇（www.publickey1.jp）<br>2位: 私のセキュリティ情報収集法を整理してみた（2024年版）（foxsecurity.hatenablog.com）<br>3位: AWS Lambdaのメモリ使用率と処理速度（it.kensan.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/1/5?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/1/5?from=rss",
+          "publishedOn": "2024-01-04T20:00:09.806Z",
+          "wordCount": 7156,
+          "title": "【1月5日ランキング】PublickeyのIT業界予想2024。ハイパースケーラーの優位性高まる、AzureはAWSに追いつくか？ ITエンジニアの給与レベル上昇／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2023%2Fmaia_la02.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2024/1/4?from=rss",
           "author": null,
@@ -1317,16 +1292,6 @@
           "wordCount": 7153,
           "title": "【12月7日ランキング】使いこなせていますか？Python 組み込み関数全71件 完全解説[2023 最新版]／ほか19本",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Fadvent-calendar-ogp-background-f625e957b80c4bd8dd47b724be996090.jpg?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZoPTMzNiZ0eHQ9JUU0JUJEJUJGJUUzJTgxJTg0JUUzJTgxJTkzJUUzJTgxJUFBJUUzJTgxJTlCJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJUJFJUUzJTgxJTk5JUUzJTgxJThCJUVGJUJDJTlGUHl0aG9uJTIwJUU3JUI1JTg0JUUzJTgxJUJGJUU4JUJFJUJDJUUzJTgxJUJGJUU5JTk2JUEyJUU2JTk1JUIwJUU1JTg1JUE4NzElRTQlQkIlQjYlMjAlRTUlQUUlOEMlRTUlODUlQTglRTglQTclQTMlRTglQUElQUMlNUIyMDIzJTIwJUU2JTlDJTgwJUU2JTk2JUIwJUU3JTg5JTg4JTVEJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkNtaWRkbGUmcz0xM2Q0ZTYzMWIyNmQ4ZDk0ZjkyNWQwMmU1NTRhNWE2Ng&mark-x=142&mark-y=151&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwdF9ha2kmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWQwYjBkNmU4YjZmMTkxMDYwOWUwNzQxNzU2MGZmODhi&blend-x=142&blend-y=491&blend-mode=normal&s=45abb64c32cebbd6213e10f028cc2e99"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/12/6?from=rss",
-          "author": null,
-          "description": "<img src=\"https://i.gzn.jp/img/2023/12/04/amazon-q-severe-hallucinations/00.jpg\"><br>すべてカテゴリー 2023年12月6日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: AmazonのAI「Amazon Q」は重度の幻覚によってAWSデータセンターの場所などの機密データを漏えいしているとの指摘（gigazine.net）<br>2位: これが無料でいいのか!? “爆速生成AI”がペイントソフトに革命を起こした (1/5)（ascii.jp）<br>3位: 新星・国産クラフトサバイバルゲーム『Omega Crafter』は、ほぼエンジニアのみのチームが“先行事例”を研究しまくって作った。ITベンチャーのゲームチームが目指す遊びやすいクラフトサバイバル（automaton-media.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/12/6?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/12/6?from=rss",
-          "publishedOn": "2023-12-05T20:00:10.975Z",
-          "wordCount": 7154,
-          "title": "【12月6日ランキング】AmazonのAI「Amazon Q」は重度の幻覚によってAWSデータセンターの場所などの機密データを漏えいしているとの指摘／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2023%2F12%2F04%2Famazon-q-severe-hallucinations%2F00.jpg"
         }
       ]
     },
@@ -1341,6 +1306,16 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2024/01/05/2023-javascript-rising-stars/",
+          "author": null,
+          "description": "https://risingstars.js.org/2023/en\n GitHubのスター数の比較をするJavaScript Rising Starsの2023年の結果が公開された",
+          "link": "https://realtime.jser.info/2024/01/05/2023-javascript-rising-stars/",
+          "publishedOn": "2024-01-05T00:10:40.000Z",
+          "wordCount": 48,
+          "title": "2023 JavaScript Rising Stars",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2024/01/04/google-shares-update-on-next-step-toward-phasing-out-third-party-cookies-in-chrome/",
           "author": null,
@@ -1849,26 +1824,6 @@
           "publishedOn": "2023-12-07T09:01:55.000Z",
           "wordCount": 51,
           "title": "Electron 28.0.0 | Electron",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/12/06/astro-4-0-astro/",
-          "author": null,
-          "description": "https://astro.build/blog/astro-4/\n Astro 4.0リリース。\nDevToolbarの追加、i18n Routingの追加、View Transition APIのサポートを改善、Loggingの改善。\n実験的な機能としてIncremental Content Cachingを追加など",
-          "link": "https://realtime.jser.info/2023/12/06/astro-4-0-astro/",
-          "publishedOn": "2023-12-06T08:10:59.000Z",
-          "wordCount": 53,
-          "title": "Astro 4.0 | Astro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/12/06/facebook-stylex-stylex-is-the-styling-system-for-ambitious-user-interfaces/",
-          "author": null,
-          "description": "https://github.com/facebook/stylex\n FacebokのAtomic CSS in JSライブラリ。\nTypeScriptなどでType Safeにスタイルを定義、適用でき、ビルド時にCSSファイルへとコンパイルすることで実行時のコストを小さくしている。\nstylex.createでスタイルを定義、stylex.propsで常に後ろが優先されるというマージルールでスタイルを適用できる。",
-          "link": "https://realtime.jser.info/2023/12/06/facebook-stylex-stylex-is-the-styling-system-for-ambitious-user-interfaces/",
-          "publishedOn": "2023-12-05T23:11:41.000Z",
-          "wordCount": 64,
-          "title": "facebook/stylex: StyleX is the styling system for ambitious user interfaces.",
           "imageUrl": null
         }
       ]
