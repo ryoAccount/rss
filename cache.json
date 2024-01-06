@@ -160,6 +160,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-react-context/",
+          "author": "Benedicta Onyebuchi",
+          "description": "As beginners, managing state in React applications can be challenging, especially when passing and utilizing props in deeply nested components.  The usual way of passing information from a main component to its smaller parts — like a parent passing data to a child, then to a grandchild — can",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-context/",
+          "publishedOn": "2024-01-05T20:06:06.000Z",
+          "wordCount": 2219,
+          "title": "How to Use React Context in Your Project – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Learn-With-Benedicta.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/template-literals-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "Template literals are a feature in JavaScript that were introduced with ES6. They gives you a more flexible and maintainable way of working with strings in JavaScript. By the end of this article, you will know how to use template literals. You will learn the syntax, the benefits, and some",
+          "link": "https://www.freecodecamp.org/news/template-literals-in-javascript/",
+          "publishedOn": "2024-01-05T18:30:18.000Z",
+          "wordCount": 2073,
+          "title": "How to Use Template Literals in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/JavaScript-template-literal---freecodecamp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/",
+          "author": "Eivind Kjosbakken",
+          "description": "OCR is a valuable tool that you can use to extract text from images. But the OCR you are using may not work as intended for your specific needs. In such situations, fine-tuning your OCR engine is the way to go.  In this tutorial, I will show you how",
+          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/",
+          "publishedOn": "2024-01-05T17:48:17.000Z",
+          "wordCount": 4370,
+          "title": "How to Fine-Tune EasyOCR with a Synthetic Dataset",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/image-53.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/analyze-and-visualize-large-datasets-with-excel-pivot-tables-charts/",
+          "author": "Samuel A. Olubiyo",
+          "description": "Microsoft Excel is a very powerful tool that you can use to analyze and visualize data.  In this tutorial, you will learn how to build a simple Excel Dashboard that visualizes important data from a large dataset.  The dataset we'll be working with is the transaction records of",
+          "link": "https://www.freecodecamp.org/news/analyze-and-visualize-large-datasets-with-excel-pivot-tables-charts/",
+          "publishedOn": "2024-01-05T17:40:39.000Z",
+          "wordCount": 2156,
+          "title": "How to Analyze and Visualize Large Datasets with Microsoft Excel Using Pivot Tables and Charts",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/all-charts-with-conditional-formatting-1.PNG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/defending-against-ssrf-attacks/",
+          "author": "Hamdaan Ali",
+          "description": "Server-Side Request Forgery (SSRF) has been a consistent issue in application security and is among the OWASP Top 10 vulnerabilities.  In this walkthrough, you'll first learn what Server-Side Request Forgery is and how it differs from Client-Side Request Forgery. We will create a sample application to gain a better",
+          "link": "https://www.freecodecamp.org/news/defending-against-ssrf-attacks/",
+          "publishedOn": "2024-01-05T17:21:50.000Z",
+          "wordCount": 3269,
+          "title": "How to Defend Against Server-Side Request Forgery",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-864.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-handbook/",
+          "author": "Joan Ayebola",
+          "description": "Strings, in the context of JavaScript, are essential data types that represent sequences of characters. They are integral to web development, forming the foundation for handling and presenting textual information on websites. Whether it's displaying user names, handling form input, or generating dynamic content, strings are omnipresent in JavaScript programming.",
+          "link": "https://www.freecodecamp.org/news/javascript-string-handbook/",
+          "publishedOn": "2024-01-05T17:19:11.000Z",
+          "wordCount": 5371,
+          "title": "The JavaScript String Handbook – How to Work with Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/The-JavaScript-String-Handbook-Version-2--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-machine-learning-models-with-reliable-validation-scores/",
+          "author": "Saheed Azeez",
+          "description": "Imagine that you took a test in school, and you expected to score 80-90% based on how you thought you performed. But when the results came out, you learned that you scored 50-60% in the test. You'd be shocked, right?  Well sometimes these same scenarios play out in machine",
+          "link": "https://www.freecodecamp.org/news/build-machine-learning-models-with-reliable-validation-scores/",
+          "publishedOn": "2024-01-05T17:15:59.000Z",
+          "wordCount": 3010,
+          "title": "How to Build Machine Learning Models with Reliable Validation Scores",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Untitled-presentation.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
+          "author": "Manish Shivanandhan",
+          "description": "K-means clustering is a powerful technique that can help you discover hidden patterns and groupings in your datasets. Let’s look at how it works. K-means clustering is a basic but powerful tool in data science. It has changed the way we look at and understand large datasets. In this article,",
+          "link": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
+          "publishedOn": "2024-01-04T22:52:24.000Z",
+          "wordCount": 1965,
+          "title": "K-Means Clustering – How to Unveil Hidden Patterns in Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/0_ZPAok0iVIVf9AfpV.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/securing-kotlin-server-applications/",
+          "author": "Faith Oyama",
+          "description": "In server-side application development using Kotlin, taking robust security measures is important. Developers encounter various threats and vulnerabilities that can compromise applications. This article delves into comprehensive security strategies tailored for Kotlin server applications, aiming to equip developers with the knowledge to fortify their systems against potential risks. Security in",
+          "link": "https://www.freecodecamp.org/news/securing-kotlin-server-applications/",
+          "publishedOn": "2024-01-04T22:33:33.000Z",
+          "wordCount": 1753,
+          "title": "How to Secure Kotlin Server Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Securing-Kotlin-Server-Applications-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/",
+          "author": "Reed Barger",
+          "description": "There's never been a better time to learn React than in 2024. In this comprehensive guide, I'll show you how I would go from knowing nothing about React to becoming a job-ready, junior React developer in 3 to 6 months. Keep in mind that becoming a skilled developer is not",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/",
+          "publishedOn": "2024-01-04T21:48:22.000Z",
+          "wordCount": 2313,
+          "title": "How to Learn React in 2024 – A Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/learn-react-2024-4.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/",
           "author": "Elizabeth  Meshioye",
           "description": "Sometimes you might want to use a different select element to match your style based on the theme of your design. Or perhaps the default design is different on separate browsers and you want uniformity.  But when designing this new element, you might forget to consider the accessibility of",
@@ -738,46 +838,6 @@
           "wordCount": 814,
           "title": "🐍 🕹️ 💻",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/snake2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/",
-          "author": "Joan Ayebola",
-          "description": "React has emerged as a powerful and widely used JavaScript library for building user interfaces. Its component-based architecture allows developers to create modular and reusable code, making it easier to manage and maintain complex applications.  One common requirement in web development projects is the ability to delay the execution",
-          "link": "https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/",
-          "publishedOn": "2023-12-06T23:37:13.000Z",
-          "wordCount": 2957,
-          "title": "How to Use setTimeout in React Using Hooks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Blue---white-company-profile-presentation--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/",
-          "author": "Jayant Chowdhary",
-          "description": "In this article, I'll be covering a subtle but egregious problem that can occur in C++ programs. This problem is popularly called the 'Static Initialization Order Fiasco'.  I'll first go over what the problem is, then go onto some solutions and explore how they work. Let's get started.",
-          "link": "https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/",
-          "publishedOn": "2023-12-06T23:11:52.000Z",
-          "wordCount": 2452,
-          "title": "What is the Static Initialization Order Fiasco in C++? [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/StaticCover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/software-engineer-internship-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. Many large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully curated guide, grounded in data and expert consensus, is designed to be your",
-          "link": "https://www.freecodecamp.org/news/software-engineer-internship-handbook/",
-          "publishedOn": "2023-12-06T18:21:06.000Z",
-          "wordCount": 13531,
-          "title": "The Software Engineer Internship Handbook – How to Launch Your Coding Career",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Software-Engineering-Intership-Handbook-Cover--1--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/",
-          "author": "Vahe Aslanyan",
-          "description": "In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. According to a survey by the National Association of Colleges and Employers, 89% of large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully",
-          "link": "https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/",
-          "publishedOn": "2023-12-06T18:21:06.000Z",
-          "wordCount": 13567,
-          "title": "How to Launch Your Coding Career and Land Your First Software Engineering Internship",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Software-Engineering-Intership-Handbook-Cover--1-.png"
         }
       ]
     },
@@ -994,26 +1054,6 @@
           "publishedOn": "2023-12-08T06:52:57.000Z",
           "wordCount": null,
           "title": "エンジニア、そこまでストイックに生きる必要、ある？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://type.jp/et/feature/23993",
-          "author": null,
-          "description": "プレゼンの神・澤円さんが、仕事がスムーズに進むコミュニケーションのヒントを伝授！今回のテーマは「エンジニアの評価」ついて。",
-          "link": "https://type.jp/et/feature/23993",
-          "publishedOn": "2023-12-07T00:31:26.000Z",
-          "wordCount": 389,
-          "title": "その評価、メンバーは納得してる？ マネジャーが油断しやすいエンジニア評価の「当たり前」な心掛け【澤円「コミュ力おばけ」への道】",
-          "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2023/12/communication12_og.jpg"
-        },
-        {
-          "id": "https://developer.chrome.com/blog/css-i18n-features?hl=ja",
-          "author": null,
-          "description": "Chrome に、国際化した 4 つの新しい CSS 機能が追加されます。",
-          "link": "https://developer.chrome.com/blog/css-i18n-features?hl=ja",
-          "publishedOn": "2023-12-06T22:07:28.000Z",
-          "wordCount": 579,
-          "title": "CSS に 4 つの新しい国際化機能を導入",
           "imageUrl": null
         }
       ]
@@ -1282,16 +1322,6 @@
           "wordCount": 7150,
           "title": "【12月8日ランキング】電撃発表、グーグルが｢全力開発｣した生成AI｢Gemini｣の全貌…ChatGPT超えするか／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fmedia.loom-app.com%2Fbi%2Fdist%2Fimages%2F2023%2F12%2F07%2Fbij-thum-tmp-v2307-gemni00.jpg%3Fw%3D1280%26h%3D630%26f%3Djpg"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/12/7?from=rss",
-          "author": null,
-          "description": "<img src=\"https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Fadvent-calendar-ogp-background-f625e957b80c4bd8dd47b724be996090.jpg?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZoPTMzNiZ0eHQ9JUU0JUJEJUJGJUUzJTgxJTg0JUUzJTgxJTkzJUUzJTgxJUFBJUUzJTgxJTlCJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJUJFJUUzJTgxJTk5JUUzJTgxJThCJUVGJUJDJTlGUHl0aG9uJTIwJUU3JUI1JTg0JUUzJTgxJUJGJUU4JUJFJUJDJUUzJTgxJUJGJUU5JTk2JUEyJUU2JTk1JUIwJUU1JTg1JUE4NzElRTQlQkIlQjYlMjAlRTUlQUUlOEMlRTUlODUlQTglRTglQTclQTMlRTglQUElQUMlNUIyMDIzJTIwJUU2JTlDJTgwJUU2JTk2JUIwJUU3JTg5JTg4JTVEJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkNtaWRkbGUmcz0xM2Q0ZTYzMWIyNmQ4ZDk0ZjkyNWQwMmU1NTRhNWE2Ng&mark-x=142&mark-y=151&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwdF9ha2kmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWQwYjBkNmU4YjZmMTkxMDYwOWUwNzQxNzU2MGZmODhi&blend-x=142&blend-y=491&blend-mode=normal&s=45abb64c32cebbd6213e10f028cc2e99\"><br>すべてカテゴリー 2023年12月7日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 使いこなせていますか？Python 組み込み関数全71件 完全解説[2023 最新版]（qiita.com）<br>2位: IBMが1121量子ビットプロセッサ「Condor」とエラー率を大きく改善した量子ビットプロセッサ「Heron」を発表（gigazine.net）<br>3位: ChatGPTで同じ単語を無限リピートさせるとトレーニングデータを吐き出すという論文を受け、該当プロンプトが無効に（www.itmedia.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/12/7?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/12/7?from=rss",
-          "publishedOn": "2023-12-06T20:00:10.826Z",
-          "wordCount": 7153,
-          "title": "【12月7日ランキング】使いこなせていますか？Python 組み込み関数全71件 完全解説[2023 最新版]／ほか19本",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Fadvent-calendar-ogp-background-f625e957b80c4bd8dd47b724be996090.jpg?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZoPTMzNiZ0eHQ9JUU0JUJEJUJGJUUzJTgxJTg0JUUzJTgxJTkzJUUzJTgxJUFBJUUzJTgxJTlCJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJUJFJUUzJTgxJTk5JUUzJTgxJThCJUVGJUJDJTlGUHl0aG9uJTIwJUU3JUI1JTg0JUUzJTgxJUJGJUU4JUJFJUJDJUUzJTgxJUJGJUU5JTk2JUEyJUU2JTk1JUIwJUU1JTg1JUE4NzElRTQlQkIlQjYlMjAlRTUlQUUlOEMlRTUlODUlQTglRTglQTclQTMlRTglQUElQUMlNUIyMDIzJTIwJUU2JTlDJTgwJUU2JTk2JUIwJUU3JTg5JTg4JTVEJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkNtaWRkbGUmcz0xM2Q0ZTYzMWIyNmQ4ZDk0ZjkyNWQwMmU1NTRhNWE2Ng&mark-x=142&mark-y=151&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwdF9ha2kmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWQwYjBkNmU4YjZmMTkxMDYwOWUwNzQxNzU2MGZmODhi&blend-x=142&blend-y=491&blend-mode=normal&s=45abb64c32cebbd6213e10f028cc2e99"
         }
       ]
     },
@@ -1306,6 +1336,36 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2024/01/06/release-v3-12-0-honojs-hono/",
+          "author": null,
+          "description": "https://github.com/honojs/hono/releases/tag/v3.12.0\n Hono v3.12.0リリース。\nOriginヘッダをチェックするhono/csrfの追加、実験的なAPIとしてhono/cssでのCSS in JSを追加など",
+          "link": "https://realtime.jser.info/2024/01/06/release-v3-12-0-honojs-hono/",
+          "publishedOn": "2024-01-06T00:10:12.000Z",
+          "wordCount": 51,
+          "title": "Release v3.12.0 · honojs/hono",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2024/01/05/more-than-you-need-to-know-about-reactdom-flushsync-julesblom-com/",
+          "author": null,
+          "description": "https://julesblom.com/writing/flushsync\n ReactのReactDOM.flushSyncについて。\nReactはデフォルトで状態の更新をまとめてレンダリングするが、flushSyncでは状態の更新をすぐにレンダリングできることについて",
+          "link": "https://realtime.jser.info/2024/01/05/more-than-you-need-to-know-about-reactdom-flushsync-julesblom-com/",
+          "publishedOn": "2024-01-05T11:31:04.000Z",
+          "wordCount": 58,
+          "title": "More Than You Need to Know About ReactDOM.flushSync | JulesBlom.com",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2024/01/05/astro-4-1-astro/",
+          "author": null,
+          "description": "https://astro.build/blog/astro-410/\n Astro 4.1リリース。\ndev toolbarにアクセシビリティのauditを追加、client:visibleにrootMarginオプションを追加、CookieのEncoding/Decodingオプションの追加など",
+          "link": "https://realtime.jser.info/2024/01/05/astro-4-1-astro/",
+          "publishedOn": "2024-01-05T06:52:33.000Z",
+          "wordCount": 48,
+          "title": "Astro 4.1 | Astro",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2024/01/05/2023-javascript-rising-stars/",
           "author": null,
@@ -1814,16 +1874,6 @@
           "publishedOn": "2023-12-08T01:11:29.000Z",
           "wordCount": 43,
           "title": "2020年から2023年までのCSSの変遷を振り返る - yamaScrapbox",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/12/07/electron-28-0-0-electron/",
-          "author": null,
-          "description": "https://www.electronjs.org/blog/electron-28-0\n Electron 28.0.0リリース。\nChromium 120.0.6099.56、Node.js 18.18.2にアップデート。\nECMAScript Moduesをサポートなど",
-          "link": "https://realtime.jser.info/2023/12/07/electron-28-0-0-electron/",
-          "publishedOn": "2023-12-07T09:01:55.000Z",
-          "wordCount": 51,
-          "title": "Electron 28.0.0 | Electron",
           "imageUrl": null
         }
       ]
