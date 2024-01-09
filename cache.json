@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
+          "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
+          "publishedOn": "2024-01-08T10:00:00.000Z",
+          "wordCount": 4212,
+          "title": "SolidStart: A Different Breed Of Meta-Framework",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the second half of this mini two-part series, Adrian Bece expands on the demos from the first article to demonstrate how the View Transitions API can be used to transition not just elements between two states but the transition between full views and pages in single-page and multi-page applications.",
@@ -144,6 +159,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/",
+          "author": "Kheoh Yee Wei",
+          "description": "When you're building a webpage, sometimes you might want images or other elements to go beyond the boundaries of a container. So in this tutorial, I'll show you a couple ways you can accomplish this. To illustrate a situation when you might find this useful, let's say we are given",
+          "link": "https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/",
+          "publishedOn": "2024-01-08T18:15:47.000Z",
+          "wordCount": 1835,
+          "title": "How to Use CSS Flexbox to Break Elements Out of Their Containers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-dagmara-dombrovska-19707371.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
+          "author": "Beau Carnes",
+          "description": "Ever dreamt of building your own apps but felt intimidated by the complex world of programming? Or maybe you just want to quickly enhance your coding output? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to write code using AI. Guil Hernandez teaches",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
+          "publishedOn": "2024-01-08T18:08:58.000Z",
+          "wordCount": 1090,
+          "title": "How to Code with AI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/codeai1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/memcached-crash-course/",
+          "author": "Beau Carnes",
+          "description": "Memcached is an important technology for back end developers to understand. It is a distributed memory caching system, primarily used to speed up web applications by reducing database load. It stores data in memory, allowing quicker access compared to traditional database-driven methods. We just published a Memcached crash course on",
+          "link": "https://www.freecodecamp.org/news/memcached-crash-course/",
+          "publishedOn": "2024-01-08T18:02:00.000Z",
+          "wordCount": 863,
+          "title": "Memcached Crash Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/memcached.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/",
+          "author": "Kedar Makode",
+          "description": "To effectively safeguard your system and regulate access when working in Red Hat Enterprise Linux (RHEL), you'll need to understand user and group management.  This is a critical component that's significant for both individual and complex network environments, as it's key to adeptly handle user accounts and groups. In",
+          "link": "https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/",
+          "publishedOn": "2024-01-08T17:41:44.000Z",
+          "wordCount": 3018,
+          "title": "How to Manage Users and Groups in Red Hat Enterprise Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004564.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/gitting-things-done-book/",
+          "author": "Omer Rosenbaum",
+          "description": "Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you use git commit? What is",
+          "link": "https://www.freecodecamp.org/news/gitting-things-done-book/",
+          "publishedOn": "2024-01-08T17:12:21.000Z",
+          "wordCount": 36500,
+          "title": "Gitting Things Done – A Visual and Practical Guide to Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Gitting-Things-Done-Cover-with-Photo.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-react-key-concepts/",
           "author": "Ankur Tyagi",
@@ -970,16 +1035,6 @@
           "wordCount": 2576,
           "title": "エンジニアのマネジメントキャリアにおける技術広報 / Technical Public Relations in Developers&#039; Management Careers",
           "imageUrl": "https://files.speakerdeck.com/presentations/984d19f6fc944bf5bba04a16d06ac6e8/slide_0.jpg?28104140"
-        },
-        {
-          "id": "https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else",
-          "author": null,
-          "description": "Developers CAREER Boost 2023 登壇資料",
-          "link": "https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else",
-          "publishedOn": "2023-12-09T17:43:28.000Z",
-          "wordCount": 2891,
-          "title": "自らを強いエンジニアにするための3つの習慣 / I need to be myself, I can&#039;t be no one else",
-          "imageUrl": "https://files.speakerdeck.com/presentations/fbe187e2a86e45a195bcdb7ae055f3f7/slide_0.jpg?28122939"
         }
       ]
     },
@@ -988,6 +1043,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/1/9?from=rss",
+          "author": null,
+          "description": "<img src=\"https://i.gzn.jp/img/2024/01/07/canon-nikon-sony-digital-signature/00.png\"><br>すべてカテゴリー 2024年1月9日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: キヤノン・ニコン・ソニーが写真にデジタル署名を埋め込むカメラ技術を開発中、AIが生成した精巧な偽物と写真を区別するのに役立つ可能性あり（gigazine.net）<br>2位: Oktaが一連のサイバー攻撃について“猛省”　セキュリティ文化の変革を宣言（www.itmedia.co.jp）<br>3位: 人は直感的に「AIが生成した絵画」より人間の絵を好むことが判明、AI作品は「不気味の谷現象」に陥っている可能性（gigazine.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/1/9?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/1/9?from=rss",
+          "publishedOn": "2024-01-08T20:00:10.024Z",
+          "wordCount": 7155,
+          "title": "【1月9日ランキング】キヤノン・ニコン・ソニーが写真にデジタル署名を埋め込むカメラ技術を開発中、AIが生成した精巧な偽物と写真を区別するのに役立つ可能性あり／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2024%2F01%2F07%2Fcanon-nikon-sony-digital-signature%2F00.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2024/1/8?from=rss",
           "author": null,
@@ -1261,6 +1326,16 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2024/01/08/release-version-23-2-0-jsdom-jsdom/",
+          "author": null,
+          "description": "https://github.com/jsdom/jsdom/releases/tag/23.2.0\n jsdom 23.2.0リリース。\nCSS selectorのエンジンをnwsapiからdom-selectorへと変更。\n関連URL\nasamuzaK/domSelector: A CSS selector engine.\ndperini/nwsapi: Fast CSS Selectors API Engine",
+          "link": "https://realtime.jser.info/2024/01/08/release-version-23-2-0-jsdom-jsdom/",
+          "publishedOn": "2024-01-08T03:50:59.000Z",
+          "wordCount": 63,
+          "title": "Release Version 23.2.0 · jsdom/jsdom",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2024/01/06/release-v3-12-0-honojs-hono/",
           "author": null,
@@ -1719,16 +1794,6 @@
           "publishedOn": "2023-12-12T07:03:14.000Z",
           "wordCount": 70,
           "title": "WebKit Features in Safari 17.2 | WebKit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/12/10/ecmascript-proposal-updates-2023-11-ecmascript-daily/",
-          "author": null,
-          "description": "https://ecmascript-daily.github.io/ecmascript/2023/12/10/ecmascript-proposal-update\n 2023-11のTC39ミーティングでのECMAScript Proposalのステータス変更のまとめ。\nArray GroupingとPromise.withResolversがStage 4となりES2024に含まれる。",
-          "link": "https://realtime.jser.info/2023/12/10/ecmascript-proposal-updates-2023-11-ecmascript-daily/",
-          "publishedOn": "2023-12-10T11:25:36.000Z",
-          "wordCount": 58,
-          "title": "ECMAScript proposal updates @ 2023-11 | ECMAScript Daily",
           "imageUrl": null
         }
       ]
