@@ -136,21 +136,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
-          "author": "hello@smashingmagazine.com (Luis Ouriach)",
-          "description": "Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.",
-          "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
-          "publishedOn": "2023-12-18T15:00:00.000Z",
-          "wordCount": 8442,
-          "title": "Building Components For Consumption, Not Complexity (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg"
         }
       ]
     },
@@ -159,6 +144,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/acid-databases-explained/",
+          "author": "Daniel Adetunji",
+          "description": "ACID stands for Atomicity, Consistency, Isolation and Durability. These are four key properties that most database management systems (DBMS) offer as guarantees when handling transactions. Most popular DBMS like MySQL [https://dev.mysql.com/doc/refman/8.0/en/mysql-acid.html], PostgresSQL [https://www.postgresql.org/about/] and Oracle [https://docs.oracle.com/cd/F51125_01/docs.85/SDS%20PI/acid-compliant-transactions.html#GUID-ECB79D66-46DE-4F48-93DC-8677E7BB44EF]  have ACID guarantees out of the",
+          "link": "https://www.freecodecamp.org/news/acid-databases-explained/",
+          "publishedOn": "2024-01-17T17:45:53.000Z",
+          "wordCount": 2695,
+          "title": "ACID Databases – Atomicity, Consistency, Isolation & Durability Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover-fcc.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/",
+          "author": "Jose Vicente Nunez",
+          "description": "Linux and terminal applications are almost synonymous. If you have used applications like grep, cat, sed, and AWK, those are command line interfaces ( CLI [https://en.wikipedia.org/wiki/Command-line_interface]). And when they work together, they allow you to unleash the power of your computer by mixing and matching a few commands. Sometimes the",
+          "link": "https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/",
+          "publishedOn": "2024-01-17T17:36:53.000Z",
+          "wordCount": 2293,
+          "title": "How to Use TUI Applications with Click and Trogon – Linux Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mazinger_vampire.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/",
+          "author": "Idris Abdul-Lateef",
+          "description": "If you've ever had to use a date picker in a web frontend project, chances are that you've used flatpickr. For the unacquainted, flatpickr [https://flatpickr.js.org/] is one of the most popular date picker libraries in the open source-verse. It's framework-agnostic, highly customizable, and lightweight. I recently had to use it",
+          "link": "https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/",
+          "publishedOn": "2024-01-17T02:34:00.000Z",
+          "wordCount": 1779,
+          "title": "How to Add Custom Buttons to a Date Picker in Flatpickr",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/b01117c062c14a0d7f54f256baf09808482b6505_2_1024x512.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/",
+          "author": "Zaid Humayun",
+          "description": "Concurrency is a programming term you'll need to be familiar with if you code in C++. It's especially relevant if you want to get more out of your available compute resources.  But concurrency comes with certain problems. Some of them can be solved using  mutexes [https://en.wikipedia.org/wiki/Mutual_exclusion], although mutexes",
+          "link": "https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/",
+          "publishedOn": "2024-01-16T23:50:05.000Z",
+          "wordCount": 2823,
+          "title": "Atomics and Concurrency in C++",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-pixabay-290470.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/object-oriented-programming-in-java/",
+          "author": "Vahe Aslanyan",
+          "description": "Java is a go-to language for many programmers, and it's a critical skill for any software engineer. After learning Java, picking up other programming languages and advanced concepts becomes much easier.  In this book, I'll cover the practical knowledge you need to move from writing basic Java code to",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-java/",
+          "publishedOn": "2024-01-16T23:17:07.000Z",
+          "wordCount": 30136,
+          "title": "Advanced Object-Oriented Programming in Java – Full Book",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Advanced-Object-Oriented-Programming-in-Java-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/",
+          "author": "Benjamin Semah",
+          "description": "In JavaScript, there are two main ways of writing functions. You can create functions using the regular function syntax. Or you can use the arrow function syntax.  In this article, you will learn how to use both options. You'll also learn about the differences between the two and when",
+          "link": "https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/",
+          "publishedOn": "2024-01-16T22:19:05.000Z",
+          "wordCount": 2058,
+          "title": "JavaScript Arrow Functions vs Regular Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Screenshot-2024-01-12-at-6.53.58-PM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/",
+          "author": "Beau Carnes",
+          "description": "Introduction to freeCodeCamp's Data Engineering Video Course Data Engineering is a vital field in the tech industry focused on designing, building, and maintaining systems that collect, process, and analyze large volumes of data. We just posted a course on the freeCodeCamp.org YouTube channel all about data engineering, designed to cater",
+          "link": "https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/",
+          "publishedOn": "2024-01-16T21:52:36.000Z",
+          "wordCount": 1200,
+          "title": "Learn the Essentials of Data Engineering",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dataengineering.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/",
+          "author": "Feyijimi Erinle",
+          "description": "S3 is an Amazon Web Service that provides data storage and retrieval in the cloud. ‌‌ This article will discuss the common S3 performance bottlenecks and how they impact the service's overall performance. It will also share some best practices to serve as guidelines for optimising the performance of your",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/",
+          "publishedOn": "2024-01-16T21:36:44.000Z",
+          "wordCount": 2429,
+          "title": "How to Optimize AWS Simple Storage Service for Better Performance",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/s3.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/file-ownership-permissions-rhel/",
           "author": "Kedar Makode",
@@ -878,26 +943,6 @@
           "wordCount": 2230,
           "title": "A Very freeCodeCamp Christmas  – Python & JavaScript Upgrades, English Curriculum, The Odin Project",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/freeCodeCamp-Christmas.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-odin-project-interactive-version/",
-          "author": "Quincy Larson",
-          "description": "For years, people have asked me when we were going to add The Odin Project to freeCodeCamp like we have with other open source programming resources like Project Euler and Rosetta Code. Well, today I'm excited to announce that freeCodeCamp is bringing the legendary open source Odin Project curriculum to",
-          "link": "https://www.freecodecamp.org/news/the-odin-project-interactive-version/",
-          "publishedOn": "2023-12-18T23:23:16.000Z",
-          "wordCount": 886,
-          "title": "The Odin Project on freeCodeCamp – Interactive Version",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Odin-Project.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/",
-          "author": "Beau Carnes",
-          "description": "Remix and Strapi go together like git merges and zero conflicts - a rare yet delightful occurrence in the world of web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you to create full stack apps with Remix and Strapi. Paul Bratslavsky created",
-          "link": "https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/",
-          "publishedOn": "2023-12-18T20:17:12.000Z",
-          "wordCount": 1102,
-          "title": "Use Remix and Strapi to Create Full Stack Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/remix.png"
         }
       ]
     },
@@ -906,6 +951,16 @@
       "feedUrl": "https://getpocket.com/users/*sso161417019436623c/feed/all",
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
+        {
+          "id": "https://blog.elsaspeak.com/en/what-is-an-idiom-and-common-examples",
+          "author": null,
+          "description": "Discover what is an idiom with our guide. Learn why phrases like 'raining cats and dogs' and 'break a leg' are key to English language fun.",
+          "link": "https://blog.elsaspeak.com/en/what-is-an-idiom-and-common-examples",
+          "publishedOn": "2024-01-17T12:05:59.000Z",
+          "wordCount": 5154,
+          "title": "World&#039;s Best English Pronunciation App",
+          "imageUrl": "https://blog.elsaspeak.com/wp-content/uploads/2024/01/Why-I-stopped-taking-NMN-45-1.png"
+        },
         {
           "id": "https://mwskwong.com/blog/migrating-from-zod-to-valibot-a-comparative-experience",
           "author": null,
@@ -1065,16 +1120,6 @@
           "wordCount": 6407,
           "title": "「在宅勤務（テレワーク）でサボらないようにするには？」イチローさんの対処法が目から鱗だった【2023年回顧】",
           "imageUrl": "https://img.huffingtonpost.com/asset/658101ad2300001b00805f43.jpg?ops=1200_630"
-        },
-        {
-          "id": "https://tastejs.com/movies",
-          "author": null,
-          "description": "Movies is a non-trivial learning application in Next.js, Angular, Nuxt.js, Svelte, Lit and other frameworks. Built to show developers how they can deliver reasonably good experience while maintaining good developer experience.",
-          "link": "https://tastejs.com/movies",
-          "publishedOn": "2023-12-18T15:39:24.000Z",
-          "wordCount": 859,
-          "title": "Movies App",
-          "imageUrl": "https://tastejs.com/movies/images/movies-app.jpg"
         }
       ]
     },
@@ -1083,6 +1128,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/1/18?from=rss",
+          "author": null,
+          "description": "<img src=\"https://ascii.jp/img/2024/01/16/3669875/xl/813db552e7a807d3.jpg?20200122\"><br>すべてカテゴリー 2024年1月18日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Stable Diffusionで画像からプロンプト（呪文）を生成・抽出する方法。Fooocusの新機能「Describe」が便利でした（ascii.jp）<br>2位: ITエンジニアが投票した「ITエンジニア本大賞2024」発表。単体テストの考え方／プログラマー脳／ プロジェクトマネジメントの基本が全部わかる、など（www.publickey1.jp）<br>3位: 実務で使える メール技術の教科書  基本のしくみからプロトコル・サーバー構築・送信ドメイン認証・添付ファイル・暗号化・セキュリティ対策まで（www.shoeisha.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/1/18?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/1/18?from=rss",
+          "publishedOn": "2024-01-17T20:00:09.399Z",
+          "wordCount": 7158,
+          "title": "【1月18日ランキング】Stable Diffusionで画像からプロンプト（呪文）を生成・抽出する方法。Fooocusの新機能「Describe」が便利でした／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fascii.jp%2Fimg%2F2024%2F01%2F16%2F3669875%2Fxl%2F813db552e7a807d3.jpg%3F20200122"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2024/1/17?from=rss",
           "author": null,
@@ -1342,16 +1397,6 @@
           "wordCount": 7155,
           "title": "【12月20日ランキング】これは嬉しい　ChatGPTプロンプト書き方のコツ、OpenAIが公開／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fascii.jp%2Fimg%2F2023%2F12%2F18%2F3657621%2Fxl%2F8e4adbdf8d3d2940.png%3F20200122"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/12/19?from=rss",
-          "author": null,
-          "description": "<img src=\"https://www.publickey1.jp/2023/ai_assist_matome01.png\"><br>すべてカテゴリー 2023年12月19日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: プログラミング支援AIサービスが主要各社から出揃う、各サービスのまとめ。GitHub／AWS／Google／GitLab／JetBrains（www.publickey1.jp）<br>2位: 転送用の捨てメアドをいくつでも作って管理できる「AnonAddy」をDockerでセルフホストしてみた（gigazine.net）<br>3位: これは嬉しい　ChatGPTプロンプト書き方のコツ、OpenAIが公開（ascii.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/12/19?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/12/19?from=rss",
-          "publishedOn": "2023-12-18T20:00:11.016Z",
-          "wordCount": 7155,
-          "title": "【12月19日ランキング】プログラミング支援AIサービスが主要各社から出揃う、各サービスのまとめ。GitHub／AWS／Google／GitLab／JetBrains／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2023%2Fai_assist_matome01.png"
         }
       ]
     },
@@ -1366,6 +1411,16 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2024/01/17/cloudflare-next-on-pages-cli-to-build-and-develop-next-js-apps-for-cloudflare-pages/",
+          "author": null,
+          "description": "https://github.com/cloudflare/next-on-pages\n Cloudflare PagesでNext.jsのアプリケーションを動かすツール",
+          "link": "https://realtime.jser.info/2024/01/17/cloudflare-next-on-pages-cli-to-build-and-develop-next-js-apps-for-cloudflare-pages/",
+          "publishedOn": "2024-01-17T13:27:22.000Z",
+          "wordCount": 60,
+          "title": "cloudflare/next-on-pages: CLI to build and develop Next.js apps for Cloudflare Pages",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2024/01/16/node-js-node-v21-6-0-current/",
           "author": null,
