@@ -121,21 +121,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
-          "author": "hello@smashingmagazine.com (Šime Vidas)",
-          "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
-          "link": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
-          "publishedOn": "2023-12-20T10:00:00.000Z",
-          "wordCount": 7414,
-          "title": "New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg"
         }
       ]
     },
@@ -144,6 +129,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-a-developer-job/",
+          "author": "Beau Carnes",
+          "description": "The demand for skilled software developers continues to grow. However, for many self-taught developers, the path to securing a job in this competitive field can seem daunting. We just published a course on the freeCodeCamp.org YouTube channel that is designed to guide aspiring software engineers through the job-hunting process. Lane",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-developer-job/",
+          "publishedOn": "2024-01-18T17:58:03.000Z",
+          "wordCount": 988,
+          "title": "How to Get a Developer Job",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/job.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/models-in-django/",
+          "author": "chepkirui dorothy",
+          "description": "Django is a super useful tool for building web applications with Python. It follows the Model-View-Template (MVT) architecture, which is a popular design pattern for building web apps. In the MVT architecture, the Model refers to the internal representation of information stored, the View is responsible for processing user requests",
+          "link": "https://www.freecodecamp.org/news/models-in-django/",
+          "publishedOn": "2024-01-18T16:10:49.000Z",
+          "wordCount": 2124,
+          "title": "How to Perform CRUD Operations with Django Models",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/coding-924920.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-high-performance-tab-component/",
+          "author": "Jaja Ibifubara David",
+          "description": "Tabs are more than mere UI elements – they're the backbone of user navigation and content organization in many applications. In React, crafting a tabbed component that's both efficient and responsive is not just an improvement, it's a necessity. This article takes a deep dive into constructing a React tab",
+          "link": "https://www.freecodecamp.org/news/build-a-high-performance-tab-component/",
+          "publishedOn": "2024-01-18T16:01:46.000Z",
+          "wordCount": 3690,
+          "title": "How to Build a High-Performance Tab Component in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/",
+          "author": "Ophy Boamah",
+          "description": "Progressive Web Apps (PWAs) are simply installable web applications – websites that you can install on your device, much like you would install an app from an app store.  They bring together the best parts of using a website (easy to access, no need to install anything) with the",
+          "link": "https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/",
+          "publishedOn": "2024-01-18T15:56:46.000Z",
+          "wordCount": 2279,
+          "title": "What are Progressive Web Apps? PWA Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Essentials.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/design-and-build-sustainable-software/",
+          "author": "Jayant Chowdhary",
+          "description": "Electronic devices that run software are all around us. Your mobile phone, your car, your microwave, and virtually anything around you – there’s a very good chance that they have electronic components running some form of software. These devices inevitably use power and have batteries and circuits, which degrade over",
+          "link": "https://www.freecodecamp.org/news/design-and-build-sustainable-software/",
+          "publishedOn": "2024-01-18T01:28:38.000Z",
+          "wordCount": 4622,
+          "title": "How to Design and Build Sustainable Software",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Cover-4.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
+          "author": "Gift Uhiene",
+          "description": "Forms allow you to collect user data on your websites and apps. And validation is essential to guarantee type safety and the proper format for collected data. You can perform validation on both the client and server side of the application.  This is where Zod and React-Hook-Form come in",
+          "link": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
+          "publishedOn": "2024-01-17T21:58:56.000Z",
+          "wordCount": 2882,
+          "title": "How to Validate Forms with Zod and React-Hook-Form",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-7.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/",
+          "author": "Beau Carnes",
+          "description": "Python can be used for everything from scripting, machine learning, web development, and graphical user interfaces. We just posted a course on the freeCodeCamp.org YouTube channel that teaches them how to create visually appealing and functional user interfaces (UIs) using Python, with a specific focus on developing a Modern Music",
+          "link": "https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/",
+          "publishedOn": "2024-01-17T21:21:54.000Z",
+          "wordCount": 1137,
+          "title": "How to create Python User Interfaces with PyQt5",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pyqt5.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/acid-databases-explained/",
           "author": "Daniel Adetunji",
@@ -952,6 +1007,26 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso161417019436623c/feed/all",
       "articles": [
         {
+          "id": "https://news.xbox.com/ja-jp/2024/01/17/xbox-developer-direct-how-to-watch",
+          "author": null,
+          "description": "この記事では『Developer_Direct』発表当日の配信映像の視聴方法などをご紹介します。",
+          "link": "https://news.xbox.com/ja-jp/2024/01/17/xbox-developer-direct-how-to-watch",
+          "publishedOn": "2024-01-18T04:23:44.000Z",
+          "wordCount": 1549,
+          "title": "1 月 19 日配信の「Developer_Direct」を視聴する方法",
+          "imageUrl": "https://xxboxnews.blob.core.windows.net/prod/sites/10/2024/01/AKQA_ProjectKenny2024_Wire_16x9-JP-080f85c817e7bff6dd8a.jpg"
+        },
+        {
+          "id": "https://tech.andpad.co.jp/entry/2024/01/17/100000",
+          "author": null,
+          "description": "ANDPADフロントエンドエンジニアの小泉です。 昨年の夏頃、担当したプロダクトで新規リポジトリでの開発を立ち上げる機会があり、Nuxt 3 を用いて構築を行いました。 アップデートではなく新規で Nuxt 3 サイトを構築するのは業務としては初めての経験だったのですが、Vue 3・Nuxt 3 の様々な機能によって、型安全な状態を保ったまま快適な開発を進められ、かつ3ページの全体実装を約7営業日で形にすることができました。 この記事では、「いま新規サービスのゼロからの立ち上げにNuxt 3を選択するとどんな嬉しいポイントがあるのか」という実例をご紹介できればと思います。 担当したプロダクトに…",
+          "link": "https://tech.andpad.co.jp/entry/2024/01/17/100000",
+          "publishedOn": "2024-01-18T04:21:32.000Z",
+          "wordCount": 1210,
+          "title": "新規プロダクトの開発に Nuxt 3 を採用して良かったこと",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/it_andpad/20240116/20240116153635.png"
+        },
+        {
           "id": "https://blog.elsaspeak.com/en/what-is-an-idiom-and-common-examples",
           "author": null,
           "description": "Discover what is an idiom with our guide. Learn why phrases like 'raining cats and dogs' and 'break a leg' are key to English language fun.",
@@ -1128,6 +1203,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/1/19?from=rss",
+          "author": null,
+          "description": "<img src=\"https://ascii.jp/img/2024/01/16/3669875/xl/813db552e7a807d3.jpg?20200122\"><br>すべてカテゴリー 2024年1月19日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Stable Diffusionで画像からプロンプト（呪文）を生成・抽出する方法。Fooocusの新機能「Describe」が便利でした（ascii.jp）<br>2位: ITエンジニアが投票した「ITエンジニア本大賞2024」発表　単体テストの考え方／AWS運用ノウハウ／ プロジェクトマネジメントの基本が全部わかる、など（www.itmedia.co.jp）<br>3位: E2Eテストを Playwright で作り直して開発プロセスに組み込む話（tech.smarthr.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/1/19?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/1/19?from=rss",
+          "publishedOn": "2024-01-18T20:00:09.594Z",
+          "wordCount": 7159,
+          "title": "【1月19日ランキング】Stable Diffusionで画像からプロンプト（呪文）を生成・抽出する方法。Fooocusの新機能「Describe」が便利でした／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fascii.jp%2Fimg%2F2024%2F01%2F16%2F3669875%2Fxl%2F813db552e7a807d3.jpg%3F20200122"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2024/1/18?from=rss",
           "author": null,
@@ -1387,16 +1472,6 @@
           "wordCount": 7157,
           "title": "【12月21日ランキング】MozillaがAIでWebサイトを自動制作してくれる「Solo」を公開。基本的な情報を基に、説明文からレイアウト、適切なフリー画像の選択までおまかせ／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2023%2Fmozilla_solo_la01.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/12/20?from=rss",
-          "author": null,
-          "description": "<img src=\"https://ascii.jp/img/2023/12/18/3657621/xl/8e4adbdf8d3d2940.png?20200122\"><br>すべてカテゴリー 2023年12月20日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: これは嬉しい　ChatGPTプロンプト書き方のコツ、OpenAIが公開（ascii.jp）<br>2位: アメリカ最強アプリとまで評された「SmartNews(スマートニュース)」が失墜してしまった理由とは？（gigazine.net）<br>3位: EdgeやChromeで「ChatGPT」を使うときに入れるべき拡張機能4選（ascii.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/12/20?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/12/20?from=rss",
-          "publishedOn": "2023-12-19T20:00:10.787Z",
-          "wordCount": 7155,
-          "title": "【12月20日ランキング】これは嬉しい　ChatGPTプロンプト書き方のコツ、OpenAIが公開／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fascii.jp%2Fimg%2F2023%2F12%2F18%2F3657621%2Fxl%2F8e4adbdf8d3d2940.png%3F20200122"
         }
       ]
     },
@@ -1411,6 +1486,26 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2024/01/18/remix-spa/",
+          "author": null,
+          "description": "https://azukiazusa.dev/blog/remix-spa-mode/\n Remixに実験的に実装されているSPAモードについて",
+          "link": "https://realtime.jser.info/2024/01/18/remix-spa/",
+          "publishedOn": "2024-01-18T13:32:32.000Z",
+          "wordCount": 45,
+          "title": "Remix の SPA モード",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2024/01/18/wevm-vocs-minimal-documentation-framework-powered-by-react-vite/",
+          "author": null,
+          "description": "https://github.com/wevm/vocs\n ReactとViteを使ったドキュメントサイトフレームワーク",
+          "link": "https://realtime.jser.info/2024/01/18/wevm-vocs-minimal-documentation-framework-powered-by-react-vite/",
+          "publishedOn": "2024-01-18T13:11:27.000Z",
+          "wordCount": 57,
+          "title": "wevm/vocs: Minimal Documentation Framework, powered by React + Vite.",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2024/01/17/cloudflare-next-on-pages-cli-to-build-and-develop-next-js-apps-for-cloudflare-pages/",
           "author": null,
@@ -1849,26 +1944,6 @@
           "publishedOn": "2023-12-20T12:53:08.000Z",
           "wordCount": 51,
           "title": "Node.js v21 の主な変更点 - 別にしんどくないブログ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/12/20/firefox-121-0-see-all-new-features-updates-and-fixes/",
-          "author": null,
-          "description": "https://www.mozilla.org/en-US/firefox/121.0/releasenotes/\n Firefox 121リリース。\n&lt;iframe loading=lazy&gt;のサポート、CSSのtext-wrap: balance、:has()、text-indent: each-ilneのサポート。\nES2024のPromise.withResolvers()のサポート、Date.parse()で解釈できるフォーマットを追加。\n実験的な機能としてCustom Elementのstateプロパティのサポート、showPicker()のサポートなど\n関連URL\nFirefox 121 for developers - Mozilla | MDN",
-          "link": "https://realtime.jser.info/2023/12/20/firefox-121-0-see-all-new-features-updates-and-fixes/",
-          "publishedOn": "2023-12-20T03:51:44.000Z",
-          "wordCount": 72,
-          "title": "Firefox 121.0, See All New Features, Updates and Fixes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/12/20/release-v3-0-0-date-fns-date-fns/",
-          "author": null,
-          "description": "https://github.com/date-fns/date-fns/releases/tag/v3.0.0\n date-fns v3.0.0リリース。\nESMとCJSのdual pacakgeに変更、それぞれのファイルはnamed exportするように変更。TypeScriptの型を改善、引数の数のRuntime Checkを無くしてType Checkのみに変更、intevalの負数をサポート、IEのサポートを終了など",
-          "link": "https://realtime.jser.info/2023/12/20/release-v3-0-0-date-fns-date-fns/",
-          "publishedOn": "2023-12-20T02:54:32.000Z",
-          "wordCount": 52,
-          "title": "Release v3.0.0 · date-fns/date-fns",
           "imageUrl": null
         }
       ]
