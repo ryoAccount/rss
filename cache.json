@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Language models have shown impressive capabilities. But that doesn’t mean they’re without faults, as anyone who has witnessed a ChatGPT “hallucination” can attest. In this article, Joas Pambou diagnoses the symptoms that cause hallucinations and explains not only what RAG is but also different approaches for using it to solve language model limitations.",
+          "link": "https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/",
+          "publishedOn": "2024-01-26T15:00:00.000Z",
+          "wordCount": 6688,
+          "title": "A Simple Guide To Retrieval Augmented Generation Language Models",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-retrieval-augmented-generation-language-models/guide-retrieval-augmented-generation-language-models.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-retrieval-augmented-generation-language-models/guide-retrieval-augmented-generation-language-models.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/01/css-blurry-shimmer-effect/",
           "author": "hello@smashingmagazine.com (Yair Even Or)",
           "description": "Taking inspiration from shadows, author Yair Even Or creates the same sort of thing, only with a blurring effect in place of the shadow. Read along for a step-by-step explanation of how it comes together using a combination of masks, gradients, and the good ol’ `backdrop-filter` property.",
@@ -121,21 +136,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "JavaScript may be the most popular client-side language in the world, but it’s far from perfect and not without its quirks. Juan Diego Rodriguez examines several “absurd” JavaScript eccentricities and explains how they made it into the language as well as how to avoid them in your own code.",
-          "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
-          "publishedOn": "2023-12-28T10:00:00.000Z",
-          "wordCount": 5424,
-          "title": "Making Sense Of “Senseless” JavaScript Features",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/making-sense-of-senseless-javascript-features/making-sense-of-senseless-javascript-features.jpg"
         }
       ]
     },
@@ -144,6 +144,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/the-python-decorator-handbook/",
+          "author": "Atharva Shah",
+          "description": "Python decorators provide an easy yet powerful syntax for modifying and extending the behavior of functions in your code.  A decorator is essentially a function that takes another function, augments its functionality, and returns a new function – without permanently modifying the original function itself. This tutorial will walk",
+          "link": "https://www.freecodecamp.org/news/the-python-decorator-handbook/",
+          "publishedOn": "2024-01-26T17:17:03.000Z",
+          "wordCount": 6442,
+          "title": "The Python Decorator Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/The-Python-Decorator-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-react-app-in-2024/",
+          "author": "Reed Barger",
+          "description": "In 2024, there are more ways than ever to get your React projects started. But which one should you choose? In this article, I'm going to break down all of the major ways you can use to create a React app and which one you should pick based off of",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-react-app-in-2024/",
+          "publishedOn": "2024-01-26T13:44:45.000Z",
+          "wordCount": 2016,
+          "title": "How to Create a React App in 2024",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/build-react-app-2024.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-simple-sentiment-analyzer-using-hugging-face-transformer/",
+          "author": "Manish Shivanandhan",
+          "description": "In this article, we will look at writing a sentiment analyzer using Hugging Face Transformer, a powerful tool in the world of NLP.  Imagine you’re running a business and you want to know what your customers think about your product. Or maybe you’re a movie director wanting to gauge",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-sentiment-analyzer-using-hugging-face-transformer/",
+          "publishedOn": "2024-01-26T00:32:04.000Z",
+          "wordCount": 1546,
+          "title": "How to Build a Simple Sentiment Analyzer Using Hugging Face Transformer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pngtree-facial-emotions-illustration-in-black-outline-on-white-background-vector-picture-image_10574137.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-react-with-laravel/",
+          "author": "San B",
+          "description": "You may have seen tutorials that help you build a simple React.js app that use some third-party API or a Node.js server as a backend. You could also use Laravel for this purpose and integrate it with React. As a backend framework, Laravel actually offers a tool to help you",
+          "link": "https://www.freecodecamp.org/news/use-react-with-laravel/",
+          "publishedOn": "2024-01-26T00:09:49.000Z",
+          "wordCount": 7443,
+          "title": "How to Use React.js with Laravel to Build a Draggable Tasklist App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/freecodecamp-boolfalse-laravel-react-vite-draggable-tasklist.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-optimize-your-css-code-for-faster-web-pages/",
+          "author": "Ophy Boamah",
+          "description": "CSS is more than just a tool for styling. It also determines how web pages render in a browser. Well-optimized CSS means faster loading times and a smoother user experience. In today's digital landscape, the performance of a website is a key factor in its success. Writing efficient CSS code",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-your-css-code-for-faster-web-pages/",
+          "publishedOn": "2024-01-26T00:00:30.000Z",
+          "wordCount": 1953,
+          "title": "How to Optimize Your CSS Code for Faster Web Pages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/csstitle.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/podcast-biggest-youtube-programming-channel-beau-carnes/",
           "author": "Quincy Larson",
@@ -1320,16 +1370,6 @@
           "wordCount": 967,
           "title": "Vue.js",
           "imageUrl": "https://vuejs.org/images/logo.png"
-        },
-        {
-          "id": "https://postd.cc/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs",
-          "author": null,
-          "description": "はじめに 目まぐるしく進化するフロントエンド開発の世界では、常に最新の知識や技術をいち早く取り入れることが、エンタープライズアプリケーションの開発を成功させる上で欠かせません。Tailwind CS…",
-          "link": "https://postd.cc/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs",
-          "publishedOn": "2023-12-28T04:09:38.000Z",
-          "wordCount": 2348,
-          "title": "Next.jsを4年間使用してたどりついた、エンタープライズアプリケーションのフロントエンド開発・構築手法",
-          "imageUrl": "https://josemukorivo.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--JYwtH7Qf--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fska3r0y78p5mksu4h1gz.jpg&w=1080&q=75"
         }
       ]
     },
@@ -1577,16 +1617,6 @@
           "wordCount": null,
           "title": "【12月ランキング】GitHub、1200台以上のMySQL 5.7を8.0へアップグレード。サービス無停止のまま成功させる／ほか19本",
           "imageUrl": null
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2023/12/28?from=rss",
-          "author": null,
-          "description": "<img src=\"https://image.itmedia.co.jp/news/articles/2312/11/cover_news172.jpg\"><br>すべてカテゴリー 2023年12月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: ビル点検員に変装→オフィスにラズパイ持ち込んで社内システム侵入　Sansanが本当にやった“何でもアリ”なセキュリティ演習（www.itmedia.co.jp）<br>2位: IIJ新卒エンジニアたちの“おうち紹介記事”がIIJすぎる　ネットワーク図は当たり前　自宅サーバルームも（www.itmedia.co.jp）<br>3位: Midjourneyがリアルすぎて写真と見分けがつかないレベルに（www.gizmodo.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2023/12/28?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2023/12/28?from=rss",
-          "publishedOn": "2023-12-27T20:00:10.037Z",
-          "wordCount": 7157,
-          "title": "【12月28日ランキング】ビル点検員に変装→オフィスにラズパイ持ち込んで社内システム侵入　Sansanが本当にやった“何でもアリ”なセキュリティ演習／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2312%2F11%2Fcover_news172.jpg"
         }
       ]
     },
@@ -1601,6 +1631,16 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2024/01/26/safari-17-4-beta-release-notes-apple-developer-documentation/",
+          "author": null,
+          "description": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes\n Safari 17.4 Betaリリース。\nCSSでは、@scopeのサポート、Block Containersでのalign-contentをサポート。\nHTMLでは、&lt;select&gt;の中での&lt;hr&gt;のサポート。&lt;input type=checkbox switch&gt;のサポート。\nJSでは、Promise.withResolvers、ArrayBuffer.prototype.transfer、Object.groupByのサポート。\niOSでVP8/VP9/WebMをサポート、Full Screen APIをサポート。",
+          "link": "https://realtime.jser.info/2024/01/26/safari-17-4-beta-release-notes-apple-developer-documentation/",
+          "publishedOn": "2024-01-26T11:42:42.000Z",
+          "wordCount": 66,
+          "title": "Safari 17.4 Beta Release Notes | Apple Developer Documentation",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2024/01/25/deno-1-40-temporal-api/",
           "author": null,
@@ -2069,16 +2109,6 @@
           "publishedOn": "2023-12-29T01:32:46.000Z",
           "wordCount": 61,
           "title": "Release 3.35.0 - 2023.12.29 · zloirock/core-js",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2023/12/28/next-js-4-postd/",
-          "author": null,
-          "description": "https://postd.cc/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs/\n Next.jsのPages Routerでのアプリケーションアーキテクチャについて。\nNext.jsのディレクトリ構造、ツール、コーディングスタイルについてなど",
-          "link": "https://realtime.jser.info/2023/12/28/next-js-4-postd/",
-          "publishedOn": "2023-12-28T03:41:49.000Z",
-          "wordCount": 46,
-          "title": "Next.jsを4年間使用してたどりついた、エンタープライズアプリケーションのフロントエンド開発・構築手法 | POSTD",
           "imageUrl": null
         }
       ]
