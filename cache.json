@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/web-development-getting-too-complex/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "An overwhelming number of frameworks and tooling available today gives the impression that web development has gotten perhaps too complex. Juan Diego Rodríguez explores if web development really is that complex and, most importantly, how we can prevent it from getting even more difficult than we already perceive it to be.",
+          "link": "https://smashingmagazine.com/2024/02/web-development-getting-too-complex/",
+          "publishedOn": "2024-02-07T13:00:00.000Z",
+          "wordCount": 7287,
+          "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/web-development-getting-too-complex/web-development-getting-too-complex.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/web-development-getting-too-complex/web-development-getting-too-complex.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/guide-designing-older-adults/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "With one billion people aged 60 or older worldwide, inclusivity is more important than ever. Learn how to create digital experiences that empower independence and competence for older adults while enhancing usability for all. An upcoming part of Smart Interface Design Patterns.",
@@ -159,6 +174,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/destructuring-in-javascript/",
+          "author": "Sahil Mahapatra",
+          "description": "Destructuring is a powerful JavaScript feature introduced in ES6 (ECMAScript 2015). It makes it easier to extract values from arrays or properties from objects and assign them to variables in a readable way.  Let's delve into how destructuring works and explore various use cases with examples. You can get",
+          "link": "https://www.freecodecamp.org/news/destructuring-in-javascript/",
+          "publishedOn": "2024-02-07T19:31:01.000Z",
+          "wordCount": 1362,
+          "title": "How Destructuring Works in JavaScript – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-5--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/",
+          "author": "Joan Ayebola",
+          "description": "useMemo is a valuable tool in the React framework, designed to optimize performance by memoizing expensive computations.  With useMemo, React can store the result of a function call and reuse it when the dependencies of that function haven't changed, rather than recalculating the value on every render.  useMemo",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/",
+          "publishedOn": "2024-02-07T18:13:41.000Z",
+          "wordCount": 2876,
+          "title": "How to Work with useMemo in React – with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--6-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/career-change-to-code-guide/",
+          "author": "Beau Carnes",
+          "description": "There are many people who want to change careers to become a software developer but don't know what the optimal path is. There are many challenges and uncertainties that accompany such a significant change. We just posted a course on the freeCodeCamp.org YouTube channel that is a guide for those",
+          "link": "https://www.freecodecamp.org/news/career-change-to-code-guide/",
+          "publishedOn": "2024-02-07T17:47:57.000Z",
+          "wordCount": 1050,
+          "title": "Career Change to Code Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/careerchange.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-insertadjacenthtml-method-efficient-dom-manipulation/",
+          "author": "Kamaldeen Lawal",
+          "description": "In JavaScript, developers need to be able to dynamically update a page without replacing the entire content. A traditional method like innerHTML can cause performance issues, because these methods tend to replace the entire content of an element. The insertAdjacentHTML() method leads to better performance because you use it to",
+          "link": "https://www.freecodecamp.org/news/javascript-insertadjacenthtml-method-efficient-dom-manipulation/",
+          "publishedOn": "2024-02-07T16:28:17.000Z",
+          "wordCount": 1589,
+          "title": "How to Use the JavaScript insertAdjacentHTML() method for Efficient DOM Manipulation",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/The-JavaScript-insertAdjacentHTML---Method.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-mbr-works-in-linux/",
+          "author": "Kedar Makode",
+          "description": "Efficient storage management is a crucial aspect of maintaining a well-organized computing environment.  In this detailed guide, we'll explore the features of Master Boot Record (MBR) disk partitioning using the parted command on Linux.  Additionally, we'll cover the process of adding a new hard disk in VMware, as",
+          "link": "https://www.freecodecamp.org/news/how-mbr-works-in-linux/",
+          "publishedOn": "2024-02-07T10:29:26.000Z",
+          "wordCount": 2691,
+          "title": "How Master Boot Record Disk Partitioning Works in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Frame-1000004568-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-project-parking-lot-management-system/",
+          "author": "Kunal Nalawade",
+          "description": "Hello everyone! It's good to be back with another tutorial – this time on Java, one of the most popular programming languages out there today.  Java is used by developers and enterprises to build powerful applications that serve many different purposes. The object-oriented nature of Java makes writing clean,",
+          "link": "https://www.freecodecamp.org/news/java-project-parking-lot-management-system/",
+          "publishedOn": "2024-02-07T00:25:39.000Z",
+          "wordCount": 2967,
+          "title": "Java Project – How to Build a Simple Parking Lot Management System",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/java-article-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/personal-branding-for-devs-handbook/",
+          "author": "Vahe Aslanyan",
+          "description": "In this handbook, you'll learn how to build your personal brand as a developer to help you make your mark in the tech industry.  With a focus on practicality and professionalism, this guide is designed for developers at all levels, from industry veterans to those just starting their coding",
+          "link": "https://www.freecodecamp.org/news/personal-branding-for-devs-handbook/",
+          "publishedOn": "2024-02-06T23:05:06.000Z",
+          "wordCount": 12991,
+          "title": "Personal Branding for Developers – A Step by Step Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Personal-Branding-for-Developers-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/",
+          "author": "Jess Wilk",
+          "description": "If you want to learn how to navigate the ever-evolving job market by scraping job posting sites like Indeed.com, then this guide is for you.  What is a Job Scraper? In the digital age, tools known as Job Board Scrapers (or just Job Scrapers) have become indispensable for people",
+          "link": "https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/",
+          "publishedOn": "2024-02-06T22:56:41.000Z",
+          "wordCount": 2538,
+          "title": "How to Build a Job Board Scraper with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/image_2024-02-02_17-21-54.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-csharp-book/",
+          "author": "Gavin Lon",
+          "description": "C# version 1 was released in January 2002. It is a modern, general purpose programming language designed and developed from the ground up by the renowned Danish software engineer, Anders Heijleberg and his team at Microsoft.  I’ve heard Anders Heijlsberg say in an interview that with C# the goal",
+          "link": "https://www.freecodecamp.org/news/learn-csharp-book/",
+          "publishedOn": "2024-02-06T22:35:57.000Z",
+          "wordCount": 25748,
+          "title": "Learn the C# Programming Language – Full Book for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/The-C--Handbook---Version-4-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
           "author": "Beau Carnes",
@@ -1278,76 +1383,6 @@
           "wordCount": 7684,
           "title": "How to Make React Apps SEO-Friendly – A Handbook for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/How-to-Make-React-Apps-SEO-Friendly-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/",
-          "author": "Faith Oyama",
-          "description": "Serverless architecture has become a hot topic in the developer world, and for good reason.  It promises a paradigm shift – one where we leave behind the burdens of server management and focus solely on building and deploying code. No more provisioning VMs, patching software, or scaling infrastructure manually.",
-          "link": "https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/",
-          "publishedOn": "2024-01-09T01:07:58.000Z",
-          "wordCount": 1805,
-          "title": "Serverless Architecture Patterns and Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Light-Blue-Futuristic-Technology-Project-Proposal-Presentation.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/",
-          "author": "Zubair Idris Aweda",
-          "description": "JavaScript arrays are one of the most important data structures in the language, since everything is already an object in JavaScript. They're useful in so many applications, and many other data structures build on top of JavaScript arrays and objects. While the language provides a lot of helpful array and",
-          "link": "https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/",
-          "publishedOn": "2024-01-08T22:38:20.000Z",
-          "wordCount": 2729,
-          "title": "Collect.js Tutorial – How to Work with JavaScript Arrays and Objects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/zub.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/",
-          "author": "Kheoh Yee Wei",
-          "description": "When you're building a webpage, sometimes you might want images or other elements to go beyond the boundaries of a container. So in this tutorial, I'll show you a couple ways you can accomplish this. To illustrate a situation when you might find this useful, let's say we are given",
-          "link": "https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/",
-          "publishedOn": "2024-01-08T18:15:47.000Z",
-          "wordCount": 1835,
-          "title": "How to Use CSS Flexbox to Break Elements Out of Their Containers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-dagmara-dombrovska-19707371.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
-          "author": "Beau Carnes",
-          "description": "Ever dreamt of building your own apps but felt intimidated by the complex world of programming? Or maybe you just want to quickly enhance your coding output? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to write code using AI. Guil Hernandez teaches",
-          "link": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
-          "publishedOn": "2024-01-08T18:08:58.000Z",
-          "wordCount": 1090,
-          "title": "How to Code with AI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/codeai1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/memcached-crash-course/",
-          "author": "Beau Carnes",
-          "description": "Memcached is an important technology for back end developers to understand. It is a distributed memory caching system, primarily used to speed up web applications by reducing database load. It stores data in memory, allowing quicker access compared to traditional database-driven methods. We just published a Memcached crash course on",
-          "link": "https://www.freecodecamp.org/news/memcached-crash-course/",
-          "publishedOn": "2024-01-08T18:02:00.000Z",
-          "wordCount": 863,
-          "title": "Memcached Crash Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/memcached.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/",
-          "author": "Kedar Makode",
-          "description": "To effectively safeguard your system and regulate access when working in Red Hat Enterprise Linux (RHEL), you'll need to understand user and group management.  This is a critical component that's significant for both individual and complex network environments, as it's key to adeptly handle user accounts and groups. In",
-          "link": "https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/",
-          "publishedOn": "2024-01-08T17:41:44.000Z",
-          "wordCount": 3018,
-          "title": "How to Manage Users and Groups in Red Hat Enterprise Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004564.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gitting-things-done-book/",
-          "author": "Omer Rosenbaum",
-          "description": "Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you use git commit? What is",
-          "link": "https://www.freecodecamp.org/news/gitting-things-done-book/",
-          "publishedOn": "2024-01-08T17:12:21.000Z",
-          "wordCount": 36500,
-          "title": "Gitting Things Done – A Visual and Practical Guide to Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Gitting-Things-Done-Cover-with-Photo.png"
         }
       ]
     },
@@ -1744,6 +1779,86 @@
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
         {
+          "id": "https://techfeed.io/entries/65c41a937036d02cdfb56997?from=rss",
+          "author": null,
+          "description": "2月8日、Python 3.12.2および3.11.8がリリースされた。Python 3.12.2では、多数のバグフィックスのほか、初めてSoftware Bill of Materialsをサポートしている。",
+          "link": "https://techfeed.io/entries/65c41a937036d02cdfb56997?from=rss",
+          "publishedOn": "2024-02-08T00:11:37.294Z",
+          "wordCount": 7191,
+          "title": "Python 3.12.2 リリース ー SBOM（ソフトウェアの部品表）を初サポート",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/hj7pdknpkkhdzgywt6my.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/65c417db18c36607205e8eb1?from=rss",
+          "author": null,
+          "description": "2月8日、Google CloudはKubernetes 1.29をGKE Regular Channelでリリースした。\n新バージョンには数々の新機能が搭載され、エンジニアたちにとって注目すべき内容が含まれる。",
+          "link": "https://techfeed.io/entries/65c417db18c36607205e8eb1?from=rss",
+          "publishedOn": "2024-02-07T23:53:12.744Z",
+          "wordCount": 7230,
+          "title": "Kubernetes 1.29、数々の新機能を備えGKE Regular Channelでもリリース",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsO3fBypitqZc39RONmeDN_gUq-PSMIIWAscgH-UdLu18lZyoIkED-djnhGW-zv2iJYHNkb91JYP7Y6NFQCBOrBpgpJ0aKaI1w2QZ2-rf-iLRuXffl9XUAY91MLHfGPuLbzP7rZFzpqPzhrAfLeaEwAwg69FmQc1r3WG6FPlPkV-HnwdyjZWR4aYVg_Cg/s1600/Social%20-%20OSS%20-%20Kubernetes%20Gateway%20API%20graduates%20to%20GA.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/65c411f718c36607205e865f?from=rss",
+          "author": null,
+          "description": "2月8日、jQueryチームは、新バージョンである「jQuery 4.0.0 ベータ版」をリリースした。これには多くの修正やパフォーマンス向上、一部の破壊的な変更が含まれている。",
+          "link": "https://techfeed.io/entries/65c411f718c36607205e865f?from=rss",
+          "publishedOn": "2024-02-07T23:28:31.431Z",
+          "wordCount": 7296,
+          "title": "jQuery 4.0.0 ベータ版がリリース ー ESモジュールに移行、パッケージングにはRollupを採用",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/fgisnq5xh2pb2slmzy83.png"
+        },
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/2/8?from=rss",
+          "author": null,
+          "description": "<img src=\"https://image.itmedia.co.jp/news/articles/2402/06/cover_news042.jpg\"><br>すべてカテゴリー 2024年2月8日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 中国のネット監視・検閲「グレートファイアウォール」を個人で再現　オープンソース「OpenGFW」公開中（www.itmedia.co.jp）<br>2位: AIで「架空の運転免許証」を作成して金銭を稼ぐウェブサービスが登場、仮想通貨取引所の審査も通過できる品質の高さで非常に危険（gigazine.net）<br>3位: WebAssemblyでOpenJDKのJavaランタイムを実装、JarファイルをそのままWebブラウザで実行できる「CheerpJ 3.0」正式リリース（www.publickey1.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/2/8?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/2/8?from=rss",
+          "publishedOn": "2024-02-07T20:00:11.198Z",
+          "wordCount": 7156,
+          "title": "【2月8日ランキング】中国のネット監視・検閲「グレートファイアウォール」を個人で再現　オープンソース「OpenGFW」公開中／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2402%2F06%2Fcover_news042.jpg"
+        },
+        {
+          "id": "https://techfeed.io/entries/65c2e7ba7036d02cdfb4ae73?from=rss",
+          "author": null,
+          "description": "2月7日、Meta社はAI生成画像に「Imagined with AI」ラベルを導入する方針を発表した。AI画像生成ツールを使用して作成された写真には、自動的にAIの関与を示すラベルが適用され、透明性が向上する。",
+          "link": "https://techfeed.io/entries/65c2e7ba7036d02cdfb4ae73?from=rss",
+          "publishedOn": "2024-02-07T02:17:07.105Z",
+          "wordCount": 7203,
+          "title": "Meta、AI生成画像に「Imagined with AI」ラベルを導入すると発表 ー Facebook、Instagram、Threads上で",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2024%2F02%2FLabeling-AI-Generated-Images_AI-Transparency_Header.jpg%3Fw%3D1200"
+        },
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/2/7?from=rss",
+          "author": null,
+          "description": "<img src=\"https://image.itmedia.co.jp/news/articles/2402/06/cover_news042.jpg\"><br>すべてカテゴリー 2024年2月7日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 中国のネット監視・検閲「グレートファイアウォール」を個人で再現　オープンソース「OpenGFW」公開中（www.itmedia.co.jp）<br>2位: AIで「架空の運転免許証」を作成して金銭を稼ぐウェブサービスが登場、仮想通貨取引所の審査も通過できる品質の高さで非常に危険（gigazine.net）<br>3位: Electron代替を目指す軽量なフレームワーク「Tauri v2」β版リリース。iOS/Android対応など（www.publickey1.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/2/7?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/2/7?from=rss",
+          "publishedOn": "2024-02-06T20:00:11.020Z",
+          "wordCount": 7156,
+          "title": "【2月7日ランキング】中国のネット監視・検閲「グレートファイアウォール」を個人で再現　オープンソース「OpenGFW」公開中／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2402%2F06%2Fcover_news042.jpg"
+        },
+        {
+          "id": "https://techfeed.io/entries/658a7ef187986b6f4a00e3dc?from=rss",
+          "author": null,
+          "description": "MIXIさんの特集記事として、MIXIインターン体験談をシリーズでお伝えします。興味のある方は是非チェックしてみてください！",
+          "link": "https://techfeed.io/entries/658a7ef187986b6f4a00e3dc?from=rss",
+          "publishedOn": "2024-02-06T07:25:14.610Z",
+          "wordCount": 7334,
+          "title": "インターンで実感した「MIXIならでは」のカルチャーとは？エンジニア職内定者・木村さんに聞いた。～MIXIインターン体験談〜",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/mixi_202401_2_0.jpg"
+        },
+        {
+          "id": "https://techfeed.io/entries/65c17d9918c36607205ce802?from=rss",
+          "author": null,
+          "description": "AdGuard]は、Manifest V3（MV3）に基づく拡張機能の新しいメジャーアップデートを発表した。このアップデートでは、拡張機能がMV3に適応するために必要な様々な改良が行われた。",
+          "link": "https://techfeed.io/entries/65c17d9918c36607205ce802?from=rss",
+          "publishedOn": "2024-02-06T00:33:15.381Z",
+          "wordCount": 7182,
+          "title": "AdGuardがアップデート、Manifest V3に対応した初の広告ブロッカーに",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fcdn.adtidy.org%2Fblog%2Fnew%2Fmw50mmv3.png%3Fmw%3D1200%26mh%3D630"
+        },
+        {
           "id": "https://techfeed.io/entries/65c17b1218c36607205ce34c?from=rss",
           "author": null,
           "description": "Googleは、Rust Foundationに100万ドルの助成金を提供し、Rustコードと既存のC++コードベースとの相互運用性向上に力を入れることを発表した。",
@@ -2132,36 +2247,6 @@
           "wordCount": 7159,
           "title": "【1月10日ランキング】マイクロソフト、初心者向け生成AI学習教材「生成AIアプリケーションの開発を始めるために必要な全知識を学べる12講座」を無償公開／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.publickey1.jp%2F2024%2Fgenerative-ai-for-beginners01.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/65894a8487986b6f4a002ceb?from=rss",
-          "author": null,
-          "description": "これまでセキュリティ室室長としてMIXIのセキュリティを支えてきた亀山氏が新たにCISO（Chief Information Security Officer。最高情報セキュリティ責任者）に就任し、託された役割とは？ そして今後どのような会社にしていきたいのかをお聞きしてきました。",
-          "link": "https://techfeed.io/entries/65894a8487986b6f4a002ceb?from=rss",
-          "publishedOn": "2024-01-09T09:02:08.337Z",
-          "wordCount": 7326,
-          "title": "セキュリティの専門家として強化したいポイントとは？ 〜MIXI 新CISO 亀山直生の所信表明〜",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/mixi_202401_0.jpg"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/1/9?from=rss",
-          "author": null,
-          "description": "<img src=\"https://i.gzn.jp/img/2024/01/07/canon-nikon-sony-digital-signature/00.png\"><br>すべてカテゴリー 2024年1月9日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: キヤノン・ニコン・ソニーが写真にデジタル署名を埋め込むカメラ技術を開発中、AIが生成した精巧な偽物と写真を区別するのに役立つ可能性あり（gigazine.net）<br>2位: Oktaが一連のサイバー攻撃について“猛省”　セキュリティ文化の変革を宣言（www.itmedia.co.jp）<br>3位: 人は直感的に「AIが生成した絵画」より人間の絵を好むことが判明、AI作品は「不気味の谷現象」に陥っている可能性（gigazine.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/1/9?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/1/9?from=rss",
-          "publishedOn": "2024-01-08T20:00:10.024Z",
-          "wordCount": 7155,
-          "title": "【1月9日ランキング】キヤノン・ニコン・ソニーが写真にデジタル署名を埋め込むカメラ技術を開発中、AIが生成した精巧な偽物と写真を区別するのに役立つ可能性あり／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2024%2F01%2F07%2Fcanon-nikon-sony-digital-signature%2F00.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/1/8?from=rss",
-          "author": null,
-          "description": "<img src=\"https://www.watch.impress.co.jp/img/ipw/list/1554/036/top.jpg\"><br>すべてカテゴリー 2024年1月8日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: ラズパイで無限Spotify再生マシンを作ってみた【いつモノコト】（www.watch.impress.co.jp）<br>2位: GPT-4を無料で使えて画像の詳細も聞けるMicrosoftのチャットAI「Microsoft Copilot」のiOS版が公開されたので使ってみた（gigazine.net）<br>3位: コスト最適化目的で個人 AWS アカウントの整理をした（diary.sorah.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/1/8?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/1/8?from=rss",
-          "publishedOn": "2024-01-07T20:00:09.497Z",
-          "wordCount": 7157,
-          "title": "【1月8日ランキング】ラズパイで無限Spotify再生マシンを作ってみた【いつモノコト】／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F1554%2F036%2Ftop.jpg"
         }
       ]
     },
