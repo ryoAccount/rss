@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T00:30:43.418Z</updated>
+    <updated>2024-02-18T00:33:32.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What We&#039;ve Been Working On – February 2024 – React]]></title>
+        <id>https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024</id>
+        <link href="https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024"/>
+        <updated>2024-02-17T09:38:05.000Z</updated>
+        <summary type="html"><![CDATA[The library for web and native user interfaces]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun v1.0.27 | Bun Blog]]></title>
+        <id>https://realtime.jser.info/2024/02/17/bun-v1-0-27-bun-blog/</id>
+        <link href="https://realtime.jser.info/2024/02/17/bun-v1-0-27-bun-blog/"/>
+        <updated>2024-02-17T08:52:42.000Z</updated>
+        <summary type="html"><![CDATA[https://bun.sh/blog/bun-v1.0.27
+ Bun v1.0.27リリース。
+ResponseがAsync generatorとNode.jsのReadableをサポート、Bun Shellの改善など。
+また、Bun Shellのエラー時のexit codeはv1.1では1となる変更が入る予定。]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release ES2024 Candidate February 2024 · tc39/ecma262]]></title>
+        <id>https://realtime.jser.info/2024/02/17/release-es2024-candidate-february-2024-tc39-ecma262/</id>
+        <link href="https://realtime.jser.info/2024/02/17/release-es2024-candidate-february-2024-tc39-ecma262/"/>
+        <updated>2024-02-17T08:27:37.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/tc39/ecma262/releases/tag/es2024-candidate-2024-02
+ ECMAScript 2024候補のリリース。
+ArrayBuffer.prototype.resize/ArrayBuffer.prototype.transfer、RegExpのvフラグの追加。
+Promise.withResolvers、Object.groupBy/Map.groupByの追加。
+Atomics.waitAsync、String.prototype.isWellFormed/String.prototype.toWellFormedの追加など
+関連URL
+Editorial: Describe changes in ES2024 by bakkot · Pull Request #3282 · tc39/ecma262]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kolodny/safetest]]></title>
+        <id>https://realtime.jser.info/2024/02/17/kolodny-safetest/</id>
+        <link href="https://realtime.jser.info/2024/02/17/kolodny-safetest/"/>
+        <updated>2024-02-17T07:28:35.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/kolodny/safetest?tab=readme-ov-file
+ Netflixで利用しているコンポーネントフレームワーク。
+Playwright、Vitest/Jestなどのテストフレームワーク、ReactやVueなどのUIフレームワークを組み合わたテストを行う。
+アプリケーションレベルのDIコンテナやテストのセットアップをコードで柔軟にした状態でPlaywrightを使ったテストを行う。
+関連URL
+Introducing SafeTest: A Novel Approach to Front End Testing | by Netflix Technology Blog | Feb, 2024 | Netflix TechBlog]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js超入門 - 秀和システム あなたの学びをサポート!]]></title>
+        <id>https://realtime.jser.info/2024/02/17/next-js/</id>
+        <link href="https://realtime.jser.info/2024/02/17/next-js/"/>
+        <updated>2024-02-17T05:49:30.000Z</updated>
+        <summary type="html"><![CDATA[https://www.shuwasystem.co.jp/book/9784798071299.html
+ Next.jsの入門書]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bard から Gemini へ：Ultra 1.0 とGemini アプリを発表]]></title>
+        <id>https://japan.googleblog.com/2024/02/bard-gemini-ultra-10-gemini.html?m=1</id>
+        <link href="https://japan.googleblog.com/2024/02/bard-gemini-ultra-10-gemini.html?m=1"/>
+        <updated>2024-02-17T03:36:37.000Z</updated>
+        <summary type="html"><![CDATA[昨年の公開  以来、世界中の人々に、面接の準備やコードのデバッグ、新しいビジネスアイデアのブレインストーミング、さらに先週発表した 画像生成 （英語版のみ）を用いてクリエイティブな作業をするなど、Bard は  AI を使って想像力を刺激し、生産性を高める新しい方法 として活用さ...]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScriptでもモジュラーモノリス、Node.jsでシステム構築するUbie]]></title>
+        <id>https://xtech.nikkei.com/atcl/nxt/column/18/02744/020900004</id>
+        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/02744/020900004"/>
+        <updated>2024-02-17T03:07:35.000Z</updated>
+        <summary type="html"><![CDATA[今回は、開発言語として「TypeScript」、そのサーバーサイド実行環境として「Node.js」を採用したUbieの事例を取り上げる。同社は、消費者向けの症状検索エンジンや医療機関向けパッケージを提供するヘルスケアスタートアップである。]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning Fundamentals Handbook – What You Need to Know to Start Your Career in AI]]></title>
+        <id>https://www.freecodecamp.org/news/deep-learning-fundamentals-handbook-start-a-career-in-ai/</id>
+        <link href="https://www.freecodecamp.org/news/deep-learning-fundamentals-handbook-start-a-career-in-ai/"/>
+        <updated>2024-02-16T23:47:10.000Z</updated>
+        <summary type="html"><![CDATA[If you want to get into the field of Artificial Intelligence (AI), one of the most in-demand career paths these days, you've come to the right place. Learning Deep Learning Fundamentals is your essential first step to learning about Computer Vision, Natural Language Processing (NLP), Large Language Models, the creative]]></summary>
+        <author>
+            <name>Tatev Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: How the Insane Pressure of Classical Music Prepared Jessica Wilkins for Tech]]></title>
         <id>https://www.freecodecamp.org/news/podcast-jessica-wilkins-classical-music-learning-to-code/</id>
@@ -2870,88 +2965,6 @@ redirectToDefaultLocaleオプションを追加し、デフォルト言語への
         <updated>2024-01-19T12:48:21.000Z</updated>
         <summary type="html"><![CDATA[https://www.robinwieruch.de/react-libraries/
  Reactアプリケーション開発にカテゴリごとのライブラリやツール紹介]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use SonarLint to Write Cleaner Code]]></title>
-        <id>https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/</id>
-        <link href="https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/"/>
-        <updated>2024-01-18T23:58:39.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a coding project, the better it is, the more fun it'll be to use. And the prouder you'll be of your hard work, right?  Also, writing quality and performant code helps your program or website work as expected – which should be every developer's goal. SonarLint]]></summary>
-        <author>
-            <name>Okosa Leonard Onyekachukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1月19日ランキング】Stable Diffusionで画像からプロンプト（呪文）を生成・抽出する方法。Fooocusの新機能「Describe」が便利でした／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2024/1/19?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2024/1/19?from=rss"/>
-        <updated>2024-01-18T20:00:09.594Z</updated>
-        <summary type="html"><![CDATA[<img src="https://ascii.jp/img/2024/01/16/3669875/xl/813db552e7a807d3.jpg?20200122"><br>すべてカテゴリー 2024年1月19日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Stable Diffusionで画像からプロンプト（呪文）を生成・抽出する方法。Fooocusの新機能「Describe」が便利でした（ascii.jp）<br>2位: ITエンジニアが投票した「ITエンジニア本大賞2024」発表　単体テストの考え方／AWS運用ノウハウ／ プロジェクトマネジメントの基本が全部わかる、など（www.itmedia.co.jp）<br>3位: E2Eテストを Playwright で作り直して開発プロセスに組み込む話（tech.smarthr.jp）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2024/1/19?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Developer Job]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-a-developer-job/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-developer-job/"/>
-        <updated>2024-01-18T17:58:03.000Z</updated>
-        <summary type="html"><![CDATA[The demand for skilled software developers continues to grow. However, for many self-taught developers, the path to securing a job in this competitive field can seem daunting. We just published a course on the freeCodeCamp.org YouTube channel that is designed to guide aspiring software engineers through the job-hunting process. Lane]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform CRUD Operations with Django Models]]></title>
-        <id>https://www.freecodecamp.org/news/models-in-django/</id>
-        <link href="https://www.freecodecamp.org/news/models-in-django/"/>
-        <updated>2024-01-18T16:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Django is a super useful tool for building web applications with Python. It follows the Model-View-Template (MVT) architecture, which is a popular design pattern for building web apps. In the MVT architecture, the Model refers to the internal representation of information stored, the View is responsible for processing user requests]]></summary>
-        <author>
-            <name>chepkirui dorothy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a High-Performance Tab Component in React]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-high-performance-tab-component/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-high-performance-tab-component/"/>
-        <updated>2024-01-18T16:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Tabs are more than mere UI elements – they're the backbone of user navigation and content organization in many applications. In React, crafting a tabbed component that's both efficient and responsive is not just an improvement, it's a necessity. This article takes a deep dive into constructing a React tab]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Progressive Web Apps? PWA Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/"/>
-        <updated>2024-01-18T15:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are simply installable web applications – websites that you can install on your device, much like you would install an app from an app store.  They bring together the best parts of using a website (easy to access, no need to install anything) with the]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remix の SPA モード]]></title>
-        <id>https://realtime.jser.info/2024/01/18/remix-spa/</id>
-        <link href="https://realtime.jser.info/2024/01/18/remix-spa/"/>
-        <updated>2024-01-18T13:32:32.000Z</updated>
-        <summary type="html"><![CDATA[https://azukiazusa.dev/blog/remix-spa-mode/
- Remixに実験的に実装されているSPAモードについて]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wevm/vocs: Minimal Documentation Framework, powered by React + Vite.]]></title>
-        <id>https://realtime.jser.info/2024/01/18/wevm-vocs-minimal-documentation-framework-powered-by-react-vite/</id>
-        <link href="https://realtime.jser.info/2024/01/18/wevm-vocs-minimal-documentation-framework-powered-by-react-vite/"/>
-        <updated>2024-01-18T13:11:27.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/wevm/vocs
- ReactとViteを使ったドキュメントサイトフレームワーク]]></summary>
         <author>
             <name>Realtime JSer.info</name>
         </author>
