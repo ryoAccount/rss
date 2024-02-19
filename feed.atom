@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-18T00:33:32.811Z</updated>
+    <updated>2024-02-19T00:32:21.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepLを超えるやさしい翻訳アプリとGPTsを作りました]]></title>
+        <id>https://stocker.jp/diary/translate-ai</id>
+        <link href="https://stocker.jp/diary/translate-ai"/>
+        <updated>2024-02-18T23:59:02.000Z</updated>
+        <summary type="html"><![CDATA[このアプリは、難解な英文を解説付きの分かりやすい日本語に翻訳し、特にプログラミングやWeb制作などの専門分野で…]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2月19日ランキング】全社会人が読みたい「面倒なことはChatGPTにやらせよう」／ほか19本]]></title>
+        <id>https://techfeed.io/categories/all/selections/daily/2024/2/19?from=rss</id>
+        <link href="https://techfeed.io/categories/all/selections/daily/2024/2/19?from=rss"/>
+        <updated>2024-02-18T20:00:10.748Z</updated>
+        <summary type="html"><![CDATA[<img src="https://assets.st-note.com/production/uploads/images/131120531/rectangle_large_type_2_ad5d567eae642784624d979509cb4644.jpeg?fit=bounds&quality=85&width=1280"><br>すべてカテゴリー 2024年2月19日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 全社会人が読みたい「面倒なことはChatGPTにやらせよう」（note.com）<br>2位: PHPクックブック（www.oreilly.co.jp）<br>3位: iPhone標準搭載の「ジャーナル」。そもそもDiaryとJournalって何が違うんだっけ？～使わないともったいないジャーナルしたくなるアプリ～（www.bcnretail.com）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2024/2/19?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基本から理解するJWTとJWT認証の仕組み]]></title>
+        <id>https://developer.mamezou-tech.com/blogs/2022/12/08/jwt-auth?s=09</id>
+        <link href="https://developer.mamezou-tech.com/blogs/2022/12/08/jwt-auth?s=09"/>
+        <updated>2024-02-18T03:20:24.000Z</updated>
+        <summary type="html"><![CDATA[これは、豆蔵デベロッパーサイトアドベントカレンダー2022第8日目の記事です...]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What We&#039;ve Been Working On – February 2024 – React]]></title>
         <id>https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024</id>
@@ -2875,96 +2905,6 @@ humanwhocodes/fsx: A modern filesystem API for JavaScript]]></summary>
  JavaScript言語のパースについてスライド。
 パースの手法、JSはLL(1)の文法ではあるがBNFレベルでの厳密なパースが難しいため、手書きされることが多いことについて。
 正規表現リテラル/テンプレートリテラル/分割代入などのパースが難しい構文、PreParsingという最適化手法についてなど]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun v1.0.24 | Bun Blog]]></title>
-        <id>https://realtime.jser.info/2024/01/20/bun-v1-0-24-bun-blog/</id>
-        <link href="https://realtime.jser.info/2024/01/20/bun-v1-0-24-bun-blog/"/>
-        <updated>2024-01-20T12:00:32.000Z</updated>
-        <summary type="html"><![CDATA[https://bun.sh/blog/bun-v1.0.24
- Bun v1.0.24リリース。
-Bun Shellというzxのようにシェルスクリプトを扱うための$関数の追加、perf_hooksの互換性改善など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro 4.2 | Astro]]></title>
-        <id>https://realtime.jser.info/2024/01/20/astro-4-2-astro/</id>
-        <link href="https://realtime.jser.info/2024/01/20/astro-4-2-astro/"/>
-        <updated>2024-01-20T02:09:49.000Z</updated>
-        <summary type="html"><![CDATA[https://astro.build/blog/astro-420/
- Astro 4.2リリース。
-実験的なオプションとしてSpeculation Rules APIを使ったPrerenderingをサポート。injectRouteやファイルベースのルーティングが衝突した時の新しい優先度ルールをopt-inでサポート。
-redirectToDefaultLocaleオプションを追加し、デフォルト言語へのリダイレクトを無効化できるように、アクセシビリティルールの追加など。]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Data Analysis and Visualization with Python Using Astronomical Data]]></title>
-        <id>https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/"/>
-        <updated>2024-01-19T19:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Are you fascinated by both Python and the night sky? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python to analyze and visualize astronomical Data. This course was created by Spartificial, whose mission is to provide engineering education in the most]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Web Server with Continuous Integration Using NGINX and CircleCI]]></title>
-        <id>https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/</id>
-        <link href="https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/"/>
-        <updated>2024-01-19T16:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Web servers are responsible for delivering web pages and various resources to clients through the internet. They can exist either as software or hardware components. But unfortunately, they often become targets for hackers and malicious individuals seeking to exploit any vulnerabilities to compromise data and disrupt functionality. As a result,]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with FPM]]></title>
-        <id>https://www.freecodecamp.org/news/getting-started-with-fpm/</id>
-        <link href="https://www.freecodecamp.org/news/getting-started-with-fpm/"/>
-        <updated>2024-01-19T16:42:55.000Z</updated>
-        <summary type="html"><![CDATA[FPM [https://fpm.readthedocs.io/en/latest/getting-started.html] is a powerful wrapper that allows you to create packages for multiple programs in multiple operating systems.  In this tutorial I will show you how you can replace some of the tedious packaging of third party applications. What You Need to Complete this Tutorial  * A]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[penrose/penrose: Create beautiful diagrams just by typing notation in plain text.]]></title>
-        <id>https://realtime.jser.info/2024/01/19/penrose-penrose-create-beautiful-diagrams-just-by-typing-notation-in-plain-text/</id>
-        <link href="https://realtime.jser.info/2024/01/19/penrose-penrose-create-beautiful-diagrams-just-by-typing-notation-in-plain-text/"/>
-        <updated>2024-01-19T13:00:28.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/penrose/penrose
- テキストで宣言的に色々なダイアグラムを描画できるライブラリ。]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing better target sizes]]></title>
-        <id>https://realtime.jser.info/2024/01/19/designing-better-target-sizes/</id>
-        <link href="https://realtime.jser.info/2024/01/19/designing-better-target-sizes/"/>
-        <updated>2024-01-19T12:55:19.000Z</updated>
-        <summary type="html"><![CDATA[https://ishadeed.com/article/target-size
- ユーザーがアクションをトリガーするためにクリックやタップする領域であるターゲットサイズについての記事。
-タッチサイズ、Spacing、フィードバック。
-実際のウェブサイトの例として、階層メニューのSafe Areaの三角形をclip-pathで定義する方法、ナビゲーションのUI、プレイヤーのUI、チェックボックスのUIなどについて。]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Libraries for 2024]]></title>
-        <id>https://realtime.jser.info/2024/01/19/react-libraries-for-2024/</id>
-        <link href="https://realtime.jser.info/2024/01/19/react-libraries-for-2024/"/>
-        <updated>2024-01-19T12:48:21.000Z</updated>
-        <summary type="html"><![CDATA[https://www.robinwieruch.de/react-libraries/
- Reactアプリケーション開発にカテゴリごとのライブラリやツール紹介]]></summary>
         <author>
             <name>Realtime JSer.info</name>
         </author>
