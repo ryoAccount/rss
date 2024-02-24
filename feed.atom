@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T00:30:52.967Z</updated>
+    <updated>2024-02-24T00:29:22.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[注目したいクライアントサイドの脆弱性2選/ Security.Tokyo #3]]></title>
+        <id>https://speakerdeck.com/masatokinugawa/security-dot-tokyo-number-3?s=09</id>
+        <link href="https://speakerdeck.com/masatokinugawa/security-dot-tokyo-number-3?s=09"/>
+        <updated>2024-02-23T17:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Security.Tokyo #3の発表資料です。
+クライアントサイドのパストラバーサルと、postMessage経由の脆弱性を取り上げました。]]></summary>
+        <author>
+            <name>My Reading List: Read and Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Google Workspace Addon For Tier 2 CASA Security Assessment – Step by Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/tier-casa-security-assessment/</id>
+        <link href="https://www.freecodecamp.org/news/tier-casa-security-assessment/"/>
+        <updated>2024-02-23T16:43:39.000Z</updated>
+        <summary type="html"><![CDATA[As part of the Google CASA process [https://appdefensealliance.dev/casa], developers can run static analysis on their application’s source code using an inline integration with OpenText’s Fortify Source Code Analyzer (SCA) via the CASA portal. Naturally, I had to prepare my source code as per instruction. In this article, I will share]]></summary>
+        <author>
+            <name>Nibesh Khadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: What it's like working at ChatGPT Creator Open AI. My Interview with Logan Kilpatrick]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/"/>
+        <updated>2024-02-23T16:18:47.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Logan Kilpatric, a software engineer and ChatGPT creator Open AI's first-ever Developer Advocate hire. The week Logan started, ChatGPT hit 100 million users. During our conversation, Logan shares his journey from Illinois to Harvard, NASA, and now the world's most-watched tech]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Fetch API For Beginners – Explained With Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/"/>
+        <updated>2024-02-23T12:14:53.000Z</updated>
+        <summary type="html"><![CDATA[The Fetch API is a JavaScript function that you can use to send a request to any Web API URL and get a response. In this article, I'm going to show you how to make HTTP requests to external APIs using the JavaScript Fetch API. You're going to learn how]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript Interfaces Work – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-typescript-interfaces-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-typescript-interfaces-work/"/>
+        <updated>2024-02-23T10:59:53.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript, a superset of JavaScript, has gained widespread adoption among developers due to its ability to provide static typing, enhancing code robustness and maintainability. One of TypeScript's key features is interfaces, which play a pivotal role in defining the shape of objects, enabling type checking and facilitating better code organization.]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release v1.24.0 · parcel-bundler/lightningcss]]></title>
+        <id>https://realtime.jser.info/2024/02/23/release-v1-24-0-parcel-bundler-lightningcss/</id>
+        <link href="https://realtime.jser.info/2024/02/23/release-v1-24-0-parcel-bundler-lightningcss/"/>
+        <updated>2024-02-23T05:06:43.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/parcel-bundler/lightningcss/releases/tag/v1.24.0
+ Lightning CSS v1.24.0リリース。
+light-dark()のfallbackに対応、CSS system colorsをサポート、Custom Propertiesと@keyframesのdedupeに対応など]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 5.4 RC - TypeScript]]></title>
+        <id>https://realtime.jser.info/2024/02/23/announcing-typescript-5-4-rc-typescript/</id>
+        <link href="https://realtime.jser.info/2024/02/23/announcing-typescript-5-4-rc-typescript/"/>
+        <updated>2024-02-23T01:19:25.000Z</updated>
+        <summary type="html"><![CDATA[https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-rc/
+ TypeScript 5.4 RCリリース。
+クロージャーにおけるNarrowing結果の改善、NoInfer Utility Typeの追加。
+ES2024のObject.groupBy/Map.groupByをサポート、Import Attributesのサポート。
+target: &quot;ES3&quot;やoutオプションなどを非推奨化されたオプションは5.5で削除される予定。
+関連URL
+Feedback: 5.0 deprecations · Issue #51909 · microsoft/TypeScript]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Camera App on the Web – No Plugins Required]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/"/>
+        <updated>2024-02-23T00:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Ever had to make a video call right on your browser with Google Meet, Zoom, or any other video chat app? Well, here’s what you might have never thought to ask—how does it work? Well, there are a number of things that make a real-time video chat application fully functional]]></summary>
+        <author>
+            <name>Favour C. Felix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2月23日ランキング】GPT-4にWebサイトを“自律的に”ハッキングさせる方法　AI自身が脆弱性を検出、成功率70％以上【研究紹介】／ほか19本]]></title>
         <id>https://techfeed.io/categories/all/selections/daily/2024/2/23?from=rss</id>
@@ -3002,88 +3091,6 @@ Temporal APIのサポート、import.meta.filename/import.meta.dirnameのサポ�
 window、Deno.run()、Deno.serveHttp()、Deno.metrics()などの古いAPIを非推奨化など]]></summary>
         <author>
             <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Units – When to Use rem, em, px, and More]]></title>
-        <id>https://www.freecodecamp.org/news/css-units-when-to-use-each-one/</id>
-        <link href="https://www.freecodecamp.org/news/css-units-when-to-use-each-one/"/>
-        <updated>2024-01-25T00:58:27.000Z</updated>
-        <summary type="html"><![CDATA[CSS units allow you to measure and specify different property values. You use them to modify CSS properties such as margins, padding, height, and width to make them compatible with devices of all screen sizes. CSS units have two basic types:  * Absolute units  * Relative units Absolute]]></summary>
-        <author>
-            <name>Esther Christopher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AHA Stack]]></title>
-        <id>https://ahastack.dev</id>
-        <link href="https://ahastack.dev/"/>
-        <updated>2024-01-25T00:51:28.000Z</updated>
-        <summary type="html"><![CDATA[The AHA Stack is a collection of technologies that work together to create a full-stack web application framework.]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release v5.90.0 · webpack/webpack]]></title>
-        <id>https://realtime.jser.info/2024/01/25/release-v5-90-0-webpack-webpack/</id>
-        <link href="https://realtime.jser.info/2024/01/25/release-v5-90-0-webpack-webpack/"/>
-        <updated>2024-01-25T00:24:54.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/webpack/webpack/releases/tag/v5.90.0
- webpack v5.90.0リリース。
-node.{__filename,__dirname}にnode-moduleオプションの追加、バグ修正など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the First Line of a Multiline String in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-the-first-line-of-a-multiline-string-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-first-line-of-a-multiline-string-in-javascript/"/>
-        <updated>2024-01-24T23:33:14.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, getting the first element of an array or string is pretty easy. But when it comes to getting the first line of a multiline string, some approaches can hurt your app's performance in certain cases. In this article, we will look at the three best ways you can]]></summary>
-        <author>
-            <name>Furkan Emin Can</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Next.js Apps to Github Pages]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/"/>
-        <updated>2024-01-24T22:46:53.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will walk you through the process of publishing a Next.js application on GitHub Pages.  What makes this guide particularly helpful is that I'll teach you how to integrate with GitHub Actions, too. This means your application will be automatically deployed every time you push code]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code Extensions to Boost Your Productivity in 2024]]></title>
-        <id>https://www.freecodecamp.org/news/best-vscode-extensions/</id>
-        <link href="https://www.freecodecamp.org/news/best-vscode-extensions/"/>
-        <updated>2024-01-24T22:42:52.000Z</updated>
-        <summary type="html"><![CDATA[According to the 2023 Stack Overflow Developer Survey [https://survey.stackoverflow.co/2023/#section-most-popular-technologies-integrated-development-environment] , Visual Studio Code (also known as VSCode) ranked as the most preferred integrated developer environment (IDE) tool.  Visual Studio Code has many great features out-of-the-box, and supports a large community of extensions to add enhanced functionality.  Stack Overflow]]></summary>
-        <author>
-            <name>Natalie Pina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Back Up and Restore Azure SQL Databases]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-back-up-and-restore-sql-azure-database/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-back-up-and-restore-sql-azure-database/"/>
-        <updated>2024-01-24T22:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's Azure’s provides many services via a single cloud, which lets them offer one solution for multiple corporate infrastructures. Teams use Azure because they value the opportunity to run SQL databases in the cloud and complete simple operations via the Azure portal.  But you'll need to have a way]]></summary>
-        <author>
-            <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1月25日ランキング】Google Analytics 4 で正しく理解しておくと安心な「指標」８選（寄稿：小川卓）／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2024/1/25?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2024/1/25?from=rss"/>
-        <updated>2024-01-24T20:00:09.047Z</updated>
-        <summary type="html"><![CDATA[<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenabusiness/20240118/20240118145255.png"><br>すべてカテゴリー 2024年1月25日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Google Analytics 4 で正しく理解しておくと安心な「指標」８選（寄稿：小川卓）（business.hatenastaff.com）<br>2位: ディズニーがその場で歩くことができる不思議な動く床「ホロタイル」を開発、VRコンテンツへの応用にも期待（gigazine.net）<br>3位: 登録不要・無料のPython学習環境「PyWeb」にWebアプリ（CGI）実行機能が追加／HTML/CSSでWebフォームを作って、Pythonプログラムと連携（forest.watch.impress.co.jp）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2024/1/25?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
         </author>
     </entry>
 </feed>
