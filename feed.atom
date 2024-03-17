@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T00:29:43.408Z</updated>
+    <updated>2024-03-17T00:34:01.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for Writing Tests with React Testing Library | ClarityDev blog]]></title>
+        <id>https://realtime.jser.info/2024/03/16/best-practices-for-writing-tests-with-react-testing-library-claritydev-blog/</id>
+        <link href="https://realtime.jser.info/2024/03/16/best-practices-for-writing-tests-with-react-testing-library-claritydev-blog/"/>
+        <updated>2024-03-16T13:10:02.000Z</updated>
+        <summary type="html"><![CDATA[https://claritydev.net/blog/improving-react-testing-library-tests
+ React Testing LibraryでのReactコンポーネントのテストについて。
+コンポーネントをRoleでselectする方法やデバッグ方法、userEvent、"not wrapped in act(…)"の警告についてなど]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun v1.0.31 | Bun Blog]]></title>
+        <id>https://realtime.jser.info/2024/03/16/bun-v1-0-31-bun-blog/</id>
+        <link href="https://realtime.jser.info/2024/03/16/bun-v1-0-31-bun-blog/"/>
+        <updated>2024-03-16T12:54:14.000Z</updated>
+        <summary type="html"><![CDATA[https://bun.sh/blog/bun-v1.0.31
+ Bun v1.0.31リリース。
+bun --printの追加、Stdinからコードを実行できるように、bun add --trust &lt;pkg&gt;の追加、bun pm trust/bun pm untrustedの追加。
+fetch()にunixオプションを追加しUnix Socketsをサポート。
+Node.js 21.7.0で追加されたutil.styleTextのサポートなど
+関連URL
+Node.js — Node v21.7.0 (Current)]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MistCSS]]></title>
+        <id>https://realtime.jser.info/2024/03/16/mistcss/</id>
+        <link href="https://realtime.jser.info/2024/03/16/mistcss/"/>
+        <updated>2024-03-16T12:21:04.000Z</updated>
+        <summary type="html"><![CDATA[https://typicode.github.io/mistcss/
+ CSSからReactコンポーネントを作成するツール。
+CSSを書いて、そのCSSからRectコンポーネントを生成する仕組みになっている。
+data属性をPropsとして扱う、@scopeでスコープを扱うなど]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved Cloudflare Workers testing via Vitest and workerd]]></title>
+        <id>https://realtime.jser.info/2024/03/16/improved-cloudflare-workers-testing-via-vitest-and-workerd/</id>
+        <link href="https://realtime.jser.info/2024/03/16/improved-cloudflare-workers-testing-via-vitest-and-workerd/"/>
+        <updated>2024-03-16T08:33:21.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.cloudflare.com/workers-vitest-integration/
+ VitestでCloudflare Workersのテストを行う方法について。
+@cloudflare/vitest-pool-workersを使うことで、Workerに対するUnit Testができる仕組みについて。
+VitestのCustom Poolを使うことで、テストをworkerdのプロセス内で実行している。
+関連URL
+Vitest integration · Cloudflare Workers docs]]></summary>
+        <author>
+            <name>Realtime JSer.info</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3月15日ランキング】デジタル化が進んだと思いきや、新たな手作業が生まれている今　ここから5年間、SaaSにおいて外部APIは重要なパーツになる／ほか19本]]></title>
         <id>https://techfeed.io/categories/all/selections/daily/2024/3/15?from=rss</id>
@@ -2519,190 +2575,6 @@ Introducing SafeTest: A Novel Approach to Front End Testing | by Netflix Technol
         <summary type="html"><![CDATA[まえがき  アニメーションを多く取り入れたWebサイトが好きかどうかのアンケートを取ると、ネガティブな票が多く占めることがよくありますが、それに関して思うところがあったので「Webサイトにアニメーションは必要あるのか」というテーマで自分の思っていることを言語化してみました。  X (Twitter)で「動くWebサイト　嫌い」で検索  Xでちらっと検索しただけでも動くサイトが嫌い、という方は結構いそうですね。もし「アニメーションはすべて悪」と思っている人がいたらぜひ読んでいただきたいです。  この議論はアプリなどにも言えることですが、私の主なお仕事はWebサイトのフロントエンド実装なの]]></summary>
         <author>
             <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flexbox vs Grid in CSS – Which Should You Use?]]></title>
-        <id>https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/"/>
-        <updated>2024-02-16T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever had issues with replicating a particular user interface from a Figma design? Do you find it difficult displaying elements in different sections of your browser screen? A major cause of rift between user interface (UI) designers and frontend developers is the issue of having an awesome UI]]></summary>
-        <author>
-            <name>Maybell Obadoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Optimization Techniques to Help You Write More Performant Code]]></title>
-        <id>https://www.freecodecamp.org/news/react-performance-optimization-techniques/</id>
-        <link href="https://www.freecodecamp.org/news/react-performance-optimization-techniques/"/>
-        <updated>2024-02-16T00:57:28.000Z</updated>
-        <summary type="html"><![CDATA[Performance optimization is a critical aspect of developing web applications. Users expect applications to load quickly and respond to their interactions smoothly.  In the React ecosystem, performance optimization techniques can significantly enhance the user experience by reducing load times and improving responsiveness. In this article, we will discuss eight]]></summary>
-        <author>
-            <name>Temitope Oyedele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Most of Video Coding Tutorials]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-the-most-out-of-video-coding-tutorials/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-most-out-of-video-coding-tutorials/"/>
-        <updated>2024-02-16T00:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever spent hours watching a coding tutorial, only to get to the end and feel like you haven't learned very much?  We've all been there, and it can be a frustrating experience when learning to code.  In this article, I will show you some of the]]></summary>
-        <author>
-            <name>Chris Blakely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular v17.2リリース ー Meterial 3のサポート、シグナルクエリの導入など多数の改善]]></title>
-        <id>https://techfeed.io/entries/65ceb0a118c3660720640d74?from=rss</id>
-        <link href="https://techfeed.io/entries/65ceb0a118c3660720640d74?from=rss"/>
-        <updated>2024-02-16T00:48:19.190Z</updated>
-        <summary type="html"><![CDATA[2月16日、Angularが新バージョンv17.2をリリースした。今回のアップデートは、マイナーバージョンアップではあるが、新しい機能や大きめの改善が加えられている。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、Gemini 1.5をリリース ー MoEアプローチの採用、複数ファイルやコードリポジトリ全体を理解]]></title>
-        <id>https://techfeed.io/entries/65cea8377036d02cdfbaee7f?from=rss</id>
-        <link href="https://techfeed.io/entries/65cea8377036d02cdfbaee7f?from=rss"/>
-        <updated>2024-02-16T00:12:06.570Z</updated>
-        <summary type="html"><![CDATA[2月16日、Googleが、Gemini 1.5モデルをGoogle AI Studioのプライベートプレビューで発表した。この新しいモデルは、Mixture-of-Experts（MoE）アプローチを採用しており、迅速で高品質な応答を実現する。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エンジニアが今日から始める英語学習の継続方法]]></title>
-        <id>https://tech.uzabase.com/entry/2024/02/09/184401</id>
-        <link href="https://tech.uzabase.com/entry/2024/02/09/184401"/>
-        <updated>2024-02-15T23:57:52.000Z</updated>
-        <summary type="html"><![CDATA[1. はじめに こんにちは。ソーシャル経済メディア「NewsPicks」でエンジニアをしております小林です！ 皆さんは英語学習に取り組んでいらっしゃいますか？エンジニアとして技術ドキュメントや国際カンファレンスの動画等で英語に触れる機会があると思います。また、技術的なスキルはあるが、英語を話すことが苦手な場合、将来的に市場でどう評価されているかの動向も気になるところです。 最新の2023年度の報告によると、世界的にITエンジニアの給与が上昇している一方、日本では前年比USドルベースで5.9%減少、現地通貨（円）ベースでもわずか0.4%増加に留まっています。残念ながら、世界と比較した時に日本の給…]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.13.0 alpha 4が公開 ー 実験的なJITコンパイラ搭載、インタラクティブインタープリタの利便性向上]]></title>
-        <id>https://techfeed.io/entries/65cea3877036d02cdfbae7a8?from=rss</id>
-        <link href="https://techfeed.io/entries/65cea3877036d02cdfbae7a8?from=rss"/>
-        <updated>2024-02-15T23:54:01.137Z</updated>
-        <summary type="html"><![CDATA[2月15日、Python 3.13.0 alpha 4がリリースされた。これはPython 3.13の早期開発者プレビューであり、開発者に新機能やバグ修正のテストを容易にすることを目的としている。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Argo Workflows on Kubernetes]]></title>
-        <id>https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/</id>
-        <link href="https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/"/>
-        <updated>2024-02-15T23:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Argo Workflows is an open source project that enables the orchestration of multiple Kubernetes jobs. Argo Workflows is implemented as a Kubernetes custom resource definition (CRD), which means it is native to the Kubernetes ecosystem and can run on any Kubernetes cluster. Workflows are set steps by which individual jobs]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the JavaScript Filter Method Works – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-filter-method/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-filter-method/"/>
-        <updated>2024-02-15T23:08:24.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript's filter method serves as a powerful tool for selectively extracting elements from arrays based on certain conditions.  Introduced alongside other array methods in ECMAScript 5, the filter method has since become a fundamental feature in JavaScript programming. In this article, we will delve into the JavaScript filter method,]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Labs: What We&#039;ve Been Working On – February 2024 – React]]></title>
-        <id>https://realtime.jser.info/2024/02/16/react-labs-what-weve-been-working-on-february-2024-react/</id>
-        <link href="https://realtime.jser.info/2024/02/16/react-labs-what-weve-been-working-on-february-2024-react/"/>
-        <updated>2024-02-15T21:29:51.000Z</updated>
-        <summary type="html"><![CDATA[https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024
- React Compiler(aka. React Forgot)がinstagramの本番環境で利用され、今後数ヶ月以内に公開される予定。
-また、次のメジャーバージョンであるReact 19に必要な機能が揃ったため、公開の準備を進めていくという話]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript in the Browser – How the Document Object Model (DOM) and Events Work]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/"/>
-        <updated>2024-02-15T20:07:14.000Z</updated>
-        <summary type="html"><![CDATA[In this in-depth tutorial, you'll learn all about the Document Object Model, or DOM for short. As a web developer, understanding the DOM is fundamental for interacting with web browsers and creating dynamic web applications.  Throughout this guide, we will explore the DOM's hierarchical tree structure, essential properties, and]]></summary>
-        <author>
-            <name>Samyak Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2月16日ランキング】AMD製CPUに複数の脆弱性 ～任意コード実行の恐れ／深刻度はいずれも「High」／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2024/2/16?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2024/2/16?from=rss"/>
-        <updated>2024-02-15T20:00:11.421Z</updated>
-        <summary type="html"><![CDATA[<img src="https://forest.watch.impress.co.jp/img/wf/list/1568/658/amd.jpg"><br>すべてカテゴリー 2024年2月16日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: AMD製CPUに複数の脆弱性 ～任意コード実行の恐れ／深刻度はいずれも「High」（forest.watch.impress.co.jp）<br>2位: Flashエミュレーター誕生のきっかけは別に「フラッシュ愛」じゃなかった　「swf2js」開発者の本音と数奇な運命【フォーカス】（levtech.jp）<br>3位: AWS、高速起動にこだわった軽量なJavaScriptランタイム「LLRT」（Low Latency Runtime）をオープンソースで公開。AWS Lambdaでの利用にフォーカス（www.publickey1.jp）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2024/2/16?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn SvelteKit in 2 hours]]></title>
-        <id>https://www.freecodecamp.org/news/learn-sveltekit-full-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-sveltekit-full-course/"/>
-        <updated>2024-02-15T18:47:48.000Z</updated>
-        <summary type="html"><![CDATA[SvelteKit is the next evolution of Svelte, a modern JavaScript framework that compiles your code to highly efficient, vanilla JavaScript at build time. It's a great framework to learn for developers seeking to hone their skills or dive into modern web frameworks. We just posted a course on the freeCodeCamp.org]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to Make Art with Code – p5.js Course]]></title>
-        <id>https://www.freecodecamp.org/news/art-of-coding-with-p5js/</id>
-        <link href="https://www.freecodecamp.org/news/art-of-coding-with-p5js/"/>
-        <updated>2024-02-15T18:39:36.000Z</updated>
-        <summary type="html"><![CDATA[p5.js is a JavaScript library that's transforming the way artists and designers approach make art with code. If you're intrigued by the intersection of art and programming, freeCodeCamp's YouTube course on p5.js is an ideal starting point.  Patt Vira created this course. She loves making art with code and]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Draw with JavaScript on an HTML Canvas Element – Gorilla Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-draw-a-gorilla-with-javascript-on-html-canvas/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-draw-a-gorilla-with-javascript-on-html-canvas/"/>
-        <updated>2024-02-15T16:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Drawing from code can be fun for many reasons. You can generate art that follows a certain logic. You can create animations by moving only parts of an image. And you can even build up a whole game as I covered in this tutorial [/news/gorillas-game-in-javascript/]. In my last article, we]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Chrome DevTools – Simple Strategies for Smarter Web Development]]></title>
-        <id>https://www.freecodecamp.org/news/chrome-devtools/</id>
-        <link href="https://www.freecodecamp.org/news/chrome-devtools/"/>
-        <updated>2024-02-15T16:12:02.000Z</updated>
-        <summary type="html"><![CDATA[As a web developer, there are many tools out there – in addition to your code editor – that can make you more efficient.  It doesn't matter if you're just starting out or have been coding for years. Knowing how to effectively use Developer Tools (DevTools for short) can]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Codeの拡張機能として開発されたGithub Copilotライクな完全オープンソースのAIコード補完プラグイン・「Twinny」]]></title>
-        <id>http://kachibito.net/useful-resource/twinny</id>
-        <link href="http://kachibito.net/useful-resource/twinny"/>
-        <updated>2024-02-15T15:20:44.000Z</updated>
-        <summary type="html"><![CDATA[TwinnyはVS Codeの拡張機能として開発されたGithub Copilotライクな完全オープンソースのAIコード補完プラグインです。完全に無料且つ完全にプライベートである事も仕様の1つとしているため、無料と言いつつAPIキー代金はかかる、といった事も無いようローカルでLLM推論を実行するOllamaやllama.cpp、LM Studio等とシームレスに動作するよう設計されています。]]></summary>
-        <author>
-            <name>My Reading List: Read and Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js — Wednesday February 14 2024 Security Releases]]></title>
-        <id>https://realtime.jser.info/2024/02/15/node-js-wednesday-february-14-2024-security-releases/</id>
-        <link href="https://realtime.jser.info/2024/02/15/node-js-wednesday-february-14-2024-security-releases/"/>
-        <updated>2024-02-15T12:42:45.000Z</updated>
-        <summary type="html"><![CDATA[https://nodejs.org/en/blog/vulnerability/february-2024-security-releases
- Node.jsのセキュリティアップデートしてNode.js 20.x, 18.x, 21.xがそれぞれ更新されている。
-OpenSSLの更新、Linuxのcapabilitiesに関するバグの修正、細工したHTTPリクエストでのDosに関する問題、パーミッションモデルの問題の修正など]]></summary>
-        <author>
-            <name>Realtime JSer.info</name>
         </author>
     </entry>
 </feed>
