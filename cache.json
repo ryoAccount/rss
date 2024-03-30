@@ -29,6 +29,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.",
+          "link": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
+          "publishedOn": "2024-03-29T08:00:00.000Z",
+          "wordCount": 6165,
+          "title": "How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/03/the-future-of-user-research/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Based on responses from over 1,200 product professionals, Maze’s Future of User Research Report uncovers how product teams conduct research to inform decision-making and build successful products. Learn about the top three trends defining the user research industry in 2024 and beyond.",
@@ -177,21 +192,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
-          "publishedOn": "2024-02-29T10:00:00.000Z",
-          "wordCount": 4637,
-          "title": "Waiting For Spring (March 2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png"
         }
       ]
     },
@@ -200,6 +200,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Leon Noel, founder of 100Devs and head of engineering at Resilient Coders. Growing up, Leon had it drilled into him that he had to become a doctor, lawyer, or dentist. But his ambitions grew and he went on to have an",
+          "link": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
+          "publishedOn": "2024-03-29T14:10:54.000Z",
+          "wordCount": 928,
+          "title": "Leon Noel has Helped THOUSANDS of People Learn to Code [100Devs founder on freeCodeCamp Podcast #117]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/leon-noel-freecodecamp-podcast-100devs.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/",
+          "author": "Olabisi Olaoye",
+          "description": "I encountered an issue when I made a GET request in my React project which was supposed to return a file I could download. For the file to download properly, I had to make the response type a blob [https://developer.mozilla.org/en-US/docs/Web/API/Blob].  But if an error occurred when the server returns",
+          "link": "https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/",
+          "publishedOn": "2024-03-29T00:34:05.000Z",
+          "wordCount": 1081,
+          "title": "How to Extract an Error Object from a Blob API Response in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/React-form-validation--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
           "author": "Beau Carnes",
@@ -1029,76 +1049,6 @@
           "wordCount": 2842,
           "title": "How to Build A House Price Prediction Model – Linear Regression Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Final-House-Price-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/",
-          "author": "Tiago Monteiro",
-          "description": "Numerical analysis is the bridge between math and computer science.  Essentially, it is the development of algorithms that approximate solutions that pure math would also solve, but using less computational resources and faster. This field is very important. Because for most solutions in the real world, we only need",
-          "link": "https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/",
-          "publishedOn": "2024-02-29T11:41:59.000Z",
-          "wordCount": 1936,
-          "title": "How to Apply Math with Python – Numerical Analysis Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/3-5.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/",
-          "author": "Jessica Wilkins",
-          "description": "When you're working with JavaScript applications, it's common to work with arrays, nested arrays, and an array of objects. But a lot of beginners sometimes struggle with knowing how to access properties from these different data structures. In this article, we will discuss how to access properties from a variety",
-          "link": "https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/",
-          "publishedOn": "2024-02-29T00:59:30.000Z",
-          "wordCount": 1468,
-          "title": "How to Access Properties from an Array of Objects in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/david-rangel-4m7gmLNr3M0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/idempotence-explained/",
-          "author": "Daniel Adetunji",
-          "description": "Idempotence is a property of an operation that ensures that, if the operation is repeated once or more than once, you get the same result. Apply it once or more and the outcome's the same, idempotence is the name. All rhyming aside, idempotence is an important concept often used in",
-          "link": "https://www.freecodecamp.org/news/idempotence-explained/",
-          "publishedOn": "2024-02-29T00:44:58.000Z",
-          "wordCount": 1902,
-          "title": "What is Idempotence? Explained with Real-World Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/cover--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/serverless-node-js-tutorial/",
-          "author": "Beau Carnes",
-          "description": "The shift towards serverless architectures is rapidly becoming a pivotal aspect of application development. Even Node.js, which is traditionally used with servers, can be used to build a serverless application. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop serverless applications using",
-          "link": "https://www.freecodecamp.org/news/serverless-node-js-tutorial/",
-          "publishedOn": "2024-02-28T20:59:09.000Z",
-          "wordCount": 923,
-          "title": "Serverless Node.js Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/sn1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-reusable-react-components/",
-          "author": "Shahan Chowdhury",
-          "description": "What are reusable React components? You can think of them as building blocks. They are independent pieces of code that can be reused throughout your website to save you time and effort. They can be anything from simple buttons to complex forms. Why Use Reusable Components? As your website grows,",
-          "link": "https://www.freecodecamp.org/news/how-to-build-reusable-react-components/",
-          "publishedOn": "2024-02-28T19:05:07.000Z",
-          "wordCount": 1704,
-          "title": "How to Build Reusable React Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Purple-Blue-Modern-Gradient-New-Blog-Post-Emoji-Twitter-Post--1--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/",
-          "author": "David Clinton",
-          "description": "If you're going to use or work with open source resources, you'll need to understand the fine print on various classes of an open source license. Otherwise, how can you be sure you're not infringing on someone else's rights?  This article will introduce you to the big players and",
-          "link": "https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/",
-          "publishedOn": "2024-02-28T17:07:49.000Z",
-          "wordCount": 2483,
-          "title": "How Do Open Source Licenses Work? Permissive and Protective Software Licenses Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/katerina-pavlyuchkova-FQYCJSqER_0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/",
-          "author": "Gabriel Tanner",
-          "description": "The Discord API provides you with an easy tool to create and use your own bots and tools.  In this tutorial, you'll learn how you can create a basic music bot and add it to your server. The bot will be able to play, skip, and stop the music,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/",
-          "publishedOn": "2024-02-28T13:00:00.000Z",
-          "wordCount": 4421,
-          "title": "How to Create a Music Bot Using Discord.js – Step-by-Step Tutorial",
-          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/0*rFQhPUqebJY9N4Ue"
         }
       ]
     },
@@ -1466,26 +1416,6 @@
           "wordCount": 4229,
           "title": "ようこそハッキングの世界へ、自分だけのハッキング・ラボを作って好きなだけ実験しよう",
           "imageUrl": "https://codezine.jp/static/images/article/19073/19073_share.png"
-        },
-        {
-          "id": "https://testcontainers.com?s=09",
-          "author": null,
-          "description": "Testcontainers is an opensource framework for providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
-          "link": "https://testcontainers.com/?s=09",
-          "publishedOn": "2024-02-29T11:05:15.000Z",
-          "wordCount": 703,
-          "title": "Unit tests with real dependencies",
-          "imageUrl": "https://testcontainers.com//images/share-image.png"
-        },
-        {
-          "id": "https://summarize.ing/ja?s=09",
-          "author": null,
-          "description": "Summarize.ingで、AIが駆動するYouTube動画の迅速な要約を発見。1分未満でハイライト、マインドマップ、区切られた要約を得る。時間を節約し、主要内容を努力なく把握！",
-          "link": "https://summarize.ing/ja?s=09",
-          "publishedOn": "2024-02-29T10:51:32.000Z",
-          "wordCount": 1034,
-          "title": "長い動画から、もっと学び、もっと速く 少なく見るFree Forever",
-          "imageUrl": null
         }
       ]
     },
@@ -1503,6 +1433,16 @@
           "wordCount": 7160,
           "title": "【3月29日ランキング】周期性のない図形「ペンローズ・タイル」が量子コンピュータのエラーを訂正？　カナダの研究者らが発表／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fnews%2Farticles%2F2403%2F27%2Fcover_news065.jpg"
+        },
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/3?from=rss",
+          "author": null,
+          "description": "<img src=\"https://image.itmedia.co.jp/news/articles/2403/27/cover_news065.jpg\"><br>すべてカテゴリー 2024年3月のTechFeed記事月間ランキングです（日本語記事10本、英語記事10本）。<br>1位: 周期性のない図形「ペンローズ・タイル」が量子コンピュータのエラーを訂正？　カナダの研究者らが発表（www.itmedia.co.jp）<br>2位: プライベートの時間は極力削らない。Kubernetesエキスパート青山真也氏のコスパ最高な情報収集術（levtech.jp）<br>3位: Linuxでトラブルが発生したときの診断に役立つツール一覧、「事前のインストールを強く推奨」とリストの作者は語る（gigazine.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/3?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/3?from=rss",
+          "publishedOn": "2024-03-28T15:00:00.000Z",
+          "wordCount": null,
+          "title": "【3月ランキング】周期性のない図形「ペンローズ・タイル」が量子コンピュータのエラーを訂正？　カナダの研究者らが発表／ほか19本",
+          "imageUrl": null
         },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2024/3/28?from=rss",
@@ -1743,26 +1683,6 @@
           "wordCount": 7168,
           "title": "【3月1日ランキング】1ビットLLMの衝撃! 70Bで8.9倍高速　全ての推論を加算のみで!GPU不要になる可能性も／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwirelesswire.jp%2Fwp-content%2Fuploads%2F2024%2F02%2Fb03e84f3a2af1ad2e232366107633538-1024x664.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/2/29?from=rss",
-          "author": null,
-          "description": "<img src=\"https://i.gzn.jp/img/2024/02/27/apple-drop-iphone-pwa-scrutiny-eu/00_m.jpg\"><br>すべてカテゴリー 2024年2月29日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Appleの「iPhoneでのPWA廃止」についてEUの規制当局が調査を開始したとの報道（gigazine.net）<br>2位: 他人のキーボードに“1分で2万回の誤入力”をする攻撃　DoS攻撃やDeleteキー連打で妨害（www.itmedia.co.jp）<br>3位: yamlでテストシナリオを書いてそのまま実行までできるAPIテストツールの新星 “runn” を試してみた（dev.classmethod.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/2/29?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/2/29?from=rss",
-          "publishedOn": "2024-02-28T20:00:11.640Z",
-          "wordCount": 7162,
-          "title": "【2月29日ランキング】Appleの「iPhoneでのPWA廃止」についてEUの規制当局が調査を開始したとの報道／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2024%2F02%2F27%2Fapple-drop-iphone-pwa-scrutiny-eu%2F00_m.jpg"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/2?from=rss",
-          "author": null,
-          "description": "<img src=\"https://image.itmedia.co.jp/news/articles/2402/06/cover_news042.jpg\"><br>すべてカテゴリー 2024年2月のTechFeed記事月間ランキングです（日本語記事10本、英語記事10本）。<br>1位: 中国のネット監視・検閲「グレートファイアウォール」を個人で再現　オープンソース「OpenGFW」公開中（www.itmedia.co.jp）<br>2位: 全社会人が読みたい「面倒なことはChatGPTにやらせよう」（note.com）<br>3位: ウクライナ軍に入隊したアジャイルコーチが、さまざまなメソッドを駆使して中隊長としてのリーダーシップを実現した話（前編）（www.publickey1.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/2?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/2?from=rss",
-          "publishedOn": "2024-02-28T15:00:00.000Z",
-          "wordCount": null,
-          "title": "【2月ランキング】中国のネット監視・検閲「グレートファイアウォール」を個人で再現　オープンソース「OpenGFW」公開中／ほか19本",
-          "imageUrl": null
         }
       ]
     },
@@ -1777,6 +1697,16 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2024/03/29/release-gulp-v5-0-0-gulpjs-gulp/",
+          "author": null,
+          "description": "https://github.com/gulpjs/gulp/releases/tag/v5.0.0\n gulp v5.0.0リリース。\nNode.js 10.13未満のサポート終了、ストリームエンコードをUTF-8に変更、非推奨のローダーの削除。\ngulpfile.cjsとgulpfile.mjsをサポート、swc/esbuild/sucrase/mdxローダーの追加、extends構文のサポートなど",
+          "link": "https://realtime.jser.info/2024/03/29/release-gulp-v5-0-0-gulpjs-gulp/",
+          "publishedOn": "2024-03-29T08:17:35.000Z",
+          "wordCount": 51,
+          "title": "Release gulp v5.0.0 · gulpjs/gulp",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2024/03/28/javascript-amazon/",
           "author": null,
@@ -2365,16 +2295,6 @@
           "publishedOn": "2024-02-29T13:17:23.000Z",
           "wordCount": 45,
           "title": "MDN Curriculum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2024/02/29/parcel-v2-12-0/",
-          "author": null,
-          "description": "https://parceljs.org/blog/v2-12-0/\n Parcel v2.12.0リリース。\nImport Attributesを使ったmacroに対応、ブラウザ上で動作するREPLを公開、bundleにもLightning CSSを使うように変更。\nメモリ使用量を52%改善、書き込みのパフォーマンスの改善など",
-          "link": "https://realtime.jser.info/2024/02/29/parcel-v2-12-0/",
-          "publishedOn": "2024-02-29T02:54:45.000Z",
-          "wordCount": 47,
-          "title": "Parcel v2.12.0",
           "imageUrl": null
         }
       ]
