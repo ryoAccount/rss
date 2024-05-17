@@ -29,6 +29,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/beyond-css-media-queries/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Juan Diego Rodriguez explains why media queries still occupy a vital role in responsive layouts; only they are now one tool in a larger toolbox with modern techniques that are best when used together.",
+          "link": "https://smashingmagazine.com/2024/05/beyond-css-media-queries/",
+          "publishedOn": "2024-05-16T15:00:00.000Z",
+          "wordCount": 6053,
+          "title": "Beyond CSS Media Queries",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/beyond-css-media-queries/beyond-css-media-queries.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/beyond-css-media-queries/beyond-css-media-queries.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/transforming-relationship-between-designers-developers/",
           "author": "hello@smashingmagazine.com (Chris Day)",
           "description": "Is there such a thing as harmony between designers and developers in the workplace, and if so, how can it be achieved? In this article, Chris Day explores the challenges of effective collaboration, outlines the key factors at play, and (hopefully!) empowers you to find the right solutions to help you and your team deliver to their full potential.",
@@ -275,6 +290,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-join-the-freecodecamp-discord-server-and-chat-with-fellow-campers/",
+          "author": "Quincy Larson",
+          "description": "freeCodeCamp runs a popular Discord community where we hang out and chat about technology. You can join in the fun and learn from fellow campers who are going through freeCodeCamp's core curriculum. You can use this link: https://discord.com/invite/f...",
+          "link": "https://www.freecodecamp.org/news/how-to-join-the-freecodecamp-discord-server-and-chat-with-fellow-campers/",
+          "publishedOn": "2024-05-16T21:13:29.000Z",
+          "wordCount": 733,
+          "title": "How to Join the freeCodeCamp Discord Server and Chat with Fellow Campers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715893958266/2a5fa416-1c34-4672-80d3-dbaf209c3079.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-an-image-lightbox/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article, I'll show you two ways to create a lightbox effect in a spreadsheet. The first will trigger the image to be displayed in a large area in the sheet. The second will be an actual HTML popup on top of the sheet. If you want to follow",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-image-lightbox/",
+          "publishedOn": "2024-05-16T10:17:53.000Z",
+          "wordCount": 1742,
+          "title": "How to Create a Pop-up Image in Your Spreadsheet",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Lightbox-2-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-the-algorithms-behind-quantum-computing/",
           "author": "Beau Carnes",
@@ -1064,66 +1099,6 @@
           "wordCount": 1595,
           "title": "C Print String – How to Print a String in C",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Hcfwew744z4/upload/73cd11d4c62fcaa9d6fa85514d7cb732.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/",
-          "author": "Joan Ayebola",
-          "description": "In React, there are two primary ways to create components: function and class components. Each has its own syntax and use cases, although with the introduction of React Hooks, the gap between them has narrowed significantly. But the selection of appropriate component types is still very crucial for building efficient",
-          "link": "https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/",
-          "publishedOn": "2024-04-16T22:37:11.000Z",
-          "wordCount": 3998,
-          "title": "Function Components vs Class Components in React – With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/applied-data-science-a-b-testing/",
-          "author": "Beau Carnes",
-          "description": "A/B testing is a key technique used in data science for making data-driven decisions in business. We just published a course on the freeCodeCamp.org YouTube channel that will tech you this important data science technique. Developed by Tatev, a seaso...",
-          "link": "https://www.freecodecamp.org/news/applied-data-science-a-b-testing/",
-          "publishedOn": "2024-04-16T20:53:54.000Z",
-          "wordCount": 905,
-          "title": "Applied Data Science: A / B Testing",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713300810848/fe87abbf-4f7e-4e67-8fdd-c995328a6994.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/",
-          "author": "Beau Carnes",
-          "description": "DigitalOcean is a cloud infrastructure provider that offers developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers. We just posted a course on the freeCodeCamp.org YouTube channel that will ...",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/",
-          "publishedOn": "2024-04-16T20:42:51.000Z",
-          "wordCount": 830,
-          "title": "Learn how to deploy to Digital Ocean",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713300046751/a2c9ed82-8ff1-476f-90a1-2821b90ff3a3.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/",
-          "author": "Ihechikara Abba",
-          "description": "You can use bytes in Python to represent data in binary form. In this article, you'll learn how to convert bytes to a string, and vice versa. Before we look at the conversions, let's talk about how bytes work in Python. You can skip to the next secti...",
-          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/",
-          "publishedOn": "2024-04-16T20:07:39.000Z",
-          "wordCount": 1086,
-          "title": "Python Bytes to String – How to Convert a Str to Bytes and Back Again",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zGuBURGGmdY/upload/6d5b13a8926b01576cba45ee0d72bfc8.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/",
-          "author": "Anshul Sanghi",
-          "description": "Star detection is a crucial step in many of the processing and analysis routines that we perform on astronomical images. It is extremely important for a process called plate-solving, which is the process of figuring out which part of the sky an image shows, or which part of the sky",
-          "link": "https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/",
-          "publishedOn": "2024-04-16T19:34:07.000Z",
-          "wordCount": 4683,
-          "title": "Rust Tutorial – How to Build a Naïve Star Detector for Images",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/",
-          "author": "Dionysia Lemonaki",
-          "description": "When working with strings in C, you need to know how to find their length. Finding the length of a string in C is essential for many reasons. You may need to perform string manipulation, and many string manipulation functions require the length of th...",
-          "link": "https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/",
-          "publishedOn": "2024-04-16T15:00:09.000Z",
-          "wordCount": 1558,
-          "title": "Length of C String – How to Find the Size of a String in C",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JfhNqZtV56s/upload/0d58732b5a311298756b16ad3540b820.jpeg"
         }
       ]
     },
@@ -1489,6 +1464,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/5/17?from=rss",
+          "author": null,
+          "description": "<img src=\"https://forest.watch.impress.co.jp/img/wf/list/1591/499/vmware.jpg\"><br>すべてカテゴリー 2024年5月17日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 約3万円の「VMware Workstation Pro」が無償化 ～個人利用で、Mac向け「Fusion」も／「VMware Workstation/Fusion Player」は販売終了（forest.watch.impress.co.jp）<br>2位: 「Git」に深刻度「Critical」の脆弱性 ～「Git for Windows 2.45.1」などが公開／リモートコード実行などにつながるおそれ（forest.watch.impress.co.jp）<br>3位: 無料なのに高機能、カメラアプリ「Blackmagic Camera」のAndroid版を見てきた　対応スマホは？（www.itmedia.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/5/17?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/5/17?from=rss",
+          "publishedOn": "2024-05-16T20:00:09.281Z",
+          "wordCount": 7180,
+          "title": "【5月17日ランキング】約3万円の「VMware Workstation Pro」が無償化 ～個人利用で、Mac向け「Fusion」も／「VMware Workstation/Fusion Player」は販売終了／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1591%2F499%2Fvmware.jpg"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2024/5/16?from=rss",
           "author": null,
@@ -1908,66 +1893,6 @@
           "wordCount": 7163,
           "title": "【4月18日ランキング】「PuTTY」に秘密鍵が復元できてしまう深刻な脆弱性 ～「WinSCP」など他ツールにも影響／v0.81への更新と鍵の再生成を／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1584%2F589%2Fputty.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/661ccf81df694e5aedbbb1b0?from=rss",
-          "author": null,
-          "description": "こんにちは、テックフィード白石です。\n本日、「[TechFeed Advance](https://techfeed.io/advance)」という新しいテクノロジーメディアを立ち上げました🎉",
-          "link": "https://techfeed.io/entries/661ccf81df694e5aedbbb1b0?from=rss",
-          "publishedOn": "2024-04-17T01:42:45.187Z",
-          "wordCount": 7201,
-          "title": "ニッチを恐れず、マニアックを愛す。新テクノロジーメディア「TechFeed Advance」始動します。",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/gheojkicsojyebo5h6ig.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6617896963e6d97025a74265?from=rss",
-          "author": null,
-          "description": "日本のエンジニア界隈をリードするエキスパートに、テクノロジーの最前線を語っていただくYouTube動画連載「Ask the Expert」の新着動画が公開されました！今回は、Webアクセシビリティのエキスパート木達一仁さんに、Webアクセシビリティの最新動向について詳しく伺ってきました。",
-          "link": "https://techfeed.io/entries/6617896963e6d97025a74265?from=rss",
-          "publishedOn": "2024-04-17T01:30:00.000Z",
-          "wordCount": 7269,
-          "title": "WCAG 3.0は「ぶっとぶ感じ」 ー Webアクセシビリティの最新動向を、木達一仁さんに聞いてきた！",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/w7l1kdkx8py7lc40lbia.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/661a1ed063e6d97025a896d0?from=rss",
-          "author": null,
-          "description": "日本のエンジニア界隈をリードするエキスパートに、テクノロジーの最前線を語っていただくYouTube動画連載「Ask the Expert」の新着動画が公開されました！今回は、WebAssemblyのエキスパートchikoskiさんに、WebAssemblyの最新動向について詳しく伺ってきました。",
-          "link": "https://techfeed.io/entries/661a1ed063e6d97025a896d0?from=rss",
-          "publishedOn": "2024-04-17T01:30:00.000Z",
-          "wordCount": 7249,
-          "title": "Wasmコンポーネントモデル、完成間近！WebAssemblyの最新動向についてchikoskiさんに聞いてきた！",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/pseouqwzzk4rugzywzau.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/661a25e363e6d97025a897dd?from=rss",
-          "author": null,
-          "description": "",
-          "link": "https://techfeed.io/entries/661a25e363e6d97025a897dd?from=rss",
-          "publishedOn": "2024-04-17T01:30:00.000Z",
-          "wordCount": 7222,
-          "title": "php-mode開発者が語るEmacs最新動向！うさみけんたさん（tadsan）にインタビューしたら面白すぎた",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/mzexqo9tqqnrz7wgapfj.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/661cf76527b69f7f3d8ab95d?from=rss",
-          "author": null,
-          "description": "日本のエンジニア界隈をリードするエキスパートに、テクノロジーの最前線を語っていただくYouTube動画連載「Ask the Expert」の新着動画が公開されました！今回は、フロントエンドのエキスパートmizchiさんに、フロントエンドの最新動向について詳しく伺ってきました。",
-          "link": "https://techfeed.io/entries/661cf76527b69f7f3d8ab95d?from=rss",
-          "publishedOn": "2024-04-17T01:30:00.000Z",
-          "wordCount": 7244,
-          "title": "React Server Component、そしてqwikのインパクト ー フロントエンドアーキテクチャの最新動向をmizchiさんに聞いてきた(1)",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/d0qcxqtje0vtatmeua66.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/4/17?from=rss",
-          "author": null,
-          "description": "<img src=\"https://forest.watch.impress.co.jp/img/wf/list/1584/589/putty.jpg\"><br>すべてカテゴリー 2024年4月17日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 「PuTTY」に秘密鍵が復元できてしまう深刻な脆弱性 ～「WinSCP」など他ツールにも影響／v0.81への更新と鍵の再生成を（forest.watch.impress.co.jp）<br>2位: なぜ我々は GitHub Copilot Enterprise の導入を見送ったのか（user-first.ikyu.co.jp）<br>3位: OpenAI、GPT-4の「日本語特化モデル」発表--処理速度3倍に（japan.cnet.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/4/17?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/4/17?from=rss",
-          "publishedOn": "2024-04-16T20:00:09.127Z",
-          "wordCount": 7166,
-          "title": "【4月17日ランキング】「PuTTY」に秘密鍵が復元できてしまう深刻な脆弱性 ～「WinSCP」など他ツールにも影響／v0.81への更新と鍵の再生成を／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F1584%2F589%2Fputty.jpg"
         }
       ]
     },
@@ -1982,6 +1907,26 @@
       "feedUrl": "https://realtime.jser.info/feed",
       "siteUrl": "https://realtime.jser.info/",
       "articles": [
+        {
+          "id": "https://realtime.jser.info/2024/05/17/node-js-node-v22-2-0-current/",
+          "author": null,
+          "description": "https://nodejs.org/en/blog/release/v22.2.0\n Node.js v22.2.0リリース。\nfs.globがwithFileTypesをサポート、--inspect-wait=host:portをサポート、--experimental-policyを削除。\nnode:testにtest.planメソッドの追加など",
+          "link": "https://realtime.jser.info/2024/05/17/node-js-node-v22-2-0-current/",
+          "publishedOn": "2024-05-16T15:05:04.000Z",
+          "wordCount": 50,
+          "title": "Node.js — Node v22.2.0 (Current)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://realtime.jser.info/2024/05/16/web-platform-status/",
+          "author": null,
+          "description": "https://webstatus.dev/\n ウェブプラットフォームのブラウザのステータスをまとめてるページ。\n機能ごとのブラウザサポートの表示、検索などができる",
+          "link": "https://realtime.jser.info/2024/05/16/web-platform-status/",
+          "publishedOn": "2024-05-16T07:01:22.000Z",
+          "wordCount": 44,
+          "title": "Web Platform Status",
+          "imageUrl": null
+        },
         {
           "id": "https://realtime.jser.info/2024/05/16/angular-17-update-control-flow-app-builder-migration-angulararchitects/",
           "author": null,
@@ -2530,26 +2475,6 @@
           "publishedOn": "2024-04-17T14:10:20.000Z",
           "wordCount": 51,
           "title": "Bun v1.1.4 | Bun Blog",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2024/04/17/panda-css-the-origin-story-segun-adebayo/",
-          "author": null,
-          "description": "https://www.adebayosegun.com/blog/panda-css-the-origin-story\n Panda CSSがなぜ作られたのかについての話。\nChakra UIでCSSのパフォーマンスを向上する試みから、Vanilla ExtractでPoCを作成し、そこから同じ試みをしてるBox Extractorの作者と作業をマージして進めていった。\nPark UIやビデオチュートリアルの作成、名前をPandaにした話などについて",
-          "link": "https://realtime.jser.info/2024/04/17/panda-css-the-origin-story-segun-adebayo/",
-          "publishedOn": "2024-04-17T03:32:56.000Z",
-          "wordCount": 64,
-          "title": "Panda CSS - The Origin Story - Segun Adebayo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2024/04/16/release-v9-0-0-pnpm-pnpm/",
-          "author": null,
-          "description": "https://github.com/pnpm/pnpm/releases/tag/v9.0.0\n pnpm v9.0.0リリース。\nNode.js 16のサポート終了。\nmonorepo内のバージョン指定でのlinkをするlink-workspace-packagesをfalseに変更、pre/post scriptをデフォルトで実行するように変更。\nロックファイルのバージョンをv9に変更、Gitリポジトリのサブディレクトリのみをインストールできるように。",
-          "link": "https://realtime.jser.info/2024/04/16/release-v9-0-0-pnpm-pnpm/",
-          "publishedOn": "2024-04-16T13:54:46.000Z",
-          "wordCount": 51,
-          "title": "Release v9.0.0 · pnpm/pnpm",
           "imageUrl": null
         }
       ]
