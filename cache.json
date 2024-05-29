@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Application frameworks have built whole ecosystems on top of them. Let’s take a closer look at serverless platforms such as Netlify’s [Platform Primitives](https://www.netlify.com/platform/primitives) and explore how they can increase our productivity with a serverless fullstack experience.",
+          "link": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
+          "publishedOn": "2024-05-28T12:00:00.000Z",
+          "wordCount": 4139,
+          "title": "The Era Of Platform Primitives Is Finally Here",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/netlify-platform-primitives/netlify-platform-primitives.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/netlify-platform-primitives/netlify-platform-primitives.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/",
           "author": "hello@smashingmagazine.com (Daniel Yuschick)",
           "description": "After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.",
@@ -264,6 +279,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/",
+          "author": "Beau Carnes",
+          "description": "Linear algebra is a useful skill for professionals in data science, machine learning, and AI. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you linear algebra. This crash course spans just over 6 hours and is a great...",
+          "link": "https://www.freecodecamp.org/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/",
+          "publishedOn": "2024-05-28T20:32:00.000Z",
+          "wordCount": 867,
+          "title": "Linear Algebra Crash Course - Mathematics for Machine Learning and Generative AI",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-eks-cluster-using-aws-local-zones-with-aws-cdk/",
+          "author": "Gursimar Singh",
+          "description": "AWS Local Zones are a new type of infrastructure that enables you to build and run applications closer to end-users, providing low latency and improved performance.  They are designed to provide the same high availability and reliability as an AWS Region, but with the added benefit of low-latency connections",
+          "link": "https://www.freecodecamp.org/news/build-an-eks-cluster-using-aws-local-zones-with-aws-cdk/",
+          "publishedOn": "2024-05-28T14:34:30.000Z",
+          "wordCount": 1608,
+          "title": "How to Build an EKS Cluster Across AWS Local Zones using the AWS CDK",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/pexels-pixabay-357742.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linear-regression-vs-logistic-regression/",
+          "author": "Oluwadamisi Samuel Praise",
+          "description": "Regression models identify trends in a dataset and predict outcomes based on the trends they have analyzed and identified.  Linear and Logistic Regression are two types of regression models that are similar but carry out their functions in distinct ways. They're also two fundamental techniques in machine learning that",
+          "link": "https://www.freecodecamp.org/news/linear-regression-vs-logistic-regression/",
+          "publishedOn": "2024-05-28T13:02:08.000Z",
+          "wordCount": 1712,
+          "title": "Linear vs Logistic Regression:  How to Choose the Right Regression Model for Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Linear-vs-Logistic-Regession.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-19-new-hooks-explained-with-examples/",
+          "author": "Kunal Nalawade",
+          "description": "Hi fellow readers! Web Development is a constantly evolving landscape. The whole ecosystem consists of different libraries and technologies. React is one of the most widely used libraries in web development.  There are small releases every now and then. However, this year, the React team has made a significant",
+          "link": "https://www.freecodecamp.org/news/react-19-new-hooks-explained-with-examples/",
+          "publishedOn": "2024-05-28T12:56:51.000Z",
+          "wordCount": 2473,
+          "title": "React 19 – New Hooks Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/thumb.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-guide-to-the-node-js-event-loop/",
+          "author": "Musab Habeeb",
+          "description": "Node.js is an open-source JavaScript runtime environment that allows you to run JavaScript outside the browser. Although Node.js is single-threaded, it has an event loop that makes it multi-threaded. The Node.js event loop is a crucial mechanism in Node.js that makes Node.js programs run concurrently and asynchronously. Mastering the Node.js",
+          "link": "https://www.freecodecamp.org/news/a-guide-to-the-node-js-event-loop/",
+          "publishedOn": "2024-05-28T07:00:35.000Z",
+          "wordCount": 2566,
+          "title": "A Guide to the Node.js Event Loop",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Node.js-event-loop.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-manipulate-strings-in-javascript/",
           "author": "Eric Hu",
@@ -1399,6 +1464,26 @@
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
         {
+          "id": "https://techfeed.io/entries/66566bd7d3929235610fbffc?from=rss",
+          "author": null,
+          "description": "5月29日、オンラインマーケティングプラットフォームの[SparkToro](https://sparktoro.com/)のブログにおいて[Rand Fishkin](https://sparktoro.com/blog/author/rand/)が伝えるところによると、Googleから大量の内部ドキュメントが漏洩したという。",
+          "link": "https://techfeed.io/entries/66566bd7d3929235610fbffc?from=rss",
+          "publishedOn": "2024-05-28T23:44:09.126Z",
+          "wordCount": 7242,
+          "title": "Googleから内部文書が大量流出か、SEO等に影響する可能性 ー Chromeはクリックデータ収集目的で開発された？",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/y9cjyc1ll15zh6tjg5qd.png"
+        },
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/5/29?from=rss",
+          "author": null,
+          "description": "<img src=\"https://image.itmedia.co.jp/nl/articles/2405/27/cover_news062.jpg\"><br>すべてカテゴリー 2024年5月29日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 情報セキュリティコメディアニメ「こうしす！」地上波で放送！　ITエンジニアが監督・脚本（nlab.itmedia.co.jp）<br>2位: 画像生成AIに照明革命　日本と世界で同時に“神ツール”登場 (1/3)（ascii.jp）<br>3位: 他人事と思わずにチェックを！　Wi-Fiルーターの「ボット感染」対策で今やることのまとめ（internet.watch.impress.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/5/29?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/5/29?from=rss",
+          "publishedOn": "2024-05-28T20:00:09.637Z",
+          "wordCount": 7172,
+          "title": "【5月29日ランキング】情報セキュリティコメディアニメ「こうしす！」地上波で放送！　ITエンジニアが監督・脚本／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimage.itmedia.co.jp%2Fnl%2Farticles%2F2405%2F27%2Fcover_news062.jpg"
+        },
+        {
           "id": "https://techfeed.io/categories/all/selections/daily/2024/5/28?from=rss",
           "author": null,
           "description": "<img src=\"https://ascii.jp/img/2024/05/27/3738073/xl/349a4201ec97b992.jpg?20200122\"><br>すべてカテゴリー 2024年5月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 画像生成AIに照明革命　日本と世界で同時に“神ツール”登場 (1/3)（ascii.jp）<br>2位: ブロードコムのVMware買収の影響がパブリッククラウドに波及、AWSに異変（xtech.nikkei.com）<br>3位: awslim - Goで実装された高速なAWS CLIの代替品を作った - 酒日記 はてな支店（sfujiwara.hatenablog.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/5/28?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
@@ -1757,16 +1842,6 @@
           "wordCount": null,
           "title": "【4月ランキング】CAT6A準拠を名乗るフラットLANケーブル←こいつゴミです／ほか19本",
           "imageUrl": null
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/4/29?from=rss",
-          "author": null,
-          "description": "<img src=\"https://i.gzn.jp/img/2024/04/27/meta-lost-1-billion-every-month-vr/00_m.jpg\"><br>すべてカテゴリー 2024年4月29日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Metaは2022年6月以降VR部門で毎月1600億円もの損失を記録している（gigazine.net）<br>2位: スマホのバッテリー切れでもSuicaで改札通過できる？　iPhoneで検証してみた（www.itmedia.co.jp）<br>3位: 【Ubuntu日和】 【第50回】2年ぶりのLTSであるUbuntu 24.04 LTSがリリースされた！変更点をご紹介！（pc.watch.impress.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/4/29?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/4/29?from=rss",
-          "publishedOn": "2024-04-28T20:00:16.604Z",
-          "wordCount": 7165,
-          "title": "【4月29日ランキング】Metaは2022年6月以降VR部門で毎月1600億円もの損失を記録している／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fi.gzn.jp%2Fimg%2F2024%2F04%2F27%2Fmeta-lost-1-billion-every-month-vr%2F00_m.jpg"
         }
       ]
     },
@@ -2329,16 +2404,6 @@
           "publishedOn": "2024-04-30T14:51:02.000Z",
           "wordCount": 67,
           "title": "MoonBit adds JS backend, up to 25x faster than native JS | MoonBit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realtime.jser.info/2024/04/29/bun-v1-1-6-bun-blog/",
-          "author": null,
-          "description": "https://bun.sh/blog/bun-v1.1.6\n Bun v1.1.6リリース。\nUDP Socketsのサポート、node:dgramをサポート、dd-traceや@clickhouse/clientなどが動作するようにバグ修正など",
-          "link": "https://realtime.jser.info/2024/04/29/bun-v1-1-6-bun-blog/",
-          "publishedOn": "2024-04-29T04:19:31.000Z",
-          "wordCount": 50,
-          "title": "Bun v1.1.6 | Bun Blog",
           "imageUrl": null
         }
       ]
