@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/decision-trees-ui-components/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Imagine finally resolving never-ending discussions about UI decisions for good. Here are some practical examples of decision trees for UI components and how to use them effectively. An upcoming part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
+          "link": "https://smashingmagazine.com/2024/05/decision-trees-ui-components/",
+          "publishedOn": "2024-05-29T18:00:00.000Z",
+          "wordCount": 3646,
+          "title": "Decision Trees For UI Components",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/decision-trees-ui-components/decision-trees-for-ui-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/decision-trees-ui-components/decision-trees-for-ui-components.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
           "description": "Application frameworks have built whole ecosystems on top of them. Let’s take a closer look at serverless platforms such as Netlify’s [Platform Primitives](https://www.netlify.com/platform/primitives) and explore how they can increase our productivity with a serverless fullstack experience.",
@@ -256,21 +271,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
-          "author": "hello@smashingmagazine.com (Yaakov Karda)",
-          "description": "Business acquisitions are common but often shrouded in mystery because they happen behind closed doors. In this article, Yaakov details the story of his company and the journey it took him on, shedding light on the process of selling a business and what he learned from the experience.",
-          "link": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
-          "publishedOn": "2024-04-29T15:00:00.000Z",
-          "wordCount": 5725,
-          "title": "Lessons Learned After Selling My Startup",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg"
         }
       ]
     },
@@ -279,6 +279,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-do-numerical-conversions-work/",
+          "author": "Zaira Hira",
+          "description": "Computers perform complex calculations when carrying out their assigned tasks. At the very core, the calculations boil down to operations like comparisons, assignments, and addition. Have you ever wondered how they are performed under the hood and wh...",
+          "link": "https://www.freecodecamp.org/news/how-do-numerical-conversions-work/",
+          "publishedOn": "2024-05-29T19:56:06.000Z",
+          "wordCount": 2611,
+          "title": "How Do Numerical Conversions Work in Computer Systems? Explained With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715271341530/60608a00-2e63-434e-91e8-c766b171f6f7.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rust-tutorial-build-a-json-parser/",
+          "author": "Anshul Sanghi",
+          "description": "Iterators and match patterns are two of the most used language features in Rust. If you have written any real world application, big or small, chances are that you've already used these, whether knowingly or unknowingly. In this tutorial, I aim to help you understand how they actually work, the",
+          "link": "https://www.freecodecamp.org/news/rust-tutorial-build-a-json-parser/",
+          "publishedOn": "2024-05-29T10:45:15.000Z",
+          "wordCount": 8880,
+          "title": "Rust Tutorial – Learn Advanced Iterators & Pattern Matching by Building a JSON Parser",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/JSON-Parser-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/",
           "author": "Beau Carnes",
@@ -1068,36 +1088,6 @@
           "wordCount": 994,
           "title": "What's the difference between React and Next.js?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714495637003/ca50d0ff-a937-438a-b29b-c89a062a1e05.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/",
-          "author": "Beau Carnes",
-          "description": "Adding AI to your applications can open up a bunch of great features and uses. We just posted a course on the freeCodeCamp.org YouTube channel that will introduce you to AI Engineering using the OpenAI API and JavaScript. Created by expert Scrimba in...",
-          "link": "https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/",
-          "publishedOn": "2024-04-29T15:34:42.000Z",
-          "wordCount": 826,
-          "title": "Learn AI Engineering with OpenAI and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714404872214/e224cfe5-ba9e-4568-abf2-fd89f918cc49.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/",
-          "author": "Jakub T. Jankiewicz",
-          "description": "In this article, you will learn how to create an interactive terminal-based portfolio and resume in JavaScript. We'll use the jQuery Terminal library [https://terminal.jcubic.pl/] (and a few other tools) to create a website that looks like a real terminal. This article will show more advanced usage of the jQuery Terminal",
-          "link": "https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/",
-          "publishedOn": "2024-04-29T14:49:54.000Z",
-          "wordCount": 4576,
-          "title": "How to Create an Interactive Terminal-Based Portfolio Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Przechwycenie-obrazu-ekranu_2024-04-27_15-51-08.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/",
-          "author": "Alexandru Paduraru",
-          "description": "Login pages are like the front doors to our web apps. They should be inviting, easy to use, and safe. If you're looking to create one that combines both style and function, you're in the right place. In this guide, we'll explore how to build a login page with Material",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/",
-          "publishedOn": "2024-04-29T14:21:00.000Z",
-          "wordCount": 5519,
-          "title": "How to Build a Login Page with the Material Tailwind Framework – Step by Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/how-to-build-a-login-page-with-the-material-tailwind-framework-1.jpg"
         }
       ]
     },
@@ -1464,6 +1454,26 @@
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
         {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/5/30?from=rss",
+          "author": null,
+          "description": "<img src=\"https://pc.watch.impress.co.jp/img/pcw/list/1594/733/image.jpg\"><br>すべてカテゴリー 2024年5月30日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 【特集】 知っ得！企業トップのAI活用法。日本マイクロソフト社長のCopilotの使い方がすごく勉強になる（pc.watch.impress.co.jp）<br>2位: Googleの検索アルゴリズムの内部資料が漏洩か？「SEO業界で長年疑われていたものが明らかに」（togetter.com）<br>3位: 「ChatGPT」「Copilot」「Gemini」「Claude」「Perplexity」の性能を日常的な会話で評価した結果が公開される（gigazine.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/5/30?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/5/30?from=rss",
+          "publishedOn": "2024-05-29T20:00:09.886Z",
+          "wordCount": 7169,
+          "title": "【5月30日ランキング】【特集】 知っ得！企業トップのAI活用法。日本マイクロソフト社長のCopilotの使い方がすごく勉強になる／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F1594%2F733%2Fimage.jpg"
+        },
+        {
+          "id": "https://techfeed.io/entries/6649f3fafa8369255e522dee?from=rss",
+          "author": null,
+          "description": "この1年にVue.jsで行われたアップデートやリリース状況と、Vue.jsの今後について話します。",
+          "link": "https://techfeed.io/entries/6649f3fafa8369255e522dee?from=rss",
+          "publishedOn": "2024-05-29T04:14:45.030Z",
+          "wordCount": 7292,
+          "title": "Vue.js最新動向 by @kazupon — TechFeed Experts Night#27 〜 フロントエンドフレームワーク最前線",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/bli4ct6qdi5bl4p01zmj.png"
+        },
+        {
           "id": "https://techfeed.io/entries/66566bd7d3929235610fbffc?from=rss",
           "author": null,
           "description": "5月29日、オンラインマーケティングプラットフォームの[SparkToro](https://sparktoro.com/)のブログにおいて[Rand Fishkin](https://sparktoro.com/blog/author/rand/)が伝えるところによると、Googleから大量の内部ドキュメントが漏洩したという。",
@@ -1822,26 +1832,6 @@
           "wordCount": 7165,
           "title": "【5月1日ランキング】Proxmox VE 8.1で標準搭載になったSDNを試す〜EVPNゾーンを使って仮想マシン間で通信させてみた【イニシャルB】／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F1585%2F271%2F001.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/4/30?from=rss",
-          "author": null,
-          "description": "<img src=\"https://img.logmi.jp/article_images/WxeGvpJhUzyXVex6okAmEL.jpg\"><br>すべてカテゴリー 2024年4月30日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: まつもとゆきひろ氏がソフトウェア開発に役立つ2冊の書籍を紹介　『失敗の科学』と『APIデザインケーススタディ』から学べること（logmi.jp）<br>2位: 生成AIのポテンシャルを解き放つ鍵　“3ディメンジョン・モデル”で業界のエコシステムを変えていく（logmi.jp）<br>3位: 漫画家の絵柄、AIでそっくり再現「ピュアモデルAI」ができたワケ (1/3)（ascii.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/4/30?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/4/30?from=rss",
-          "publishedOn": "2024-04-29T20:00:09.676Z",
-          "wordCount": 7164,
-          "title": "【4月30日ランキング】まつもとゆきひろ氏がソフトウェア開発に役立つ2冊の書籍を紹介　『失敗の科学』と『APIデザインケーススタディ』から学べること／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fimg.logmi.jp%2Farticle_images%2FWxeGvpJhUzyXVex6okAmEL.jpg"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/4?from=rss",
-          "author": null,
-          "description": "<img src=\"https://anond.hatelabo.jp/images/og-image-1500.gif\"><br>すべてカテゴリー 2024年4月のTechFeed記事月間ランキングです（日本語記事10本、英語記事10本）。<br>1位: CAT6A準拠を名乗るフラットLANケーブル←こいつゴミです（anond.hatelabo.jp）<br>2位: AI検索「Perplexity」がかなり便利だったので紹介します (1/5)（ascii.jp）<br>3位: JavaScriptパッケージシステム「npm」は巨大なバグを抱えていると指摘し、新たなパッケージシステムを開発する「vlt」。npm作者らの参加を発表（www.publickey1.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/4?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/4?from=rss",
-          "publishedOn": "2024-04-29T15:00:00.000Z",
-          "wordCount": null,
-          "title": "【4月ランキング】CAT6A準拠を名乗るフラットLANケーブル←こいつゴミです／ほか19本",
-          "imageUrl": null
         }
       ]
     },
