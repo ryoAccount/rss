@@ -120,16 +120,6 @@
           "wordCount": 1213,
           "title": "Untitled",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378946"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378111",
-          "author": "Geoff Graham",
-          "description": "The main idea of CSS Container Queries is to register an element as a “container” and apply styles to other elements when the container element meets certain conditions. \nCSS Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-container-queries/",
-          "publishedOn": "2024-06-10T16:12:50.000Z",
-          "wordCount": 3764,
-          "title": "CSS Container Queries",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378111"
         }
       ]
     },
@@ -138,6 +128,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/07/designing-sustainable-e-commerce-experiences/",
+          "author": "hello@smashingmagazine.com (Anna Rátkai)",
+          "description": "Today, UX design contributes to the problem of excessive consumption through persuasive e-commerce practices and designing for companies with linear and exploitative business models. Anna Rátkai explores practical steps we can take to reduce material consumption and the massive environmental impact that comes along with it by designing mindful shopping experiences.",
+          "link": "https://smashingmagazine.com/2024/07/designing-sustainable-e-commerce-experiences/",
+          "publishedOn": "2024-07-10T13:00:00.000Z",
+          "wordCount": 5404,
+          "title": "When Friction Is A Good Thing: Designing Sustainable E-Commerce Experiences",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-sustainable-e-commerce-experiences/designing-sustainable-e-commerce-experiences.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-sustainable-e-commerce-experiences/designing-sustainable-e-commerce-experiences.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -340,6 +345,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-upgrade-node-and-jest-while-on-react-scripts-v4/",
+          "author": "Harsh Deep",
+          "description": "Recently, I was trying to upgrade some of my open source projects [https://github.com/classtranscribe/FrontEnd/]. They were made using  create-react-app [https://github.com/facebook/create-react-app] around 2019, and I wanted to upgrade to a newer version of NodeJS and Jest. This would let me take advantage of the security updates, bug fixes, speed improvements, and",
+          "link": "https://www.freecodecamp.org/news/how-to-upgrade-node-and-jest-while-on-react-scripts-v4/",
+          "publishedOn": "2024-07-10T19:35:36.000Z",
+          "wordCount": 4715,
+          "title": "How to Upgrade from Node 16 and Jest 26 While Staying on React Scripts 4",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/image0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-does-cpu-work-internally/",
+          "author": "Tiago Monteiro",
+          "description": "The CPU (Central Process Unit) is the brain of a computer, and the main connection between software and hardware. It makes it possible to operate software on hardware. However, how does it work in deep detail? And how can it connect programs to certain computer hardware? This article aims to",
+          "link": "https://www.freecodecamp.org/news/how-does-cpu-work-internally/",
+          "publishedOn": "2024-07-10T19:14:05.000Z",
+          "wordCount": 2754,
+          "title": "How Does a CPU Work Internally? From Transistors to Instruction Set Architecture",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-python-generators/",
+          "author": "Rochdi Khalid",
+          "description": "Python generators are a powerful feature that allow lazy iteration through a sequence of values. They produce items one at a time and only when needed, which makes them the best choice for working with large datasets or streams of data where it would be inefficient and impractical to load",
+          "link": "https://www.freecodecamp.org/news/how-to-use-python-generators/",
+          "publishedOn": "2024-07-10T19:05:55.000Z",
+          "wordCount": 1764,
+          "title": "How to Use Python Generators – Explained With Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/SERIE-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-send-http-requests-using-javascript/",
+          "author": "Eric Hu",
+          "description": "Nowadays, the interaction between web applications relies on HTTP [/news/what-is-http/]. For instance, let's say you have an online shop application and you want to create a new product. You have to fill in all the necessary information and probably click on a button that says \"Create\". This action will send",
+          "link": "https://www.freecodecamp.org/news/how-to-send-http-requests-using-javascript/",
+          "publishedOn": "2024-07-10T17:06:03.000Z",
+          "wordCount": 2327,
+          "title": "How to Send HTTP Requests Using JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/js-http.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/",
+          "author": "Ankur Tyagi",
+          "description": "Full stack development is constantly evolving, with new developer tools and products being introduced that allow us to build secure and reliable applications more efficiently. In this tutorial, I’ll walk you through how to build highly performant web applications with Neon – a serverless PostgreSQL [https://neon.tech] database designed for the",
+          "link": "https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/",
+          "publishedOn": "2024-07-10T15:31:12.000Z",
+          "wordCount": 3856,
+          "title": "Full Stack Development with Next.js, Clerk, and Neon Postgres",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Orange---Yellow-Gradient-Make-Design-Blog-Banner--77-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-counter-button-with-react/",
+          "author": "Devin Lane",
+          "description": "How can you keep track of the number of times a user clicks a button? How are the hearts on Instagram or the likes on Facebook counted?  In this tutorial, we will build a button that tracks the number of times a button has been clicked. Along the way,",
+          "link": "https://www.freecodecamp.org/news/build-a-counter-button-with-react/",
+          "publishedOn": "2024-07-10T14:41:14.000Z",
+          "wordCount": 5450,
+          "title": "How to Build a Counter Button with React, TailwindCSS, and TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Build-a-counter-button-with-React-6-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-python-sdk-to-build-a-web-scraper/",
+          "author": "Jess Wilk",
+          "description": "What is Web scraping? Web scraping is a technique used to collect large amounts of data automatically using a programming script. This makes it useful for many professionals such as data analysts, market researchers, SEO specialists, business analysts, and academic researchers. What You'll Learn Here Python provides two libraries, Requests",
+          "link": "https://www.freecodecamp.org/news/use-python-sdk-to-build-a-web-scraper/",
+          "publishedOn": "2024-07-10T13:11:06.000Z",
+          "wordCount": 2233,
+          "title": "How to Use the Python SDK to Build Your Own Web Scraper",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/improve-user-experience-with-optimistic-ui-swr/",
+          "author": "Jaja Ibifubara David",
+          "description": "Have you ever noticed how some apps feel like they can read your mind? You click a button, and before you can even blink, it's done – no loading screens, no waiting around. It's like magic, right? Well, let me tell you a little secret: that's the power of Optimistic",
+          "link": "https://www.freecodecamp.org/news/improve-user-experience-with-optimistic-ui-swr/",
+          "publishedOn": "2024-07-09T22:33:50.000Z",
+          "wordCount": 4704,
+          "title": "How to Improve User Experience with Optimistic UI and SWR",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Article-cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification/",
           "author": "Beau Carnes",
@@ -939,26 +1024,6 @@
           "wordCount": 957,
           "title": "Learn Python for Data Science – Hands-on Projects with EDA, AB Testing & Business Intelligence",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718118785701/723c13b4-5b52-4cf7-9921-f65bbd837507.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/",
-          "author": "Daniel Kehoe",
-          "description": "Python's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled \"How to Install Python on a Mac [/news/how-to-install-python-on-a-mac/]\", which provides a clear guide to installing Python",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/",
-          "publishedOn": "2024-06-10T22:57:27.000Z",
-          "wordCount": 2003,
-          "title": "How to Fix Common Python Installation Errors on macOS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/python-install-errors.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/unit-testing-in-python/",
-          "author": "Damilola Oladele",
-          "description": "Unit testing is a software testing technique in which individual components or units of a software application are tested independently from the rest of the application.  In software development, it's beneficial to break your application into small, isolated units. This approach allows you to write independent tests to check",
-          "link": "https://www.freecodecamp.org/news/unit-testing-in-python/",
-          "publishedOn": "2024-06-10T16:33:04.000Z",
-          "wordCount": 2220,
-          "title": "How to Write Unit Tests in Python – with Example Test Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/WhatsApp-Image-2024-06-10-at-10.46.58-AM.jpeg"
         }
       ]
     },
@@ -967,6 +1032,36 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/entries/668f078846112d2a8da402fc?from=rss",
+          "author": null,
+          "description": "7月10日、CSS Tricksが「If CSS Gets Inline Conditionals」と題した記事を公開した。この記事では、CSSの条件付きスタイル適用に関する新しい提案について詳しく紹介されている。",
+          "link": "https://techfeed.io/entries/668f078846112d2a8da402fc?from=rss",
+          "publishedOn": "2024-07-10T22:14:49.993Z",
+          "wordCount": 7369,
+          "title": "CSSに革命が起きようとしている ー if()を使える日がやってくる",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/vtgwdbfxyzzdr7lmmnfu.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/668effd446112d2a8da4011f?from=rss",
+          "author": null,
+          "description": "7月10日、MozillaはFirefox 128のリリースを発表した。今回のリリースでは、[Manifest V3（MV3）の改善](https://blog.mozilla.org/addons/2024/07/10/manifest-v3-updates-landed-in-firefox-128/)が追加されている。そもそも開発者の間で批判を受けることも多いMV3とは一体なんなのだろうか？",
+          "link": "https://techfeed.io/entries/668effd446112d2a8da4011f?from=rss",
+          "publishedOn": "2024-07-10T21:41:30.335Z",
+          "wordCount": 7230,
+          "title": "Firefox 128がManifest V3のサポートを改善 ー そもそもManifest V3って何？なぜ批判されている？",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/jzkv4kqqusmiqfh5dq5a.png"
+        },
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/7/11?from=rss",
+          "author": null,
+          "description": "<img src=\"https://ogimage.blog.st-hatena.com/13208692334729893091/6801883189120673758/1720521414\"><br>すべてカテゴリー 2024年7月11日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 唐突に使っているChrome拡張を紹介（laiso.hatenablog.com）<br>2位: トロイの木馬化された「jQuery」がnpmやGitHubで拡散（rocket-boys.co.jp）<br>3位: AIが「ゆっくり解説」動画を自動生成してくれる！ 「NoLang 2.0」がリリース／縦型動画にも対応。商用利用可能なAI動画生成ツール（forest.watch.impress.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/7/11?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/7/11?from=rss",
+          "publishedOn": "2024-07-10T20:00:10.377Z",
+          "wordCount": 7176,
+          "title": "【7月11日ランキング】唐突に使っているChrome拡張を紹介／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fogimage.blog.st-hatena.com%2F13208692334729893091%2F6801883189120673758%2F1720521414"
+        },
         {
           "id": "https://techfeed.io/entries/668da8882884654eb0654e1b?from=rss",
           "author": null,
@@ -1656,46 +1751,6 @@
           "wordCount": 7176,
           "title": "【6月12日ランキング】【日本終了】開成東大卒の天才AIエンジニアが都知事選出馬を決めた「圧倒的危機感」とヤバすぎるリアル（現代ビジネス編集部） @gendai_biz／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fgendai-m.ismcdn.jp%2Fmwimgs%2Fd%2F4%2F1200m%2Fimg_d4316d623d6777be633121c2ba51353f112499.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/6661a24e2ba6f467d1edb2a3?from=rss",
-          "author": null,
-          "description": "拡大するセマンティクスの話とHTTPの高速化についてお話しします。",
-          "link": "https://techfeed.io/entries/6661a24e2ba6f467d1edb2a3?from=rss",
-          "publishedOn": "2024-06-11T06:54:47.714Z",
-          "wordCount": 7282,
-          "title": "これからのHTTP～拡大するセマンティクスと高速化 (by @kazuho) — TechFeed Experts Night#29 〜 HTTP3/QUIC…Webプロトコル最前線",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/bfntskd9fx6ev8j5iuga.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/666778801512320c18792b14?from=rss",
-          "author": null,
-          "description": "6月11日、AppleはHome製品全体にわたるソフトウェアアップデートを発表した。エンターテインメントの質を向上させ、日常の利便性をさらに高めるという。",
-          "link": "https://techfeed.io/entries/666778801512320c18792b14?from=rss",
-          "publishedOn": "2024-06-10T22:04:48.540Z",
-          "wordCount": 7231,
-          "title": "Appleがスマートホームに本気出した ー TV、ホームセキュリティから電力使用量まで",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/llg8kohd3phih4gcyxlt.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/666772ddedb336322e231534?from=rss",
-          "author": null,
-          "description": "6月11日、Appleは「Apple Intelligence」を発表した。これは、iPhone、iPad、およびMac向けの個人向けAIシステムであり、強力な生成AIモデルを中心に据えたものである。",
-          "link": "https://techfeed.io/entries/666772ddedb336322e231534?from=rss",
-          "publishedOn": "2024-06-10T21:41:01.970Z",
-          "wordCount": 7268,
-          "title": "Apple Intelligence発表！ChatGPTとの深い統合、Siriの進化、プライバシークラウドなど、予想を遥かに超える大アップデートに",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/entries/vhov0sgjvpep4gbi4y0d.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/6/11?from=rss",
-          "author": null,
-          "description": "<img src=\"https://gendai-m.ismcdn.jp/mwimgs/d/4/1200m/img_d4316d623d6777be633121c2ba51353f112499.jpg\"><br>すべてカテゴリー 2024年6月11日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 【日本終了】開成東大卒の天才AIエンジニアが都知事選出馬を決めた「圧倒的危機感」とヤバすぎるリアル（現代ビジネス編集部） @gendai_biz（gendai.media）<br>2位: 期限の制約なく無料で提供される「Free Tier」クラウドサービスまとめ、主要クラウド/PaaS編（2024年版）（www.publickey1.jp）<br>3位: 工数管理というものを理解する（qiita.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/6/11?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/6/11?from=rss",
-          "publishedOn": "2024-06-10T20:00:10.475Z",
-          "wordCount": 7176,
-          "title": "【6月11日ランキング】【日本終了】開成東大卒の天才AIエンジニアが都知事選出馬を決めた「圧倒的危機感」とヤバすぎるリアル（現代ビジネス編集部） @gendai_biz／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/fetch/w_1200,h_630,c_fill/https%3A%2F%2Fgendai-m.ismcdn.jp%2Fmwimgs%2Fd%2F4%2F1200m%2Fimg_d4316d623d6777be633121c2ba51353f112499.jpg"
         }
       ]
     },
@@ -1710,6 +1765,276 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://tech.findy.co.jp/entry/2024/07/11/090000",
+          "author": null,
+          "description": "こんにちは！ファインディ CTOの佐藤(@ma3tk)です。 表題の通り、約1年半ほどの期間をかけて「エンジニア組織を強くする 開発生産性の教科書 ～事例から学ぶ、生産性向上への取り組み方～」(以降、開発生産性の教科書)という本を執筆しました。 本日(2024年7月11日)発売となりましたので、改めて「開発生産性」に対する...",
+          "link": "https://tech.findy.co.jp/entry/2024/07/11/090000",
+          "publishedOn": "2024-07-11T00:22:43.000Z",
+          "wordCount": 343,
+          "title": "「開発生産性の教科書」という本を執筆しました - Findy Tech Blog",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/f/findyinc/20240711/20240711075258.png"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/series/rt/1607056.html",
+          "author": null,
+          "description": "先日発売されたApple Vision Proは、記事でも何度か触れてきたように、「オーディオビジュアルファンに刺さる」製品だ。",
+          "link": "https://av.watch.impress.co.jp/docs/series/rt/1607056.html",
+          "publishedOn": "2024-07-10T23:21:41.000Z",
+          "wordCount": 5343,
+          "title": "AV Watch編集部員がチェック。「AV機器」として見たVision Proの実力とは【西田宗千佳のRandomTracking】",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/1607/056/new.jpg"
+        },
+        {
+          "id": "https://togetter.com/li/2399491",
+          "author": null,
+          "description": "古市憲寿 @poe1985 色々な人から都知事選のことを聞かれるので一応書いておきますね。少し長い文章なので、興味ある人は読んで下さい。 日曜日に日本テレビの選挙特番で、東京都知事候補だった石丸伸二さんと初めて話しました。中継のせいなのか、出来の悪い生成AIみたいな話しぶり、という印象でした。いや、今時ChatGP...",
+          "link": "https://togetter.com/li/2399491",
+          "publishedOn": "2024-07-10T23:11:22.000Z",
+          "wordCount": 711,
+          "title": "古市憲寿さんが石丸伸二さんと話した所感を語った話…「出来の悪いAIみたいな話しぶり」「答えない戦略はあっていいが選挙特番にでないほうがいい」など",
+          "imageUrl": "https://s.tgstc.com/ogp3/9a8b0704225ccdc3c617a7e45133c471-1200x630.jpeg"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOGN10EHF0Q4A710C2000000/",
+          "author": null,
+          "description": "【シリコンバレー=清水孝輔】米半導体大手アドバンスト・マイクロ・デバイス（AMD）は10日、人工知能（AI）開発を手掛けるフィンランドの新興サイロエーアイを6億6500万ドル（約1000億円）で買収すると発表した。ソフトウエア分野を強化し、AI半導体で先行する競合の米エヌビディアに対抗する。サイロエーアイはAI研究者...",
+          "link": "https://www.nikkei.com/article/DGXZQOGN10EHF0Q4A710C2000000/",
+          "publishedOn": "2024-07-10T21:14:27.000Z",
+          "wordCount": 295,
+          "title": "米AMD、欧州のAI新興を1000億円で買収　NVIDIAに対抗 - 日本経済新聞",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO5083068010072024000000-1.jpg?ixlib=js-3.8.0&auto=format%2Ccompress&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.63&fp-y=0.58&fp-z=1&crop=focalpoint&s=b081412309854e2676622f951dd600ff"
+        },
+        {
+          "id": "https://qiita.com/hayao_k/items/6f8c23f62f16e17f45bc",
+          "author": null,
+          "description": "はじめに 現地時間 2024/7/10 に開催されている AWS Summit New York 2024 で多くの生成 AI 関連のアップデートが発表されました。 以下の公式ブログに随時発表が更新されていくようですが、本記事では基調講演などでの発表も踏まえて日本語で概要をまとめています。 Amazon Bedrock 関連 Claude 3 Haiku のファインチュ...",
+          "link": "https://qiita.com/hayao_k/items/6f8c23f62f16e17f45bc",
+          "publishedOn": "2024-07-10T20:52:01.000Z",
+          "wordCount": 1564,
+          "title": "AWS Summit New York 2024での生成AI関連の新発表まとめメモ - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Fengineer-festa-ogp-background-074608b13b4bbe67c10ada41e7e2d292.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9QVdTJTIwU3VtbWl0JTIwTmV3JTIwWW9yayUyMDIwMjQlRTMlODElQTclRTMlODElQUUlRTclOTQlOUYlRTYlODglOTBBSSVFOSU5NiVBMiVFOSU4MCVBMyVFMyU4MSVBRSVFNiU5NiVCMCVFNyU5OSVCQSVFOCVBMSVBOCVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSVFMyU4MyVBMSVFMyU4MyVBMiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9YzFkMGY2MzA4ZWNlMTYyMThhZTQyZDdhNzg5MmMxNmE&mark-x=120&mark-y=96&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9OTcyJnR4dD0lNDBoYXlhb19rJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lMjY5NzY1NTc2NWQ4MjI5YjgyN2M4Y2Y3NGUxOTA3OQ&blend-x=120&blend-y=445&blend-mode=normal&txt64=aW4g5qCq5byP5Lya56S-44K744K-44Oz44OG44Kv44OO44Ot44K444O8&txt-width=972&txt-clip=end%2Cellipsis&txt-color=%23FFFFFF&txt-font=Hiragino%20Sans%20W6&txt-size=36&txt-x=134&txt-y=546&s=d87341696cdd015e3090e5705223f5ef"
+        },
+        {
+          "id": "https://aws.amazon.com/blogs/machine-learning/streamline-generative-ai-development-in-amazon-bedrock-with-prompt-management-and-prompt-flows-preview/",
+          "author": null,
+          "description": "AWS Machine Learning Blog Streamline generative AI development in Amazon Bedrock with Prompt Management and Prompt Flows (preview) Today, we’re excited to introduce two powerful new features for Amazon Bedrock: Prompt Management and Prompt Flows, in public preview. These features are designed to ...",
+          "link": "https://aws.amazon.com/blogs/machine-learning/streamline-generative-ai-development-in-amazon-bedrock-with-prompt-management-and-prompt-flows-preview/",
+          "publishedOn": "2024-07-10T19:29:50.000Z",
+          "wordCount": 2666,
+          "title": "Streamline generative AI development in Amazon Bedrock with Prompt Management and Prompt Flows (preview) | Amazon Web Services",
+          "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/07/08/ML-17093-image027-1177x630.png"
+        },
+        {
+          "id": "https://logmi.jp/tech/articles/330734",
+          "author": null,
+          "description": "Engineering ManagerによるEngineering ManagerのためのPodcast「EM . FM」。広木大地氏 、湯前慶大氏、佐藤将高氏が「エンジニアの給料」というテーマで語りました。全3回。 今回のテーマは「エンジニアの給料」 湯前慶大氏（以下、湯前）：「EM.FM」は、エンジニアリングマネジメントをもっと楽しく、もっとわかりやす...",
+          "link": "https://logmi.jp/tech/articles/330734",
+          "publishedOn": "2024-07-10T14:45:56.000Z",
+          "wordCount": 577,
+          "title": "ジョブ型雇用への移行によって変化する日本の報酬体系　エンジニアはどうしたら給料が上がるのか",
+          "imageUrl": "https://img.logmi.jp/article_images/93vH3qe3zyFiYNcXfj6Z6C.jpg"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/09520/",
+          "author": null,
+          "description": "日本オラクルは2024年7月9日、事業戦略説明会を開き、2025年度の重点施策として「日本のためのクラウド提供」「顧客のためのAI（人工知能）推進」の2つを掲げた。2つとも2024年度と同じ。三澤智光社長は「今年は本格的に普及させる年だ」と語った。 「続VMware」を支援 第1の重点施策である「日本のためのクラウド提供」...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/09520/",
+          "publishedOn": "2024-07-10T13:04:36.000Z",
+          "wordCount": 1093,
+          "title": "日本オラクルが「続VMware」宣言、レガシーマイグレーションを強化",
+          "imageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/09520/topm.jpg?20220512"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/aws-developersio-2024-sapporo-devio2024-aws-load-testing/",
+          "author": null,
+          "description": "中川です。 2024年7月5日に開催した「DevelopersIO 2024 SAPPORO」にて、オフライン登壇させていただきました。 登壇資料 話したこと 負荷テストの概要と目的 負荷テストの進め方 AWSを活用した負荷テスト 実践的なTips 当日の登壇スライドはこちらになります。 参考・紹介資料 参考にしたサイト 負荷テスト on AWS のす...",
+          "link": "https://dev.classmethod.jp/articles/aws-developersio-2024-sapporo-devio2024-aws-load-testing/",
+          "publishedOn": "2024-07-10T12:45:04.000Z",
+          "wordCount": 6704,
+          "title": "「AWSで始める負荷テスト入門」というタイトルで DevelopersIO 2024 Sapporo に登壇しました #devio2024 | DevelopersIO",
+          "imageUrl": "https://devio2024-media.developers.io/image/upload/v1720608096/user-gen-eyecatch/rnthxkjvgk7hhswdjbiy.jpg"
+        },
+        {
+          "id": "https://qiita.com/fukasawah/items/896c3638c203a973c2f0",
+          "author": null,
+          "description": "TeamsのIncomming Webhookコネクタが廃止されるようなのでPowerAutomateのワークフローに移行してみるMicrosoftTeamsTeamsPowerAutomate 要約 TeamsのIncomming WebhookやRSSなどのO365系のコネクタが 2024-10-01 に廃止される 作成自体は 2024-08-15 から作成できなくなる 代替としてPowerAutomateのワークフローが案内...",
+          "link": "https://qiita.com/fukasawah/items/896c3638c203a973c2f0",
+          "publishedOn": "2024-07-10T11:37:17.000Z",
+          "wordCount": 1191,
+          "title": "TeamsのIncomming Webhookコネクタが廃止されるようなのでPowerAutomateのワークフローに移行してみる - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9VGVhbXMlRTMlODElQUVJbmNvbW1pbmclMjBXZWJob29rJUUzJTgyJUIzJUUzJTgzJThEJUUzJTgyJUFGJUUzJTgyJUJGJUUzJTgxJThDJUU1JUJCJTgzJUU2JUFEJUEyJUUzJTgxJTk1JUUzJTgyJThDJUUzJTgyJThCJUUzJTgyJTg4JUUzJTgxJTg2JUUzJTgxJUFBJUUzJTgxJUFFJUUzJTgxJUE3UG93ZXJBdXRvbWF0ZSVFMyU4MSVBRSVFMyU4MyVBRiVFMyU4MyVCQyVFMyU4MiVBRiVFMyU4MyU5NSVFMyU4MyVBRCVFMyU4MyVCQyVFMyU4MSVBQiVFNyVBNyVCQiVFOCVBMSU4QyVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9NjI2ZGUzODY5N2QyNmE2NmQxZjdkMDMxM2Y4NTEwYTE&mark-x=142&mark-y=57&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBmdWthc2F3YWgmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWE4OGMyYzE3MzkxY2NjYWM4ZjY5NWI1MDA2NmE0YmI3&blend-x=142&blend-y=436&blend-mode=normal&txt64=aW4g5qCq5byP5Lya56S-44ON44Kq44K344K544OG44Og&txt-width=770&txt-clip=end%2Cellipsis&txt-color=%23212121&txt-font=Hiragino%20Sans%20W6&txt-size=36&txt-x=156&txt-y=536&s=ecfd8e875da3da41a208c4e74e9cdecb"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20240710181644",
+          "author": null,
+          "description": "まあ俺なんだが。 俺の書いた増田に「素敵ですわ」みたいなこと書いてくれたから「優しい！」って感動してたのに、AIだったんだよな… スター集めてるからさぞかし人気者なんだろうなーとか思ってたし、そんな人に褒められて嬉しくてさ。あー悔しい悲しい！",
+          "link": "https://anond.hatelabo.jp/20240710181644",
+          "publishedOn": "2024-07-10T11:20:16.000Z",
+          "wordCount": 578,
+          "title": "一番星はてのがAIだと知らない奴っているよな",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://blog.lacolaco.net/posts/c5e0f640a7aa/",
+          "author": null,
+          "description": "Node.js 本体で TypeScript ファイルを実行できるようにするプロポーザルが出されているという話が先週あたりから話題になっている。しかしそれほど嬉しいかといわれると、正直いらんなあと思っている。 TypeScriptで簡単なスクリプトを書くときは、長らくtsxを使って実行している。tsxを使い始めるより前は ts-node を...",
+          "link": "https://blog.lacolaco.net/posts/c5e0f640a7aa/",
+          "publishedOn": "2024-07-10T09:53:54.000Z",
+          "wordCount": 56,
+          "title": ".tsファイルを直接実行するのにtsxで特に困っていない | Marginalia",
+          "imageUrl": "https://blog.lacolaco.net/og/c5e0f640a7aa.png"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOGN1097V0Q4A710C2000000/",
+          "author": null,
+          "description": "【シリコンバレー=山田遼太郎】米新興企業オープンAIは9日、資本・業務提携する米マイクロソフトが理事会（企業の取締役会に相当）から離脱すると明らかにした。6月に新たに提携し、理事会への参加が取り沙汰された米アップルも加わらないことになった。オープンAIとマイクロソフトの関係について米欧の競争当局が独占禁...",
+          "link": "https://www.nikkei.com/article/DGXZQOGN1097V0Q4A710C2000000/",
+          "publishedOn": "2024-07-10T09:19:22.000Z",
+          "wordCount": 295,
+          "title": "OpenAI理事会からMicrosoftが離脱　独禁調査を警戒 - 日本経済新聞",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO5081784010072024000000-1.jpg?ixlib=js-3.8.0&auto=format%2Ccompress&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.75&fp-y=0.54&fp-z=1&crop=focalpoint&s=4e9f80e147e40f84d5979fe1c8289c8d"
+        },
+        {
+          "id": "https://www.gdm.or.jp/pressrelease/2024/0710/546550",
+          "author": null,
+          "description": "サンワサプライ、コネクタ不要でLANケーブルを延長できるフィールド中継アダプタ 2024.07.10 17:11 更新 2024.07.10 配信 カテゴリ6A準拠で10ギガビット対応、結線変更も簡単 サンワサプライ株式会社（本社：岡山市北区）は2024年7月10日、コネクタ不要でLANケーブルを延長できるフィールド中継アダプタ「ADT-EX-6AFSTP...",
+          "link": "https://www.gdm.or.jp/pressrelease/2024/0710/546550",
+          "publishedOn": "2024-07-10T08:45:39.000Z",
+          "wordCount": 527,
+          "title": "サンワサプライ、コネクタ不要でLANケーブルを延長できるフィールド中継アダプタ - エルミタージュ秋葉原",
+          "imageUrl": "https://www.gdm.or.jp/wp-content/uploads/2024/07/10/ADTEX6AFSTP_01.jpg"
+        },
+        {
+          "id": "https://qiita.com/twrcd1227/items/4faccd04f0f19f3fdb5e",
+          "author": null,
+          "description": "⚪︎ : 無制限のBasic、限度ありのAdvance △ : 限度ありのBasic Zed Atomの製作者達によって作成されたOSSのRust製エディタ。現状はMacOSのみで使用可能。そのほかのOSも現在対応中。パフォーマンスを重視しているので軽い。AIは搭載していないが、Copilotを使用することは可能。 Github : zed-industries/zed インストー...",
+          "link": "https://qiita.com/twrcd1227/items/4faccd04f0f19f3fdb5e",
+          "publishedOn": "2024-07-10T08:41:17.000Z",
+          "wordCount": 1128,
+          "title": "次世代エディタ6選 - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Fengineer-festa-ogp-background-074608b13b4bbe67c10ada41e7e2d292.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUU2JUFDJUExJUU0JUI4JTk2JUU0JUJCJUEzJUUzJTgyJUE4JUUzJTgzJTg3JUUzJTgyJUEzJUUzJTgyJUJGNiVFOSU4MSVCOCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9NTQzMTkyNzljNzc4ZDhlN2ExMTc4Njg2MDFiODBmMTk&mark-x=120&mark-y=96&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9OTcyJnR4dD0lNDB0d3JjZDEyMjcmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWRkYzc3MTQ3ODBmOWUxZGMxNzk3MDkwYTU4ZTYwOWEy&blend-x=120&blend-y=500&blend-mode=normal&s=eecf0cbfea94793f495dc8dd259cd14e"
+        },
+        {
+          "id": "https://www.tyoshiki.com/entry/2024/07/10/121000",
+          "author": null,
+          "description": "togetter.com 今の若者にとって投票する政治家を選ぶことは ・好きなアイドルを選んで推すのとおなじような感覚なのか ・成長が期待できる企業を選んで投資するのとおなじような感覚なのか それは私にはわからない。 しかし前者であれ後者であれ、もしどちらかならば 私は彼ら石丸さんに熱狂して応援した気持ちが他の人...",
+          "link": "https://www.tyoshiki.com/entry/2024/07/10/121000",
+          "publishedOn": "2024-07-10T07:59:43.000Z",
+          "wordCount": 944,
+          "title": "私には若者が今回の選挙で石丸さんにハマった理由がよくわかる気がするという話 - 頭の上にミカンをのせる",
+          "imageUrl": "https://m.media-amazon.com/images/I/61yc4draj2L._SL500_.jpg"
+        },
+        {
+          "id": "https://zenn.dev/tsurubee/articles/00446669b6c83a",
+          "author": null,
+          "description": "近年の大規模言語モデル（LLM）の出現は、自然言語処理（NLP）においてパラダイムシフトをもたらし、ChatGPTをはじめとする様々な革新的サービスを生み出している。LLMの急速な進化は、NLPの領域を超えて、より広範なデータモダリティへのLLMの適用可能性を探る研究への発展を促している。その中で今回注目したのが、時...",
+          "link": "https://zenn.dev/tsurubee/articles/00446669b6c83a",
+          "publishedOn": "2024-07-10T06:50:51.000Z",
+          "wordCount": 1072,
+          "title": "時系列データのための大規模言語モデル",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--qAkWtRq---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2599%2582%25E7%25B3%25BB%25E5%2588%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1%25E8%25A8%2580%25E8%25AA%259E%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tsurubee%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjlLMlZ2SXJ2SDZkUlp3SjdoUEx1Rjl0eGdJeHFQMXlCeXNJYldTVFFGZlZ4d3huaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20240709214840",
+          "author": null,
+          "description": "夏の熱を貯めて冬に使うとか、その逆とかさ。 部屋の中はいいが、外があかん",
+          "link": "https://anond.hatelabo.jp/20240709214840",
+          "publishedOn": "2024-07-10T06:19:07.000Z",
+          "wordCount": 605,
+          "title": "気温操作する技術ないんか？",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1607079.html",
+          "author": null,
+          "description": "米Microsoftは7月9日（現地時間）、すべてのサポート中バージョンのWindowsに対し月例のセキュリティ更新プログラムをリリースした（パッチチューズデー）。現在、「Windows Update」や「Windows Update カタログ」などから入手可能。Windows以外の製品も含め、今月のパッチではCVE番号ベースで139件の脆弱性が新たに対処されている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1607079.html",
+          "publishedOn": "2024-07-10T06:08:41.000Z",
+          "wordCount": 5844,
+          "title": "2024年7月の「Windows Update」がリリース、「Copilot in Windows」が単体アプリに／「Critical」5件、ゼロデイ2件を含む139件の脆弱性に対処",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1607/079/image_top.png"
+        },
+        {
+          "id": "https://medium.com/i35-267/%E6%B0%97%E3%81%A5%E3%81%8F%E3%81%B9%E3%81%8D-%E6%8A%80%E8%A1%93%E8%B2%A0%E5%82%B5-%E3%81%AE%E7%95%B0%E5%A4%89-pdm-em%E5%90%91%E3%81%91%E3%81%AE%E6%97%A9%E8%A6%8B%E8%A1%A8-3e726e9295fd",
+          "author": null,
+          "description": "技術負債が溜まっている勘所について。現場のエンジニアは実際のシステムを触っているので変更や追加をする過程で当事者になるのでおおよそ異変に気づく。 一方、実際にそのシステムに対となるプロダクトに関わっているのはエンジニアだけではない。PdMやEM、事業責任者がいる中でこのメンバーにどう常に変化し続けるシ...",
+          "link": "https://medium.com/i35-267/%E6%B0%97%E3%81%A5%E3%81%8F%E3%81%B9%E3%81%8D-%E6%8A%80%E8%A1%93%E8%B2%A0%E5%82%B5-%E3%81%AE%E7%95%B0%E5%A4%89-pdm-em%E5%90%91%E3%81%91%E3%81%AE%E6%97%A9%E8%A6%8B%E8%A1%A8-3e726e9295fd",
+          "publishedOn": "2024-07-10T05:50:49.000Z",
+          "wordCount": 659,
+          "title": "PdM/EMが気づくべき「技術負債」の異変",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vr-J6HnaT68XgTQF8OCj9w.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2407/10/news072.html",
+          "author": null,
+          "description": "この連載について AIやデータ分析の分野では、毎日のように新しい技術やサービスが登場している。その中にはビジネスに役立つものも、根底をひっくり返すほどのものも存在する。本連載では、ITサービス企業・日本TCSの「AIラボ」で所長を務める三澤瑠花氏が、データ分析や生成AIの分野で注目されている最新論文や企業発...",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2407/10/news072.html",
+          "publishedOn": "2024-07-10T03:36:15.000Z",
+          "wordCount": 3155,
+          "title": "LLMを自社特化にする「RAG」を使いこなすには　具体的な実装パターン2選",
+          "imageUrl": "https://image.itmedia.co.jp/enterprise/articles/2407/10/cover_news072.jpg"
+        },
+        {
+          "id": "https://note.com/shi3zblog/n/neb8f2edc7040",
+          "author": null,
+          "description": "あまりに良かったので即課金した。俺のデイリーAIニュースで活躍しまくり・・・なの、だが、あまりにも便利なのであっという間にポイントを使い果たしてしまった。 また、動画なのだが動画の画像自体にあまり意味がないので本当は音声だけ聞き流しながらじっくりと論文本体を目で追いかけたい。 そう、まるで優秀でやる...",
+          "link": "https://note.com/shi3zblog/n/neb8f2edc7040",
+          "publishedOn": "2024-07-10T03:10:54.000Z",
+          "wordCount": 2765,
+          "title": "これは捗る! WebページをGPT-4で日本語で要約して読み上げてくれるChrome拡張｜shi3z",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/146798078/rectangle_large_type_2_64c542837ecbe4b0c6a4ede6fc198547.png?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://wirelesswire.jp/2024/07/86810/",
+          "author": null,
+          "description": "ティム・オライリーとシリコンバレーの贖罪 2024.07.10 Updated by yomoyomo on July 10, 2024, 11:00 am JST きっかけは、『ブログ 世界を変える個人メディア』や『あなたがメディア！　ソーシャル新時代の情報術』の著書で知られるジャーナリストのダン・ギルモアが、16年務めた教職を辞すという「引退」について書い...",
+          "link": "https://wirelesswire.jp/2024/07/86810/",
+          "publishedOn": "2024-07-10T02:51:11.000Z",
+          "wordCount": 6240,
+          "title": "ティム・オライリーとシリコンバレーの贖罪",
+          "imageUrl": "https://wirelesswire.jp/wp-content/uploads/2024/07/yomoyomo0710_ec2.jpg"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00088/00171/",
+          "author": null,
+          "description": "iPad mini（第6世代）用にApple Pencilが必要になった。筆者は悩んだ末に、サードパーティー製のいわゆる「互換ペン」を購入した。Apple Pencilのように使える製品である。 以前にも同様の製品を何種類か試したことがあるが、明らかに性能が良くなっていて驚いた。いくつかのこだわりを捨てれば、Apple Pencilの代用品に...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00088/00171/",
+          "publishedOn": "2024-07-10T02:51:03.000Z",
+          "wordCount": 1121,
+          "title": "1本2500円の「Apple Pencil」互換ペンが驚きの進化、本家より優れた点もある",
+          "imageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00088/00171/topm.jpg?20220512"
+        },
+        {
+          "id": "https://havelog.aho.mu/misc/e798-efficiency-focus-team-decline.html",
+          "author": null,
+          "description": "この記事は前作 開発生産性の可視化サービスから何を見いだして何ができるのか、あるいはすべきで無いこと に続き、開発生産性へのスタンスを整理したい2作目です。 効果・成果よりも効率を優先することは生産性か？ 開発生産性と言いながら単なるアクティビティの量や時間を見て効率改善を志してしまういくつかの状況、...",
+          "link": "https://havelog.aho.mu/misc/e798-efficiency-focus-team-decline.html",
+          "publishedOn": "2024-07-10T02:09:42.000Z",
+          "wordCount": 437,
+          "title": "開発生産性を標榜して効率に拘泥するチームはゆるやかに衰退する",
+          "imageUrl": "https://havelog.aho.mu/archives/001/202406/8b48b21da7845259.png"
+        },
+        {
+          "id": "https://hamaruki.com/graphrag-beginners-guide/",
+          "author": null,
+          "description": "はじめに GraphRAGは、テキストデータのインデックス作成と質問応答を行うための強力なシステムです。この記事では、GraphRAGシステムの基本的な使い方を、初心者の方にも分かりやすく説明していきます。 こちらの記事もおすすめ GraphRAGの検索手法：LocalSearchとGlobal Searchの徹底比較はじめにみなさん、こんにちは...",
+          "link": "https://hamaruki.com/graphrag-beginners-guide/",
+          "publishedOn": "2024-07-10T00:51:13.000Z",
+          "wordCount": 9093,
+          "title": "GraphRAGシステムの使い方：初心者向け完全ガイド - Sun wood AI labs.2",
+          "imageUrl": "https://i0.wp.com/hamaruki.com/wp-content/uploads/2024/07/GraphRag-5.png?fit=1920%2C1080&ssl=1"
+        },
+        {
+          "id": "https://ennui.hatenablog.com/entry/2024/07/10/013656",
+          "author": null,
+          "description": "こんにちは、imazです。10年ちょっとRailsエンジニアをしています。 インフラは苦手、CSSやJavaScriptも得意ではない、アーキテクチャとか設計も得意ではない… SQLとかデバッグが好きです。答えがあることが好き！ 作業中めちゃくちゃ独り言が出るのでオフィスで働けないタイプです。 Re: 良いコードってどんなコードで...",
+          "link": "https://ennui.hatenablog.com/entry/2024/07/10/013656",
+          "publishedOn": "2024-07-10T00:38:23.000Z",
+          "wordCount": 538,
+          "title": "良いコードとは良い感じのコードである - ennui's blog",
+          "imageUrl": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png"
+        },
         {
           "id": "https://zenn.dev/mattyamonaca/articles/7a26aafa5adb8a",
           "author": null,
@@ -1891,6 +2216,16 @@
           "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1606/965/top.jpg"
         },
         {
+          "id": "https://ainow.ai/2024/07/08/276701/",
+          "author": null,
+          "description": "インド在住のライター兼エンジニアのニティン・シャルマ（Nitin Sharma）氏（詳細は同氏LinkedInプロフィールページを参照）がMediumに投稿した記事『GPT-4oはクレイジーだ―思わず言葉を失うような（信じられない）6つの使用例を紹介』では、GPT-4oの実用的な使用例が紹介されています。 シャルマ氏が紹介するGPT-4oの使...",
+          "link": "https://ainow.ai/2024/07/08/276701/",
+          "publishedOn": "2024-07-09T07:29:30.000Z",
+          "wordCount": 1915,
+          "title": "GPT-4oはクレイジーだ―思わず言葉を失うような（信じられない）6つの使用例を紹介 | AI専門ニュースメディア AINOW",
+          "imageUrl": "https://ainow.ai/wp-content/uploads/2024/07/TranslationArticle-July2024-GPT-4o-Usecase-image01.png"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/208/4208848/",
           "author": null,
           "description": "AI駆動の検索エンジン「Perplexity」がrobots.txtを無視して情報を収集しているのではないかという指摘が6月に報道されていた。現在の状況はどうなのか、実際にPerplexityで検証した。 robots.txtとは robots.txtは、ウェブサイト管理者がサーチエンジンのクローラーやボット（ウェブページを自動的に巡回して情報を収集...",
@@ -1949,6 +2284,16 @@
           "wordCount": 367,
           "title": "RAG vs ファインチューニング（コーディング性能で比較）",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8OzUU5eg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAG%2520vs%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25EF%25BC%2588%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E6%2580%25A7%25E8%2583%25BD%25E3%2581%25A7%25E6%25AF%2594%25E8%25BC%2583%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Atsushi%2520Kadowaki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLmRldi9pbWFnZXMvZGVmYXVsdC1wdWJsaWNhdGlvbi1hdmF0YXIucG5n%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%258A%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B8%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%2520-%2520AI%25E7%259F%25A5%25E8%25A6%258B%25E5%2585%25B1%25E6%259C%2589%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlMjk5Y2IwN2IuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://buildersbox.corp-sansan.com/entry/2024/07/09/110000",
+          "author": null,
+          "description": "技術本部 Sansan Engineering Unit Data Hub グループの光川です。 先日、技術本部総会という、技術本部に所属するメンバーが一堂に集まるイベントの3回目が開催されました。その中のコンテンツとしてOST（オープンスペーステクノロジー）を実施しました。前回、前々回に引き続きOSTの運営に携わったので、レポートを書...",
+          "link": "https://buildersbox.corp-sansan.com/entry/2024/07/09/110000",
+          "publishedOn": "2024-07-09T03:07:31.000Z",
+          "wordCount": 581,
+          "title": "社内交流のために大規模OSTをやりました（3回目） - Sansan Tech Blog",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/10257846132608666252/6801883189117456300/1720490401"
         },
         {
           "id": "https://rocket-boys.co.jp/trojanized-jquery-spreading-on-npm-and-github/",
@@ -6497,6 +6842,166 @@
       "feedUrl": "http://feeds.japan.cnet.com/rss/cnet/all.rdf",
       "siteUrl": "https://japan.cnet.com",
       "articles": [
+        {
+          "id": "https://japan.cnet.com/article/35220302/",
+          "author": "太田百合子 藤代格",
+          "description": "ファン作りやファンとのコミュニケーションに、SNSを活用する企業は数多いが、どのように盛り上がりを醸成すれば良いか、頭を悩ませている担当者は少なくない。そんな中、メタバースでファンと時間と体験を共有し、その結果としてSNSでも反響を呼んだのが、ディスカウントストア「ドン・キホーテ」が仕掛けた「METAドンキ」だ。多くの人がSNSで発信したくなるような、楽しい時間と体験はどのように作り出されたのか。",
+          "link": "https://japan.cnet.com/article/35220302/",
+          "publishedOn": "2024-07-11T00:00:00.000Z",
+          "wordCount": 2717,
+          "title": "ドンキらしさをメタバースで表現、KPI約1.9倍を達成--「METAドンキ」が仕掛けたDOOR×SNSのファンマーケティング",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/11/caafffe1201eaecd83cee4e2a562232b/24Jun06_ppih_001.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221316/",
+          "author": "Lori Grunin （CNET News） Ingrid Cruz （Special to CNET News） 翻訳校正： 編集部",
+          "description": "サムスンは7月10日に開催したGalaxy Unpackedイベントで、待望の「Galaxy Ring」、新型スマートフォン「Galaxy Z Fold6」「Z Flip6」、スマートウォッチ「Galaxy Watch7」「Watch Ultra」、デザインを一新した「Galaxy Buds3」「Buds3 Pro」など、多数の新製品を発表した。",
+          "link": "https://japan.cnet.com/article/35221316/",
+          "publishedOn": "2024-07-10T22:59:00.000Z",
+          "wordCount": 2760,
+          "title": "サムスン、「Galaxy Z Fold6」「Flip6」や「Galaxy Ring」などを発表",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/11/26633f5cba79cb75e8cdab441d48b8de/flip-6-and-fold-6-thumb4_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221180/",
+          "author": "Lisa Lacy （CNET News） 翻訳校正： 石橋啓一郎",
+          "description": "生成AIの急速な進歩と普及によって、自分の仕事や生活に影響が及ぶのではないかと心配する声も上がっている。この記事では、ロボットやAIが身近な生活に与える影響や、家庭用ロボットの現状について改めて考える。",
+          "link": "https://japan.cnet.com/article/35221180/",
+          "publishedOn": "2024-07-10T22:30:00.000Z",
+          "wordCount": 2740,
+          "title": "AIとロボットに家事をしてもらえる夢の時代は来るのか",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/08/bfcfcbf071a49f25805d206ae373c630/household-robot_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221295/",
+          "author": "小口貴宏",
+          "description": "KDDIは7月10日、蓄電池事業を2025年下期から開始すると発表した。栃木県小山市にある「KDDI小山ネットワークセンター」内に発電出力1999kW、蓄電池容量5608kWhの大型蓄電池の導入を計画し、2024年12月から建設を開始する。",
+          "link": "https://japan.cnet.com/article/35221295/",
+          "publishedOn": "2024-07-10T22:03:00.000Z",
+          "wordCount": 2586,
+          "title": "KDDI、蓄電池事業に参入--太陽光からの電力を夜間に供給、基地局のCO2排出ゼロめざす",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/f3f1a598d878b98eab4965e404afb077/001.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221309/",
+          "author": "加納恵",
+          "description": "ソニーは、デジタルカメラ「VLOGCAM」に新モデル「VLOGCAM ZV-E10 II」を発表した。画像処理エンジン「BIONZ XR」や「リアルタイム瞳AF」を採用した新スタンダードモデルになる。",
+          "link": "https://japan.cnet.com/article/35221309/",
+          "publishedOn": "2024-07-10T14:09:00.000Z",
+          "wordCount": 2641,
+          "title": "ソニー、「VLOGCAM」に新スタンダード機--動画性能向上で映像を撮る楽しさ追求",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/7fdfb99010232f1a79172c859cf77140/240710_sonyvlog_01.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221299/",
+          "author": "和田真里奈",
+          "description": "スマート修繕は7月10日、マンションの建て替え価値がわかるサービス「スマート建替」を、東京・赤坂エリア限定で先行リリースすると発表した。これに伴い、マンションの建て替え、耐震補強工事、修繕工事などの相談受付を、既存サービスである「スマート修繕」などで開始する。なお、エリアをより拡大した正式リリースは2024年秋を予定している。",
+          "link": "https://japan.cnet.com/article/35221299/",
+          "publishedOn": "2024-07-10T08:15:00.000Z",
+          "wordCount": 2630,
+          "title": "老朽化したマンションの建て替え価値を見える化する「スマート建替」、エリア限定で開始",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/81dcd1a96e7bbb3e4327a23a3a8c96ac/sub4.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221287/",
+          "author": "CNET Japan Staff",
+          "description": "音声番組「CNET Japanのニュースの裏側」では、ITビジネスメディア「CNET Japan」に掲載された記事の中から1本を選び、担当記者に取材の裏話などを聞いていきます。",
+          "link": "https://japan.cnet.com/article/35221287/",
+          "publishedOn": "2024-07-10T07:00:00.000Z",
+          "wordCount": 2589,
+          "title": "イトーキ、RFルーカスへ出資--音声番組「ニュースの裏側」＃295",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/03/f559d188af36acf9fe6c1718e3b5c3b2/20240703itokirftop_640.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221292/",
+          "author": "藤代格",
+          "description": "メルカリは7月10日、「メルカリ」で見つけた商品をテーマごとに集めてコレクションを作成し、SNSでシェアできる「マイコレクション」機能の提供を開始したことを発表した。",
+          "link": "https://japan.cnet.com/article/35221292/",
+          "publishedOn": "2024-07-10T06:40:00.000Z",
+          "wordCount": 2590,
+          "title": "メルカリ、「推し」商品をSNSでシェアできる「マイコレクション」--購入金額の2％が報酬に",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/7fdde9fc881d6823c22adf799daa8393/24Jul10_merucari_000.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221288/",
+          "author": "和田真里奈",
+          "description": "YKK APは7月9日、千代田区、Akiba.TVと共に、「2050ゼロカーボンちよだ」の実現に向けた連携協定を締結したと発表した。この協定に基づき、7月25日から区有地の一部である秋葉原駅前広場に実証実験用のトレーラーハウスを設置し、ペロブスカイト太陽電池（次世代型ソーラーセル）を用いた「建材一体型の太陽光発電」（BIPV：Building Integrated Photovoltaics）の実証実験を行うという。",
+          "link": "https://japan.cnet.com/article/35221288/",
+          "publishedOn": "2024-07-10T06:24:00.000Z",
+          "wordCount": 2617,
+          "title": "「窓で発電」、秋葉原駅前で実証--YKK APら、ペロブスカイト太陽電池活用で連携",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/8be98617f5207d1c5633d89cff631f5f/main.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221290/",
+          "author": "Lisa Eadicicco （CNET News） 翻訳校正： 編集部",
+          "description": "サムスンは、スマートリング市場でOuraの支配的な地位に挑戦する初の主要スマートフォンメーカーとなっている。",
+          "link": "https://japan.cnet.com/article/35221290/",
+          "publishedOn": "2024-07-10T06:19:00.000Z",
+          "wordCount": 2681,
+          "title": "OuraのCEOがサムスン「Galaxy Ring」の登場を恐れていない理由",
+          "imageUrl": "https://japan.cnet.com/storage/2023/03/17/765f1a338dbcf4fd087d264573216d15/oura-3-heart-rate_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221284/",
+          "author": "佐藤和也",
+          "description": "LINEヤフーは、「Yahoo!検索」の検索結果において、災害発生時に自治体によって開設された避難所の情報掲出を、7月8日から開始している。災害発生時にYahoo!検索で「市区町村名 避難所」「市区町村名 避難所開設」と検索すると、開設された避難所の一覧が検索結果に表示されるようになっている。",
+          "link": "https://japan.cnet.com/article/35221284/",
+          "publishedOn": "2024-07-10T05:32:00.000Z",
+          "wordCount": 2608,
+          "title": "LINEヤフー、Yahoo!検索の検索結果で災害時における避難所情報を掲出",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/9f9cdad834b17edab89b5fd7106d5e14/20240710yahookensakutop_640.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221282/",
+          "author": "佐藤和也",
+          "description": "ソニー・ミュージックエンタテインメント（SME）ならびにグループ会社のアニプレックス、そしてゲーム「パルワールド」を手がけるポケットペアの3社は7月10日、パルワールドの国内外におけるライセンス事業を推進を目的として、新たにジョイントベンチャー「株式会社パルワールドエンタテインメント」の設立に合意したことを発表した。",
+          "link": "https://japan.cnet.com/article/35221282/",
+          "publishedOn": "2024-07-10T04:51:00.000Z",
+          "wordCount": 2610,
+          "title": "SMEとアニプレックス、「パルワールド」のポケットペアがジョイントベンチャー設立--IP展開を加速",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/aaeb85fd804111d3155a79e362a074eb/20240710palworldenttop_640.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221274/",
+          "author": "加納恵",
+          "description": "ケップルは、スタートアップの情報提供と投資ポートフォリオの作成、管理、共有ができるスマートフォンアプリ「KEPPLEアプリ」の提供を開始した。スタートアップ専門のデータベースが見られる。",
+          "link": "https://japan.cnet.com/article/35221274/",
+          "publishedOn": "2024-07-10T04:00:00.000Z",
+          "wordCount": 2598,
+          "title": "スタートアップの情報を手のひらに--事業概要から従業員数までわかる「KEPPLEアプリ」",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/29a8426bb391a0c0565a716b57281feb/240710_kepple_01.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221262/",
+          "author": "Lisa Eadicicco （CNET News） 翻訳校正： 編集部",
+          "description": "指輪型デバイス「Ouraリング」を提供するOuraは、特定の健康指標や測定値について質問できる新たなAIヘルスコーチ機能「Oura Advisor」のベータ版を提供開始した。",
+          "link": "https://japan.cnet.com/article/35221262/",
+          "publishedOn": "2024-07-10T02:26:00.000Z",
+          "wordCount": 2633,
+          "title": "「Ouraリング」、健康データについてAIコーチと会話できる「Oura Advisor」提供へ",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/e5743b7abbf5568ef13fb03ed4eb1438/ouraring_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221258/",
+          "author": "藤代格",
+          "description": "NTTドコモ傘下のドコモ・バイクシェアと、ソフトバンク傘下のOpenStreetは7月10日、業務提携に合意したことを発表した。",
+          "link": "https://japan.cnet.com/article/35221258/",
+          "publishedOn": "2024-07-10T01:40:00.000Z",
+          "wordCount": 2692,
+          "title": "ドコモとソフトバンク、シェアサイクル事業子会社が業務提携--親会社間の連携は否定",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/10/986c5f2fc1d293b9f859b094676d842b/24Jul10_dh_000-2.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35221235/",
+          "author": "佐藤和也",
+          "description": "国土交通省は、まちづくりDX推進の一環として、全国の地方自治体で決定された都市計画のGISデータを収集。統一されたフォーマットでGISデータをダウンロードできるサイトの運用を開始した。さまざまなデータと組み合わせや分析が容易となり、行政やまちづくり分野のみならず幅広い分野で活用できるようになっているとしている。",
+          "link": "https://japan.cnet.com/article/35221235/",
+          "publishedOn": "2024-07-10T01:00:00.000Z",
+          "wordCount": 2591,
+          "title": "国土交通省、統一されたフォーマットでの都市計画GISデータのDLサイトを公開",
+          "imageUrl": "https://japan.cnet.com/storage/2024/07/09/0b10d635542790f953730d767aa9e096/20240709kokugotop_640.jpg"
+        },
         {
           "id": "https://japan.cnet.com/article/35220787/",
           "author": "加納恵",
