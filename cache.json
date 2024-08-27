@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380047",
+          "author": "Geoff Graham",
+          "description": "Developers suffer in the great multitudes whom their sacred block-based websites cannot reach.\nJohannes Gutenberg (probably)\n\nLong time WordPresser, first time Gutenberger here. I’m a fan even though I’m still anchored to a classic/block hybrid setup. I believe Johanes himself …\nUnderstanding Gutenberg Blocks, Patterns, and Templates originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/understanding-gutenberg-blocks-patterns-and-templates/",
+          "publishedOn": "2024-08-26T17:27:16.000Z",
+          "wordCount": 1755,
+          "title": "Understanding Gutenberg Blocks, Patterns, and Templates",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380047"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380087",
+          "author": "Geoff Graham",
+          "description": "Happy birthday, Chris Coyier — and thank you for CSS-Tricks as well as everything you do at CodePen, ShopTalk, Boost, and even your personal blog!…\nQuick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-13/",
+          "publishedOn": "2024-08-26T15:04:35.000Z",
+          "wordCount": 1329,
+          "title": "Quick Hit #13",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380087"
+        },
+        {
           "id": "https://css-tricks.com/?p=380064",
           "author": "Geoff Graham",
           "description": "Giant kudos to Scott Jehl on releasing his new Web Components De-Mystified online course! Eight full hours of training from one of the best in the business.…\nQuick Hit #12 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -313,6 +333,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
+          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
+          "description": "Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.",
+          "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
+          "publishedOn": "2024-08-26T15:00:00.000Z",
+          "wordCount": 3855,
+          "title": "Generating Unique Random Numbers In JavaScript Using Sets",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/generating-unique-random-numbers-javascript-using-sets/generating-unique-random-numbers-javascript-using-sets.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/",
           "author": "hello@smashingmagazine.com (Levi Honing)",
@@ -1043,6 +1078,36 @@
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
         {
+          "id": "https://techfeed.io/entries/66ccf11886341e6ef0eab518?from=rss",
+          "author": null,
+          "description": "8月22日、GoogleはGoogle Cloud FunctionsがCloud Run Functionsに統合されることを発表した。これにより、従来のGoogle Cloud Functions（第2世代）で作成されたすべての関数が、Cloud Runの機能を利用できるようになった。特に、GPUサポートを備えた新しいCloud Run関数は、インフラストラクチャ、GPUドライバ、またはコンテナを気にすることなく、Python開発者がHugging Faceのモデルを利用できるようにする。Hugging FaceのCTOであるジュリアン・ショモン氏は、「Cloud Runのゼロスケールと高速起動の機能は、サーバーレスコードを使ってAIを利用し始めたい開発者にとって最適である」と述べている。Google Cloud FunctionsとはGoogle Cloud Functionsは、Google Cloudが提供するサーバーレスなコンピューティング環境であり、イベント駆動型の関数をクラウド上で実行するためのサービスである。開発者は関数のコードだけを記述し、Googleがその実行に必...",
+          "link": "https://techfeed.io/entries/66ccf11886341e6ef0eab518?from=rss",
+          "publishedOn": "2024-08-26T21:18:56.237Z",
+          "wordCount": 7255,
+          "title": "Google Cloud FunctionsがCloud Run Functionsに統合 — サーバーレス×AIの新時代が幕を開ける",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1724707123/entries/jlyq0jvy1agki9zplcal.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/66ccef29a1db5d4b8a4e61ef?from=rss",
+          "author": null,
+          "description": "8月26日、Codonプロジェクトは新たなPython実装であるCodon 0.17をリリースした。CodonはLLVMコンパイラインフラストラクチャを活用し、Pythonコードをネイティブマシンコードにコンパイルすることで、従来のPythonよりも10〜100倍の高速化を目指すオープンソースプロジェクトである。GitHubでも14,000以上のスターを獲得しており、開発者たちからの注目度の高さが伺える。",
+          "link": "https://techfeed.io/entries/66ccef29a1db5d4b8a4e61ef?from=rss",
+          "publishedOn": "2024-08-26T21:10:19.007Z",
+          "wordCount": 7205,
+          "title": "LLVMベースのPython実装で10～100倍の高速化を実現する、Codon 0.17 がリリース",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1724706454/entries/q8dama70gp5vo5npx4jo.png"
+        },
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2024/8/27?from=rss",
+          "author": null,
+          "description": "<img src=\"https://res.cloudinary.com/zenn/image/upload/s--TFgpHv7D--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yYjE0NzAzNTgxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg\"><br>すべてカテゴリー 2024年8月27日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Next.jsの考え方（zenn.dev）<br>2位: 【AWS】 代表的なクラウドデザインパターン紹介（zenn.dev）<br>3位: 「仕事でWordをめちゃくちゃ使うんだけど、Gitみたいなソース管理、バージョン管理できないかな」やりたいのは差分比較→有識者から様々な提案が寄せられる（togetter.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/8/27?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2024/8/27?from=rss",
+          "publishedOn": "2024-08-26T20:00:09.920Z",
+          "wordCount": 7179,
+          "title": "【8月27日ランキング】Next.jsの考え方／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--TFgpHv7D--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yYjE0NzAzNTgxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+        },
+        {
           "id": "https://techfeed.io/entries/66cba1fd86341e6ef0e9ee69?from=rss",
           "author": null,
           "description": "8月26日、Googleの研究部門であるGoogle Researchが「SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL」と題した論文を公開した。この記事では、SQLの問題点とそれを解決するために提案された新しいパイプ構文について詳しく紹介されている。",
@@ -1606,6 +1671,276 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/02924/082200001/",
+          "author": null,
+          "description": "生成AI（人工知能）のブームで建設ラッシュが続くデータセンター。サーバーメーカーは好況に沸くが、その裏で「資源枯渇」のリスクが顕在化しようとしている。サーバーを冷やすための「水」について専門家は「緊急措置」が必要だと警鐘を鳴らし、送電線やネットワークケーブルに必須の「銅」は2024年5月に史上最高値を更...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/02924/082200001/",
+          "publishedOn": "2024-08-26T22:41:49.000Z",
+          "wordCount": 1215,
+          "title": "生成AIで水枯渇リスクが顕在化、GPTはクエリー10回でペットボトルを空にする",
+          "imageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/02924/082200001/topm.jpg?20220512"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/ebook/1618476.html",
+          "author": null,
+          "description": "キヤノンマーケティングジャパンの「PR5500-C」は、指にはめて使うBluetooth接続のクリッカーだ。もともとはプレゼンテーションでスライドをめくるなどの操作を行なうためのツールだが、Kindleなど電子書籍アプリと組み合わせて、リモートでのページめくりをサポートしているのが特徴だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/ebook/1618476.html",
+          "publishedOn": "2024-08-26T22:05:12.000Z",
+          "wordCount": 6135,
+          "title": "【山口真弘の電子書籍タッチアンドトライ】 “積ん読”の消化に最適なページめくりデバイス、新型指輪リモコン「PR5500-C」を試す",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1618/476/01.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/24/deno_2deno.html",
+          "author": null,
+          "description": "Node.jsの登場は、それまで比較的面倒だったノンブロッキングな非同期のネットワークプログラミングを容易にするAPIと、それをJavaScriptという非常に広く使われているプログラミング言語で利用可能にしたことで、サーバサイドにおけるJavaScriptランタイムという分野を新たに切り開くだけでなく、当時課題となっていたC...",
+          "link": "https://www.publickey1.jp/blog/24/deno_2deno.html",
+          "publishedOn": "2024-08-26T16:58:36.000Z",
+          "wordCount": 1827,
+          "title": "「Deno 2」が間もなく登場。Denoにとって初めてのメジャーバージョンアップに",
+          "imageUrl": "https://www.publickey1.jp/2024/deno146.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/24/javascripttypescriptwebassemblyporffor.html",
+          "author": null,
+          "description": "「Porffor」は、JavaScript/TypeScriptをWebAssemblyバイナリやネイティブバイナリへとコンパイルする実験的なツールであり、これまでにない2つの特徴を備えています。 1つ目はJavaScript/TypeScriptをコンパイルしてWebAssemblyバイナリやネイティブバイナリを生成しようとしている点です。 これまでもJavaScript/TypeS...",
+          "link": "https://www.publickey1.jp/blog/24/javascripttypescriptwebassemblyporffor.html",
+          "publishedOn": "2024-08-26T16:32:29.000Z",
+          "wordCount": 1476,
+          "title": "JavaScript/TypeScriptからWebAssemblyやネイティブバイナリを生成するコンパイラ「Porffor」の開発が加速へ、開発者がフルタイムで取り組み",
+          "imageUrl": "https://www.publickey1.jp/2024/porffor-202408.png"
+        },
+        {
+          "id": "https://qiita.com/rana_kualu/items/0369ab4e1df50bc37d7e",
+          "author": null,
+          "description": "どういうわけか日本では一切話題に上がっていないのですが、Pythonの開発者コミュニティでなんか問題が起きているようです。 どうも話が様々なスレッドにとっ散らかっているうえに半分はDiscordや非公開のところで動いているみたいなので、読み取れていないところが色々あるかもしれません。 誰かが補足してくれるはず。...",
+          "link": "https://qiita.com/rana_kualu/items/0369ab4e1df50bc37d7e",
+          "publishedOn": "2024-08-26T14:37:20.000Z",
+          "wordCount": 766,
+          "title": "Python理事会が古参開発者を追い出して開発者コミュニティが騒動に - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9UHl0aG9uJUU3JTkwJTg2JUU0JUJBJThCJUU0JUJDJTlBJUUzJTgxJThDJUU1JThGJUE0JUU1JThGJTgyJUU5JTk2JThCJUU3JTk5JUJBJUU4JTgwJTg1JUUzJTgyJTkyJUU4JUJGJUJEJUUzJTgxJTg0JUU1JTg3JUJBJUUzJTgxJTk3JUUzJTgxJUE2JUU5JTk2JThCJUU3JTk5JUJBJUU4JTgwJTg1JUUzJTgyJUIzJUUzJTgzJTlGJUUzJTgzJUE1JUUzJTgzJThCJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgxJThDJUU5JUE4JTkyJUU1JThCJTk1JUUzJTgxJUFCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz02OTEwMzhmZmIwMDE1YmE4ZTljMmQ3MzNlZjQ2ZTdmYQ&mark-x=142&mark-y=57&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDByYW5hX2t1YWx1JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz04MDExYmU1Y2VmYmMzMDJiYjQzZjJhMmU2ZGNjNmZjNA&blend-x=142&blend-y=486&blend-mode=normal&s=d72f4bd1422ddf1fd50f2e7274074f2d"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2408-chrome-gemini-lens/",
+          "author": null,
+          "description": "先日、ChromeのアップデートによりGoogleレンズとGeminiとの連携がしやすくなりました。今回実装されたアップデートは8月初旬に発表されていたものになります。 便利になったことは確かなのですが、どうやって使えばいいのかわからない人も多いのでは。 そこで、今回はChromeでGoogleレンズとGeminiを連携する方法につい...",
+          "link": "https://www.lifehacker.jp/article/2408-chrome-gemini-lens/",
+          "publishedOn": "2024-08-26T13:08:00.000Z",
+          "wordCount": 1047,
+          "title": "Googleレンズの使い勝手の良さが爆上がり！Chromeアプデでの機能向上がスゴすぎた | ライフハッカー・ジャパン",
+          "imageUrl": "https://media.loom-app.com/loom/2024/08/26/bafda12b-80c8-48ff-863a-4ca6a74a05d0/original.png?w=1280&h=630&f=jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/aiplus/articles/2408/26/news165.html",
+          "author": null,
+          "description": "“生成AI被害への訴訟費用”をクラウドファンディング──VTuber・潤羽るしあさんなどのデザインを担当したイラストレーター・やすゆき（＠yasu00kamiki）さんの投稿が話題になっている。やすゆきさんは、自身の著作物が生成AIに無断利用され、利用者との示談交渉も決裂したとして、提訴を決意したと発表。そのために必要な...",
+          "link": "https://www.itmedia.co.jp/aiplus/articles/2408/26/news165.html",
+          "publishedOn": "2024-08-26T12:06:41.000Z",
+          "wordCount": 2518,
+          "title": "“生成AI被害への訴訟費用”をクラウドファンディング──「潤羽るしあ」のイラストレーターが募集",
+          "imageUrl": "https://image.itmedia.co.jp/aiplus/articles/2408/26/cover_news165.jpg"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7ce7c3a5d2c3b997907e2666cca42fb661515121",
+          "author": null,
+          "description": "プログラミング関係の仕事に就きたいと思っているなら、「SQL」「Python」「Java」の習熟度向上を怠らないようにした方がよい。「2024 IEEE Spectrum Top Programming Languages」レポートによるとそのようだ。同レポートでは、雇用主が何を求めているかを調査している。 そのような結果を示す「Jobs」部門の順位では、...",
+          "link": "https://news.yahoo.co.jp/articles/7ce7c3a5d2c3b997907e2666cca42fb661515121",
+          "publishedOn": "2024-08-26T12:06:06.000Z",
+          "wordCount": 1727,
+          "title": "雇用主が求める言語は「SQL」「Python」「Java」--「IEEE Spectrum」レポート（ZDNET Japan） - Yahoo!ニュース",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20240826-35223162-zdnet-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUB268H40W4A820C2000000/",
+          "author": null,
+          "description": "ネット金融大手のSBIホールディングスは、人工知能（AI）サービスを手掛けるスタートアップ、プリファード・ネットワークス（東京・千代田）と資本業務提携する。第三者割当増資を引き受ける形で100億円程度を出資し、筆頭株主のトヨタ自動車に並ぶ大株主になる。プリファードのAI半導体の設計ノウハウを取り込み、AI半...",
+          "link": "https://www.nikkei.com/article/DGXZQOUB268H40W4A820C2000000/",
+          "publishedOn": "2024-08-26T12:05:35.000Z",
+          "wordCount": 294,
+          "title": "SBI、プリファードに100億円出資へ　AI半導体開発で協業 - 日本経済新聞",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO5281195026082024000000-1.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&fp-z=1&h=630&w=1200&s=674648cd9157bb121f2666cc88502657"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2024/08/lgt-wcstc01bk.html",
+          "author": null,
+          "description": "ロジテックの｢ほぼAirTag｣カード、なんとワイヤレス充電対応。最強では？2024.08.26 20:306,247 小暮ひさのり ロジテックの忘れ物防止タグ｢LGT-WCSTC01BK｣を発見してしまったのです。特徴は… ・厚み1.7mmのカード型。財布に最適 ・iPhoneからカードの位置を特定できる ・Appleの｢探す｣対応でエリア最強 ・バッテリーはワ...",
+          "link": "https://www.gizmodo.jp/2024/08/lgt-wcstc01bk.html",
+          "publishedOn": "2024-08-26T11:42:53.000Z",
+          "wordCount": 387,
+          "title": "ロジテックの｢ほぼAirTag｣カード、なんとワイヤレス充電対応。最強では？",
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/08/18/2024-08-18kak00.jpg?w=1280&h=630&f=jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2408/26/news156.html",
+          "author": null,
+          "description": "私立開成学園（開成高等学校）の食堂に、モバイル注文Webアプリ「学食ネット」が9月から導入される。食堂にある食券機に並ぶ列の混雑解消を目的としたもので、支払い方法にPayPayを導入。注文から決済までをオンラインで完結できるようになった。この学食ネットだが、制作したのは同校に通う2人の生徒だという。 開成学...",
+          "link": "https://www.itmedia.co.jp/news/articles/2408/26/news156.html",
+          "publishedOn": "2024-08-26T11:34:35.000Z",
+          "wordCount": 2831,
+          "title": "開成高校、学食決済にPayPay導入　生徒2人が注文アプリ自作　「食券購入の列無くしたい」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2408/26/cover_news156.jpg"
+        },
+        {
+          "id": "https://www.casio.com/jp/electronic-registers/information/",
+          "author": null,
+          "description": "CASIO IDで新しい体験を\n\\r\\n\"}}\" id=\"text-736e2c2f04\" class=\"cmp-text\"> CASIO IDで新しい体験を 平素より弊社の電子レジスターおよび店舗向けサービスをご愛顧いただき誠にありがとうございます。\n\\r\\nこの度、昨今の製造・物流コスト高騰や市場環境の変...",
+          "link": "https://www.casio.com/jp/electronic-registers/information/",
+          "publishedOn": "2024-08-26T10:12:13.000Z",
+          "wordCount": 1120,
+          "title": "電子レジスターおよび店舗向けサービスの提供事業終了について - お知らせ | CASIO",
+          "imageUrl": "https://www.casio.com/content/dam/casio/global/common/logo/casiologosns.png"
+        },
+        {
+          "id": "https://www.m3tech.blog/entry/iosdc-2024",
+          "author": null,
+          "description": "こんにちは、マルチデバイスチームの小林(@bakobox)です。 今年もiOSDCが開催されました🎉エムスリーは、シルバースポンサーとして協賛させていただきました。 私はday0はオンライン、day1とday2はオフラインで参加してきましたので、レポートを書きたいと思います。 iOSDC 2024 印象に残ったセッション4選 座談会 「Str...",
+          "link": "https://www.m3tech.blog/entry/iosdc-2024",
+          "publishedOn": "2024-08-26T09:37:49.000Z",
+          "wordCount": 615,
+          "title": "iOSDC Japan 2024に参加してきました - エムスリーテックブログ",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/m3tech/20240826/20240826170011.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1618562.html",
+          "author": null,
+          "description": "フリーの高機能テキストエディター「Mery」ベータ版が8月18日、v3.7.4へアップデートされた。「Migemo」を用いたローマ字検索が正式サポートされたほか、「DirectWrite」のフォールバックフォントでカスタムフォントを利用する機能などが搭載されている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1618562.html",
+          "publishedOn": "2024-08-26T09:05:33.000Z",
+          "wordCount": 5652,
+          "title": "無償テキストエディター「Mery」、Migemoを用いたローマ字検索に正式対応へ／カスタムフォントのフォールバックなどにも対応した最新ベータ版が公開",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1618/562/mery.jpg"
+        },
+        {
+          "id": "https://techblog.sega.jp/entry/sega_qe_work_202408",
+          "author": null,
+          "description": "お久しぶりです。セガの阪上です。前回の記事「QAエンジニアってどんな仕事？～ゲーム開発におけるテストの世界～」を寄稿してから6年が経ちました。今回は、前回の記事以降に発表した講演内容を振り返りつつ、前回紹介したQAエンジニアという職種から、クオリティエンジニアに役割を再定義した経緯について紹介します。...",
+          "link": "https://techblog.sega.jp/entry/sega_qe_work_202408",
+          "publishedOn": "2024-08-26T08:43:42.000Z",
+          "wordCount": 591,
+          "title": "クオリティエンジニアってどんな仕事？―ゲームの開発もQAも横断して自動化するプロジェクト専任エンジニア誕生の軌跡― - SEGA TECH Blog",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/s/sgtech/20240826/20240826095051.png"
+        },
+        {
+          "id": "https://inside.pixiv.blog/2024/08/26/160000",
+          "author": null,
+          "description": "まもなく17周年を迎えるpixivでは、長年にわたり作品などの全文検索基盤としてApache Solrを使用してきました。 しかし、サービスの規模が拡大する中で、従来の基盤に問題が生じていました。これを受けて、pixivでは全文検索基盤のリプレイスを実行しました。 今回のリプレイスにより、pixivでは検索結果の更新反映時間...",
+          "link": "https://inside.pixiv.blog/2024/08/26/160000",
+          "publishedOn": "2024-08-26T07:04:33.000Z",
+          "wordCount": 468,
+          "title": "pixivの全文検索基盤とElasticsearchによるリプレイス - pixiv inside",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/p/pxvpxv/20240823/20240823185025.png"
+        },
+        {
+          "id": "https://www.docswell.com/s/mountainboooy/KEXNG6-2024-08-26-133113",
+          "author": null,
+          "description": "以前は家電メーカーでハードウェアデザイナーとして携帯電話のデザイン業務に従事。仕事の中でUIとソフトウェアの面白さに惹かれ、退職後に慶応義塾大学大学院の政策・メディア研究科にて修士号を取得。その後iOSアプリの開発業務を経て、現在はHelpfeelにてWebサービスのUI/UX周りを開発しています。ビジュアルワークと...",
+          "link": "https://www.docswell.com/s/mountainboooy/KEXNG6-2024-08-26-133113",
+          "publishedOn": "2024-08-26T07:02:34.000Z",
+          "wordCount": 633,
+          "title": "売り上げに直結するデザイン施策 | ドクセル",
+          "imageUrl": "https://bcdn.docswell.com/page/VENG2M54J8.jpg?width=480"
+        },
+        {
+          "id": "https://zenn.dev/nem/articles/ade7b83cae2fa5",
+          "author": null,
+          "description": "技術選定の失敗 2年間を振り返る TypeScript,Hono,Nest.js,React,GraphQL はじめに 久々に記事を書いたのでどうぞお手柔らかに... 私が過去2年間で行った技術選定の成功と失敗を振り返り、その学びを共有したいと思います。 文才無いので淡々と箇条書きでいきます Twitterエンジニア垢作りました。エンジニアのお友達が...",
+          "link": "https://zenn.dev/nem/articles/ade7b83cae2fa5",
+          "publishedOn": "2024-08-26T04:50:35.000Z",
+          "wordCount": 989,
+          "title": "技術選定の失敗 2年間を振り返る TypeScript,Hono,Nest.js,React,GraphQL",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--U-9bDSeH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%258A%2580%25E8%25A1%2593%25E9%2581%25B8%25E5%25AE%259A%25E3%2581%25AE%25E5%25A4%25B1%25E6%2595%2597%25202%25E5%25B9%25B4%25E9%2596%2593%25E3%2582%2592%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258B%2520TypeScript%252CHono%252CNest.js%252CReact%252CGraphQL%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:MuliMuliSonnanMuli%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKeVQ5c0V2TUlZRnFEUWRhOVJpTzBaTjBNRXNQbGt1VmxtdXJmaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://n-yuji.hatenablog.jp/entry/2024/08/25/180000",
+          "author": null,
+          "description": "以下の記事は、Adobe Illustratorを使用した特色データ作成のコツです。ただしこれは、正しいデータの作り方とか、RGB入稿とか、そういう話ではまったくありません。特色をCMYKで出すやつとも無関係です。印刷通販の入稿ガイドなどとは、まるっきり違う話を書いています。初心者の方は読まないほうが良いです。 画面の色...",
+          "link": "https://n-yuji.hatenablog.jp/entry/2024/08/25/180000",
+          "publishedOn": "2024-08-26T04:49:49.000Z",
+          "wordCount": 254,
+          "title": "イラレで特色を使った印刷物のデザインをする場合、既存のDICスウォッチを使うのはやめて、RGBでスウォッチを作る - 遠近法ノート",
+          "imageUrl": "https://m.media-amazon.com/images/I/41duOHci69L._SL500_.jpg"
+        },
+        {
+          "id": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/",
+          "author": null,
+          "description": "vmsplice is too fast Some programs use a particular system call “vmsplice” to move data faster through a pipe. Francesco already did a deep dive on using vmsplice to make things fast. However, while experimenting with it, I noticed that, when not using vmsplice, Linux pipes are slower than what I...",
+          "link": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/",
+          "publishedOn": "2024-08-26T04:45:16.000Z",
+          "wordCount": 6377,
+          "title": "Linux Pipes are Slow | Quentin Santos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tak-dcxi.com/article/learning-by-example-flex-vs-grid-usage/",
+          "author": null,
+          "description": "タイムラインを見ていると「flexとgridの使い分けがよく分からないよ」という人が多く散見されるので、今回は僕が普段意識していることを皆さんに紹介します。 これから紹介することはあくまで僕のやり方で、絶対的な正解とかではないので参考程度に留めておいてください。実装において頻出するレイアウトをサンプルに、...",
+          "link": "https://www.tak-dcxi.com/article/learning-by-example-flex-vs-grid-usage/",
+          "publishedOn": "2024-08-26T04:31:06.000Z",
+          "wordCount": 3816,
+          "title": "実例で学ぶFlexboxとCSS Gridの使い分け – TAKLOG",
+          "imageUrl": "https://www.tak-dcxi.com/og/learning-by-example-flex-vs-grid-usage.png"
+        },
+        {
+          "id": "https://logmi.jp/tech/articles/330889",
+          "author": null,
+          "description": "Engineering ManagerによるEngineering ManagerのためのPodcast「EM . FM」。単なるスキルの蓄積ではなく、問題設定力と解決力の融合、探究心の重要性、そしてキャリアパスにおける位置づけまで、幅広い視点から「技術力」の真の姿を探ります。AI時代におけるエンジニアの役割にも触れ、技術者に求められる本質的な能力...",
+          "link": "https://logmi.jp/tech/articles/330889",
+          "publishedOn": "2024-08-26T04:23:02.000Z",
+          "wordCount": 566,
+          "title": "単なるスキル習得ではない「技術力の本質」とは？　問題解決と探究心の深層に迫る重要性",
+          "imageUrl": "https://img.logmi.jp/article_images/URyNSsT6f1ZXw22TKormUR.jpg"
+        },
+        {
+          "id": "https://note.com/deliku0306/n/n37f3bf1e8212",
+          "author": null,
+          "description": "バッチ実行環境を EC2+cron から StepFunctions + ECSonFargate + EventBridge に移行しました 新しく発足したシステム戦略推進チームの delikuです！ これまでPRONIアイミツシステムの定時バッチは、EC2 + cron で稼働していましたが、この度 cron + EC2 環境を脱却し、新しくマネージド環境に移行するようにしました。...",
+          "link": "https://note.com/deliku0306/n/n37f3bf1e8212",
+          "publishedOn": "2024-08-26T03:41:04.000Z",
+          "wordCount": 2809,
+          "title": "バッチ実行環境を EC2+cron から StepFunctions + ECSonFargate + EventBridge に移行しました｜deliku＠PRONI",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/151768068/rectangle_large_type_2_bc4595712c10df950e3ebffffb82c5d1.png?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20240826113845",
+          "author": null,
+          "description": "eKYC(免許証とかを平置きで撮影したり、斜めに保持して撮影したりするやつ)で、ガイド枠に合わせて撮影すると絶対にピントが合わない 他にも、日本で一番使われてるLINEアプリでさえ、近づいて撮影するとピンボケしちゃうし、QRコードを読み込んで云々のアプリとかもだいたいダメ 原因はiPhone14pro,14proMax,15pro,15pr...",
+          "link": "https://anond.hatelabo.jp/20240826113845",
+          "publishedOn": "2024-08-26T03:08:18.000Z",
+          "wordCount": 587,
+          "title": "日本でiPhoneの保有比率が高いのは嘘か、日本のIT技術が劣っているかの",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://zenn.dev/akfm/books/nextjs-basic-principle",
+          "author": null,
+          "description": "Next.js App Routerにおける設計やベストプラクティスを、筆者なりにまとめました。",
+          "link": "https://zenn.dev/akfm/books/nextjs-basic-principle",
+          "publishedOn": "2024-08-26T01:19:30.000Z",
+          "wordCount": 120,
+          "title": "Next.jsの考え方",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--AD4qcBOx--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci80MDI3ZWQyZGM4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+        },
+        {
+          "id": "https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d",
+          "author": null,
+          "description": "2023年版データ分析の100冊 が好評でしたので、2024年版を作りましたよ。 本記事のめあて IT系の技術者の方がデータ分析関連の仕事をするために役立つ本を紹介する（私が学び始めた時にあれば欣喜雀躍したであろう）記事として書いております 本記事作者の青木はバイオインフォマティクス（ゲノムデータのDB化中心・Perl...",
+          "link": "https://qiita.com/aokikenichi/items/0e064ecd3824fab9424d",
+          "publishedOn": "2024-08-26T01:00:17.000Z",
+          "wordCount": 6708,
+          "title": "2024年版機械学習・データ分析の必須10冊+ガチ90冊+Next5冊=105冊 - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9MjAyNCVFNSVCOSVCNCVFNyU4OSU4OCVFNiVBOSU5RiVFNiVBMiVCMCVFNSVBRCVBNiVFNyVCRiU5MiVFMyU4MyVCQiVFMyU4MyU4NyVFMyU4MyVCQyVFMyU4MiVCRiVFNSU4OCU4NiVFNiU5RSU5MCVFMyU4MSVBRSVFNSVCRiU4NSVFOSVBMCU4ODEwJUU1JTg2JThBJTJCJUUzJTgyJUFDJUUzJTgzJTgxOTAlRTUlODYlOEElMkJOZXh0NSVFNSU4NiU4QSUzRDEwNSVFNSU4NiU4QSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9MWYwYmY1ODMyODAzMzJkMDBlMGIzNDUyNzc1OTA4Mjc&mark-x=142&mark-y=57&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBhb2tpa2VuaWNoaSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YWEyNDIwNDNmMjRmYzllMjdiZWY0MjMxYjUyMzY5MWQ&blend-x=142&blend-y=486&blend-mode=normal&s=dc5cbedf830a6f5689a2236134850806"
+        },
+        {
+          "id": "https://techblog.insightedge.jp/entry/presentation-material-creation-lecture",
+          "author": null,
+          "description": "Introduction こんにちは、データサイエンティストの善之です。 Insight Edgeの分析チームでは、有志が技術テーマについて1時間枠で講義し、チーム内でディスカッションを行う「技術研修会」を不定期に実施しています。 先日の研修会では、チーム内でのアンケート結果から最も希望が多かった「プレゼン資料作成術」をテ...",
+          "link": "https://techblog.insightedge.jp/entry/presentation-material-creation-lecture",
+          "publishedOn": "2024-08-26T00:34:55.000Z",
+          "wordCount": 769,
+          "title": "技術者も知っておくべきプレゼン資料作成術：社内研修会レポート - Insight Edge Tech Blog",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/insightedge/20240826/20240826090043.png"
+        },
+        {
           "id": "https://blog.sre-next.dev/entry/2024/08/26/090342",
           "author": null,
           "description": "はじめに 開催概要 2025テーマ「Talk NEXT」 SRE NEXT とは Road to SRE NEXT さいごに はじめに こんにちは渡部です。SRE NEXT 2024でアナウンスがありましたが、SRE NEXT 2025の開催が正式に決定しました！！Co-Chairは私と岩堀さんになります。 2025年に開催されるSRE NEXTは、第5回目の開催となります。過去4回の開...",
@@ -1614,6 +1949,16 @@
           "wordCount": 448,
           "title": "SRE NEXT 2025を開催します - SRE NEXT Staff Blog",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/r/ryuichi1208/20240813/20240813135515.jpg"
+        },
+        {
+          "id": "https://yamdas.hatenablog.com/entry/20240826/amazon-ai-assisted-code-transformation",
+          "author": null,
+          "description": "Amazon のアンディ・ジャシー CEO の以下の投稿が話題になっている。 One of the most tedious (but critical tasks) for software development teams is updating foundational software. It’s not new feature work, and it doesn’t feel like you’re moving the experience forward. As a result, this work is eithe...",
+          "link": "https://yamdas.hatenablog.com/entry/20240826/amazon-ai-assisted-code-transformation",
+          "publishedOn": "2024-08-25T23:32:28.000Z",
+          "wordCount": 1128,
+          "title": "Amazonは生成AIアシスタントで開発者4500人年の工数を節約し、年間2億6000万ドルもの効率向上を実現したって？ - YAMDAS現更新履歴",
+          "imageUrl": "https://m.media-amazon.com/images/I/415HYHj3JbL._SL500_.jpg"
         },
         {
           "id": "https://internet.watch.impress.co.jp/docs/column/shimizu/1616648.html",
@@ -1803,6 +2148,16 @@
           "publishedOn": "2024-08-25T02:20:44.000Z",
           "wordCount": 1703,
           "title": "【悲報】新型iPhone SE4、約10万円からかもｗｗｗｗｗｗｗｗｗｗｗ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.city.hida.gifu.jp/soshiki/58/64912.html",
+          "author": null,
+          "description": "次のとおり職員の処分を行いましたのでお知らせします。 ※本処分にかかる過去の発表内容は別ページからご覧ください。 1.処分事由の概要​ 総務部主任は、担当する市県民税の課税作業の一部を遂行することなく未処理のまま放置し、また、処理に窮した課税資料を自席の中及び書庫に秘匿したことにより、一部の納税者に対し...",
+          "link": "https://www.city.hida.gifu.jp/soshiki/58/64912.html",
+          "publishedOn": "2024-08-25T02:09:27.000Z",
+          "wordCount": 298,
+          "title": "本市職員の懲戒処分等について - 飛騨市公式ウェブサイト",
           "imageUrl": null
         },
         {
@@ -2354,6 +2709,16 @@
           "wordCount": 1477,
           "title": "サポート切れのCentOS 6/7から最新Linux OSへの自動アップグレードツール「ELevate」がアップデート。ハードウェア互換性チェック、サードパーティリポジトリ対応など",
           "imageUrl": "https://www.publickey1.jp/2024/elevate2024.png"
+        },
+        {
+          "id": "https://kakakumag.com/pc-smartphone/?id=21213",
+          "author": null,
+          "description": "2024年8月22日に発売されたシャオミの小型タブレット「Redmi Pad SE 8.7」。Wi-Fiモデルは最安で16,980円（税込）という驚きのコスパだが、セルラーモデル「Redmi Pad SE 8.7 4G」が用意されておりバリエーションも豊富だ。セルラーモデルを使いその実力に迫った。",
+          "link": "https://kakakumag.com/pc-smartphone/?id=21213",
+          "publishedOn": "2024-08-22T15:09:28.000Z",
+          "wordCount": 1561,
+          "title": "巨大スマホ！？ 約1.7万円の格安8インチタブレット「Redmi Pad SE 8.7」を試す - 価格.comマガジン",
+          "imageUrl": "https://img1.kakaku.k-img.com/images/maga/21213/thumbnail_ogp.jpg?v=20240724"
         },
         {
           "id": "https://photoshopvip.net/160306",
@@ -9604,166 +9969,6 @@
           "wordCount": 569,
           "title": "改行可能な ruby 要素と CSS ruby-align プロパティ  |  Blog  |  Chrome for Developers",
           "imageUrl": "https://developer.chrome.com/static/blog/line-breakable-ruby/image/thumb.png?hl=ja"
-        },
-        {
-          "id": "https://azukiazusa.dev/blog/css-random-function/",
-          "author": null,
-          "description": "CSS でランダムな値を扱う `random()` と `random-item()` 関数 2024.07.28 `random()` と `random-item()` 関数は CSS でランダムな値を扱うための関数です。`random()` 関数は最小値と最大値を引数に取り、その範囲内のランダムな数値を返します。`random-item()` 関数は引数に渡したリストの中からランダムに 1 つの...",
-          "link": "https://azukiazusa.dev/blog/css-random-function/",
-          "publishedOn": "2024-07-28T11:46:39.000Z",
-          "wordCount": 2022,
-          "title": "CSS でランダムな値を扱う `random()` と `random-item()` 関数",
-          "imageUrl": "https://azukiazusa.dev/blog/ogp/css-random-function.png"
-        },
-        {
-          "id": "https://qiita.com/hirokazu_nakao/items/3008f163de99763777b2",
-          "author": null,
-          "description": "エンジニアのみなさま、日々の学習本当にお疲れ様です！ また本記事まで足を運んでいただき本当に感謝です。 約1分程度で読めるので最後まで読んでもらえると幸いです。 はじめに コードを書くのに慣れてくると、いちいちコードを書くのが煩わしくなりませんか？ そんな時 Visual Studio Code（以下、VSCode） の Emmet...",
-          "link": "https://qiita.com/hirokazu_nakao/items/3008f163de99763777b2",
-          "publishedOn": "2024-07-28T11:32:31.000Z",
-          "wordCount": 598,
-          "title": "Visual Studio Code の Emmet機能を使ってコードを楽に書こう - Qiita",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9VmlzdWFsJTIwU3R1ZGlvJTIwQ29kZSUyMCVFMyU4MSVBRSUyMEVtbWV0JUU2JUE5JTlGJUU4JTgzJUJEJUUzJTgyJTkyJUU0JUJEJUJGJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJTkyJUU2JUE1JUJEJUUzJTgxJUFCJUU2JTlCJUI4JUUzJTgxJTkzJUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmcz1jZmMyZWQzMjEyNTNlMjdjMjNhMWYwMjM1NDAzNWMwNw&mark-x=142&mark-y=57&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDBoaXJva2F6dV9uYWthbyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9Mzc4ZTM0YmY2MzQ5OGFhZGE4OGQ2OGI1ZTM5ODAxZmM&blend-x=142&blend-y=436&blend-mode=normal&txt64=aW4g5qCq5byP5Lya56S-UFJVTQ&txt-width=770&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=36&txt-x=156&txt-y=536&s=053cfbf202d42750408ffeade8a8209c"
-        },
-        {
-          "id": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250",
-          "author": null,
-          "description": "README.md Node.jsのTypeScriptサポートについて Date: 2024-07-28 Node.jsのTypeScriptサポートに関する議論を時系列でまとめたものです。 Start Issue: Support typescript with --experimental-strip-types · Issue #208 · nodejs/loaders SWCを使ってTypeScriptの型を削除することで、Node.jsのTypeScriptサポートを...",
-          "link": "https://gist.github.com/azu/ac5dafbf211ef8b5ecf386930ac75250",
-          "publishedOn": "2024-07-28T11:04:11.000Z",
-          "wordCount": 495,
-          "title": "Node.jsのTypeScriptサポートについて",
-          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2407/20/news058.html",
-          "author": null,
-          "description": "USB 3.1 Gen 1＋USB PD 100W対応で330円！ パッケージは簡単で、中身もケーブルが1本入っているのみ。ケーブル長は1mで、データ伝送はUSB 3.2 Gen 1（USB 3.0／USB 5Gbps）に対応している上、USB PD（Power Delivery）において60W超の電流を通す場合に必須の「eMarker」も内蔵されている。これで330円というのは、スペッ...",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2407/20/news058.html",
-          "publishedOn": "2024-07-28T10:51:26.000Z",
-          "wordCount": 2936,
-          "title": "USB 3.2 Gen 1対応で本当に330円!?　ダイソーで330円の「USB Type-C充電・転送ケーブル」に“死角”はないのか？",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2407/20/cover_news058.jpg"
-        },
-        {
-          "id": "https://vercel.com/blog/how-to-choose-the-best-rendering-strategy-for-your-app",
-          "author": null,
-          "description": "How to choose the best rendering strategy for your appOptimizing performance in the way you deliver code. Web rendering has evolved from simple server-rendered HTML pages to highly interactive and dynamic applications, and there are more ways than ever to present your app to users. Static Site Ge...",
-          "link": "https://vercel.com/blog/how-to-choose-the-best-rendering-strategy-for-your-app",
-          "publishedOn": "2024-07-28T10:07:01.000Z",
-          "wordCount": 5513,
-          "title": "How to choose the best rendering strategy for your app – Vercel",
-          "imageUrl": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3V5fQjyHH8dyehTrwR0Wp5/4143fa8d3679c54dff891446e75cb53d/how-to-choose-the-right-rendering-strategy-for-your-application.png"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20240728163957",
-          "author": null,
-          "description": "どう考えても個人に対する誹謗中傷をコメントしているので、いつか訴えられるだろうなと思っている 集団で他人をイジっていることに誰も気づいていないんだよ 馬鹿だなってコメントも100個集まれば立派な誹謗中傷だし、書いてる人は正しいこと書いてると自負しているので止められない 俺もそうだが、はてぶはとにかく正...",
-          "link": "https://anond.hatelabo.jp/20240728163957",
-          "publishedOn": "2024-07-28T07:45:03.000Z",
-          "wordCount": 658,
-          "title": "ブクマカだけど訴えられるか不安",
-          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://togetter.com/li/2409082",
-          "author": null,
-          "description": "デゴチ @degochiyakuri 『無いものは作る』をモットーに、おバカな工作ばかりしていたら薬理凶室の怪人になりました。ラジオライフのアリエナイ理科で工作の記事を書いたりしています。エネルギー源はビールとルマンドです。 youtube.com/c/degochi5 デゴチ @degochiyakuri たまに『ルールは破るためにある』とアホな事...",
-          "link": "https://togetter.com/li/2409082",
-          "publishedOn": "2024-07-28T03:31:41.000Z",
-          "wordCount": 651,
-          "title": "「ルールは破る為にある」と言う人が居るが、高専ロボコンでは、『違反では無いが想定してなかった解釈』を探す→「スプレもんという伝説」",
-          "imageUrl": "https://s.tgstc.com/ogp3/426b560954d994048020f8c5d27711d5-1200x630.jpeg"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/211/4211356/",
-          "author": null,
-          "description": "こんにちは、漫画界の生き恥こと野火城と申します。 「画像AI使ってみた／AI漫画実験企画」第4回です！ ■第1回はこちら　体験して見えた、その実力と課題!! ■第2回はこちら　AIで今風の手描きっぽい漫画を作ってみる ■第3回はこちら　生成AIで少女漫画に挑戦! その成り立ちから様々な議論を呼んでいる画像生成AIですが、...",
-          "link": "https://ascii.jp/elem/000/004/211/4211356/",
-          "publishedOn": "2024-07-28T03:20:47.000Z",
-          "wordCount": 1144,
-          "title": "漫画制作を爆速化！ 生成AIをフル活用して時短してみた (1/5)",
-          "imageUrl": "https://ascii.jp/img/2024/07/22/3768538/xl/9df157aa9657f261.jpg?20200122"
-        },
-        {
-          "id": "https://techtarget.itmedia.co.jp/tt/news/2407/28/news02.html",
-          "author": null,
-          "description": "関連キーワード Windows 10 | Windows 11 | Windows | Microsoft（マイクロソフト） Microsoftは、クライアントOS「Windows 10」のサポート終了日を2025年10月14日に設定している。基本的にはその日までに「Windows 11」への移行が必要になる。Windows 10までの「Windows」を搭載する現行PCで、Windows 11に移行できる条...",
-          "link": "https://techtarget.itmedia.co.jp/tt/news/2407/28/news02.html",
-          "publishedOn": "2024-07-28T02:36:59.000Z",
-          "wordCount": 1855,
-          "title": "旧式Windows PCでも「Windows 11」に移行できる“最低限の条件”はこれだ",
-          "imageUrl": "https://image.itmedia.co.jp/tt/news/2407/28/cover_news02.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2407/25/news076.html",
-          "author": null,
-          "description": "インターネットが生活の一部となった現代、スマートフォンは欠かせないツールとなりました。その便利さの一方で、常にネットが気になり、無意識にスマートフォンを手にしてしまう、あるいは暇つぶしにふけってしまうという人も少なくないでしょう。 こうした状況を受け、近年「デジタルウェルネス」や「デジタルウェルビ...",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2407/25/news076.html",
-          "publishedOn": "2024-07-28T01:09:21.000Z",
-          "wordCount": 2876,
-          "title": "ガラケー風デザインからネットにつながらないモデルまで　スマホ依存の脱却に有効な“退屈な携帯”まとめ",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2407/25/cover_news076.jpg"
-        },
-        {
-          "id": "https://togetter.com/li/2409066",
-          "author": null,
-          "description": "いぐぞー ✈️ 旅するプログラマー @igz0 「日本が世界最強の技術国家だった時代」の半導体産業について書かれた本を読んでいるんだけど、日本にもスティーブ・ジョブズが降臨してるじゃん？？？ なんでだよ？？ 「日本からスティーブ・ジョブズは生まれない」って風潮になったのは？？？ pic.twitter.com/JR2DxFLTPi",
-          "link": "https://togetter.com/li/2409066",
-          "publishedOn": "2024-07-27T21:45:33.000Z",
-          "wordCount": 658,
-          "title": "「日本が世界最強の技術国家だった時代」の半導体産業について書かれた本を読んでいるんだけど、日本にもスティーブ・ジョブズが降臨していた話→「日本からスティーブ・ジョブズは生まれない」って風潮になったのはなぜ？",
-          "imageUrl": "https://s.tgstc.com/ogp3/88123d75dfc277aa07d6423baceee644-1200x630.jpeg"
-        },
-        {
-          "id": "https://speakerdeck.com/77web/speed-is-power-2024-number-techramen2024conf-number-shoyu",
-          "author": null,
-          "description": "TechRAMEN 2024 Conferenceで発表した「すばやく実装するための戦略とテクニック2024年版」のスライドです。 https://fortee.jp/techramen-24-conf/proposal/ce8ce247-ffd3-4458-842d-ef3df3b5bf6c …",
-          "link": "https://speakerdeck.com/77web/speed-is-power-2024-number-techramen2024conf-number-shoyu",
-          "publishedOn": "2024-07-27T16:37:09.000Z",
-          "wordCount": 809,
-          "title": "すばやく実装するための戦略とテクニック2024 / speed is power! 2024 #techramen24conf #shoyu",
-          "imageUrl": "https://files.speakerdeck.com/presentations/8f4ba86d640146039890515c1ad22ce3/slide_0.jpg?31142740"
-        },
-        {
-          "id": "https://qiita.com/uhyo/items/3855efd0d6c00c9f9c0f",
-          "author": null,
-          "description": "先日、TypeScript 5.6 Betaが公開され、あわせてリリースノートも出ました。 この記事では、TS 5.6の新機能の中でもIterator helpersに注目します。特に、Iterator helpersのサポートに合わせて型定義に追加されたBuiltinIteratorsやBuiltinAsyncIteratorsについて解説します。 Iterator helpersとは Iterator helpersは...",
-          "link": "https://qiita.com/uhyo/items/3855efd0d6c00c9f9c0f",
-          "publishedOn": "2024-07-27T13:26:44.000Z",
-          "wordCount": 3379,
-          "title": "TS 5.6のiterator helpersサポート――BuiltinIteratorsのwhat & whyを知る - Qiita",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-412672c5f0600ab9a64263b751f1bc81.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9VFMlMjA1LjYlRTMlODElQUVpdGVyYXRvciUyMGhlbHBlcnMlRTMlODIlQjUlRTMlODMlOUQlRTMlODMlQkMlRTMlODMlODglRTIlODAlOTUlRTIlODAlOTVCdWlsdGluSXRlcmF0b3JzJUUzJTgxJUFFd2hhdCUyMCUyNiUyMHdoeSVFMyU4MiU5MiVFNyU5RiVBNSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnM9YjE0ZWExOTZhNjA1N2QwNjFkNjlkNjliOGJkMGViMWU&mark-x=142&mark-y=57&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9NzcwJnR4dD0lNDB1aHlvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lZTUzM2Y2OGFlOTU4OTQzZGJhYmUyZjRmNzcwNGI3Mg&blend-x=142&blend-y=486&blend-mode=normal&s=8756535658dbbcab14a17730fd17f940"
-        },
-        {
-          "id": "https://www.geekpage.jp/blog/?id=2024-7-27-1",
-          "author": null,
-          "description": "IPv4アドレスの中央在庫が2011年に枯渇後、IPv4アドレスの移転や、移転に伴う金銭のやり取りが行われるIPv4アドレス売買が行われるようになりました。 今回、2024年7月でのIPv4アドレス価格や、どのような組織が移転を多く行っているのかを調べてました。 IPv4アドレス価格推移 IPv4アドレス価格は、2021年に急激に上昇...",
-          "link": "https://www.geekpage.jp/blog/?id=2024-7-27-1",
-          "publishedOn": "2024-07-27T13:23:17.000Z",
-          "wordCount": 748,
-          "title": "IPv4アドレス移転の売買価格推移および移転組織ランキング100:Geekなぺーじ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://softantenna.com/blog/intel-13-14-cpu-damage/",
-          "author": null,
-          "description": "Intelは先日、不安点な動作が指摘されている第13/14世代のIntel Coreデスクトッププロセッサーに対し、マイクロコードのアップデート8月中旬にリリースすることと明らかにしました。 しかし今回、The Vergeは、CPUがすでにクラッシュしている場合はこのパッチは効果がなく、問題を解決することはできないと主張していま...",
-          "link": "https://softantenna.com/blog/intel-13-14-cpu-damage/",
-          "publishedOn": "2024-07-27T13:14:07.000Z",
-          "wordCount": 1849,
-          "title": "【悲報】Intelの第13/14世代CPUがクラッシュする問題の解決策は無し。ダメージは恒久的なものに | ソフトアンテナ",
-          "imageUrl": "https://softantenna.com/blog/wp-content/uploads/2024/07/intel-core-12th-gen-1.jpg"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/aws-start-to-restrict-codecommit-and-cloudsearch/",
-          "author": null,
-          "description": "AWS CodeCommitの新規リポジトリ作成とAmazon CloudSearchの新規ドメイン作成が制限されはじめた様です しばたです。 いつもの日課でAWS CLIの更新履歴を追っていたですが、本日時点で最新のVer.2.17.18において次の変更を見つけました。 api-change:codecommit: CreateRepository API now throws OperationNotAllowedEx...",
-          "link": "https://dev.classmethod.jp/articles/aws-start-to-restrict-codecommit-and-cloudsearch/",
-          "publishedOn": "2024-07-27T13:08:49.000Z",
-          "wordCount": 7163,
-          "title": "AWS CodeCommitの新規リポジトリ作成とAmazon CloudSearchの新規ドメイン作成が制限されはじめた様です | DevelopersIO",
-          "imageUrl": "https://images.ctfassets.net/ct0aopd36mqt/wp-thumbnail-01f645e8cf038bf4c6e0796c7773a747/32d5c9fa1719514412fb335fe859d09c/aws-codecommit"
         }
       ]
     },
@@ -9772,6 +9977,96 @@
       "feedUrl": "http://feeds.japan.cnet.com/rss/cnet/all.rdf",
       "siteUrl": "https://japan.cnet.com",
       "articles": [
+        {
+          "id": "https://japan.cnet.com/article/35223184/",
+          "author": "藤代格",
+          "description": "楽天グループは8月26日、同日からオンライン書店「楽天ブックス」において、急いで荷物を受け取る必要のないユーザー向けの新配送方法「待っトク便」を開始した。",
+          "link": "https://japan.cnet.com/article/35223184/",
+          "publishedOn": "2024-08-27T00:00:00.000Z",
+          "wordCount": 2579,
+          "title": "楽天ブックス、「ゆうメール」で発送する「待っトク便」--1出荷あたり10ポイント進呈",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/26/939b321c33de87ad9581e982a050f648/24Aug26_rakutenB_000.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35223181/",
+          "author": "加納恵",
+          "description": "積水ハウスと積水ハウス イノベーション＆コミュニケーションは、東京都港区赤坂にオープンイノベーション施設「InnoCom Square（イノコム・スクエア）」を開設した。スタートアップらとのオープンイノベーションを推進するとともに、人材育成の場としても機能する。",
+          "link": "https://japan.cnet.com/article/35223181/",
+          "publishedOn": "2024-08-26T23:30:00.000Z",
+          "wordCount": 3427,
+          "title": "積水ハウス、赤坂に共創拠点--スタートアップと「この指とまれ」で協業推進",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/26/32e90eb8019952739d0e77b7d9b2ed9f/240826_sekisuihouse_01.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35223191/",
+          "author": "Mike Sorrentino （CNET News） 翻訳校正： 編集部",
+          "description": "アップルは次の新製品発表会を米国時間9月9日に開催する。「iPhone 16」のラインアップが中心になることが予想される一方、招待状にはいくつかの手がかりが示されている可能性もある。",
+          "link": "https://japan.cnet.com/article/35223191/",
+          "publishedOn": "2024-08-26T23:17:00.000Z",
+          "wordCount": 2664,
+          "title": "アップルの招待状は何を意味するのか--「iPhone」発表会の内容を推測",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/27/ef3b3f2c5b756be7b56e0d2f6711fd51/invite-apple-event-090924_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35223185/",
+          "author": "藤代格",
+          "description": "アバターや生成AI技術を活用したサービスを開発・提供するAVITAは8月23日、シリーズAラウンドでパソナグループ、三井住友銀行、塩野義製薬、国際電気通信基礎技術研究所、サントリーホールディングス、アドバンスクリエイトの事業会社6社から13億7000万円の資金調達を実施したことを発表した。",
+          "link": "https://japan.cnet.com/article/35223185/",
+          "publishedOn": "2024-08-26T23:00:00.000Z",
+          "wordCount": 2580,
+          "title": "アバター接客サービス「AVACOM」のAVITA、事業会社6社から13.7億円を調達",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/26/997a61a2a412e07854342cfb6441695f/24Aug26_avita_000.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35223189/",
+          "author": "小口貴宏",
+          "description": "アップルは日本時間9月10日午前2時に発表会を開催する。例年、この時期にはiPhoneの新製品が発表されており、同イベントでは「iPhone 16」シリーズ（仮称）が発表される可能性が高い。",
+          "link": "https://japan.cnet.com/article/35223189/",
+          "publishedOn": "2024-08-26T21:39:00.000Z",
+          "wordCount": 2577,
+          "title": "「iPhone 16」発表へ--9月10日午前2時（日本時間）にアップルがイベント開催",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/27/71d87b8a0d836ffbe272d55abfa36db5/apple.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35223171/",
+          "author": "小口貴宏",
+          "description": "デジタル大臣を務める河野太郎氏は8月26日、自由民主党（自民党）総裁選への立候補を表明した。その記者会見の場で河野氏は、X（旧Twitter）上で一般ユーザーを多数ブロックしている自身の行為について「誹謗中傷してきた人をブロックする行為は当然で、ブロックが批判される風潮は危険だ」と反論した。",
+          "link": "https://japan.cnet.com/article/35223171/",
+          "publishedOn": "2024-08-26T06:50:00.000Z",
+          "wordCount": 2574,
+          "title": "出馬の河野太郎氏、「Xでブロックする人に総理大臣の資質はあるのか」指摘に反論（全文）",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/26/b52063260b9b4c0f38eb466ff3559482/kouno-san2.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35223170/",
+          "author": "佐藤和也",
+          "description": "SMBCグループのプラリタウンとフリー（freee）は8月26日、共同でSaaSの導入支援サービスやBPRコンサルティング事業を提供するインクループの設立を発表した。",
+          "link": "https://japan.cnet.com/article/35223170/",
+          "publishedOn": "2024-08-26T05:55:00.000Z",
+          "wordCount": 2582,
+          "title": "freeeとSMBCグループのプラリタウン、SaaS導入支援サービスを提供する新会社を共同設立",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/26/869c04ce70353e08c61b2109980b0805/20240826freeetop_640.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35222794/",
+          "author": "草深生馬（RECCOO CHRO）",
+          "description": "就活スケジュールの中でも特に大きなポイントとなる夏インターンが佳境を迎えています。Z世代の就活傾向が大きく変化する中で、企業はそれに対応してどのような採用方法を取るべきなのでしょうか？　Google人事部で新卒採用を担当していた草深生馬氏（くさぶか・いくま／現RECCOO CHRO）が、解説します。",
+          "link": "https://japan.cnet.com/article/35222794/",
+          "publishedOn": "2024-08-26T02:00:00.000Z",
+          "wordCount": 2668,
+          "title": "26卒採用が重要時期に突入--最新傾向を踏まえた「新卒採用の勝ち筋」とは",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/15/a638e6b6106a6678e96ba726f03a03bd/20240816shukatu02top_640.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35223154/",
+          "author": "Omar Gallaga （CNET News） 翻訳校正： 編集部",
+          "description": "Metaの研究部門Reality Labsが、アップルの「Vision Pro」に対抗する高性能な複合現実（MR）ヘッドセットのプロジェクトを中止したという。The Informationが報じた。",
+          "link": "https://japan.cnet.com/article/35223154/",
+          "publishedOn": "2024-08-26T01:44:00.000Z",
+          "wordCount": 2614,
+          "title": "Meta、アップルの「Vision Pro」に対抗する製品の計画を中止か",
+          "imageUrl": "https://japan.cnet.com/storage/2024/08/26/d6fbe17bfcd850e5b65a2ec491fbdff5/metaquest3_1280x960.jpg"
+        },
         {
           "id": "https://japan.cnet.com/article/35223126/",
           "author": "加納恵",
