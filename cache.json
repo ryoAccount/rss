@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382613",
+          "author": "Juan Diego Rodríguez",
+          "description": "Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.\nSolved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/solved-by-css-donuts-scopes/",
+          "publishedOn": "2024-11-22T13:50:55.000Z",
+          "wordCount": 3026,
+          "title": "Solved by CSS: Donuts Scopes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/donut-scope.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382572",
           "author": "Daniel Schwarz",
           "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.\nInvoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -140,31 +150,6 @@
           "wordCount": 1480,
           "title": "You can use text-wrap: balance; on icons",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382008",
-          "author": "Zell Liew",
-          "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
-          "publishedOn": "2024-10-23T13:20:46.000Z",
-          "wordCount": 2456,
-          "title": "Clarifying the Relationship Between Popovers and Dialogs",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382008"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381992",
-          "author": "Geoff Graham",
-          "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …\nClamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
-          "publishedOn": "2024-10-23T13:15:20.000Z",
-          "wordCount": 1459,
-          "title": "Clamp it! VS Code extension",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
-            "length": "549889",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381992"
         }
       ]
     },
@@ -173,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
+          "author": "hello@smashingmagazine.com (Victoria Nduka)",
+          "description": "Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.",
+          "link": "https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/",
+          "publishedOn": "2024-11-22T09:00:00.000Z",
+          "wordCount": 5810,
+          "title": "Why You Should Speak At Events As An Early-Career Professional",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/why-you-speak-events-early-career-professional/why-you-speak-events-early-career-professional.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
@@ -285,6 +285,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6740bf4cd3bb67c73837c3ef",
+          "author": "Obum",
+          "description": "Role Based Access Control (RBAC) is a useful authorization model for users with different access levels, such as those in a community dashboard. In this article, you’ll learn how to integrate this type of authorization with Permit.io in Nuxt. Table o...",
+          "link": "https://www.freecodecamp.org/news/rbac-community-dashboard-with-nuxt/",
+          "publishedOn": "2024-11-22T17:28:44.000Z",
+          "wordCount": 2973,
+          "title": "How to Implement RBAC in a Community Dashboard with Nuxt",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732043730534/d88680d7-2590-4541-9120-40a43c3724ef.png"
+        },
+        {
+          "id": "6740b5ae31fc8f5b09184849",
+          "author": "Chidera Humphrey",
+          "description": "Forms are essential in modern websites, as they help you collect your users’ information. So knowing how to handle forms properly is crucial when you’re building web applications. In this article, you will learn how to handle forms in Next.js using s...",
+          "link": "https://www.freecodecamp.org/news/handling-forms-nextjs-server-actions-zod/",
+          "publishedOn": "2024-11-22T16:47:42.000Z",
+          "wordCount": 2628,
+          "title": "How to Handle Forms in Next.js with Server Actions and Zod for Validation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732137561737/293681e0-d2f4-4d88-9fbe-f7e5e9113554.png"
+        },
+        {
+          "id": "6740ac934465e258a6ed9ff7",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Eamonn Cottrell. He's a software engineer who also runs a local chain of coffee shops in Knoxville. Eamonn taught himself to code using freeCodeCamp. And he's since published 37 freeCodeCamp tutorial...",
+          "link": "https://www.freecodecamp.org/news/self-taught-coding-automating-coffee-shop-chain-eamonn-cottrell-interview-151/",
+          "publishedOn": "2024-11-22T16:08:51.000Z",
+          "wordCount": 1168,
+          "title": "Automating a coffee shop chain using self-taught coding skills with Eamonn Cottrell [Interview #151]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732291205597/f1fc0cf3-a295-43be-9dd7-ecc4784bd71a.jpeg"
+        },
+        {
+          "id": "67409b36d94f5ae0c0e97650",
+          "author": "German Cocca",
+          "description": "As a developer with experience in JavaScript, you likely know how versatile the language is, especially when it comes to web development. JavaScript powers both frontend and backend development (thanks to Node.js) and has grown to become one of the m...",
+          "link": "https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/",
+          "publishedOn": "2024-11-22T14:54:46.000Z",
+          "wordCount": 11479,
+          "title": "How to Learn Python for JavaScript Developers [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732278833514/c23ea6ad-25b9-45c9-a7a7-c32499ca1d8b.jpeg"
+        },
         {
           "id": "673e738139346c3d3174676e",
           "author": "Temani Afif",
@@ -984,56 +1024,6 @@
           "wordCount": 2468,
           "title": "How to Build a Simple Secure Chat System Using Netcat",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729729356682/acf8ca42-3aaa-4ca1-9ebc-10f0f658c678.png"
-        },
-        {
-          "id": "671955939f7c056f46dd8604",
-          "author": "Timothy Olanrewaju",
-          "description": "When you’re building a website, it’s important to make sure that it’s fast. People have little to no patience for slow-loading websites. So as developers, we need to use all the techniques available to us to speed up our site’s performance. And somet...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-skeleton-screens-to-improve-perceived-website-performance/",
-          "publishedOn": "2024-10-23T19:59:15.000Z",
-          "wordCount": 2571,
-          "title": "How to Use Skeleton Screens to Improve Perceived Website Performance",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729603651952/5f5f3c38-20e0-41ac-a4a0-7190347b3a59.png"
-        },
-        {
-          "id": "671949e0521b33716a071ccc",
-          "author": "Preston Mayieka",
-          "description": "In any software project, documentation plays a crucial role in guiding developers, users, and stakeholders through the project's features and functionalities. As projects grow and evolve, managing documentation across various formats—whether it’s mar...",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-documentation-conversion-with-pandoc-in-cicd-pipelines/",
-          "publishedOn": "2024-10-23T19:09:20.000Z",
-          "wordCount": 3212,
-          "title": "How to Automate Documentation Conversion with Pandoc in CI/CD Pipelines",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729707865753/d1703b32-ccb4-4cd1-9c3e-3e66fef7e02f.png"
-        },
-        {
-          "id": "6719336f56c24fb7d4fc62b3",
-          "author": "Temani Afif",
-          "description": "In a previous article, I showed you how to create two types of CSS loaders: a spinner and a progress bar. In this article, you’ll learn about another variation called a filling CSS loader. I think a demo is worth thousands of words, so check out this...",
-          "link": "https://www.freecodecamp.org/news/filling-css-loaders/",
-          "publishedOn": "2024-10-23T17:33:35.000Z",
-          "wordCount": 2201,
-          "title": "How to Create Filling CSS Loaders Using One Element",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729637821745/50ff0461-350c-441c-9726-b838d3ef0a5c.jpeg"
-        },
-        {
-          "id": "67190fa49a9d435e2ceeafb6",
-          "author": "Mihail Gaberov",
-          "description": "A while ago, I stumbled upon a website listing various coding challenges, and I decided to give some a try. Last week, I came across one that involved building a \"Wheel of Names.\" It reminded me of a similar project I built years ago using Flash and ...",
-          "link": "https://www.freecodecamp.org/news/build-your-own-wheel-of-names/",
-          "publishedOn": "2024-10-23T15:00:52.000Z",
-          "wordCount": 3468,
-          "title": "How to Build Your Own Wheel of Names with React and TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729695428229/56ac185a-bed1-4bbc-ab6d-a12f2ac5adee.png"
-        },
-        {
-          "id": "671901e20aa5e141c2db418f",
-          "author": "Harsh Deep",
-          "description": "STOMP is an amazingly simple yet powerful protocol for sending messages implemented by popular servers like RabbitMQ, ActiveMQ, and Apollo. Using STOMP over WebSocket is a straightforward protocol, making it a popular choice for sending messages from...",
-          "link": "https://www.freecodecamp.org/news/build-chat-app-with-stomp-and-react/",
-          "publishedOn": "2024-10-23T14:02:10.000Z",
-          "wordCount": 2764,
-          "title": "How to Use RxStomp with React – Build Chat App with STOMP and React",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729648105968/2926c346-0058-4a84-981e-2ff4bd6833df.png"
         }
       ]
     },
@@ -1311,26 +1301,6 @@
           "wordCount": 7227,
           "title": "【10月25日ランキング】AI、ついにパソコンを使えるようになってしまう　Anthropic「Claude 3.5 Sonnet」新機能／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fascii.jp%2Fimg%2F2024%2F10%2F23%2F4107484%2Fxl%2Ff5ead1e3ecad3fee.jpg%3F20200122"
-        },
-        {
-          "id": "https://techfeed.io/entries/670f53f5ac987c31981671d5?from=rss",
-          "author": null,
-          "description": "エキスパートとして長らくエンジニアコミュニティに貢献してきた方々をアドバイザーとし、ユーザー体験の再設計と大規模リニューアルを実施2024年10月9日、株式会社テックフィード（本社：神奈川県川崎市、代表：白石俊平）は、エンジニア向けニュースプラットフォーム「TechFeed」における大規模リニューアルに向け、古川陽介氏、uhyo氏、鹿野壮氏がプロダクトアドバイザーとして就任したことをお知らせいたします。概要エンジニア専門ニュースアプリとして運営中のTechFeed (https://techfeed.io)が、今後大幅なリニューアルを実施致します。従来のエンジニア向けニュースアプリの枠組みを拡張し、エキスパートを中心としたソーシャルなプラットフォームへと進化。200名近いTechFeed公認エキスパートが、専門分野の情報をピックアップ。ユーザーは、TechFeedを使っているだけで、エキスパートの視座が得られるようなユーザー体験を提供します。こうした枠組みをSNSライクなプラットフォームの上で展開することで、ユーザーとエキスパートが有機的に繋がるだけでなく、ユーザーがエキスパートを目指...",
-          "link": "https://techfeed.io/entries/670f53f5ac987c31981671d5?from=rss",
-          "publishedOn": "2024-10-24T02:13:27.526Z",
-          "wordCount": 7265,
-          "title": "TechFeedリニューアルに向け、古川陽介さん、uhyoさん、鹿野壮さんがプロダクトアドバイザーに就任！",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1729057806/entries/actsn9paj92tg8vx41h9.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2024/10/24?from=rss",
-          "author": null,
-          "description": "<img src=\"https://japan.cnet.com/storage/2024/10/22/bc2a19651eba94db493c94e8cf44ffb8/PXL_20241020_232241646.jpeg\"><br>すべてカテゴリー 2024年10月24日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: iPhoneの「乗り物酔い防止機能」が凄かった--バスに乗っているのに酔う気がしない（japan.cnet.com）<br>2位: AI、ついにパソコンを使えるようになってしまう　Anthropic「Claude 3.5 Sonnet」新機能（ascii.jp）<br>3位: 部屋のどこがルーターからのWi-Fi電波が強い・弱いのかわかる「Wifi Solver」（gigazine.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2024/10/24?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2024/10/24?from=rss",
-          "publishedOn": "2024-10-23T20:00:10.527Z",
-          "wordCount": 7225,
-          "title": "【10月24日ランキング】iPhoneの「乗り物酔い防止機能」が凄かった--バスに乗っているのに酔う気がしない／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fjapan.cnet.com%2Fstorage%2F2024%2F10%2F22%2Fbc2a19651eba94db493c94e8cf44ffb8%2FPXL_20241020_232241646.jpeg"
         }
       ]
     },
@@ -1346,6 +1316,256 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/",
+          "author": null,
+          "description": "Today we excited to announce the availability of TypeScript 5.7! If you’re not familiar with TypeScript, it’s a language that builds on JavaScript by adding syntax for type declarations and annotations. This syntax can be used by the TypeScript compiler to type-check our code, and it can also be ...",
+          "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-7/",
+          "publishedOn": "2024-11-22T19:19:42.000Z",
+          "wordCount": 9463,
+          "title": "Announcing TypeScript 5.7 - TypeScript",
+          "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png"
+        },
+        {
+          "id": "https://zenn.dev/teppeita/articles/1f79c0edd9d51b",
+          "author": null,
+          "description": "なんだか最近React Nativeに関する投稿が増えている気がしますね。 筆者も本投稿を準備していたところ、先に投稿が増えてきたので二番煎じ感が否めませんが、少し俯瞰的な整理としてご覧いただければと思います。 React Native界隈は近年盛り上がってきていて、特にExpo関連の進化を中心に、パフォーマンスも開発効率も...",
+          "link": "https://zenn.dev/teppeita/articles/1f79c0edd9d51b",
+          "publishedOn": "2024-11-22T13:06:14.000Z",
+          "wordCount": 1199,
+          "title": "今、React Nativeがアツいらしい",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--b9uymaSg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%258A%25E3%2580%2581React%2520Native%25E3%2581%258C%25E3%2582%25A2%25E3%2583%2584%25E3%2581%2584%25E3%2582%2589%25E3%2581%2597%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:teppeita%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIxNDA1ZjViZTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOFD226OG0S4A121C2000000/",
+          "author": null,
+          "description": "JR東海は22日、駅名の看板に周辺の施設名などを掲示する「副駅名標」をJR鶴舞駅に導入した。愛知県の新興支援拠点「ステーションAi」が参画し、駅名標の下に「STATION Ai前」と記す。施設を使う人の利便性向上や乗客の誘致を狙う。JR東海の駅で副駅名標を掲げるのは初めてで、今後は地域連携",
+          "link": "https://www.nikkei.com/article/DGXZQOFD226OG0S4A121C2000000/",
+          "publishedOn": "2024-11-22T12:01:47.000Z",
+          "wordCount": 231,
+          "title": "JR鶴舞駅、副駅名標に｢STATION Ai前｣　乗客誘致めざす - 日本経済新聞",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO5658530022112024000000-1.jpg?crop=focalpoint&fit=crop&fp-x=0.49&fp-y=0.11&h=630&w=1200&s=6b2ec76a31ceedf330ee3c3437211397"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1641497.html",
+          "author": null,
+          "description": "米Microsoftが11月19日（現地時間）より、テクニカルカンファレンス「Ignite 2024」を開催中だ。主題はAIだが、「Microsoft Teams」に関しても多くの新機能や改善がアナウンスされている。注目はハイブリッドワークのAI支援機能「Microsoft Places」。多くの新機能が発表された。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1641497.html",
+          "publishedOn": "2024-11-22T11:20:34.000Z",
+          "wordCount": 5757,
+          "title": "「Microsoft Teams」のハイブリッドワーク支援機能「Microsoft Places」に新機能【Ignite 2024】／AIが出社日や会議室予約を賢く調整、勤務状況の分析・改善も担ってくれる",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1641/497/image1.png"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/1641837.html",
+          "author": null,
+          "description": "ユニクロは、「ヒートテック」の買い替え時は「3シーズン」と案内しています。",
+          "link": "https://www.watch.impress.co.jp/docs/news/1641837.html",
+          "publishedOn": "2024-11-22T11:20:19.000Z",
+          "wordCount": 4942,
+          "title": "ヒートテックは3年が「買い替え時」　ユニクロ感謝祭で紹介中",
+          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/1641/837/uni01.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20241122-openscholar-scientific-research/",
+          "author": null,
+          "description": "近年は生命分子の構造と相互作用を予測するAIモデル「AlphaFold 3」がリリースされたり、「ChatGPTのおかげで論文を読む手間が99％減った」と研究者が報告したりするなど、科学研究におけるAIの活用はますます重要なものになっています。新たに、ワシントン大学とアレン人工知能研究所の研究チームが、科学文献の調査に...",
+          "link": "https://gigazine.net/news/20241122-openscholar-scientific-research/",
+          "publishedOn": "2024-11-22T11:02:37.000Z",
+          "wordCount": 3673,
+          "title": "科学論文の調査に特化したAIモデル「OpenScholar」がベンチマークでGPT-4oを上回る、科学研究の大幅な効率化に期待",
+          "imageUrl": "https://i.gzn.jp/img/2024/11/22/openscholar-scientific-research/00.jpg"
+        },
+        {
+          "id": "https://megalodon.jp/2024-1122-1712-32/https://difff.jp:443/8c55d.html",
+          "author": null,
+          "description": "取得日時: 2024年11月22日 17:12 取得元URL: https://difff.jp:443/8c55d.html ビュー数:　607 魚拓のみの表示 SHA-256 ❓ : 039681002914d59339b17f7574b1c0c324a5e3e075c016fa0c9c64629d9fdb7a",
+          "link": "https://megalodon.jp/2024-1122-1712-32/https://difff.jp:443/8c55d.html",
+          "publishedOn": "2024-11-22T09:21:12.000Z",
+          "wordCount": 417,
+          "title": "【魚拓】difff《ﾃﾞｭﾌﾌ》",
+          "imageUrl": "https://megalodon.jp/ci/0/0/1200/630/2024-1122-1712-32/https://difff.jp:443/8c55d.html"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2024_11_22/145948",
+          "author": null,
+          "description": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Drive-by Active Storage advice | justin․searls․co 原文公開日: 2024/09/16 原著者: Justin Searls -- Test Doubleの共同創業者です 日本語タイトルは内容に即したものにしました。 参考: Active Storage の概要 - Railsガイド 今はカンファレンスの発表の...",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2024_11_22/145948",
+          "publishedOn": "2024-11-22T08:50:07.000Z",
+          "wordCount": 898,
+          "title": "Rails: Active Storageで知っておくべきアドバイス集（翻訳）｜TechRacho by BPS株式会社",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2024/10/rails_active_storage_adovice_driveby_eyecatch-min.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2411/22/news172.html",
+          "author": null,
+          "description": "イオンカードは11月22日、セキュリティ対応に関する声明を発表した。同社は20日、不正利用被害に関する補償内容や相談ダイヤル設置を告知し、21日には不正利用被害に関するテレビ報道に補足する声明を発表していた。同社は「本日は、弊社の対応について報告する」とし、不正利用の手口などを説明している。 イオンカード...",
+          "link": "https://www.itmedia.co.jp/news/articles/2411/22/news172.html",
+          "publishedOn": "2024-11-22T07:31:43.000Z",
+          "wordCount": 2899,
+          "title": "イオンカード、悪用される“オフライン取引”を説明　対応状況を明かすも「十分な対策には至っていない」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2411/22/cover_news172.jpg"
+        },
+        {
+          "id": "https://tech.assured.jp/entry/2024/11/22/1000",
+          "author": null,
+          "description": "こんにちは！エンジニアの岩松です。最近キャンプにハマってしまい、隙あらばキャンプに行ったり公園へピクニックに出かけているためインドアを自称するのが難しくなってきました。 今月はQAエンジニアの方がAssuredへジョインしたのですが、もともと同じチームで働いていたこともあったので8月の記事に引き続いて集合写...",
+          "link": "https://tech.assured.jp/entry/2024/11/22/1000",
+          "publishedOn": "2024-11-22T07:12:11.000Z",
+          "wordCount": 681,
+          "title": "【2024年10月】今月の行動指針 - Assured Tech Blog",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/b203e96fa4eead30f5eaf9356216ddb0c4a9d93e/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcube1192%2F20241122%2F20241122134825.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1641700.html",
+          "author": null,
+          "description": "オープンソースのパラメトリック3Dモデラー「FreeCAD」が11月18日、v1.0として公開された。このリリースは、数週間前に亡くなった開発者の1人bgbsww氏に捧げられている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1641700.html",
+          "publishedOn": "2024-11-22T07:00:46.000Z",
+          "wordCount": 5694,
+          "title": "20年以上にわたり開発されてきた「FreeCAD」がv1.0として公開 ～長年の課題2つを克服／Windows/Mac/Linux対応のオープンソースプロジェクト",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1641/700/freecad.jpg"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/112000123/",
+          "author": null,
+          "description": "複数企業の健康保険組合が個人情報漏洩の可能性を発表した。漏洩の可能性があるデータには、氏名や住所、生年月日などが含まれていた。システムの委託先であるヒロケイがランサムウエアに感染したのが原因だ。削除すべき個人情報を消していなかったところへ、不正アクセスされた。委託先管理のずさんさが、サイバー攻撃...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/112000123/",
+          "publishedOn": "2024-11-22T06:42:09.000Z",
+          "wordCount": 1220,
+          "title": "ヒロケイがランサム被害、データ管理の不備で10万人超の個人情報に不正アクセス",
+          "imageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/112000123/topm.jpg?20220512"
+        },
+        {
+          "id": "https://togetter.com/li/2469073",
+          "author": null,
+          "description": "元日先生 @ganjitsu_sensei 小４男子が担任の女性教諭に「死ね！ブス！」と暴言を吐く日が続き、耐えかねて「そんなこと外で言ったら訴えられかねないよ」と諭した それに何故か親がブチキレて「訴えてみろ！」と校長室に怒鳴り込みに来て担任が参ってる 「言葉尻を捕らえるよりもお前の謝罪が先だろ」っていう案件が最...",
+          "link": "https://togetter.com/li/2469073",
+          "publishedOn": "2024-11-22T06:19:32.000Z",
+          "wordCount": 711,
+          "title": "小４男子が女性教諭に暴言を吐く日が続き「そんなこと外でいったら訴えられかねないよ」と諭したら親が怒鳴り込んできた話…教師を守るシステムは必要",
+          "imageUrl": "https://s.tgstc.com/ogp3/e4a6bf20400e5a6b8bcff1c83e43b1a0-1200x630.jpeg"
+        },
+        {
+          "id": "https://zenn.dev/nabeliwo/articles/02f8cfcc596bb9",
+          "author": null,
+          "description": "この記事では Next.js アプリケーションのエラーハンドリングで個人的にハマったことについて、そのハマりポイントとどう解決したかをご紹介します。 これが正解というわけではなく、一つの設計案として見ていただければ幸いです。 環境 Next.js v15.0.3 App Router 使用 その1: Server Component で throw したカスタム...",
+          "link": "https://zenn.dev/nabeliwo/articles/02f8cfcc596bb9",
+          "publishedOn": "2024-11-22T06:17:13.000Z",
+          "wordCount": 2334,
+          "title": "知らないとハマる Next.js のエラーハンドリング",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--RZwBOO1V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A8%25E3%2583%258F%25E3%2583%259E%25E3%2582%258B%2520Next.js%2520%25E3%2581%25AE%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%258F%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nabeliwo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l1LXBKeUhiOERIYU05Nmt6cXUyVlZoRGhkOVk2Z3hPWmJONGQ5V1E9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/1641690.html",
+          "author": null,
+          "description": "NTTドコモは、生成AIを活用したサービスを開発するスタートアップ・SUPERNOVAとの業務提携を開始した。SUPERNOVAが開発する生成AIサービス「Stella AI(ステラ・エーアイ)」を、12月1日から、ドコモのオウンドメディアや一部のドコモショップで取り扱う。",
+          "link": "https://www.watch.impress.co.jp/docs/news/1641690.html",
+          "publishedOn": "2024-11-22T05:25:56.000Z",
+          "wordCount": 4956,
+          "title": "ドコモ契約者はGeminiやGPT-4oなど1年無料「Stella AIセット割」",
+          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/1641/690/docomo01.jpg"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/series/yoshimura/1639608.html",
+          "author": null,
+          "description": "私たちが巨大なペンケースにジャラジャラと色とりどりのペンを詰め込んで、どこに行くにも持ち運ぶ女子高生だった時代も今は昔。社会人になり、仕事もパソコンが中心になると、なんだかんだいって筆記用具はボールペンが1本あれば事足りる、という場面がほとんどです。",
+          "link": "https://www.watch.impress.co.jp/docs/series/yoshimura/1639608.html",
+          "publishedOn": "2024-11-22T05:25:46.000Z",
+          "wordCount": 4958,
+          "title": "ゼブラ「サラサクリップ3C」は多色でゲルインクなのになぜ細い?【文具知新】",
+          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/1639/608/01.jpg"
+        },
+        {
+          "id": "https://japan.zdnet.com/article/35226397/",
+          "author": null,
+          "description": "2025年に起こりそうなことを思案するのは時期尚早に思えるかもしれないが、もう11月の下旬に入っているので、2025年の予測を立てるには絶好のタイミングだ。十分な情報があれば、コンピューターソフトウェアやシステムなどの進化を見通すのはかなり簡単だろう。 2025年には一体何が待っているのか。ここでは「Linux」OS...",
+          "link": "https://japan.zdnet.com/article/35226397/",
+          "publishedOn": "2024-11-22T03:55:23.000Z",
+          "wordCount": 1892,
+          "title": "2025年は「Linux」飛躍の年--性能向上、新デスクトップ、市場シェアなどを予測",
+          "imageUrl": "https://japan.zdnet.com/storage/2024/11/21/5747d7a8b8bb225f4630562cd0fb821e/gettyimages-ar5714-002_l.jpg"
+        },
+        {
+          "id": "https://tech.classi.jp/entry/2024/11/22/123414",
+          "author": null,
+          "description": "こんにちは。プロダクト本部プラットフォーム部SREチームのid:ut61zです。 サービスを運用していくうえで監視は避けて通れません。 Classiでは長らく朝当番という制度を設け、平日朝のピークタイムにエンジニアを監視担当としてアサインし、何らかの問題が発生した際、即座に対応できる体制を整えてきました。 2020年9月...",
+          "link": "https://tech.classi.jp/entry/2024/11/22/123414",
+          "publishedOn": "2024-11-22T03:44:48.000Z",
+          "wordCount": 389,
+          "title": "朝当番をやめた話 - Classi開発者ブログ",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/26006613504214060/6802418398305703310/1732246454"
+        },
+        {
+          "id": "https://blog.smartbank.co.jp/entry/2024/11/22/103000",
+          "author": null,
+          "description": "こんにちは、普段はカスタマーサポートをしていますが、今日はスポンサー担当としてのnyancoです。 この記事はSmartBank Advent Calendar 2024の10日目の記事です。 きのうはプロダクトマネージャーinagakiさんの記事「「枯れた価値」のLLM思考 ~C向けプロダクトでのLLM活用の学びとコツ~」でした。 さて、今年もスマー...",
+          "link": "https://blog.smartbank.co.jp/entry/2024/11/22/103000",
+          "publishedOn": "2024-11-22T03:27:38.000Z",
+          "wordCount": 3759,
+          "title": "なぜスマートバンクはテックカンファレンスに本気でやれるのか - inSmartBank",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/6969d60be458c79f2558049f4d532f49c116d9d3/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20241121%2F20241121200502.png"
+        },
+        {
+          "id": "https://www.thenile.dev/blog/distributed-ddl",
+          "author": null,
+          "description": "Introducing pg_karnak: Transactional schema migration across tenant databases When we need to describe Nile in a single sentence, we say \"PostgreSQL re-engineered for multi-tenant apps\". By multi-tenant apps, we mean applications like Stripe, Figma, Twilio, Notion, Workday, and Gusto - here a lar...",
+          "link": "https://www.thenile.dev/blog/distributed-ddl",
+          "publishedOn": "2024-11-22T03:20:25.000Z",
+          "wordCount": 10788,
+          "title": "Introducing pg_karnak: Transactional schema migration across tenant databases",
+          "imageUrl": "https://www.thenile.dev/2024-11-19-distributed-ddl/cover4.png"
+        },
+        {
+          "id": "https://www.kobonemi.com/entry/iPhone%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%85%85%E9%9B%BB%E5%9B%9E%E6%95%B0%E3%82%92%E7%A2%BA%E8%AA%8D",
+          "author": null,
+          "description": "iPhone 15以降ではiPhoneのバッテリー充電回数を確認することができますが、iPhone 14などそれ以前のモデルで確認する方法をご紹介。 Lifehackerの記事を参考にiOS 18をインストールしたiPhone 14で実際に試したところ確認できました。 iPhoneの内蔵バッテリーの充電回数を確認する方法 iPhoneにショートカットリンクを...",
+          "link": "https://www.kobonemi.com/entry/iPhone%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%85%85%E9%9B%BB%E5%9B%9E%E6%95%B0%E3%82%92%E7%A2%BA%E8%AA%8D",
+          "publishedOn": "2024-11-22T02:44:47.000Z",
+          "wordCount": 1019,
+          "title": "古いiPhoneのバッテリー充電回数を確認する方法【iOS 18対応版】 - こぼねみ",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/1604fdabbee0b0d488a56d9da15d2f64ebfc9916/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkobonemi%2F20241122%2F20241122113426.png"
+        },
+        {
+          "id": "https://hatenanews.com/articles/2024/11/22/103000",
+          "author": null,
+          "description": "ソフトウェア開発の技術トレンドは移り変わっていきますが、数年前から急激に盛り上がってエンジニアリング環境を変化させた生成AIのトレンドもひと段落し、今年は落ち着いて技術の基本をしっかりと時間をかけて学ぶのにちょうどよいタイミングかもしれません。 オンライン学習プラットフォーム「Udemy」が11月29日まで...",
+          "link": "https://hatenanews.com/articles/2024/11/22/103000",
+          "publishedOn": "2024-11-22T02:00:10.000Z",
+          "wordCount": 1906,
+          "title": "【セールは12月2日まで！】ブラックフライデーだから買っておきたいUdemy講座！ ソフトウェアエンジニアのキャリアでずっと役立つ定番＆大作講座をまとめてレビュー・紹介します！ - はてなニュース",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/a6ac0c39210533ff814b337fba1fe1a1d975ba46/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fblog-media%2F20241115%2F20241115123452.png"
+        },
+        {
+          "id": "https://zenn.dev/mk668a/articles/bbfb97a0d146bc",
+          "author": null,
+          "description": "2024/11/18に、Flutterの公式ドキュメントより、Flutterの設計についての記載が公開されたので、まとめてみます。 直訳やLLMの翻訳では分かりづらい箇所をなるべく理解しやすいように噛み砕いて日本語訳しました。 初めに 以下の内容が学べます アーキテクチャの利点 一般的なアーキテクチャ原則 Flutterチームが推奨す...",
+          "link": "https://zenn.dev/mk668a/articles/bbfb97a0d146bc",
+          "publishedOn": "2024-11-22T01:47:18.000Z",
+          "wordCount": 1537,
+          "title": "Flutterエンジニアのためのアーキテクチャ入門 - 公式(日本語)",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--sfM1A84r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flutter%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E5%2585%25A5%25E9%2596%2580%2520-%2520%25E5%2585%25AC%25E5%25BC%258F%2528%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:m%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkxNGY0NjgzMGIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1640464.html",
+          "author": null,
+          "description": "2025年10月14日、Windows 10の最新バージョンである「バージョン22H2」のサポートが終了する。それ以降はWindows Updateによるセキュリティアップデートが提供されなくなり、インターネットに接続して使うには危険な状態になるため、それ以前のタイミングでより新しいWindows 11へのアップデートが必要だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1640464.html",
+          "publishedOn": "2024-11-22T00:18:21.000Z",
+          "wordCount": 6349,
+          "title": "【特集】 あっという間に来るWindows 10のサポート切れ。Windows 11に安く移行する方法は？",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1640/464/1.jpg"
+        },
+        {
+          "id": "https://qiita.com/KNR109/items/853c8d8fe36ede1cc453",
+          "author": null,
+          "description": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 今回は東京大学・東大生が公開しているエンジニアが読むべきおすすめ資料をまとめました。 紹介する資料一覧 ut.code(); Learn 50分で学ぶアルゴリズム わかりやすい説明...",
+          "link": "https://qiita.com/KNR109/items/853c8d8fe36ede1cc453",
+          "publishedOn": "2024-11-21T23:09:27.000Z",
+          "wordCount": 1064,
+          "title": "東京大学が公開しているエンジニアが読むべき資料まとめ - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNjk1NTIxJTJGMjllYjkyM2Q4NjJhNTcxZTI0ZmRlMzFiNTQ2NWZlNWMzNjE1NjY2NCUyRmxhcmdlLnBuZyUzRjE3MzEyMDExMDI_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9YzY0NzliN2JhODY2ODkxNjIwYTRmOTU0MjUwYTA2YmI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY2YTU3Y2NhZWE5YjU3YjI0NDIzZjRlNDhiOWUzNDczOWZkNzBlNTI3JTJGb3JpZ2luYWwuanBnJTNGMTcyMTQ0MDU2ND9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTllYTA5ZDM2OGVhNDBmN2RkYTA4NGM3ZTFmMDg4ZGE3%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D2a24f21d1451554aee59e92f584ca964?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTlEJUIxJUU1JUE0JUE3JUUzJTgzJUJCJUU2JTlEJUIxJUU1JUE0JUE3JUU3JTk0JTlGJUUzJTgxJThDJUU1JTg1JUFDJUU5JTk2JThCJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgxJThDJUU4JUFBJUFEJUUzJTgyJTgwJUUzJTgxJUI5JUUzJTgxJThEJUU4JUIzJTg3JUU2JTk2JTk5JUUzJTgxJUJFJUUzJTgxJUE4JUUzJTgyJTgxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODM3NmMyYzNjNjk1NzhkOThjOTBmODcwODQ1NzUzOTA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBLTlIxMDkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wN2ZlY2Y1MDc1YzA4ZjNmZGQ3MTg4ZTFjZTQ0MGIwYw&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-44K144O844OJ44K544Kz44O844OX&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=90d641969847d2cca19e451bd9decbd4"
+        },
+        {
           "id": "https://pc.watch.impress.co.jp/docs/column/hothot/1641490.html",
           "author": null,
           "description": "AppleはM4 ProとM4 Maxを採用したノートPC最上位モデル「MacBook Pro」を11月8日に販売開始した。M4 Pro/M4 Maxだけでなく、最大120GB/sのデータ通信速度を実現したThunderbolt 5を装備。また12MPセンターフレームカメラを採用し、Nano-textureディスプレイがオプションに用意されるなど、プロ向けモデルとして機能強化が図られている。",
@@ -1354,6 +1574,16 @@
           "wordCount": 6334,
           "title": "【Hothotレビュー】 M4～M1までやる！MacBook Proの性能をまとめて比較",
           "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1641/490/PH01.jpg"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASSCP3GXRSCPULFA00WM.html",
+          "author": null,
+          "description": "米グーグルの市場独占をめぐる訴訟で、米司法省が是正策として同社の事業分割を求めた。生成AI（人工知能）の技術革新が進むなか、世界の検索市場の9割を握る「1強」が分割に追い込まれれば、デジタル市場での…",
+          "link": "https://www.asahi.com/articles/ASSCP3GXRSCPULFA00WM.html",
+          "publishedOn": "2024-11-21T16:57:31.000Z",
+          "wordCount": 848,
+          "title": "グーグル猛反発「過激な介入」　Chrome売却なら3兆円超の試算：朝日新聞デジタル",
+          "imageUrl": "https://imgopt.asahi.com/ogp/AS20241121003154_comm.jpg"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/4658fbb103f08da829d46e4c641b85e9215bf7a8",
@@ -1394,6 +1624,16 @@
           "wordCount": 656,
           "title": "IT系底辺の「技術や言われた作業以外の一切の興味を持たない層」、前は「あり得ん」と思っていたけれど今は分かるという話→「ここ数年コレ」",
           "imageUrl": "https://s.tgstc.com/ogp3/f280a53cdaf87edf6666c55b5dcb204f-1200x630.jpeg"
+        },
+        {
+          "id": "https://gigazine.net/news/20241121-undergraduates-family-income-below-200000-expect-mit-tuition-free/",
+          "author": null,
+          "description": "現地時間の2024年11月20日、マサチューセッツ工科大学(MIT)が、同大学において世帯年収が20万ドル(約3100万円)未満の学部生は2025年秋から授業料が免除されることを公式出版物であるMIT Newsにて発表しました。 Undergraduates with family income below $200,000 can expect to attend MIT tuition-free starting in 20...",
+          "link": "https://gigazine.net/news/20241121-undergraduates-family-income-below-200000-expect-mit-tuition-free/",
+          "publishedOn": "2024-11-21T11:19:08.000Z",
+          "wordCount": 3370,
+          "title": "MITが世帯年収3100万円未満なら授業料免除、1550万円未満なら授業料以外の食費や住居費など全免除という太っ腹すぎる学部生向け財政援助施策を発表",
+          "imageUrl": "https://i.gzn.jp/img/2024/11/21/undergraduates-family-income-below-200000-expect-mit-tuition-free/00_m.jpg"
         },
         {
           "id": "https://automaton-media.com/articles/newsjp/balatro-20241121-318926/",
@@ -1666,6 +1906,16 @@
           "imageUrl": "https://image.itmedia.co.jp/aiplus/articles/2411/20/cover_news230.jpg"
         },
         {
+          "id": "https://chatgpt-lab.com/n/nd6d5560aff54",
+          "author": null,
+          "description": "はじめに業務効率化を図りたいけれど、プログラミングはちょっと…という方に向けて、今回の記事ではJinbaflowを紹介します。 この記事では、ノーコードで様々なワークフローを自動化できるJinbaflowの魅力を、機能紹介から具体的な活用事例、そして初心者向けの使い方まで徹底解説します。 Jinbaflowを活用して、業務効...",
+          "link": "https://chatgpt-lab.com/n/nd6d5560aff54",
+          "publishedOn": "2024-11-20T12:08:51.000Z",
+          "wordCount": 3091,
+          "title": "【業務効率化】日本発のワークフロー作成ツール「Jinbaflow」の使い方から活用事例まで｜ChatGPT研究所",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/162560089/rectangle_large_type_2_e7fc8765361fbebc8ceabce47fd556db.png?fit=bounds&quality=85&width=1280"
+        },
+        {
           "id": "https://atmarkit.itmedia.co.jp/ait/articles/2411/20/news047.html",
           "author": null,
           "description": "常用しているサービスが、いきなり廃止されてしまった。あるいはリソースの新規作成時に、利用しようとして開いたメニューに対象サービスが表示されない。クラウドサービスで何かしらシステムを構築／運用していて、そのような経験をしたことはないだろうか？ 残念ながら、Azureに限らず、クラウドサービスでは古いサー...",
@@ -1894,6 +2144,16 @@
           "wordCount": 1284,
           "title": "Wasm Component Model に対するもやもや",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--2QUhi15s--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Wasm%2520Component%2520Model%2520%25E3%2581%25AB%25E5%25AF%25BE%25E3%2581%2599%25E3%2582%258B%25E3%2582%2582%25E3%2582%2584%25E3%2582%2582%25E3%2582%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tanishiking%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY2ZjcwZDg5NDguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://blogs.windows.com/windowsexperience/2024/11/19/windows-security-and-resiliency-protecting-your-business/",
+          "author": null,
+          "description": "At Microsoft, security is our top priority, and with every release, Windows becomes even more secure. At Ignite 2024, we will highlight new Windows security innovations that will provide the clarity and confidence our customers and organizations require while navigating this evolving digital land...",
+          "link": "https://blogs.windows.com/windowsexperience/2024/11/19/windows-security-and-resiliency-protecting-your-business/",
+          "publishedOn": "2024-11-19T21:55:48.000Z",
+          "wordCount": 3412,
+          "title": "Windows security and resiliency: Protecting your business",
+          "imageUrl": "https://blogs.windows.com/wp-content/uploads/prod/sites/2/2024/11/MSC24-China-business-Getty-1920.jpg"
         },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2411/20/news114.html",
@@ -2244,6 +2504,16 @@
           "wordCount": 5044,
           "title": "第25回：30年以上前のデジタル遺品――壊れたフロッピーディスクが読める可能性はあるか【天国へのプロトコル】",
           "imageUrl": "https://internet.watch.impress.co.jp/img/iw/list/1638/523/01.JPG"
+        },
+        {
+          "id": "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding",
+          "author": null,
+          "description": "The following is a chronicle of implementing a general purpose zero-instrumentation BPF based profiler for LuaJIT. Some assumptions are made about what this entails and it may be helpful to read some of our other work in this area. One major change from prior efforts is that instead of working wi...",
+          "link": "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding",
+          "publishedOn": "2024-11-18T16:01:04.000Z",
+          "wordCount": 12916,
+          "title": "A Walk with LuaJIT",
+          "imageUrl": "https://cdn.sanity.io/images/u4y7d6w6/production/b71ab78c3af9fd5e431499ed3504c64b20734e29-1024x1024.png"
         },
         {
           "id": "https://type.jp/et/feature/27190/",
@@ -9454,276 +9724,6 @@
           "wordCount": 4941,
           "title": "シャープ、ドライアイス代替の新たな蓄冷剤　液晶技術を応用",
           "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/1634/150/sh.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20241024-linus-torvalds-russian-devs/",
-          "author": null,
-          "description": "by TED Conference 2024年10月20日にリリースされたLinux 6.12-rc4カーネルで、Linuxのカーネルメンテナーからロシア人あるいはロシアと関連するアカウントを削除する提案がマージされ、Linuxコミュニティで激しい議論が巻き起こったため、Linuxカーネルの優しい終身の独裁者を務めるリーナス・トーバルズ氏がこの件につ...",
-          "link": "https://gigazine.net/news/20241024-linus-torvalds-russian-devs/",
-          "publishedOn": "2024-10-24T12:01:31.000Z",
-          "wordCount": 3381,
-          "title": "「ロシア人がLinuxのカーネルメンテナーを解任されている件」についてリーナス・トーバルズが説明",
-          "imageUrl": "https://i.gzn.jp/img/2024/10/24/linus-torvalds-russian-devs/00_m.jpg"
-        },
-        {
-          "id": "https://forbesjapan.com/articles/detail/74561",
-          "author": null,
-          "description": "米アーカンソー州の地下に電気自動車（EV）のバッテリーに欠かせないリチウムが相当量埋蔵されているという研究結果が発表された。埋蔵量は、米国が現在輸入している量を上回る可能性があるという。 米国地質調査所（USGS）とアーカンソー州政府は10月21日、州南部にあるスマックオーバー層の地下の塩水に、510万〜1900...",
-          "link": "https://forbesjapan.com/articles/detail/74561",
-          "publishedOn": "2024-10-24T11:51:02.000Z",
-          "wordCount": 2274,
-          "title": "米アーカンソー州に「大量のリチウム」、米国の輸入量以上の可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "imageUrl": "https://images.forbesjapan.com/media/article/74561/images/main_image_9fb836926d50663796807b81b48c3cf9df78dd93.jpg"
-        },
-        {
-          "id": "https://zenn.dev/yuiseki/articles/3cb30e14fda6e2",
-          "author": null,
-          "description": "本日のデモ 本日のソースコード タイトルには、文字数の限界で、DuckDB-Spatialという言葉を入れられなかったですわ。 もちろん、今回も、DuckDB-Wasmに加えて、DuckDB-Spatialも活用していますわよ。 はじめに わたくしは、学術的研究として、生成AIによるSQLクエリ生成、そして、生成AIによる地理空間情報の分析と可視...",
-          "link": "https://zenn.dev/yuiseki/articles/3cb30e14fda6e2",
-          "publishedOn": "2024-10-24T11:07:04.000Z",
-          "wordCount": 584,
-          "title": "DuckDB-Wasm + 生成AI on Next.js で、どなたでも、いますぐ、地理空間情報の分析ができましてよ",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--SJHwG8g2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:DuckDB-Wasm%2520%252B%2520%25E7%2594%259F%25E6%2588%2590AI%2520on%2520Next.js%2520%25E3%2581%25A7%25E3%2580%2581%25E3%2581%25A9%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E3%2581%2584%25E3%2581%25BE%25E3%2581%2599%25E3%2581%2590%25E3%2580%2581%25E5%259C%25B0%25E7%2590%2586%25E7%25A9%25BA%25E9%2596%2593%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%25AE%25E5%2588%2586%25E6%259E%2590%25E3%2581%258C%25E3%2581%25A7%25E3%2581%258D%25E3%2581%25BE%25E3%2581%2597%25E3%2581%25A6%25E3%2582%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yuiseki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2g1akVIUkdJUFhyR0diNU8xMzdsMDZBT21lYUxIZ3gyWlE5RGpuUHdvPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://www.techno-edge.net/article/2024/10/24/3783.html",
-          "author": null,
-          "description": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する「生成AIウィークリー」（第68回）では、テキストを読み上げるTTSシステム「F5-TTS」や、会話AIモデル「Ichigo」を取り上げます。また、単一CPUでLLMで実行できる、Microsoftの1ビットLLM推論フレームワーク「bitnet.cpp 1.0」などをご紹介します。",
-          "link": "https://www.techno-edge.net/article/2024/10/24/3783.html",
-          "publishedOn": "2024-10-24T10:42:34.000Z",
-          "wordCount": 978,
-          "title": "1000憶パラメータLLMをシングルCPUでローカル実行できる「bitnet.cpp 1.0」、新テキスト読み上げAI「F5-TTS」など生成AI技術6つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-          "imageUrl": "https://www.techno-edge.net/imgs/ogp_f/20637.jpg"
-        },
-        {
-          "id": "https://www.4gamer.net/games/999/G999905/20241024037/",
-          "author": null,
-          "description": "日本発の3Dファイル形式「VRM」を国際標準化へ。VRMコンソーシアム，基盤技術を開発したKhronosとの共同開発を発表 編集部：或鷹 VRMコンソーシアムは本日（2024年10月24日），3Dアバター向けファイル形式「VRM」の国際標準化に向け，VRMの基盤技術「Khronos glTF 2.0」を開発した米国のThe Khronos Groupと協力し，VRM...",
-          "link": "https://www.4gamer.net/games/999/G999905/20241024037/",
-          "publishedOn": "2024-10-24T09:17:51.000Z",
-          "wordCount": 7461,
-          "title": "日本発の3Dファイル形式「VRM」を国際標準化へ。VRMコンソーシアム，基盤技術を開発したKhronosとの共同開発を発表",
-          "imageUrl": "https://www.4gamer.net/games/999/G999905/20241024037/SS/002.jpg"
-        },
-        {
-          "id": "https://no-hack-no.life/post/2024-06-27-how-to-resolve-the-issue/",
-          "author": null,
-          "description": "この記事は、6月28日開催予定 PHPer Tea Night #18 - 技術書オススメバトル への参戦エントリです。 Gポリア著「いかにして問題をとくか」 およそ80年前、「数学」という分野より、この本は出版された。 そして今に至るまで、数学に留まらないあらゆる分野の課題解決本として参照され続けている。 ソフトウェアエンジニ...",
-          "link": "https://no-hack-no.life/post/2024-06-27-how-to-resolve-the-issue/",
-          "publishedOn": "2024-10-24T08:53:16.000Z",
-          "wordCount": 339,
-          "title": "いかにして問題をとくか",
-          "imageUrl": "https://no-hack-no.life/post/2024-06-27-how-to-resolve-the-issue/ogimage.webp"
-        },
-        {
-          "id": "https://konifar-zatsu.hatenadiary.jp/entry/2024/10/24/164626",
-          "author": null,
-          "description": "マネジメントの想定問題集があれば、疑似体験による成長が早まるのではないかと思ったことがあるので雑にかいておきたい。 マネジメントは昔からたくさんの関連書籍も出ていて、ある程度型をもって技術として磨いていけるものではある。 一方で、「やらないことを決める」「思い切って委譲する」といったいわゆる\"セオリ...",
-          "link": "https://konifar-zatsu.hatenadiary.jp/entry/2024/10/24/164626",
-          "publishedOn": "2024-10-24T08:40:47.000Z",
-          "wordCount": 524,
-          "title": "マネジメント想定問題集ほしい - Konifar's ZATSU",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/6653812171394033897/6802418398298584255/1729815510"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1633952.html",
-          "author": null,
-          "description": "Raspberry PiブランドのM.2 NVMe SSD「Raspberry Pi SSD」登場した。容量は256GBと512GBの2種類で、価格はそれぞれ30ドル、45ドル。M.2 NVMe SSD装着用の拡張基板「M.2 HAT+」とのセットも+10ドルで用意する。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1633952.html",
-          "publishedOn": "2024-10-24T08:26:04.000Z",
-          "wordCount": 6182,
-          "title": "Raspberry PiブランドのSSDが登場。価格は30ドルから",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1633/952/01.jpg"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/229/4229115/",
-          "author": null,
-          "description": "企業が業務システムにMySQL、PostgreSQL、Oracle、SQL Server といったリレーショナルデータベースを使いはじめてから今に至るまで、データベースへのコネクティビティは重要な課題であり続けています。1992年にMicrosoft が発表したOpen Database Connectivity（ODBC）API は、この課題に対する画期的な解決策となりま...",
-          "link": "https://ascii.jp/elem/000/004/229/4229115/",
-          "publishedOn": "2024-10-24T06:51:29.000Z",
-          "wordCount": 652,
-          "title": "ODBCドライバーとは？ ODBCの仕組みからドライバーの使い方まで解説！",
-          "imageUrl": "https://ascii.jp/img/2024/10/18/4105591/xl/9d51572aee8e37f0.jpg"
-        },
-        {
-          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/101101618/",
-          "author": null,
-          "description": "前職はITベンダーで営業をしていた記者は、「資格」と「経験」の関係にもどかしさを感じていた。どちらかでもう一方を補うことはできない現実があったからだ。",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/101101618/",
-          "publishedOn": "2024-10-24T06:39:00.000Z",
-          "wordCount": 1221,
-          "title": "「経験あっても資格なし」のもどかしさ、前職IT営業の記者が見た現実",
-          "imageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/101101618/topm.jpg?20220512"
-        },
-        {
-          "id": "https://photoshopvip.net/161401",
-          "author": null,
-          "description": "この記事はRefactoring UIの著者Adam Wathan ＆Steve Schoger がMediumに投稿した「7 Practical Tips for Cheating at Design」を、許可をもらい日本語抄訳しています。 ウェブ開発者であれば、一度はビジュアルデザインの判断を迫られる場面に遭遇したことがあるでしょう。 フルタイムのデザイナーがいない会社で、新し...",
-          "link": "https://photoshopvip.net/161401",
-          "publishedOn": "2024-10-24T06:31:26.000Z",
-          "wordCount": 6729,
-          "title": "すぐにできる！UIデザインが劇的に変わる7つの秘密テクニック",
-          "imageUrl": "https://photoshopvip.net/wp-content/uploads/2024/10/practical-tips-21.webp"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225311/",
-          "author": null,
-          "description": "「過去に類を見ない値上げで社内が騒然となっている」──。そうXに投稿したのは、神戸市を拠点に日本全国で運行するタンカー船事業者の東幸海運だ。 NTTドコモは10月3日、衛星電話サービス「ワイドスターII」「ワイドスターIII」を4月1日に値上げすると発表。 船舶プランの場合、改定前は30秒が44円だったものが、改定後...",
-          "link": "https://japan.cnet.com/article/35225311/",
-          "publishedOn": "2024-10-24T05:34:53.000Z",
-          "wordCount": 2413,
-          "title": "ドコモ衛星電話、通話料「3倍に値上げ」で船舶業者が悲鳴--スターリンクにできない理由は",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/6a89d3d1b10e31f12c6117a4a5264811/large.jpeg"
-        },
-        {
-          "id": "https://www.estie.jp/blog/entry/2024-10-23-rust-book",
-          "author": null,
-          "description": "こんにちは。ソフトウェアエンジニア (SWE)の安東です。 突然ですが、estieのエンジニア5人の書いたRustの入門書『バックエンドエンジニアを目指す人のためのRust』が、翔泳社さんから10/25に発売されます！全448ページの大ボリュームで、様々なツールを作りながら、Rustの基礎から簡単なウェブアプリの作成、採用試験ま...",
-          "link": "https://www.estie.jp/blog/entry/2024-10-23-rust-book",
-          "publishedOn": "2024-10-24T05:04:38.000Z",
-          "wordCount": 533,
-          "title": "Rust ﾁｮｯﾄﾜｶﾙ： Rustの入門書が発売されます！ - estie inside blog",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/8ef4c095ae842649135293ae7375208958e34bfa/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fe%2Festie%2F20241023%2F20241023141432.png"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225307/",
-          "author": null,
-          "description": "KDDIは10月23日、Starlink衛星とauスマートフォン（Android）を直接通信する実証実験を初めて実施し、成功した。沖縄県の久米島において、Starlinkによってスマホ間でSMS送受信ができることを確認した。なお、同日は米国からSpaceXの担当者も駆けつけた。 左から、KDDI 取締役執行役員常務CDOの松田浩路氏とSpaceX シニ...",
-          "link": "https://japan.cnet.com/article/35225307/",
-          "publishedOn": "2024-10-24T04:24:42.000Z",
-          "wordCount": 2419,
-          "title": "auのスマホが「専用アンテナ無し」で本当にStarlinkにつながった--年内提供へ【現地レポ】",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/849f32af0d9a65446002a48eeb7d4fdb/20241024_fujii_kddi_1280x960.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2410/24/news123.html",
-          "author": null,
-          "description": "総合家電メーカーの中国TCLは、ディスプレイ技術の分野でも世界のリーディングカンパニーです。モバイルデバイスなどに応用できる技術として「NXTPAPER」というディスプレイも開発しています。 その最新モデルを搭載したスマートフォン「TCL 50 Pro NXTPAPER 5G」が、2024年9月にドイツ・ベルリンで開催されたIFA2024で...",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2410/24/news123.html",
-          "publishedOn": "2024-10-24T03:01:01.000Z",
-          "wordCount": 2878,
-          "title": "液晶と電子ペーパーのいいとこ取りをしたTCLの新世代ディスプレイ搭載スマホが着実に進化している",
-          "imageUrl": "https://image.itmedia.co.jp/mobile/articles/2410/24/cover_news123.jpg"
-        },
-        {
-          "id": "https://jacko.io/async_intro.html",
-          "author": null,
-          "description": "2024 October 23 Introduction (you are here) Threads Async Important Mistakes Part One: Futures Part Two: Tasks Part Three: IO Async/await, or \"async IO\", is a new-ish​Rust added async/await in 2019. For comparison, C# added it in 2012, Python in 2015, JS in 2017, and C++ in 2020. language feature...",
-          "link": "https://jacko.io/async_intro.html",
-          "publishedOn": "2024-10-24T02:03:40.000Z",
-          "wordCount": 1381,
-          "title": "Async Rust in Three Parts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://speakerdeck.com/tkikuc/greenmotian-ete",
-          "author": null,
-          "description": "AWS Likers) AWS10分LT会 - vol.5 でのLT資料です。 https://aws-likers.connpass.com/event/330782/",
-          "link": "https://speakerdeck.com/tkikuc/greenmotian-ete",
-          "publishedOn": "2024-10-24T01:39:59.000Z",
-          "wordCount": 965,
-          "title": "ECSのサービス間通信 4つの方法を比較する 〜Canary,Blue/Greenも添えて〜",
-          "imageUrl": "https://files.speakerdeck.com/presentations/4daa7b1911fd42f4b31a8cefea88b38d/slide_0.jpg?32272581"
-        },
-        {
-          "id": "https://gihyo.jp/article/2024/10/good-practices-for-github-actions",
-          "author": null,
-          "description": "本記事のテーマはGitHub Actionsです。個人的に「もっと早く知りたかった！」と考えているグッドプラクティスを、厳選してお届けします。想定読者は次のとおりです。 普段GitHub Actionsを雰囲気で運用している人 GitHub Actionsをコピペや生成AIで乗り切っている人 他者が書いたコードの意味をより深く理解したい人 本...",
-          "link": "https://gihyo.jp/article/2024/10/good-practices-for-github-actions",
-          "publishedOn": "2024-10-24T00:33:21.000Z",
-          "wordCount": 473,
-          "title": "なんとなくから脱却する GitHub Actionsグッドプラクティス11選 | gihyo.jp",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2024/2392_good-practices-for-github-actions.jpg"
-        },
-        {
-          "id": "https://note.com/shi3zblog/n/nfaded9d6636b",
-          "author": null,
-          "description": "前回までのあらすじ 佐渡市長たっての願いで、本来はカルテット構成くらいで行う予定だったサテライト公演が25人のオーケストラ編成に。東京から楽器と奏者を25人連れてくるというキチ○イ沙汰に。さらにクラウドファンディングに参加した我々取材班(違う)はコンサートのプログラムを見た時、驚愕した。 「東京公演と全然...",
-          "link": "https://note.com/shi3zblog/n/nfaded9d6636b",
-          "publishedOn": "2024-10-24T00:26:10.000Z",
-          "wordCount": 2616,
-          "title": "結局最後、全部、落合陽一が持っていった｜shi3z",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/158913670/rectangle_large_type_2_0c7d578423cf403f78076646a2e5bdfa.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://www.watch.impress.co.jp/docs/topic/1632796.html",
-          "author": null,
-          "description": "2024年10月、OpenAIが提供するChatGPTにおいて「GPT-4o with canvas」が登場しました。これは、5月にリリースされた高速・高精度なAIモデル「GPT-4o」をベースにした新機能です。",
-          "link": "https://www.watch.impress.co.jp/docs/topic/1632796.html",
-          "publishedOn": "2024-10-24T00:02:49.000Z",
-          "wordCount": 5131,
-          "title": "「GPT-4o with canvas」がスゴい! 文章作成やコーディング生産性が爆上がり",
-          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/1632/796/001.jpg"
-        },
-        {
-          "id": "https://www.oreilly.co.jp//books/9784814400942/",
-          "author": null,
-          "description": "Rustはいま最も勢いのある言語の1つ。特に、そのパフォーマンスの高さ、安全性、並行性から、C/C++に代わる言語として、システムプログラミングや低レイヤの開発では高く評価されています。Googleのソフトウェアエンジニアとして、さまざまなGoogleサービスのRust実装を担当してきた著者が、Rustへの深い理解と豊富な経...",
-          "link": "https://www.oreilly.co.jp//books/9784814400942/",
-          "publishedOn": "2024-10-23T23:02:38.000Z",
-          "wordCount": 325,
-          "title": "Effective Rust",
-          "imageUrl": "https://www.oreilly.co.jp/books/images/picture_large978-4-8144-0094-2.jpeg"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/24/awsredisvalkeyamazon_elasticacheamazon_memorydb.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）は、Redisをフォークしたインメモリデータベース「Valkey 7.2」をAmazon ElastiCacheとAmazon MemoryDBで提供を開始したことを明らかにしました。 Valkeyのフォーク元となったRedisはオープンソースとして開発されてきましたが、今年（2024年）3月、ライセンスをクラウドベンダなどによる商用...",
-          "link": "https://www.publickey1.jp/blog/24/awsredisvalkeyamazon_elasticacheamazon_memorydb.html",
-          "publishedOn": "2024-10-23T21:47:25.000Z",
-          "wordCount": 1453,
-          "title": "AWS、Redisをフォークした「Valkey」をAmazon ElastiCacheとAmazon MemoryDBで提供開始",
-          "imageUrl": "https://www.publickey1.jp/2024/aws-valkey.png"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20241024043129",
-          "author": null,
-          "description": "流行りの生成AIに興味があったので、生成AIでコンテンツを作るバイトに応募。 オンラインで面接しながらチャットGPTをつかって生成AIの使い方を軽く教わる。今後、案件の斡旋もしていくという話でその日は終了。なぜかこの日の報酬として1200円が振り込まれた。 後日、再びオンライン面接に呼ばれる。 すると今度は自社...",
-          "link": "https://anond.hatelabo.jp/20241024043129",
-          "publishedOn": "2024-10-23T20:41:06.000Z",
-          "wordCount": 650,
-          "title": "アルバイトに応募したはずが、高圧的な態度で高額スクールの勧誘をされた",
-          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://taisy0.com/2024/10/23/205302.html",
-          "author": null,
-          "description": "The Informationが、Appleは「Vision Pro」の生産を突然縮小し、2024年末までに現行の「Vision Pro」の生産を完全に停止する可能性があると報じています。 これは「Vision Pro」の部品製造に関与している複数の関係者の話として報じられているもので、生産規模の縮小が初夏に始まったそうで、Appleは現在の需要を満たす...",
-          "link": "https://taisy0.com/2024/10/23/205302.html",
-          "publishedOn": "2024-10-23T15:00:59.000Z",
-          "wordCount": 2376,
-          "title": "Appleが2024年末までに｢Vision Pro｣の生産を中止する可能性が浮上 | 気になる、記になる…",
-          "imageUrl": "https://taisy0.com/wp-content/uploads/2023/06/th_Apple-WWCD23-Vision-Pro-with-battery-230605_big.large_2x.jpg"
-        },
-        {
-          "id": "https://zenn.dev/yoshikouki/articles/explore-rendering",
-          "author": null,
-          "description": "※ 当記事は、さくらじまハウス 2024 のLT「レンダリングを探訪する」 の書き起こしとして作成しました。 LT資料: はじめに この記事では、ブラウザのレンダリングについて掘り下げていきます。Web アプリケーション開発において、パフォーマンスの最適化や複雑なバグの解決は日常的な課題です。ブラウザのレンダリングフ...",
-          "link": "https://zenn.dev/yoshikouki/articles/explore-rendering",
-          "publishedOn": "2024-10-23T14:22:26.000Z",
-          "wordCount": 1710,
-          "title": "レンダリングを探訪する",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--4XSg4lUm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E6%258E%25A2%25E8%25A8%25AA%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yoshikouki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I5YzZhMTdlMTIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://speakerdeck.com/arthur1/go-toolchain-version",
-          "author": null,
-          "description": "https://gotalk.connpass.com/event/331992/",
-          "link": "https://speakerdeck.com/arthur1/go-toolchain-version",
-          "publishedOn": "2024-10-23T13:14:02.000Z",
-          "wordCount": 962,
-          "title": "go.mod、DockerfileやCI設定に分散しがちなGoのバージョンをまとめて管理する / Go Connect #3",
-          "imageUrl": "https://files.speakerdeck.com/presentations/d820a7ebfd7a4baa866d03d3af629e34/slide_0.jpg?32281544"
-        },
-        {
-          "id": "https://gigazine.net/news/20241023-how-dram-change-world/",
-          "author": null,
-          "description": "ロバート・ヒース・デナード氏が揮発性メモリの「DRAM」を発明してから、2024年6月で56周年を迎えました。そんなDRAMがIT業界にどのような変革をもたらしたのかについて、半導体大手のMicronが解説しています。 How DRAM changed the world | Micron Technology Inc. https://www.micron.com/about/blog/memory/dram/how...",
-          "link": "https://gigazine.net/news/20241023-how-dram-change-world/",
-          "publishedOn": "2024-10-23T12:56:43.000Z",
-          "wordCount": 3372,
-          "title": "DRAMが世界をどう変えたかを半導体大手のMicronが解説",
-          "imageUrl": "https://i.gzn.jp/img/2024/10/23/how-dram-change-world/00_m.jpg"
         }
       ]
     },
@@ -9732,6 +9732,66 @@
       "feedUrl": "http://feeds.japan.cnet.com/rss/cnet/all.rdf",
       "siteUrl": "https://japan.cnet.com",
       "articles": [
+        {
+          "id": "https://japan.cnet.com/article/35226483/",
+          "author": "高橋暁子",
+          "description": "スキマバイトサービス「タイミー」「メルカリ ハロ」などに闇バイトが掲載されていた可能性が指摘されて、話題となっている。SNSだけでなく求人サイトでも闇バイトが募集されている実態があるのだ。闇バイト募集は、どうやって見分ければいいのだろうか。",
+          "link": "https://japan.cnet.com/article/35226483/",
+          "publishedOn": "2024-11-23T00:00:00.000Z",
+          "wordCount": 2423,
+          "title": "「タイミー」「メルカリ ハロ」等の闇バイト募集、見分け方は--「高額すぎない」「時給記載あり」「DMに要注意」",
+          "imageUrl": "https://japan.cnet.com/storage/2020/07/08/1f79967b19bf9c52ac5616153c8e278c/t/1280/960/d/smartphone_native.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35226472/",
+          "author": "藤代格",
+          "description": "グーグル・クラウド・ジャパンは11月22日、「Gemini for Google Workspace」の対応言語を拡大すると発表した。日本語などの7つの言語を追加する。",
+          "link": "https://japan.cnet.com/article/35226472/",
+          "publishedOn": "2024-11-22T06:47:00.000Z",
+          "wordCount": 2439,
+          "title": "「Gemini for Google Workspace」、日本語等7言語追加--法人向けGmailにAI機能",
+          "imageUrl": "https://japan.cnet.com/storage/2024/11/22/83645d1a204902c3653df2480641c3cb/24Nov22_geminiFw_000.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35226468/",
+          "author": "藤代格",
+          "description": "アプリ版ポケモンカード「Pokemon Trading Card Game Pocket」（ポケポケ）は11月22～28日、「炎ポケモン大量発生イベント」を開催する。",
+          "link": "https://japan.cnet.com/article/35226468/",
+          "publishedOn": "2024-11-22T06:18:00.000Z",
+          "wordCount": 2457,
+          "title": "アプリ版ポケカ「ポケポケ」で「炎ポケモン大量発生イベント」--11月28日まで",
+          "imageUrl": "https://japan.cnet.com/storage/2024/11/22/f9a2e89c9c4a0ca559d33e2385432899/24Nov22_pokepoke_000-2.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35226462/",
+          "author": "藤代格",
+          "description": "NTTドコモは11月22日、生成AIを活用したサービス開発に取り組むスタートアップのSUPERNOVAと業務提携を開始したことを発表した。同提携により12月1日から、SUPERNOVAが開発、提供する生成AIサービス「Stella AI」（ステラ・エーアイ）を取り扱う。",
+          "link": "https://japan.cnet.com/article/35226462/",
+          "publishedOn": "2024-11-22T04:58:00.000Z",
+          "wordCount": 2455,
+          "title": "ドコモ、生成AI「Stella AI」提供開始--スタートアップのSUPERNOVAと提携、月1078円から",
+          "imageUrl": "https://japan.cnet.com/storage/2024/11/22/329d510c62f698f9b48160467bc52900/24Nov22_StellaAI_000.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35226453/",
+          "author": "Samantha Kelly （Special to CNET News） 翻訳校正： 編集部",
+          "description": "アップルの低価格「iPhone」モデルである次世代「iPhone SE」の発売が、あと数カ月後に迫っているかもしれない。",
+          "link": "https://japan.cnet.com/article/35226453/",
+          "publishedOn": "2024-11-22T03:02:00.000Z",
+          "wordCount": 2432,
+          "title": "次期「iPhone SE」、2025年3月に発売か",
+          "imageUrl": "https://japan.cnet.com/storage/2024/11/20/c95e4f90355917bdf6e4d175489908f4/iphone-se-black-friday_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35226447/",
+          "author": "Omar Gallaga Katie Collins （CNET News） 翻訳校正： 編集部",
+          "description": "米司法省は、検索をめぐる独占禁止訴訟の一環として、グーグルに「Chrome」ブラウザー事業の売却を命じるよう連邦裁判所に勧告した。グーグルは強く反発している。",
+          "link": "https://japan.cnet.com/article/35226447/",
+          "publishedOn": "2024-11-22T02:09:00.000Z",
+          "wordCount": 2424,
+          "title": "グーグル、「Chrome」売却を求める司法省に反発--「驚くべき提案だ」",
+          "imageUrl": "https://japan.cnet.com/storage/2023/12/15/223974922a0ee82fcb194abde2fe3315/20120314-google-chrome-lapel-pin-4sts-01_1280x960.jpg"
+        },
         {
           "id": "https://japan.cnet.com/article/35226361/",
           "author": "Katie Teague Chris Wedel （CNET News） 翻訳校正： 川村インターナショナル",
@@ -11411,96 +11471,6 @@
           "wordCount": 2459,
           "title": "好まざるとも到来する「素人がAIでコンテンツを量産する時代」--それに備えるAdobeの新機能とは（石川温）",
           "imageUrl": "https://japan.cnet.com/storage/2024/10/25/1cb2931ec7519f85ca998be977705d7c/001.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225329/",
-          "author": "CNET Japan Staff",
-          "description": "LINEヤフーは10月24日、「LINE VOOM」のストーリー機能で、表示制御されるべき一部の情報が特定の条件下で表示する不具合があったと発表した。",
-          "link": "https://japan.cnet.com/article/35225329/",
-          "publishedOn": "2024-10-24T08:07:00.000Z",
-          "wordCount": 2418,
-          "title": "「LINE VOOM」、ブロックした相手にストーリー表示する不具合--現在は解消、LINEヤフー発表",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/2085be37de41e5e24cae13dff30486db/24Oct24_ly_000.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225319/",
-          "author": "藤代格",
-          "description": "PayPay保険サービスとZフィナンシャル、PayPayは10月24日、同日から「PayPay」内の「PayPayほけん」ミニアプリで「インフルエンザお見舞い金」の提供を再開した。",
-          "link": "https://japan.cnet.com/article/35225319/",
-          "publishedOn": "2024-10-24T04:58:00.000Z",
-          "wordCount": 2416,
-          "title": "「PayPayほけん」のインフルエンザお見舞い金が再開--「リピート割」導入で最安1カ月240円に",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/b2e97cf303c45cf37dfa2009764fb601/24Oct24_paypay_000.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225311/",
-          "author": "小口貴宏",
-          "description": "「過去に類を見ない値上げで社内が騒然となっている」──。そうXに投稿したのは、神戸市を拠点に日本全国で運行するタンカー船事業者の東幸海運だ。NTTドコモは10月3日、衛星電話サービス「ワイドスターII」「ワイドスターIII」を4月1日に値上げすると発表。",
-          "link": "https://japan.cnet.com/article/35225311/",
-          "publishedOn": "2024-10-24T03:03:00.000Z",
-          "wordCount": 2408,
-          "title": "ドコモ衛星電話、通話料「3倍に値上げ」で船舶業者が悲鳴--スターリンクにできない理由は",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/6a89d3d1b10e31f12c6117a4a5264811/large.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225307/",
-          "author": "UchuBizスタッフ",
-          "description": "KDDIは、Starlink衛星とauスマートフォン（Android）を直接通信する実証実験を初めて実施し、成功した。",
-          "link": "https://japan.cnet.com/article/35225307/",
-          "publishedOn": "2024-10-24T02:56:00.000Z",
-          "wordCount": 2421,
-          "title": "auのスマホが「専用アンテナ無し」で本当にStarlinkにつながった--年内提供へ【現地レポ】",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/849f32af0d9a65446002a48eeb7d4fdb/20241024_fujii_kddi_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225300/",
-          "author": "Evan Zimmer （CNET News） 翻訳校正： 編集部",
-          "description": "アップルとゴールドマン・サックスは、共同ブランドの「Apple Card」をめぐる顧客サービスの不備と虚偽説明により、計8900万ドル（約136億円）以上の罰金を科された。",
-          "link": "https://japan.cnet.com/article/35225300/",
-          "publishedOn": "2024-10-24T02:50:00.000Z",
-          "wordCount": 2469,
-          "title": "アップルとゴールドマンに罰金136億円、「Apple Card」の不備で",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/491872492450e272a975b02b5c401f87/goldmansachs-apple-fined-00000_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225294/",
-          "author": "Nelson Aguilar （CNET News） 翻訳校正： 編集部",
-          "description": "アップルは米国時間10月23日、「iOS 18.2」の開発者向けベータ版をリリースした。",
-          "link": "https://japan.cnet.com/article/35225294/",
-          "publishedOn": "2024-10-24T01:37:00.000Z",
-          "wordCount": 2437,
-          "title": "「iOS 18.2」開発者向けベータ版が公開、「ChatGPT」連携や「ジェン文字」など",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/ba97f753de2748cba5d53e6b43081c38/apple-ios-18_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225293/",
-          "author": "小口貴宏",
-          "description": "KDDIは10月24日、Starlink衛星とauスマートフォンの直接通信サービスの実証実験に成功したと発表した。",
-          "link": "https://japan.cnet.com/article/35225293/",
-          "publishedOn": "2024-10-24T01:28:00.000Z",
-          "wordCount": 2437,
-          "title": "KDDI、スターリンク衛星と「auスマホ」の直接通信に成功--日本で開始目前",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/ca254026456027e41da4044d664ca2b8/001.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225146/",
-          "author": "Lisa Eadicicco （CNET News） 翻訳校正： 石橋啓一郎",
-          "description": "サムスンの次期スマホ「Galaxy S25」（仮称）には、充電の高速化など、普段のスマートフォンの使い方を楽にしてくれるもっと実用的なAI機能が必要だ。",
-          "link": "https://japan.cnet.com/article/35225146/",
-          "publishedOn": "2024-10-23T22:30:00.000Z",
-          "wordCount": 2603,
-          "title": "サムスンの「Galaxy S25」に欲しい4つのこと--日常で役立つ機能に期待",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/21/97774feb33e62401f6d6d8b9ce8bc488/samsung-galaxy-s24-s24-plus-5657_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35225268/",
-          "author": "小口貴宏",
-          "description": "クアルコムでシニアディレクター プロダクトマネージャーを務めるKarl Whealton氏は日本時間10月24日、日本メディアのインタビューに応じた。",
-          "link": "https://japan.cnet.com/article/35225268/",
-          "publishedOn": "2024-10-23T20:38:00.000Z",
-          "wordCount": 2399,
-          "title": "クアルコム、「Arm」と比較した「RISC-V」について説明",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/24/2baa7d4e85d471949f8bf74d44492cda/t/1280/960/d/002.jpg"
         }
       ]
     }
