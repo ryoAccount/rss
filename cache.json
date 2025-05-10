@@ -160,36 +160,6 @@
           "wordCount": 2715,
           "title": "CSS-Tricks Chronicles XLIII",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/chronicles-XXXVIII.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385232",
-          "author": "Zell Liew",
-          "description": "Most of the time, people showcase Tailwind's @apply feature with one of Tailwind's single-property utilities (which changes a single CSS declaration). When showcased this way, @apply doesn't sound promising at all. So obviously, nobody wants to use it. Personally, I think Tailwind's @apply feature is better than described.\nTailwind’s @apply Feature is Better Than it Sounds originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tailwinds-apply-feature-is-better-than-it-sounds/",
-          "publishedOn": "2025-04-10T12:39:43.000Z",
-          "wordCount": 3126,
-          "title": "Tailwind’s @apply Feature is Better Than it Sounds",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/tailwind-apply.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385758",
-          "author": "Geoff Graham",
-          "description": "If I were starting with CSS today for the very first time, I would first want to spend time understanding writing modes because that’s a great place to wrap your head around direction and document flow. But right after that, …\nCascading Layouts: A Workshop on Resilient CSS Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/",
-          "publishedOn": "2025-04-10T11:26:00.000Z",
-          "wordCount": 1913,
-          "title": "Cascading Layouts: A Workshop on Resilient CSS Layouts",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/cascading-workshop-cat-1600w.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385672",
-          "author": "Geoff Graham",
-          "description": "Chrome has prototyped these features and released them in Chrome 135. Adam Argyle has a wonderful explainer over at the Chrome Developer blog. Kevin Powell has an equally wonderful video where he follows the explainer. This post is me taking notes from them.\nCSS Carousels originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-carousels/",
-          "publishedOn": "2025-04-09T13:00:24.000Z",
-          "wordCount": 3001,
-          "title": "CSS Carousels",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
         }
       ]
     },
@@ -430,6 +400,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "681e7192df44ab8496bca883",
+          "author": "Balajee Asish Brahmandam",
+          "description": "In the rapidly evolving IT landscape, development teams have to operate at their best and manage complex systems while minimizing downtime. And having to do many routine tasks manually can really slow down operations and reduce efficiency. These days...",
+          "link": "https://www.freecodecamp.org/news/make-it-operations-more-efficient-with-aiops/",
+          "publishedOn": "2025-05-09T21:20:18.000Z",
+          "wordCount": 3369,
+          "title": "How to Make IT Operations More Efficient with AIOps: Build Smarter, Faster Systems",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746825359981/5587ade8-875d-4623-b3f5-708109b34672.png"
+        },
+        {
+          "id": "681e31e668aa6f9f0c37bb12",
+          "author": "Manish Shivanandhan",
+          "description": "You’ve probably heard someone say, “We’ll fix it later.” Maybe you’ve said it yourself. In the rush to launch a feature, meet a deadline, or impress a client, you take a shortcut. The code works – for now. The design passes – for now. But over time, ...",
+          "link": "https://www.freecodecamp.org/news/what-is-technical-debt-and-how-do-you-manage-it/",
+          "publishedOn": "2025-05-09T16:48:38.000Z",
+          "wordCount": 2175,
+          "title": "What is Technical Debt and How Do You Manage it?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746809303458/b4635ddc-d909-427a-9cc1-9b9f56ae1d41.png"
+        },
+        {
+          "id": "681dc8d07dcd2a77c4bbe048",
+          "author": "Beau Carnes",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Sam Crombie. He's a software engineer and prolific open source contributor to freeCodeCamp. He abandon his job at Microsoft, got into Y Combinator, and is currently ...",
+          "link": "https://www.freecodecamp.org/news/ditching-a-microsoft-job-to-enter-startup-hell-with-lonewolf-engineer-sam-crombie-podcast-171/",
+          "publishedOn": "2025-05-09T09:20:16.000Z",
+          "wordCount": 1071,
+          "title": "Ditching a Microsoft Job to Enter Startup Hell with Lonewolf Engineer Sam Crombie [Podcast #171]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746753508177/0cd57f66-fdb0-4972-b285-1443a7db39fc.png"
+        },
         {
           "id": "681d1bbfb1018a470d0d8a02",
           "author": "Beau Carnes",
@@ -1239,26 +1239,6 @@
           "wordCount": 2612,
           "title": "How to Use Lazygit to Improve Your Git Workflow",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744293114488/5332db88-bff6-4aef-91eb-3423f3b95e1a.png"
-        },
-        {
-          "id": "67f7044b8d28cad83fb095a2",
-          "author": "Mark Mahoney",
-          "description": "This tutorial introduces the programming language, Clojure. Clojure is an awesome functional programming language that runs on Java's Virtual Machine (JVM). It is sometimes called a LISP, which is short for 'LISt Processing'. You'll need to have some...",
-          "link": "https://www.freecodecamp.org/news/learn-clojure-programming-basics/",
-          "publishedOn": "2025-04-09T23:35:39.000Z",
-          "wordCount": 3316,
-          "title": "An Animated Introduction to Clojure – Learn Clojure Programming Basics",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744240649396/3e68ef22-3109-4b43-841e-e947f1821a76.png"
-        },
-        {
-          "id": "67f6a2b6a00282687c8e224d",
-          "author": "Beau Carnes",
-          "description": "In the rapidly evolving landscape of cross-platform development, a new player has emerged that promises to revolutionize the way developers create applications: Lynx. Developed by ByteDance, the company behind TikTok, Lynx is an open-source framework...",
-          "link": "https://www.freecodecamp.org/news/learn-lynx-to-create-javascript-mobile-apps/",
-          "publishedOn": "2025-04-09T16:39:18.000Z",
-          "wordCount": 1303,
-          "title": "Learn Lynx to Create JavaScript Mobile Apps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744216738661/fb1664d6-011e-4d79-8236-c6999f0acab6.png"
         }
       ]
     },
@@ -1556,36 +1536,6 @@
           "wordCount": 7623,
           "title": "【4月11日ランキング】Kotlin、Swift、Rubyの人気が低迷中 — プログラミング言語最新人気ランキングにて／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1744233217/comments/jcgou06gcjbup62xvlbl.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/67f6e5867566f20f76b047a9?from=rss",
-          "author": null,
-          "description": "4月9日、Analytics India Magazineが「How Prime Video Cut UI Latency 7.6x by Switching to Rust」と題した記事を公開した。この記事では、Prime VideoがUI遅延を7.6倍削減した具体的な取り組みについて詳しく紹介されている。以下に、その内容を紹介する。オンラインフォーラムでは、Rustを称賛するプログラマーの声を簡単に見つけることができる。ここ数年、RustはStack Overflowの調査で常に高い評価を受けており、Rustを取り入れた企業はその利点を享受している。現在ではAtlassian、Discord、Figma、Meta、Mozillaといった世界的企業をはじめ、90社以上がRustを実運用で活用している。昨年11月のQCon San Franciscoにて、Amazon Prime VideoのプリンシパルエンジニアであるAlexandru Ene氏は、リビングルーム向けデバイスのユーザーインターフェースをRustベースのアーキテクチャへと移行し、WebAssemblyへコンパイルする手...",
-          "link": "https://techfeed.io/entries/67f6e5867566f20f76b047a9?from=rss",
-          "publishedOn": "2025-04-09T21:24:22.587Z",
-          "wordCount": 7696,
-          "title": "【海外記事紹介】Webフロントエンド開発の新たな潮流となるか？Rust+WebAssemblyを使用する動きが加速中 — Amazon Prime Videoにおいて7.6倍のUIレイテンシ削減",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fanalyticsindiamag.com%2Fwp-content%2Fuploads%2F2025%2F04%2FBefore-After-Architecture-e1744096086319.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/67f6e31d7566f20f76b04754?from=rss",
-          "author": null,
-          "description": "4月8日、海外のテクノロジーメディアInfoWorldが「Kotlin, Swift, and Ruby losing popularity – Tiobe index」と題した記事を公開した。この記事では、プログラミング言語Kotlin、Swift、RubyがTiobe指数において順位を下げ、人気が低下している状況について紹介されている。",
-          "link": "https://techfeed.io/entries/67f6e31d7566f20f76b04754?from=rss",
-          "publishedOn": "2025-04-09T21:14:05.241Z",
-          "wordCount": 7668,
-          "title": "Kotlin、Swift、Rubyの人気が低迷中 — プログラミング言語最新人気ランキングにて",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1744233217/comments/jcgou06gcjbup62xvlbl.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2025/4/10?from=rss",
-          "author": null,
-          "description": "<img src=\"https://res.cloudinary.com/techfeed/image/upload/v1744060264/comments/upuzlal5vebjhgdqfm7e.png\"><br>すべてカテゴリー 2025年4月10日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 【海外記事紹介】Next.jsから離れる企業が増えている理由<br>2位: 【海外記事紹介】「AIエージェント用のUSB-C」として最近注目のMCPはデフォルトで安全ではない、と注意喚起する記事が大きな話題に<br>3位: 「AppleはiPhoneを米国内で製造できる」──トランプ政権（www.itmedia.co.jp）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2025/4/10?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2025/4/10?from=rss",
-          "publishedOn": "2025-04-09T20:00:09.579Z",
-          "wordCount": 7617,
-          "title": "【4月10日ランキング】【海外記事紹介】Next.jsから離れる企業が増えている理由／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1744060264/comments/upuzlal5vebjhgdqfm7e.png"
         }
       ]
     },
@@ -1600,6 +1550,246 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://dev.classmethod.jp/articles/postman-gui-api/",
+          "author": null,
+          "description": "APIの動作確認や検証で、curlなどのCLIツールを使っている方も多いと思います。 私もこれまでターミナルでAPIリクエストを送って確認していましたが、毎回オプションを思い出しトークンを切り替えながらコマンドを組み立てるのが地味に面倒でした。 そこで今回は、GUIで直感的にAPIリクエストを送れる「Postman」を使っ...",
+          "link": "https://dev.classmethod.jp/articles/postman-gui-api/",
+          "publishedOn": "2025-05-09T14:52:51.000Z",
+          "wordCount": 2696,
+          "title": "Postman入門してみた：GUIで快適にAPIリクエストを確認する | DevelopersIO",
+          "imageUrl": "https://devio2024-media.developers.io/image/upload/v1746796755/user-gen-eyecatch/qw6abcvwchbl5zhvbcjd.webp"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20250509214711",
+          "author": null,
+          "description": "当時、私が所属していたとある医療団体がビル・アンド・メリンダ・ゲイツ財団から資金調達することになったときのことだ。 「増田氏と支給連絡が取りたし。」との文面で始まるメールが唐突に届いた。 内容は資金調達に関しての話し合いのためビル・ゲイツと面談をして欲しい。 支給連絡を乞う、というような内容だった。...",
+          "link": "https://anond.hatelabo.jp/20250509214711",
+          "publishedOn": "2025-05-09T13:03:02.000Z",
+          "wordCount": 602,
+          "title": "ビル・ゲイツとはシアトルに住んでいた頃に一度会ったことがある。",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://speakerdeck.com/syobochim/itibanyasasiigitru-men",
+          "author": null,
+          "description": "20190425 JJUG ナイトセミナー",
+          "link": "https://speakerdeck.com/syobochim/itibanyasasiigitru-men",
+          "publishedOn": "2025-05-09T12:32:23.000Z",
+          "wordCount": 1076,
+          "title": "いちばんやさしいGit入門",
+          "imageUrl": "https://files.speakerdeck.com/presentations/526d8798653744cda23239ab855f9629/slide_0.jpg?12440266"
+        },
+        {
+          "id": "https://necco.inc/note/49799",
+          "author": null,
+          "description": "Obsidian（オブシディアン）は、Markdownベースでテキストを管理できる、テキストエディターです。 私もここ2〜3年ほど、下記のような用途でObsidianを活用しています。 日々の行動・思考記録 コードスニペット集 AIプロンプト集 ブログの下書き Web Clipper（気になるウェブページのメモ） Obsidianといえば「Zettelkas...",
+          "link": "https://necco.inc/note/49799",
+          "publishedOn": "2025-05-09T11:20:32.000Z",
+          "wordCount": 2263,
+          "title": "Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜 - necco Note | necco inc.",
+          "imageUrl": "https://wordpress.necco.inc/wp-content/uploads/2025/05/obsidian-eyecatch.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232811/",
+          "author": null,
+          "description": "パナソニックホールディングスは5月9日、2025年度から2026年度に1万人規模の人員削減を実施すると発表した。国内、海外でそれぞれ5000人を想定しているという。 この人員削減について、グループCEOを務める楠見雄規氏は「雇用に手を付けたことは、じくじたる思い」「（自身の）今年度の報酬の約40％を返上する」と述べた...",
+          "link": "https://japan.cnet.com/article/35232811/",
+          "publishedOn": "2025-05-09T11:14:35.000Z",
+          "wordCount": 2259,
+          "title": "パナソニック1万人削減--「人員は少し足りないくらいが創意工夫が生まれる」と楠見CEO",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/c88956ac2538da3d2938862ccb36aaa2/pana.jpeg"
+        },
+        {
+          "id": "https://github.blog/jp/2025-05-09-openai-gpt-4-1-is-now-generally-available-in-github-copilot-as-the-new-default-model/",
+          "author": null,
+          "description": "本日より、OpenAIのGPT-4.1がGitHub Copilot Chat、Edits、エージェントモードの新しいデフォルトモデルとしてロールアウトします。これはGPT-4oからのアップグレードです。OpenAIは、開発者からの直接のフィードバックに基づき、GPT-4.1を実世界での使用に最適化し、一般的な開発タスクに理想的なものにするために、コ...",
+          "link": "https://github.blog/jp/2025-05-09-openai-gpt-4-1-is-now-generally-available-in-github-copilot-as-the-new-default-model/",
+          "publishedOn": "2025-05-09T10:01:09.000Z",
+          "wordCount": 718,
+          "title": "OpenAI GPT-4.1が新しいデフォルトモデルとしてGitHub Copilotで一般提供開始",
+          "imageUrl": "https://github.blog/jp/wp-content/uploads/sites/2/2025/05/featured-new-releases.png"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/2012994.html",
+          "author": null,
+          "description": "NTTドコモが新料金プランの開始にあわせて、6月3日いっぱいで新規受付を停止する「irumo」。このうち、0.5GBプランについては、代替となる料金プランは用意されない方針も示されている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/2012994.html",
+          "publishedOn": "2025-05-09T09:13:50.000Z",
+          "wordCount": 5131,
+          "title": "ドコモ前田氏、新規停止の「irumo」0.5GBに「MNPで契約した人の半数が1年以内に転出」",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/2012/994/irumo.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/2012762.html",
+          "author": null,
+          "description": "米Microsoftは5月9日（日本時間）、「Visual Studio Code」の2025年4月アップデート（v1.100）を正式公開した。本リリースでもAI機能を中心に、多くの改善が盛り込まれている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2012762.html",
+          "publishedOn": "2025-05-09T09:05:14.000Z",
+          "wordCount": 5420,
+          "title": "「Visual Studio Code」がv1.100に到達、AI関連を中心に多くの機能強化／ベースとなるエディター機能も改善された2025年4月更新",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2012/762/visual_studio_code.jpg"
+        },
+        {
+          "id": "https://note.com/mekann/n/n5765bdb9d2fd",
+          "author": null,
+          "description": "現時点での結論として、CursorとObsidianの併用は、あまり推奨できないという判断に至りました。少なくとも、「自動で〇〇する」といった使い方は、やや本質から外れている印象を受けます。 Vibe coding ならぬ Vibe writing… — Mekann (@Mekann2904) May 8, 2025 CursorとObsidianの併用は推奨できない現時点での結論と...",
+          "link": "https://note.com/mekann/n/n5765bdb9d2fd",
+          "publishedOn": "2025-05-09T08:41:38.000Z",
+          "wordCount": 2382,
+          "title": "CursorとObsidianは理想の組み合わせではなかった｜Mekann",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/188947375/rectangle_large_type_2_fc6a6700cfe48bfd275a5180cb006915.png?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/01314cca2588deb0fc8d1f20e9af2251a9803a54",
+          "author": null,
+          "description": "経済産業省は9日、国産生成AI（人工知能）の開発と、政府機関や民間企業への社会実装を促進する懸賞金事業を立ち上げたと発表した。1位の懸賞金は5000万～1億円。懸賞金総額は約8億円で、2026年5月の交付を見込んでいる。 【写真】【写真】全然違う…　AIが描いたドラえもん、ピカチュウ 経産省は国立研究開発法人新エネ...",
+          "link": "https://news.yahoo.co.jp/articles/01314cca2588deb0fc8d1f20e9af2251a9803a54",
+          "publishedOn": "2025-05-09T08:38:49.000Z",
+          "wordCount": 1714,
+          "title": "生成AIの開発・促進に懸賞金　総額約8億円　経産省などが募集（毎日新聞） - Yahoo!ニュース",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000045-mai-000-6-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2025/05/google-cloud-accidentally-detele-unisuper-account-1.html",
+          "author": null,
+          "description": "2024年5月26日の記事を編集して再掲載しています。 Googleさん、やらかしちゃいました。 2024年4月下旬に、Googleが誤ってオーストラリアの年金基金UniSuperのGoogle Cloudアカウントを削除してしまったとThe Guardianが報じました。UniSuperが管理している年金の総額は日本円にしておよそ17兆2500億円。UniSuperにお金...",
+          "link": "https://www.gizmodo.jp/2025/05/google-cloud-accidentally-detele-unisuper-account-1.html",
+          "publishedOn": "2025-05-09T08:25:17.000Z",
+          "wordCount": null,
+          "title": "Googleがクラウドから｢絶対に消えてはいけないもの｣を消してしまう",
+          "imageUrl": null
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2505/09/news040.html",
+          "author": null,
+          "description": "ファイル操作って何となく難しいって思いませんか？　何かミスをするとファイルが壊れちゃうんじゃないか？　って思ったことありますよね。でも、大丈夫です。Pythonにはファイルを扱う方法がいろいろと用意されているんです。もちろん、失敗すればファイルが壊れることはありますが、そうはならないような方法もちゃん...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2505/09/news040.html",
+          "publishedOn": "2025-05-09T07:20:51.000Z",
+          "wordCount": 4799,
+          "title": "Pythonのファイル操作まとめ：よく使うopen／with／Path／pickleなどを一冊に！　無料の電子書籍『解決！Python ファイル操作編』",
+          "imageUrl": "https://image.itmedia.co.jp/ait/articles/2505/09/cover_news040.jpg"
+        },
+        {
+          "id": "https://zenn.dev/minedia/articles/aipm-online-qualitative-research",
+          "author": null,
+          "description": "3秒まとめ この記事の目的 みやっち氏作のAI PMワークフローの理解と社内プロジェクトへの応用可能性の探求 内容 AI PMの概要とコンセプト 「aipm_v0」の説明 「オンライン定性調査プラットフォーム構築」における活用シミュレーション。8年前に企画してローンチしたサービス。 考察や応用事例。示唆が多いので解説。 期...",
+          "link": "https://zenn.dev/minedia/articles/aipm-online-qualitative-research",
+          "publishedOn": "2025-05-09T06:56:56.000Z",
+          "wordCount": 9282,
+          "title": "AI PMワークフロー「aipm_v0」の使用例と応用を考える",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--W3gkcgBT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520PM%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2580%258Caipm_v0%25E3%2580%258D%25E3%2581%25AE%25E4%25BD%25BF%25E7%2594%25A8%25E4%25BE%258B%25E3%2581%25A8%25E5%25BF%259C%25E7%2594%25A8%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Matsukura%2520Yuki%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg5ODUyZjZkYzguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2diQWZWd2dLbmhzWjJZdGgyY2k1c2hveDdQWHl5UUVaN0MyV2JkQ0E9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2505/09/news161.html",
+          "author": null,
+          "description": "NTTドコモは5月9日、親会社である日本電信電話（NTT）の社名とコーポレートロゴ刷新に伴い、ドコモグループの新しいコーポレートロゴを公開した。NTTのマークとして知られる「ダイナミックループ」が入った。 ダイナミックループは「一本の曲線により企業のダイナミズムを表現し、マークの上部の小さなループは、常に顧...",
+          "link": "https://www.itmedia.co.jp/news/articles/2505/09/news161.html",
+          "publishedOn": "2025-05-09T06:47:12.000Z",
+          "wordCount": 2785,
+          "title": "ドコモ、赤い“NTTマーク”が付いた新コーポレートロゴ発表",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2505/09/cover_news161.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20250509-message-from-steve-jobs/",
+          "author": null,
+          "description": "Appleの元従業員で、NeXTではシステムエンジニアを務めていた経歴を持つスティーブ・ヘイマン氏が、かつてスティーブ・ジョブズ氏から受け取ったメールについて語っています。 From: Steve Jobs. \"Great idea, thank you.\" | #haymanSplaining https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html 1991...",
+          "link": "https://gigazine.net/news/20250509-message-from-steve-jobs/",
+          "publishedOn": "2025-05-09T06:43:46.000Z",
+          "wordCount": 3633,
+          "title": "スティーブ・ジョブズから「素晴らしいアイデアですね。ありがとう」というメールが届いたエピソードを元NeXTのシステムエンジニアが語る",
+          "imageUrl": "https://i.gzn.jp/img/2025/05/09/message-from-steve-jobs/00_m.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/2012891.html",
+          "author": null,
+          "description": "米Googleは5月7日（現地時間）、メールサービス「Gmail」において、暗号化方式「3DES」のサポートを終了すると発表した。5月30日以降、SMTP接続に3DESを使用しているメールシステムは、Gmailアカウントへのメール配信ができなくなる。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/2012891.html",
+          "publishedOn": "2025-05-09T06:31:52.000Z",
+          "wordCount": 5388,
+          "title": "「Gmail」が暗号化方式「3DES」のサポートを終了へ／セキュリティ強化を目的とし、潜在的な脆弱性からユーザーを保護",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2012/891/gmail.png"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/2012876.html",
+          "author": null,
+          "description": "ローソンは、東京都の約400店舗で展開している冷凍おにぎりの取扱い店について、5月13日から新たに東京都、神奈川県、千葉県、茨城県、栃木県、山梨県の約1,300店舗を追加し、計約1,700店舗に拡大する。ラインアップは4品で、価格は140円から279円。常温おにぎりと比べて1～2割安い価格となる。",
+          "link": "https://www.watch.impress.co.jp/docs/news/2012876.html",
+          "publishedOn": "2025-05-09T06:25:54.000Z",
+          "wordCount": 4261,
+          "title": "ローソン、「冷凍おにぎり」拡大　賞味期限1年・常温より安い",
+          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2012/876/lawson_01.jpg"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/yajiuma/2012728.html",
+          "author": null,
+          "description": "SNS「Bluesky」で、誹謗中傷による権利侵害が認定され、国内初の開示命令が下されたことが明らかになった。",
+          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2012728.html",
+          "publishedOn": "2025-05-09T03:42:32.000Z",
+          "wordCount": 4698,
+          "title": "Bluesky上の誹謗中傷で国内初の開示請求が出るも、日本国内に窓口がなく「どうやって対応させるか」が問題に【やじうまWatch】",
+          "imageUrl": "https://internet.watch.impress.co.jp/img/iw/list/2012/728/yajiuma-watch_4.png"
+        },
+        {
+          "id": "https://japan.zdnet.com/article/35232760/",
+          "author": null,
+          "description": "Steven J. Vaughan-Nichols （Special to ZDNET.com） 翻訳校正： 緒方亮 長谷睦 （ガリレオ） 2025-05-09 10:45 「i486」プロセッサーに、安らかな眠りにつく時が訪れた。同プロセッサーはIntelが1989年に発売して以来、長きにわたり生きながらえてきた。Microsoftは2001年の「Windows XP」リリース時にサポートを終了...",
+          "link": "https://japan.zdnet.com/article/35232760/",
+          "publishedOn": "2025-05-09T03:36:46.000Z",
+          "wordCount": 2045,
+          "title": "「Linux」で「i486」と初期「Pentium」のサポートが終了へ",
+          "imageUrl": "https://japan.zdnet.com/storage/2025/05/09/7c9f2642ab42e677b246db27ea7fa3a0/486-cpu_1280.jpg"
+        },
+        {
+          "id": "https://gemini.google.com/share/2f0f31145497",
+          "author": null,
+          "description": "Created with Gemini",
+          "link": "https://gemini.google.com/share/2f0f31145497",
+          "publishedOn": "2025-05-09T03:24:27.000Z",
+          "wordCount": 5280,
+          "title": "‎Gemini - HAL9000型との対話",
+          "imageUrl": "https://lh3.googleusercontent.com/gg/AAHar4dGuqIMLccLPvWSNrsylcpXKyhH2zEA0T0ezLXO2wiWoqUNQG-Rh1sxHDc_6woUeQISkTgWphTJIU96543Ik6x0BoC-JLMHJT2-MG83Ju2_lqi0baTuOWKC5bPWBHnkujgfbudLIJo94ulyMEZTwsUmnoxZSdZD1ZrEEFTo9z5mTATvfSo=s1200"
+        },
+        {
+          "id": "https://blog.father.gedow.net/2025/05/09/aws-rds-aurora-io-optimized/",
+          "author": null,
+          "description": "このように更新の激しいデータベースの場合、I/O 費用が結構高くなるので -$1700/月 くらいのコスト削減になることは珍しくありません。当然ですが、この３つの条件はサービスや Auroraクラスタによって異なるので、こういう風に整理して計算してみましょうという例に過ぎません。 インスタンスとデータ容量の費用が上昇...",
+          "link": "https://blog.father.gedow.net/2025/05/09/aws-rds-aurora-io-optimized/",
+          "publishedOn": "2025-05-09T02:29:29.000Z",
+          "wordCount": 1478,
+          "title": "AWS RDS Aurora I/O-Optimized の基礎知識 | 外道父の匠",
+          "imageUrl": "https://blog.father.gedow.net/wp-content/uploads/2015/11/Amazon-Aurora.png"
+        },
+        {
+          "id": "https://future-architect.github.io/articles/20250509a/",
+          "author": null,
+          "description": "はじめに製造エネルギー事業部の辻です。Goのテストをはじめてみよう、という記事です。 この記事は、5年前の2020年に私が執筆したGoのテスト入門記事（Goのテストに入門してみよう！）のリメイク版です。当時は執筆したときのGoのバージョンは1.14でした。記事はありがたいことに継続的に反響をいただいていたものの、...",
+          "link": "https://future-architect.github.io/articles/20250509a/",
+          "publishedOn": "2025-05-09T02:14:05.000Z",
+          "wordCount": 3407,
+          "title": "Goのテストをはじめてみよう（2025年版） | フューチャー技術ブログ",
+          "imageUrl": "https://future-architect.github.io/images/20250509a/coverage.png"
+        },
+        {
+          "id": "https://kaden.watch.impress.co.jp/docs/news/2012678.html",
+          "author": null,
+          "description": "玄関ドアのカギを常に持たなくても、スマホや暗証番号など様々な方法で開け閉めできて便利なスマートロック。国内普及率はかつて1.2%(JEITAスマートホームユーザー動向調査 2022年)と低い数値だったが、1～2年ほど前から普及加速の動きを見せている。その一つが賃貸住宅向けのスマートロックで、大手賃貸などがこぞってスマートロックを導入しはじめているようだ。",
+          "link": "https://kaden.watch.impress.co.jp/docs/news/2012678.html",
+          "publishedOn": "2025-05-09T02:12:08.000Z",
+          "wordCount": 5037,
+          "title": "電力メーター大手、大崎電気工業の「新しいスマートロック」とは? - 家電 Watch",
+          "imageUrl": "https://kaden.watch.impress.co.jp/img/kdw/list/2012/678/02-07.jpg"
+        },
+        {
+          "id": "https://tech.layerx.co.jp/entry/2025/05/09/091303",
+          "author": null,
+          "description": "はじめに こんにちは、LayerX バクラク事業部で請求書発行を担当している QAエンジニアの genny です！ 最近、API の自動テストを実装する中で、プロダクトコードの処理フローを追う必要に迫られました。Cursor を活用することでスムーズに理解を深めることができたので、その過程で得た知見を共有できればと思います。 ...",
+          "link": "https://tech.layerx.co.jp/entry/2025/05/09/091303",
+          "publishedOn": "2025-05-09T00:28:37.000Z",
+          "wordCount": 845,
+          "title": "Cursor Agent がQAエンジニアのプロダクト理解を加速させてくれた話 - LayerX エンジニアブログ",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/6f707de0ba719e7905c4811feeff8a577b55f0a2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FG%2FGennyBoy98%2F20250509%2F20250509101340.png"
+        },
         {
           "id": "https://www.watch.impress.co.jp/docs/topic/2012346.html",
           "author": null,
@@ -9649,316 +9839,6 @@
           "wordCount": 1275,
           "title": "GitHub Actions⇔AWS らくらく連携手順書♪ - Qiita",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzg2NzM0OSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTczNTE4OTA0NT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0yODIwZmEwMDFmNjNmNzRkNGUzZmM3MjdjYjY5YzVlOQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZmZjU0MTVkZTJiOGQzZjdiNjhmYWQ5MWI0ZjAwNmI3OGJjZjk1NDJjJTJGb3JpZ2luYWwuanBnJTNGMTcxMTkzNzE5Nz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTM5N2E0OWJhYThkZDJjMzM3NDBiNjY1NGMyYzJmOTNm%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D35a4c22003fdc3894d84b5f9b34b6c5b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R2l0SHViJTIwQWN0aW9ucyVFMiU4NyU5NEFXUyUyMCVFMyU4MiU4OSVFMyU4MSU4RiVFMyU4MiU4OSVFMyU4MSU4RiVFOSU4MCVBMyVFNiU5MCVCQSVFNiU4OSU4QiVFOSVBMCU4NiVFNiU5QiVCOCVFMiU5OSVBQSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTgyMWE0ZjA2NTJmZGZhZWFmOTk2NmRhMTU4MWE2NjFi&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBuYXRzdW1pX2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01OTJjOGFjN2NlZTkyNTk4ZmQ4NGY0YjNkMzEwNDBjMA&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-44K744K-44Oz44OG44Kv44OO44Ot44K444O8&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=82949808dc9ff827ee3faa4f897a8e65"
-        },
-        {
-          "id": "https://note.com/kanakagishippo/n/ncab334f52f05",
-          "author": null,
-          "description": "「Copilot code review」一般公開、Claude Crew登場、Devin 2.0が従量課金制に、GitHub MCPサーバーがオープンソース化、OpenAIが新モデル「o3」「o4-mini」発表予定、Oracle 600万件ログイン情報流出｜4月5日のIT・AIニュースピックアップ！ こんにちは、MOFUです。 GitHubが「Copilot code review」を一般公開したニュ...",
-          "link": "https://note.com/kanakagishippo/n/ncab334f52f05",
-          "publishedOn": "2025-04-10T12:23:07.000Z",
-          "wordCount": 3272,
-          "title": "「Copilot code review」一般公開、Claude Crew登場、Devin 2.0が従量課金制に、GitHub MCPサーバーがオープンソース化、OpenAIが新モデル「o3」「o4-m｜MOFU",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/183092530/rectangle_large_type_2_0103cec3e42db199ce31178b5e509060.jpeg?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://dev.inorinrinrin.com/blog/bd2a030a3c28daf4ac9b9dbf",
-          "author": null,
-          "description": "日本時間で昨日の深夜にZod v4に関するchangelogが公開された。 Zod Changelog うっきうきで見に行ったが、かなり破壊的な変更が入ろうとしている。 deprecates .email() etc[https://v4.zod.dev/v4/changelog#zstring-updates] 元々z.string().email()のようにかけていたこれらは、z.email();と呼び出すように変更され...",
-          "link": "https://dev.inorinrinrin.com/blog/bd2a030a3c28daf4ac9b9dbf",
-          "publishedOn": "2025-04-10T12:14:39.000Z",
-          "wordCount": 350,
-          "title": "Zod v4 で破壊的変更が入りそうな件",
-          "imageUrl": "https://dev.inorinrinrin.com/_astro/1200x630.WcuitfqK.png"
-        },
-        {
-          "id": "https://shuchi.php.co.jp/article/12069",
-          "author": null,
-          "description": "怠け者の大学4年生がChatGPTに出会い、ノリでプログラミングに取り組んだら、教授に褒められ、海外論文が認められ、ソフトウェアエンジニアとして就職できた――。 大学時代にChatGPTを使って毎日ゲームを作る「＃100日チャレンジ」を成功させ、その経験を本にまとめた大塚あみさん。そこには大きな苦労があったといいます...",
-          "link": "https://shuchi.php.co.jp/article/12069",
-          "publishedOn": "2025-04-10T12:02:19.000Z",
-          "wordCount": 385,
-          "title": "「AIで宿題をサボる方法」を海外の学生に教えて感じた、効率化に対する意識の違い",
-          "imageUrl": "https://shuchi.php.co.jp/userfiles/images/2025/2025A/250325Ootsukaami01.jpg"
-        },
-        {
-          "id": "https://qiita.com/Ruuchami/items/7ced2db49fb5c01d9611",
-          "author": null,
-          "description": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 背景と目的 最近MCPという言葉をよく聞きます。皆さんが分かりやすい記事を出してくださっているものの、実際にMCPで何ができるのか、ドキュメントだけだとイメージが掴み...",
-          "link": "https://qiita.com/Ruuchami/items/7ced2db49fb5c01d9611",
-          "publishedOn": "2025-04-10T11:03:50.000Z",
-          "wordCount": 1143,
-          "title": "MCPで飲み会番長をつくる - Qiita",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNjMyMzE5JTJGMzBlMGFkMGE3Y2M5ZDQ5ZDc2YmM2NzNjYTY1ZThkYzJjODYwYmM5MyUyRmxhcmdlLnBuZyUzRjE3MDIwNDc5NTM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9ZjUxZmE2NDY5N2NmMDJkNzA1ZjVkNTg1NTlhNjZkYjQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D53ea5cb976857c33480e9e139a76a591?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TUNQJUUzJTgxJUE3JUU5JUEzJUIyJUUzJTgxJUJGJUU0JUJDJTlBJUU3JTk1JUFBJUU5JTk1JUI3JUUzJTgyJTkyJUUzJTgxJUE0JUUzJTgxJThGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjdlYzAxY2FkMTRjMzljZjA5N2I3ZTg4MjJmYTE5NDk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBSdXVjaGFtaSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTU1NDkxMmRhYzhmYjdhMjgxYzUxMmNjYmViZTE4Nzk4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=94258021f0dc932d44528e28adaf2f99"
-        },
-        {
-          "id": "https://developers.gmo.jp/technology/62663/",
-          "author": null,
-          "description": "はじめに：文化は、導入するものではなく、育てていくもの この記事は、複数のチームが関わる中規模〜大規模な開発組織で、DevSecOpsを推進しようとしている方々に向けて書いています。 横断チームのマネージャーとして、組織をまたいで文化を育てるという難易度の高いテーマに向き合ってきました。 DevSecOpsという言葉...",
-          "link": "https://developers.gmo.jp/technology/62663/",
-          "publishedOn": "2025-04-10T10:19:31.000Z",
-          "wordCount": 1258,
-          "title": "DevSecOps文化を育てる：少しずつ、でも着実にチームと前進するために / 開発者向けブログ・イベント | GMO Developers",
-          "imageUrl": "https://developers.gmo.jp/wp-content/uploads/2025/03/源柔ゴシック-2-1.png"
-        },
-        {
-          "id": "https://reinforz.co.jp/bizmedia/78819/",
-          "author": null,
-          "description": "Appleが先週リリースしたiOS 18.4に対し、CarPlayの不具合やバッテリー消耗、端末発熱の増加、削除済アプリの復元といった問題がユーザーから報告されている。これを受け、Appleは修正を目的としたiOS 18.4.1の開発を進行中であることが、9to5MacやMacRumorsによって確認された。 iOS 18.4.1は、バグ修正とパフォーマン...",
-          "link": "https://reinforz.co.jp/bizmedia/78819/",
-          "publishedOn": "2025-04-10T09:38:24.000Z",
-          "wordCount": 6456,
-          "title": "iOS 18.4の不具合に対応へ　Appleが18.4.1を緊急展開か | Reinforz Insight",
-          "imageUrl": "https://reinforz.co.jp/bizmedia/wp-content/uploads/2024/01/1826363_s.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2504/10/news163.html",
-          "author": null,
-          "description": "東宝の完全子会社で映画館を運営するTOHOシネマズは4月10日、会員制度「シネマイレージ」を2026年春にリニューアルすると発表した。映画を6回鑑賞すると1回無料になる“ポイント鑑賞”は、物販なども含めた利用金額に応じてポイントを付与する方式に変更する。 この利用金額には、劇場でパンフレットやポップコーンなどを...",
-          "link": "https://www.itmedia.co.jp/news/articles/2504/10/news163.html",
-          "publishedOn": "2025-04-10T09:05:57.000Z",
-          "wordCount": 2485,
-          "title": "TOHOシネマズの“6回見たら1回タダ”終了へ　「シネマイレージ」26年春にリニューアル",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2504/10/cover_news163.jpg"
-        },
-        {
-          "id": "https://tech.layerx.co.jp/entry/2025/04/10/172743",
-          "author": null,
-          "description": "こんにちは！すべての経済活動を、デジタル化したい @serima です。 4月8日(月)に、記念すべき第1回目となる「AI Coding Meetup」をオフライン/オンラインのハイブリッド形式で開催しました！ AIコーディングツールを組織やチームで活用しているエンジニアの皆さんと濃密な時間を過ごすことができ、企画者としても大変嬉...",
-          "link": "https://tech.layerx.co.jp/entry/2025/04/10/172743",
-          "publishedOn": "2025-04-10T08:37:07.000Z",
-          "wordCount": 793,
-          "title": "AI Coding Meetup #1 を開催しました #aicoding - LayerX エンジニアブログ",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/47fa70284b8681a9ae464627a84c7f09468580d5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fserimaryo%2F20250409%2F20250409012735.png"
-        },
-        {
-          "id": "https://pyama.fun/archives/6554",
-          "author": null,
-          "description": "無事、クビを免れて3ヶ月を乗り切れました。 お祝いはこちらからお願いします。ありがとうございます！ www.amazon.jphttps://www.amazon.jp/hz/wishlist/ls/1IPIV0R2BC490?ref_=wl_sharehttps://www.amazon.jp/hz/wishlist/ls/1IPIV0R2BC490?ref_=wl_share 何をやっていたか GOのタクシーアプリに関する主にToB向けの開...",
-          "link": "https://pyama.fun/archives/6554",
-          "publishedOn": "2025-04-10T08:24:09.000Z",
-          "wordCount": 1157,
-          "title": "GO株式会社での試用期間が終わり、39歳になった | pyama.fun",
-          "imageUrl": "https://pyama.fun/wp-content/uploads/2025/04/IMG_8069.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/book/2025/978-4-297-14859-1",
-          "author": null,
-          "description": "2025年4月28日紙版発売 hikalium　著 A5判／552ページ 定価3,520円（本体3,200円＋税10%） ISBN 978-4-297-14859-1 Gihyo Direct Amazon 楽天ブックス 丸善ジュンク堂書店 ヨドバシ.com 電子版 Amazon Kindle この本の概要 Webサイトの閲覧をはじめとして，コンピューターはさまざまな場面でみなさんの日常と密接にかか...",
-          "link": "https://gihyo.jp/book/2025/978-4-297-14859-1",
-          "publishedOn": "2025-04-10T08:07:09.000Z",
-          "wordCount": 1012,
-          "title": "［作って学ぶ］OSのしくみⅠ──メモリ管理、マルチタスク、ハードウェア制御",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ogp/2025/9784297148591.jpg"
-        },
-        {
-          "id": "https://w.atwiki.jp/techuyo/",
-          "author": null,
-          "description": "ここは近年台頭しているテクウヨ（テック右翼）・AIアノン（AI信者）の実態をまとめたウィキです。 彼らは利益の為に人権を無視し、「商売の邪魔だから」「利益を害するから」という理由で近年リベラル派を攻撃し、利害の一致から急速に右傾化している傾向があります。 代表的なテクウヨの例 イーロン・マスク　言わずと...",
-          "link": "https://w.atwiki.jp/techuyo/",
-          "publishedOn": "2025-04-10T07:28:20.000Z",
-          "wordCount": 1417,
-          "title": "テクウヨ（テック右翼・ITー牛）・AIアノン（AI信者）・テクアノンの実態 @ ウィキ【4/9更新】",
-          "imageUrl": "https://i.imgur.com/cIqYbkP.png"
-        },
-        {
-          "id": "https://cloud.google.com/blog/ja/products/ai-machine-learning/a2a-a-new-era-of-agent-interoperability/",
-          "author": null,
-          "description": "※この投稿は米国時間 2025 年 4 月 9 日に、Google Developer blog に投稿されたものの抄訳です。 AI エージェントは、日常の繰り返しタスクや複雑な作業を自律的に処理し、人々の生産性向上を支援します。現在、企業は職場全体でのプロセス拡張および自動化のため、新しいノートパソコンの注文、カスタマーサポート担当...",
-          "link": "https://cloud.google.com/blog/ja/products/ai-machine-learning/a2a-a-new-era-of-agent-interoperability/",
-          "publishedOn": "2025-04-10T07:03:01.000Z",
-          "wordCount": 1958,
-          "title": "Agent2Agent プロトコル（A2A）を発表：エージェントの相互運用性の新時代 | Google Cloud 公式ブログ",
-          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/a2a-header.max-1700x1700.png"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2504/10/news140.html",
-          "author": null,
-          "description": "沖縄科学技術大学院大学（OIST）は、新種の条虫類（サナダムシとも呼ばれる寄生虫の一種）を2種類発見したと発表した。そのうちの1種の学名は「Nybelina enterika」、和名は「イカチュウチュウ」と提案している。",
-          "link": "https://www.itmedia.co.jp/news/articles/2504/10/news140.html",
-          "publishedOn": "2025-04-10T06:23:58.000Z",
-          "wordCount": 2749,
-          "title": "新種の寄生虫を発見　和名「イカチュウチュウ」　OIST研究チームが発表",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2504/10/cover_news140.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20250410-google-tpu-7gen-ironwood-inference/",
-          "author": null,
-          "description": "GoogleはAI処理プロセッサ「TPU」を独自開発しています。新たに、第7世代TPU「Ironwood」が2025年4月9日に登場しました。 Ironwood: The first Google TPU for the age of inference https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/ Ironwoodの見た目はこんな感じ。IronwoodはMixture of Exp...",
-          "link": "https://gigazine.net/news/20250410-google-tpu-7gen-ironwood-inference/",
-          "publishedOn": "2025-04-10T05:49:29.000Z",
-          "wordCount": 3641,
-          "title": "Googleが推論モデルの処理に最適化した第7世代TPU「Ironwood」を発表、1チップ当たり192GBのメモリを搭載し1ポッド当たりの性能は最強スパコン「El Capitan」の24倍以上",
-          "imageUrl": "https://i.gzn.jp/img/2025/04/10/google-tpu-7gen-ironwood-inference/00.png"
-        },
-        {
-          "id": "https://qiita.com/Yametaro/items/255eea3124e769ce845c",
-          "author": null,
-          "description": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? ある日の我が家 ワイ「ああ、せやな」 ワイ「ChatGPT君は、なんでも答えてくれるもんな」 娘「でもさ、質問に答えるだけじゃなくて」 娘「プレゼン資料を作ってくれたりはしないの...",
-          "link": "https://qiita.com/Yametaro/items/255eea3124e769ce845c",
-          "publishedOn": "2025-04-10T05:18:56.000Z",
-          "wordCount": 706,
-          "title": "ワイ「AIちゃん！ワイのタスク全部やっといて！」#MCP - Qiita",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTU0NTIlMkY4Mzg1ZTA4NmU0M2VmNWJiMjI5M2UwZjk5MDRhZTExZDEzNzZkZGM4JTJGbGFyZ2UucG5nJTNGMTY1OTQyNjg2Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz05ZTlkNjQzYmJlNTg0YWZlYzg0YjgzMmZjN2ZjYmYyMA%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYwMjhlMDBkM2U1ZjFkNjFhY2QwYWU5ZGIzNGZjMGRiOTg1NDBkZjY5JTJGb3JpZ2luYWwuanBnJTNGMTY1NTE2MTAwMz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTgyNDU4NWJiNjc1ZGUyYmRkNjcyOTUyYzY0Mzg4ZjJj%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Df6d365538e928834b38b594a915acbc6?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFGJUUzJTgyJUE0JUUzJTgwJThDQUklRTMlODElQTElRTMlODIlODMlRTMlODIlOTMlRUYlQkMlODElRTMlODMlQUYlRTMlODIlQTQlRTMlODElQUUlRTMlODIlQkYlRTMlODIlQjklRTMlODIlQUYlRTUlODUlQTglRTklODMlQTglRTMlODIlODQlRTMlODElQTMlRTMlODElQTglRTMlODElODQlRTMlODElQTYlRUYlQkMlODElRTMlODAlOEQlMjNNQ1AmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zZWNjOWZhNWI4YmMwNGY5MWZjZmZkMDNhN2ZkN2RmNg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZYW1ldGFybyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWM1ZTcxOTk0OWViM2Y3OGYzMWY5ZWFkYTU4N2IzZWI2&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-44KG44KB44G_&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=1e2e394c577a965a5ea8da4ffa814686"
-        },
-        {
-          "id": "https://notion.notion.site/Notion-MCP-1d0efdeead058054a339ffe6b38649e1",
-          "author": null,
-          "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
-          "link": "https://notion.notion.site/Notion-MCP-1d0efdeead058054a339ffe6b38649e1",
-          "publishedOn": "2025-04-10T04:30:06.000Z",
-          "wordCount": 232,
-          "title": "Your connected workspace for wiki, docs & projects | Notion",
-          "imageUrl": "https://www.notion.so/images/meta/default.png"
-        },
-        {
-          "id": "https://scrapbox.io/kawasima/%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A7%A3%E4%BD%93%E6%96%B0%E6%9B%B8",
-          "author": null,
-          "description": "バリデーション解体新書 2025/4/8に開催した #アーキ部 『バリデーション解体新書』の内容を編集したものです。 バリデーションとは何か? 広義には、 何らかの処理を実施するにあたって、入力データが想定する条件を満たすかを検証する行為 と言える。 この定義で、アプリケーションのどこでバリデーションをしているの...",
-          "link": "https://scrapbox.io/kawasima/%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%A7%A3%E4%BD%93%E6%96%B0%E6%9B%B8",
-          "publishedOn": "2025-04-10T04:06:32.000Z",
-          "wordCount": 330,
-          "title": "バリデーション解体新書 - kawasima",
-          "imageUrl": "https://gyazo.com/3c025ee46794196475e32a7446157c5a/max_size/1000"
-        },
-        {
-          "id": "https://buttondown.com/ainews/archive/",
-          "author": null,
-          "description": "Two stage RL is all you need? AI News for 3/5/2025-3/6/2025. We checked 7 subreddits, 433 Twitters and 29 Discords (227 channels, and 3619 messages) for you....",
-          "link": "https://buttondown.com/ainews/archive/",
-          "publishedOn": "2025-04-10T01:19:22.000Z",
-          "wordCount": 1871,
-          "title": "AI News",
-          "imageUrl": "https://buttondown.com/static/images/icons/icon-square@400.png"
-        },
-        {
-          "id": "https://note.com/chihaya_ak/n/n14aca7991694",
-          "author": null,
-          "description": "はじめにこんにちは！スマートバンクでビジネス本部の責任者をしている赤池（@chihaya_akaike）です。 最近、非エンジニア向けのCursor活用記事をよく見かけますが、「エディタ」や「MCP」などの馴染みのない用語が多く、「興味はあるけど、どう業務に活用すればいいの？」と感じている方も多いのではないでしょうか。 ...",
-          "link": "https://note.com/chihaya_ak/n/n14aca7991694",
-          "publishedOn": "2025-04-10T00:54:48.000Z",
-          "wordCount": 2880,
-          "title": "【非エンジニア向け】Cursor活用ガイド　入門編 ~ \"AIと一緒に作る\"が実現する業務効率化｜chihaya",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/183391149/rectangle_large_type_2_792420261ade2bc29432bc93a6de3be3.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://github.blog/changelog/2025-04-09-evolving-github-issues-and-projects/",
-          "author": null,
-          "description": "AI & MLLearn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AILearn how to build with generative AI. GitHub CopilotChange how you work with GitHub Copilot. LLMsEverything developers need to know about LLMs. Machine learningMachine...",
-          "link": "https://github.blog/changelog/2025-04-09-evolving-github-issues-and-projects/",
-          "publishedOn": "2025-04-10T00:09:08.000Z",
-          "wordCount": 2751,
-          "title": "Evolving GitHub Issues and Projects · GitHub Changelog",
-          "imageUrl": "https://github.com/user-attachments/assets/00e78bed-f450-4dce-be57-8ca2ecf1f84e"
-        },
-        {
-          "id": "https://techtarget.itmedia.co.jp/tt/news/2504/10/news05.html",
-          "author": null,
-          "description": "関連キーワード サイバー攻撃 | マルウェア | セキュリティ | セキュリティリスク | セキュリティ対策 サイバー保険会社Coalitionは調査レポート「Cyber Threat Index 2025」を公開した。契約者から申告のあった2024年の2024年1～10月の保険請求データを基に、ランサムウェア（身代金要求型マルウェア）攻撃の最新トレン...",
-          "link": "https://techtarget.itmedia.co.jp/tt/news/2504/10/news05.html",
-          "publishedOn": "2025-04-09T23:31:11.000Z",
-          "wordCount": 1992,
-          "title": "ランサムウェアの半数以上が“あの侵入経路”を悪用――見過ごされたリスクとは？",
-          "imageUrl": "https://image.itmedia.co.jp/tt/news/2504/10/cover_news05.jpg"
-        },
-        {
-          "id": "https://mametter.hatenablog.com/entry/2025/04/10/063009",
-          "author": null,
-          "description": "「型システムの仕組み - TypeScriptで実装しながら学ぶ型とプログラミング言語」という本を書きました。 「型システムの仕組み - TypeScriptで実装しながら学ぶ型とプログラミング言語」 どんな本？ 簡単な型チェッカを自作してみることで、型システムの仕組みを概観する本です。 型チェックする対象の言語はTypeScript...",
-          "link": "https://mametter.hatenablog.com/entry/2025/04/10/063009",
-          "publishedOn": "2025-04-09T21:42:50.000Z",
-          "wordCount": 834,
-          "title": "「型システムのしくみ」発売のお知らせ - まめめも",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/82366336cdb85d904f9e73a1af9c224552100d1b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fwww.lambdanote.com%2Fcdn%2Fshop%2Ffiles%2Fcover-0_530x.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/67f6e5867566f20f76b047a9",
-          "author": null,
-          "description": "4月9日、Analytics India Magazineが「How Prime Video Cut UI Latency 7.6x by Switching to Rust」と題した記事を公開した。この記事では、Prime VideoがUI遅延を7.6倍削減した具体的な取り組みについて詳しく紹介されている。以下に、その内容を紹介する。オンラインフォーラムでは、Rustを称賛するプログラマーの声を簡単に見つけることができる。ここ数年、RustはStack Overflowの調査で常に高い評価を受けており、Rustを取り入れた企業はその利点を享受している。現在ではAtlassian、Discord、Figma、Meta、Mozillaといった世界的企業をはじめ、90社以上がRustを実運用で活用している。昨年11月のQCon San Franciscoにて、Amazon Prime VideoのプリンシパルエンジニアであるAlexandru Ene氏は、リビングルーム向けデバイスのユーザーインターフェースをRustベースのアーキテクチャへと移行し、WebAssemblyへコンパイルする手...",
-          "link": "https://techfeed.io/entries/67f6e5867566f20f76b047a9",
-          "publishedOn": "2025-04-09T21:26:06.000Z",
-          "wordCount": 7696,
-          "title": "【海外記事紹介】Webフロントエンド開発の新たな潮流となるか？Rust+WebAssemblyを使用する動きが加速中 — Amazon Prime Videoにおいて7.6倍のUIレイテンシ削減",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fanalyticsindiamag.com%2Fwp-content%2Fuploads%2F2025%2F04%2FBefore-After-Architecture-e1744096086319.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/67f6e31d7566f20f76b04754",
-          "author": null,
-          "description": "4月8日、海外のテクノロジーメディアInfoWorldが「Kotlin, Swift, and Ruby losing popularity – Tiobe index」と題した記事を公開した。この記事では、プログラミング言語Kotlin、Swift、RubyがTiobe指数において順位を下げ、人気が低下している状況について紹介されている。 4月8日、海外のテクノロジーメディアInfoWo...",
-          "link": "https://techfeed.io/entries/67f6e31d7566f20f76b04754",
-          "publishedOn": "2025-04-09T21:14:37.000Z",
-          "wordCount": 7670,
-          "title": "Kotlin、Swift、Rubyの人気が低迷中 — プログラミング言語最新人気ランキングにて",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1744233217/comments/jcgou06gcjbup62xvlbl.png"
-        },
-        {
-          "id": "https://www.deepcogito.com/research/cogito-v1-preview",
-          "author": null,
-          "description": "Cogito v1 Preview Introducing IDA as a path to general superintelligence TakeawaysWe are releasing the strongest LLMs of sizes 3B, 8B, 14B, 32B and 70B under open license. Each model outperforms the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen...",
-          "link": "https://www.deepcogito.com/research/cogito-v1-preview",
-          "publishedOn": "2025-04-09T20:24:17.000Z",
-          "wordCount": 2560,
-          "title": "Introducing Cogito Preview",
-          "imageUrl": "https://deep-cogito-website.vercel.app/OGImage_CogitoV1Preview.png"
-        },
-        {
-          "id": "https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/",
-          "author": null,
-          "description": "Agent Development Kit: Making it easy to build multi-agent applications The world of AI is rapidly moving beyond single-purpose models towards intelligent, autonomous multi-agent systems. Building these multi-agent systems, however, presents new challenges. That is why today, we have introduced A...",
-          "link": "https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/",
-          "publishedOn": "2025-04-09T18:25:21.000Z",
-          "wordCount": 2282,
-          "title": "Agent Development Kit: Making it easy to build multi-agent applications- Google Developers Blog",
-          "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Ai-1-meta.2e16d0ba.fill-1200x600.png"
-        },
-        {
-          "id": "https://business.ntt-east.co.jp/content/cloudsolution/ih_column-192.html",
-          "author": null,
-          "description": "他にもIPv4で個別に規定されたアドレス帯や、IPv6でも個別に規定されたアドレス帯がありますが本コラムでは省略します。 MACアドレスの考え方 MACアドレスは、ネットワークインターフェースを識別するために使用される識別子で、Ethernetでは48ビットで表現され、前半32bitがベンダーID、次の8bitが機器ID、最後の16bit...",
-          "link": "https://business.ntt-east.co.jp/content/cloudsolution/ih_column-192.html",
-          "publishedOn": "2025-04-09T15:59:15.000Z",
-          "wordCount": 526,
-          "title": "オンプレミスとAWSの通信の仕組みの違いを徹底的に解説 | コラム | クラウドソリューション｜サービス｜法人のお客さま｜NTT東日本",
-          "imageUrl": "https://business.ntt-east.co.jp/content/cloudsolution/images/common/ogp_thumbnail.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/2005379.html",
-          "author": null,
-          "description": "Googleのクラウド部門「Google Cloud」は、4月9日～4月11日(現地時間)に年次イベント「Google Cloud Next 25」を開催する。それに先立ち、最新の第7世代TPU「Ironwood」(開発コードネーム)を発表した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/2005379.html",
-          "publishedOn": "2025-04-09T14:44:18.000Z",
-          "wordCount": 5926,
-          "title": "Googleの新TPU「Ironwood」が登場。El Capitanを24倍上回る42.5EFLOPSを実現",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2005/379/002.jpg"
-        },
-        {
-          "id": "https://tech.smarthr.jp/entry/2025/04/09/113025",
-          "author": null,
-          "description": "こんにちは、SmartHRでプロダクトエンジニアをやっている @Tokky0425 です。 みなさんは普段組織で働いていますか？僕は組織で働いています。 組織で働くにあたって便利なもの、ありますよね。そう、組織図です。 SmartHR にも組織図の機能があるのですが、部署数や従業員数が多いとブラウザ上での操作が重くなってしま...",
-          "link": "https://tech.smarthr.jp/entry/2025/04/09/113025",
-          "publishedOn": "2025-04-09T14:40:45.000Z",
-          "wordCount": 1119,
-          "title": "Reactで大量描画しても60fps出すためのパフォーマンスチューニング術 - SmartHR Tech Blog",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/0f6bdf197c593936c5f6b3c3dd83c2bf75569104/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmarthr%2F20250409%2F20250409113043.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20250409-safari-better-typography-text-wrap-pretty/",
-          "author": null,
-          "description": "iPhoneやiPad、Macでインターネットを楽しむためのウェブブラウザがSafariで、このSafariの開発中のテクノロジーをいち早く試すことができるプレビュー版が「Safari Technology Preview」です。このSafari Technology Previewにテキストを適切な文字数で折り返す「text-wrap: pretty」が導入されたのですが、その理由をW...",
-          "link": "https://gigazine.net/news/20250409-safari-better-typography-text-wrap-pretty/",
-          "publishedOn": "2025-04-09T14:24:32.000Z",
-          "wordCount": 3657,
-          "title": "テキストをキレイに折り返す「text-wrap: pretty」を使うべき理由をSafariのWebkit開発チームが公式で解説",
-          "imageUrl": "https://i.gzn.jp/img/2025/04/09/safari-better-typography-text-wrap-pretty/00_m.jpg"
-        },
-        {
-          "id": "https://google.github.io/A2A/",
-          "author": null,
-          "description": "An open protocol enabling communication and interoperability between opaque agentic applications.",
-          "link": "https://google.github.io/A2A/",
-          "publishedOn": "2025-04-09T13:29:03.000Z",
-          "wordCount": 22,
-          "title": "Agent2Agent Protocol",
-          "imageUrl": null
         }
       ]
     },
@@ -9967,6 +9847,106 @@
       "feedUrl": "http://feeds.japan.cnet.com/rss/cnet/all.rdf",
       "siteUrl": "https://japan.cnet.com",
       "articles": [
+        {
+          "id": "https://japan.cnet.com/article/35232787/",
+          "author": "Amanda Kooser （CNET News） 翻訳校正： 編集部",
+          "description": "エンジェルとジークを紹介しよう。かれらは同じ1匹のカリフォルニアキングスネークの2つの頭だ。このヘビはカリフォルニア州バークレーにある爬虫類ショップ「East Bay Vivarium」で暮らしている。",
+          "link": "https://japan.cnet.com/article/35232787/",
+          "publishedOn": "2025-05-10T00:30:00.000Z",
+          "wordCount": 2281,
+          "title": "激レアな「双頭のヘビ」、ショップ店員から名前も贈られ生後7カ月に",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/0bd5ecc4c80e8f4ea5a0881396bb973e/kingsnake_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232776/",
+          "author": "Macy Meyer （CNET News） 翻訳校正： 編集部",
+          "description": "米映画館チェーンが映画「ジョーズ」公開50周年を記念し、全長約28cmの限定版サメ型ポップコーンバケツの予約受付を開始した。",
+          "link": "https://japan.cnet.com/article/35232776/",
+          "publishedOn": "2025-05-09T23:30:00.000Z",
+          "wordCount": 2324,
+          "title": "映画「ジョーズ」50周年、サメ型ポップコーンバケツが6000円超でも品切れに",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/591221e045b85bde79ad0624b2b14c16/jaws-promo-size_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232811/",
+          "author": "小口貴宏",
+          "description": "パナソニックホールディングスは5月9日、2026年3月期〜2027年3月期に1万人規模の人員削減を連結会社を対象に実施すると発表した。",
+          "link": "https://japan.cnet.com/article/35232811/",
+          "publishedOn": "2025-05-09T10:54:00.000Z",
+          "wordCount": 2259,
+          "title": "パナソニック1万人削減--「じくじたる思い」と楠見CEO",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/c88956ac2538da3d2938862ccb36aaa2/pana.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232807/",
+          "author": "藤代格",
+          "description": "ディー・エヌ・エー（DeNA）は5月9日、2025年3月期 決算を発表した。",
+          "link": "https://japan.cnet.com/article/35232807/",
+          "publishedOn": "2025-05-09T07:29:00.000Z",
+          "wordCount": 2326,
+          "title": "「ポケポケ」好調のDeNA本決算、売上高19.9％増--ゲーム事業利益1016％増",
+          "imageUrl": "https://japan.cnet.com/storage/2024/12/26/b07f14a7f338e37bb37730cfc54ecfad/24Dec26dena_00.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232794/",
+          "author": "小口貴宏",
+          "description": "NTTドコモは5月9日、子会社のNTTコミュニケーションズを「NTTドコモビジネス」に社名変更すると発表した。また、NTTコムウェアも「NTTドコモソリューションズ」へ社名変更する。",
+          "link": "https://japan.cnet.com/article/35232794/",
+          "publishedOn": "2025-05-09T06:44:00.000Z",
+          "wordCount": 2233,
+          "title": "「NTTコミュニケーションズ」→「ドコモビジネス」に社名変更--SNSでは「驚いた」の声",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/46928b2e6c451d9e2863aac1557bfafe/IMG_7095.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232793/",
+          "author": "藤代格",
+          "description": "NTTは5月8日、2024年度の通期決算を発表した。同社の2024年度は、売上高が前年比2.5％増の13兆7047億円で、営業利益が前年比14.2％減の1兆6496億円。EBITDAは3兆2393億円で、過去最高の売上高ながら増収減益となった。",
+          "link": "https://japan.cnet.com/article/35232793/",
+          "publishedOn": "2025-05-09T06:40:00.000Z",
+          "wordCount": 2299,
+          "title": "過去最高売上も減益のNTT、要因は「2025年も継続」--外国人取締役と新ロゴでグローバル強化",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/583e27417a1c7dd6eeefc32807fa07b1/25May07_ntt2_000.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232790/",
+          "author": "小口貴宏",
+          "description": "NTTドコモは5月9日の決算会見で、スマートフォンと衛星の直接通信サービスを2026年夏に開始すると発表した。代表取締役社長を務める前田義晃氏が明かした。",
+          "link": "https://japan.cnet.com/article/35232790/",
+          "publishedOn": "2025-05-09T05:31:00.000Z",
+          "wordCount": 2250,
+          "title": "ドコモ、「スマホと衛星の直接通信」を2026年夏に開始",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/79e85ef12e3f8ba97bb80033781cdbf3/docomo00.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232780/",
+          "author": "藤代格",
+          "description": "日本電信電話は5月9日、同社の新社名を発表した。7月1日から、「NTT株式会社」および「NTT,Inc.」として活動する。",
+          "link": "https://japan.cnet.com/article/35232780/",
+          "publishedOn": "2025-05-09T04:20:00.000Z",
+          "wordCount": 2271,
+          "title": "日本電信電話は「NTT」に--7月から新社名、ドコモなどで赤いロゴ採用",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/cc2270759e7394c029f36e4da443c54f/t/1280/960/d/25May07_ntt_001.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232766/",
+          "author": "Gael Cooper （CNET News） 翻訳校正： 編集部",
+          "description": "「Chromebookチャレンジ」という危険なチャレンジが、TikTokを通じて米国各地の学校に広がっている。",
+          "link": "https://japan.cnet.com/article/35232766/",
+          "publishedOn": "2025-05-09T01:54:00.000Z",
+          "wordCount": 2255,
+          "title": "危険すぎる「Chromebookチャレンジ」がTikTokで流行、火災・賠償のリスクも",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/6e08b6fe9beca6076769ab1b48af5a46/chromebook-gettyimages-1170757061_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232761/",
+          "author": "Imad Khan",
+          "description": "YouTube Premiumが、2人でサブスクリプションを共有できる新たな割安プランを試験していることがわかった。",
+          "link": "https://japan.cnet.com/article/35232761/",
+          "publishedOn": "2025-05-09T00:56:00.000Z",
+          "wordCount": 2266,
+          "title": "YouTube Premiumに「2人でシェアできる廉価プラン」登場か",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/09/ff1da4ef450c0828b93ea6471a33e3bd/youtube-premium.jpeg"
+        },
         {
           "id": "https://japan.cnet.com/article/35232759/",
           "author": "Samantha Kelly （Special to CNET News） 翻訳校正： 編集部",
@@ -12126,146 +12106,6 @@
           "wordCount": 2351,
           "title": "【絶景】宇宙から眺めた圧巻のオーロラが「凄い」と話題に",
           "imageUrl": "https://japan.cnet.com/storage/2025/04/11/f325b0f95a454a2033973a78d0174fbd/auroras-from-space.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231629/",
-          "author": "CNET Japan Staff",
-          "description": "KDDIで代表取締役社長CEOを務める松田浩路氏は4月10日、スタートアップに今後300億円規模の投資を実施すると表明した。あわせて、複数の海外VCへの出資、および新ファンド「KDDI Open Innovation Fund V」の設立も発表した。",
-          "link": "https://japan.cnet.com/article/35231629/",
-          "publishedOn": "2025-04-10T10:18:00.000Z",
-          "wordCount": 2272,
-          "title": "KDDI新社長「スタートアップに300億円」--新ファンド組成　海外VCにも出資",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/15ddf72c1d133f90b29690391f1e755b/_DDA3247.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231623/",
-          "author": "CNET Japan Staff",
-          "description": "デリバリーサービス「Wolt（ウォルト）」を展開するWolt Japanは4月10日、デリバリー商品価格を店頭と同じ商品価格とする「デリバリーなのに店頭価格」を広島市エリアで正式サービスとして開始すると発表した。",
-          "link": "https://japan.cnet.com/article/35231623/",
-          "publishedOn": "2025-04-10T07:56:00.000Z",
-          "wordCount": 2265,
-          "title": "Wolt、デリバリー商品の店頭同一価格を正式サービスに--広島市で、配達料とサービス料は別途",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/86c8f200d47146335695ab70736e1eba/25Apr09_wolt_000.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231619/",
-          "author": "Abrar Al-Heeti （CNET News） 翻訳校正： 編集部",
-          "description": "グーグルの親会社Alphabetの無人運転部門であるWaymoは4月10日、東京の道路で車両の走行を開始すると発表した。",
-          "link": "https://japan.cnet.com/article/35231619/",
-          "publishedOn": "2025-04-10T07:45:00.000Z",
-          "wordCount": 2275,
-          "title": "ついに日本上陸、自動運転のWaymoが東京都心でテスト走行を開始",
-          "imageUrl": "https://japan.cnet.com/storage/2024/10/03/1b5a92f7e1d13aed5bc01636a206857d/waymo_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231618/",
-          "author": "藤代格",
-          "description": "「SIXPAD（シックスパッド）」を提供するMTGは4月10日、業務用EMS（筋電気刺激）「SIXPAD MEDICAL PRO」の料金体型「Smart Plan」の詳細などを発表した。整骨院などの医療施設向けに2025年夏頃に発売し、医療業界へ本格的に参入する。",
-          "link": "https://japan.cnet.com/article/35231618/",
-          "publishedOn": "2025-04-10T07:12:00.000Z",
-          "wordCount": 2359,
-          "title": "「怪しいダイエット機器」だったSIXPAD、医療業界に本格参入--その中身は",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/565bd40b4380ace904b1515f884e5806/25Apr09_sixpad_000.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231617/",
-          "author": "Joe Supan （CNET News） 翻訳校正： 編集部 小口貴宏",
-          "description": "貿易戦争はイーロン・マスク氏にとっても問題になりつつある。同氏がトランプ大統領の貿易・製造業担当の首席顧問であるピーター・ナバロ氏を「レンガ袋より知能が低い」と批判した頃、スターリンクはカナダにおける衛星インターネットの補助金を数億ドル規模で失う見込みとなっていた。",
-          "link": "https://japan.cnet.com/article/35231617/",
-          "publishedOn": "2025-04-10T06:58:00.000Z",
-          "wordCount": 2290,
-          "title": "海外で「スターリンク離れ」も　トランプ関税影響--日本ではKDDIが日本全土のエリア化に活用",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/b73c5312f2c7769ba44995a367dcb944/starlink-building-logo-gettyimages-2039978753.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231606/",
-          "author": "Omar Gallaga （CNET News） 翻訳校正： 編集部",
-          "description": "Amazonは「プロジェクト・カイパー」の一環として、地球低軌道衛星27機の打ち上げを予定していた。打ち上げ時間は4月9日19時～21時（米国東部時間）だったが、悪天候により延期となった。打ち上げを担うユナイテッド・ローンチ・アライアンス（ULA）は、「ケープカナベラル上空の積雲と強風のため、打ち上げが不可能となった」と説明している。",
-          "link": "https://japan.cnet.com/article/35231606/",
-          "publishedOn": "2025-04-10T06:11:00.000Z",
-          "wordCount": 2244,
-          "title": "Amazonのスターリンク対抗衛星「カイパー」、初の本格打ち上げは悪天候で延期に",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/c7ce46ea5c676b1a48684c43466df4e9/assets-aboutamazon.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231599/",
-          "author": "Samantha Kelly （Special to CNET News） 翻訳校正： 編集部",
-          "description": "Metaが「Instagram」の「iPad」向けアプリを開発していると、The Informationが報じた。Instagramでは約15年前のサービス開始以来、iPad向けアプリは提供されていない。",
-          "link": "https://japan.cnet.com/article/35231599/",
-          "publishedOn": "2025-04-10T04:21:00.000Z",
-          "wordCount": 2284,
-          "title": "インスタのiPad版アプリ、15年の時を経てついに登場か",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/66c64b64e53f3781218a95c411210ef6/gettyimages-1689920171_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231592/",
-          "author": "小口貴宏",
-          "description": "KDDIは4月10日、日本初の衛星とスマートフォンの直接通信サービス「auStarlink Direct」の提供を開始したと発表した。",
-          "link": "https://japan.cnet.com/article/35231592/",
-          "publishedOn": "2025-04-10T02:41:00.000Z",
-          "wordCount": 2317,
-          "title": "きょうから「スターリンク」で日本全土がauエリアに--当面無料　申し込み不要　対応機種一覧",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/3160919c9412f90167c58f916ca52f3d/011.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231591/",
-          "author": "藤代格",
-          "description": "NTTドコモと日本プロサッカーリーグ（Jリーグ）は4月10日、Jリーグ所属クラブがヨーロッパの強豪クラブと対戦する「明治安田Jリーグワールドチャレンジ2025 presented by 日本財団」を7月30日に開催すると発表した。",
-          "link": "https://japan.cnet.com/article/35231591/",
-          "publishedOn": "2025-04-10T02:23:00.000Z",
-          "wordCount": 2261,
-          "title": "遠藤航選手所属のリヴァプール、20年ぶり来日--横浜F・マリノスと7月対戦",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/e8657dbda9a22426ba1cc36b2b7401f3/25Apr09_docomo_000.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231589/",
-          "author": "CNET Japan Staff",
-          "description": "日本通信は4月10日、格安SIMサービス「日本通信SIM」において、データ通信専用の新プラン「ネットだけプラン」の提供を開始した。eSIM版を同日から提供開始し、物理SIM版も4月中に提供予定としている。",
-          "link": "https://japan.cnet.com/article/35231589/",
-          "publishedOn": "2025-04-10T02:03:00.000Z",
-          "wordCount": 2246,
-          "title": "日本通信、20ギガ月額1200円の「ネットだけプラン」--マイナカードで即時本人確認も",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/3868788036dcca994b68500087611739/09112.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231585/",
-          "author": "Katie Collins （CNET News） 翻訳校正： 編集部",
-          "description": "サムスンの可愛らしい球体ロボット「Ballie」が、グーグルのAI「Gemini」で強化される。",
-          "link": "https://japan.cnet.com/article/35231585/",
-          "publishedOn": "2025-04-10T01:58:00.000Z",
-          "wordCount": 2274,
-          "title": "グーグルGeminiで賢く進化、サムスンの家庭用ロボット「Ballie」が今夏登場へ",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/d4e292eaf1bf236013de70fcc698c570/samsung-ballie-6070_3x4.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231571/",
-          "author": "Evan Zimmer （CNET News） 翻訳校正： 編集部",
-          "description": "米国は暗号資産の取引所やコールドウォレットへの監視を弱めた。トランプ政権は月曜夜のメモで、2022年に設立された「国家暗号資産取締チーム（NCET）」を解散すると発表した。FBIの報告では、2023年の暗号資産詐欺による被害総額は56億ドルを超える。",
-          "link": "https://japan.cnet.com/article/35231571/",
-          "publishedOn": "2025-04-09T23:01:00.000Z",
-          "wordCount": 2262,
-          "title": "ビットコインの「危険性」が増した可能性--トランプ政権が暗号資産の捜査チームを廃止",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/4428bfc1329235b744c9fb6cb2d9c6a5/gettyimages-1339026234.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231548/",
-          "author": "Jon Reed （CNET News） 翻訳校正： 編集部",
-          "description": "カリフォルニア大学の研究チームが、重度の麻痺があり、発話が難しい患者が意図した言葉を、生成AIを使って大きな遅延なく音声に変換する装置を開発した。",
-          "link": "https://japan.cnet.com/article/35231548/",
-          "publishedOn": "2025-04-09T22:30:00.000Z",
-          "wordCount": 2294,
-          "title": "失った声を生成AIで取り戻す--麻痺患者がリアルタイムで「話せる」時代へ",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/09/5821a6a8a800bb275b0300ee90bec6ff/ucsf-20230522-bravo3-chang-046c_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231568/",
-          "author": "Dashia Milden Tiffany Connors 翻訳校正： 編集部",
-          "description": "米国のトランプ大統領はきょう、自身のSNSで「相手国が報復しなかった」ことを理由に、ほとんどの国に対する関税を90日間停止すると表明した。ただし中国だけは例外で、関税率を一気に125％へ引き上げる。Apple製品の多くは中国製のため、次期 iPhone の値上げは避けられないと専門家は見る。",
-          "link": "https://japan.cnet.com/article/35231568/",
-          "publishedOn": "2025-04-09T21:39:00.000Z",
-          "wordCount": 2265,
-          "title": "トランプ関税、90日間猶予もiPhoneへの懸念強まる--「中国だけ例外、125％に引き上げ」で",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/10/a173fb55e77f891a16abc0f876135c66/09922.jpeg"
         }
       ]
     }
