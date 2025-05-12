@@ -1164,26 +1164,6 @@
           "wordCount": 1895,
           "title": "How to Use Django Signals in Your Projects",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744637958755/939ee783-cb11-4f8c-b509-c68c28092248.png"
-        },
-        {
-          "id": "67f9c04b3e25f02ff9a26b80",
-          "author": "Quincy Larson",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Alyson La. She taught herself how to code while working as an accountant at GitHub and was able to transition to a data scientist there, then ultimately a software e...",
-          "link": "https://www.freecodecamp.org/news/from-accountant-to-data-engineer-with-alyson-la-podcast-168/",
-          "publishedOn": "2025-04-12T01:22:19.000Z",
-          "wordCount": 1133,
-          "title": "From Accountant to Data Engineer with Alyson La [Podcast #168]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744420903260/fae4b593-d653-41eb-b70b-031591aa2f35.png"
-        },
-        {
-          "id": "67f96c998b09f2bdfa144c8b",
-          "author": "Adalbert Pungu",
-          "description": "If you're curious and passionate about technology like I am, and you’re looking for clarity in your code, you've likely already experienced the limitations of conventional tools for documenting and modeling APIs. Tools such as Swagger, JSON Schema, o...",
-          "link": "https://www.freecodecamp.org/news/use-typespec-for-documenting-and-modeling-apis/",
-          "publishedOn": "2025-04-11T19:25:13.000Z",
-          "wordCount": 4490,
-          "title": "How to Use TypeSpec for Documenting and Modeling APIs",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1744399481891/de5db16a-2eea-46d8-820d-50c1e66d5019.png"
         }
       ]
     },
@@ -1192,6 +1172,26 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/entries/682115c1a6a79a11e8a95544?from=rss",
+          "author": null,
+          "description": "5月11日、Eta Labsが「Comparison of C/POSIX standard library implementations for Linux」と題した記事を公開した。この記事では、LinuxにおけるC/POSIX標準ライブラリの実装の比較について詳しく紹介されている。以下に、その内容を紹介する。このプロジェクトは、Linux上で利用可能なさまざまな標準ライブラリの実装を比較したもので、特に機能の充実度と無駄のバランスに焦点を当てている。著者はmuslの開発者であり、記事の中で各ライブラリの特徴を比較している。今後、この比較には詳細なパフォーマンスベンチマークと、GoogleのBionicや他のBSD libcポートなど、さらなるライブラリの実装が追加される予定である。ライブラリの膨張比較以下の表では、musl、uClibc、dietlibc、glibcの4つのライブラリに関して、各種ファイルセットのサイズや静的および動的オーバーヘッドを比較している。",
+          "link": "https://techfeed.io/entries/682115c1a6a79a11e8a95544?from=rss",
+          "publishedOn": "2025-05-11T21:25:21.607Z",
+          "wordCount": 7953,
+          "title": "【海外記事紹介】LinuxにおけるC/POSIX標準ライブラリの実装を比較したページが公開され海外で話題に",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1746998754/entries/myxx5hawqcicsbrx3exm.png"
+        },
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2025/5/12?from=rss",
+          "author": null,
+          "description": "<img src=\"https://res.cloudinary.com/zenn/image/upload/s--tZ45RTSs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2581%25ABPMBOK%25E3%2582%2584DMBOK%25E3%2582%2592%25E5%258F%25A9%25E3%2581%258D%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A7%25E3%2580%2581%25E5%25B0%2582%25E9%2596%2580%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%2592%25E7%2588%2586%25E9%2580%259F%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AA%25E6%259D%25A5%25E3%2580%2581%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:channnnsm%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkODNiNmZmODUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png\"><br>すべてカテゴリー 2025年5月12日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: CursorにPMBOKやDMBOKを叩き込んで、専門業務を爆速化する未来、見えた！（zenn.dev）<br>2位: イマ面白いAIツール「NotebookLM」をiPadから使ってみよう｜iPad Hacks（www.goodspress.jp）<br>3位: LLMで活用するためのMarkdownをあらゆるコンテンツから変換して一箇所に集める方法（zenn.dev）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2025/5/12?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2025/5/12?from=rss",
+          "publishedOn": "2025-05-11T20:00:09.448Z",
+          "wordCount": 7618,
+          "title": "【5月12日ランキング】CursorにPMBOKやDMBOKを叩き込んで、専門業務を爆速化する未来、見えた！／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--tZ45RTSs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2581%25ABPMBOK%25E3%2582%2584DMBOK%25E3%2582%2592%25E5%258F%25A9%25E3%2581%258D%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A7%25E3%2580%2581%25E5%25B0%2582%25E9%2596%2580%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%2592%25E7%2588%2586%25E9%2580%259F%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AA%25E6%259D%25A5%25E3%2580%2581%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:channnnsm%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkODNiNmZmODUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2025/5/9?from=rss",
           "author": null,
@@ -1486,6 +1486,256 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://tech.findy.co.jp/entry/2025/05/12/070000",
+          "author": null,
+          "description": "こんにちは。 ファインディ株式会社 で Tech Lead をやらせてもらってる戸田です。 現在のソフトウェア開発の世界は、生成AIの登場により大きな転換点を迎えています。 GitHub Copilotやチャットベースの開発支援ツールなど、生成AIを活用した開発支援ツールが次々と登場し、開発者の日常的なワークフローに組み込まれつ...",
+          "link": "https://tech.findy.co.jp/entry/2025/05/12/070000",
+          "publishedOn": "2025-05-11T22:29:38.000Z",
+          "wordCount": 483,
+          "title": "Findyの爆速開発を支える生成AI活用 ~MCPサーバー作成編~ - Findy Tech Blog",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/87e7b69901f73c19e2bb2335fc46a03ce09f0af8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fstarfish719%2F20250508%2F20250508122011.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/682115c1a6a79a11e8a95544",
+          "author": null,
+          "description": "5月11日、Eta Labsが「Comparison of C/POSIX standard library implementations for Linux」と題した記事を公開した。この記事では、LinuxにおけるC/POSIX標準ライブラリの実装の比較について詳しく紹介されている。以下に、その内容を紹介する。このプロジェクトは、Linux上で利用可能なさまざまな標準ライブラリの実...",
+          "link": "https://techfeed.io/entries/682115c1a6a79a11e8a95544",
+          "publishedOn": "2025-05-11T22:15:53.000Z",
+          "wordCount": 7953,
+          "title": "【海外記事紹介】LinuxにおけるC/POSIX標準ライブラリの実装を比較したページが公開され海外で話題に",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1746998754/entries/myxx5hawqcicsbrx3exm.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/25/aicurlddosceo.html",
+          "author": null,
+          "description": "AIによる無効なバグレポートが、Curlのバグ報奨金プログラムに殺到。「事実上、DDoS攻撃を受けているようなものだ」と開発者が訴え オープンソースで開発されている「curl」コマンド（以下cURL）のバグ報奨金プログラムに、AIを用いて作成されたいい加減なバグレポートが殺到した結果、開発者であるDaniel Stenberg氏が...",
+          "link": "https://www.publickey1.jp/blog/25/aicurlddosceo.html",
+          "publishedOn": "2025-05-11T14:15:33.000Z",
+          "wordCount": 1487,
+          "title": "AIによる無効なバグレポートが、Curlのバグ報奨金プログラムに殺到。「事実上、DDoS攻撃を受けているようなものだ」と開発者が訴え",
+          "imageUrl": "https://www.publickey1.jp/2025/curl-bugbounty-ai.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/25/aiagent2agentgoogle_cloud.html",
+          "author": null,
+          "description": "マイクロソフト、複数のAIエージェントを連携させる「Agent2Agentプロトコル」サポートへ。Google Cloudが提唱 マイクロソフトとGoogle Cloudは、Google Cloudが発表した複数のAIエージェントを連携させるためのプロトコル「Agent2Agentプロトコル」（以下A2Aプロトコル）をマイクロソフトがサポートすると発表しました...",
+          "link": "https://www.publickey1.jp/blog/25/aiagent2agentgoogle_cloud.html",
+          "publishedOn": "2025-05-11T13:40:48.000Z",
+          "wordCount": 1489,
+          "title": "マイクロソフト、複数のAIエージェントを連携させる「Agent2Agentプロトコル」サポートへ。Google Cloudが提唱",
+          "imageUrl": "https://www.publickey1.jp/2025/agent2agent-protocol-ann04.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/25/aws30azure2220251synergy_research.html",
+          "author": null,
+          "description": "クラウドインフラのシェア、AWSがついに30％を切る。Azureは22％と着実に成長。2025年第1四半期、Synergy Researchの調査結果 調査会社のSynergy Research Groupは、グローバルにおける2025年第1四半期のクラウドインフラの市場状況について発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートク...",
+          "link": "https://www.publickey1.jp/blog/25/aws30azure2220251synergy_research.html",
+          "publishedOn": "2025-05-11T13:36:22.000Z",
+          "wordCount": 1432,
+          "title": "クラウドインフラのシェア、AWSがついに30％を切る。Azureは22％と着実に成長。2025年第1四半期、Synergy Researchの調査結果",
+          "imageUrl": "https://www.publickey1.jp/2025/cloudshare-2025q1-synergy-ico.png"
+        },
+        {
+          "id": "https://zenn.dev/dev_commune/articles/e42847c9ce3c97",
+          "author": null,
+          "description": "はじめに React Compilerを2024年7月末に導入し、2024年10月中旬からプロダクション利用を開始して現在(2025年5月中旬)に至ります これまでに起きたことや感想を共有したいと思います 前提 技術スタック Next.jsのPages Routerを使用し、サーバー側で動く処理はほぼない react-hook-formを使用 reactStrictModeはtrue 導...",
+          "link": "https://zenn.dev/dev_commune/articles/e42847c9ce3c97",
+          "publishedOn": "2025-05-11T12:31:45.000Z",
+          "wordCount": 1868,
+          "title": "React Compilerを有効にして9ヶ月が経ちました",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bG8gpkHo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:React%2520Compiler%25E3%2582%2592%25E6%259C%2589%25E5%258A%25B9%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A69%25E3%2583%25B6%25E6%259C%2588%25E3%2581%258C%25E7%25B5%258C%25E3%2581%25A1%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:astatsuya%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y1MTE3MTI5NDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25B3%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25B3%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ExNDAyZDljNDkuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://azukiazusa.dev/blog/vercel-mcp-server/",
+          "author": null,
+          "description": "Today we're announcing Integrations, a new way to connect your apps and tools to Claude. We're also expanding Claude's Research capabilities with an advanced mode that searches the web, your Google Workspace, and now your Integrations too. この記事では Next.js を使用して Vercel 上に MCP サーバー...",
+          "link": "https://azukiazusa.dev/blog/vercel-mcp-server/",
+          "publishedOn": "2025-05-11T10:44:05.000Z",
+          "wordCount": 1736,
+          "title": "Vercel で MCP サーバーを構築する",
+          "imageUrl": "https://azukiazusa.dev/blog/ogp/vercel-mcp-server.png"
+        },
+        {
+          "id": "https://posfie.com/@kapper1224/p/d42qhQX",
+          "author": null,
+          "description": "LLMは自作スクリプトに組み込むととても便利です。作っちゃいましょう。Ollamaは古いCPUだと遅いですけど。LLMで日本語をコマンドに変換して実行、などなど色々な事が簡単に出来ます。",
+          "link": "https://posfie.com/@kapper1224/p/d42qhQX",
+          "publishedOn": "2025-05-11T09:22:45.000Z",
+          "wordCount": 799,
+          "title": "コマンドラインで生成AIを操作出来る「LLM」をOllama無料APIで使ってみた。簡単。｜パイプ処理やコマンド出力など自作スクリプトと組み合わせて日本語で実行。とても素晴らしい",
+          "imageUrl": "https://s.tgstc.com/ogp3/b962567386edcb5cd9bc20870cdf343c-1200x630.jpeg"
+        },
+        {
+          "id": "https://qiita.com/Azure_tsurai/items/c78ecf20a842a02c5e43",
+          "author": null,
+          "description": "本記事はAzureサポートの残念な点を挙げることにより、これからAzureを使おうと思っているユーザへ Azureはやめとけ と注意喚起する記事です。 Azureのサポートプラン Azureサポートには主に以下4種類のサポートプランがあります。 そもそもの趣旨としてAzureの使用を勧めていないのですが、どうしてもAzureを使用する場...",
+          "link": "https://qiita.com/Azure_tsurai/items/c78ecf20a842a02c5e43",
+          "publishedOn": "2025-05-11T09:13:40.000Z",
+          "wordCount": 780,
+          "title": "Azureはやめとけ ～Azureサポート編～ - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkY3NTc4NTFmZTA4Y2Q0MjU4NTNiOWZkMjUwNjFkODQ5Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0xMTdlM2NiM2ZlNDhhY2JkODQ3MGY2Njc2ODJiODUzOQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dee4674f3addd28aed68ad3f06e82029b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QXp1cmUlRTMlODElQUYlRTMlODIlODQlRTMlODIlODElRTMlODElQTglRTMlODElOTElMjAlRUYlQkQlOUVBenVyZSVFMyU4MiVCNSVFMyU4MyU5RCVFMyU4MyVCQyVFMyU4MyU4OCVFNyVCNyVBOCVFRiVCRCU5RSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWE5OTlhZTE3NDFjZmU2MmNkMDZjOWZlYzJkZjAwMDM2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBBenVyZV90c3VyYWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mNDM5YWQwN2NmMzc0MjEyMWUwMDEzZmQzMmE1ZGRhNA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6ae8c028d6401ce68c3dffba2739314c"
+        },
+        {
+          "id": "https://www.pandanoir.info/entry/2025/05/11/123012",
+          "author": null,
+          "description": "next.jsのドキュメントには多言語対応のページがあります。 nextjs.org これを参考にすると、LPやホームページ程度であれば十分に多言語対応することができます。 next.jsだけでも出来ること 文字列を翻訳する アクセス時のaccept-languageヘッダーを見て自動的に言語を振り分ける (middleware.js) SSGで英語版、日本語...",
+          "link": "https://www.pandanoir.info/entry/2025/05/11/123012",
+          "publishedOn": "2025-05-11T08:42:36.000Z",
+          "wordCount": 911,
+          "title": "next.jsのみで簡易的な多言語対応をする - Panda Noir",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/8454420450106693026/6802418398422113969/1746975187"
+        },
+        {
+          "id": "https://note.com/yoichiro_shiba/n/n635d0f6587fe",
+          "author": null,
+          "description": "先週5/8、当社にとっては驚きのニュースが飛び込んできた。ゆめみ、アクセンチュアによる買収に合意のニュースだ。株式会社ゆめみは、国内でも有数のデザインとエンジニアリングを垂直に統合している会社で、当社(アイスリーデザイン)も、ざっくり言えば同じ業態で、案件もたまにバッティングをしている企業だけに、色ん...",
+          "link": "https://note.com/yoichiro_shiba/n/n635d0f6587fe",
+          "publishedOn": "2025-05-11T08:26:25.000Z",
+          "wordCount": 2668,
+          "title": "アクセンチュアによるゆめみの買収で思うこと｜芝陽一郎 | 株式会社アイスリーデザイン | 創業者 & CEO",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/189328348/rectangle_large_type_2_a83a0a002c875ec61f15e00b35208ae0.png?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://azukiazusa.dev/blog/cloudflare-mcp-server/",
+          "author": null,
+          "description": "Cloudflare で MCP サーバーを構築する Model Context Protocol (MCP) の 2025-03-26 の仕様では新たに Streamable HTTP が追加され、リモート MCP サーバーへの注目が集まっています。この記事では `agents` フレームワークを使用して Cloudflare 上に MCP サーバーを構築する方法を紹介します。 音声による概要 この音...",
+          "link": "https://azukiazusa.dev/blog/cloudflare-mcp-server/",
+          "publishedOn": "2025-05-11T08:14:17.000Z",
+          "wordCount": 2930,
+          "title": "Cloudflare で MCP サーバーを構築する",
+          "imageUrl": "https://azukiazusa.dev/blog/ogp/cloudflare-mcp-server.png"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2025/05/gadget-strikes-back-1.html",
+          "author": null,
+          "description": "2024年5月15日の記事を編集して再掲載しています。 今までになかったまったく新しいガジェットが生まれるとき、世の中の受け止め方は当然ながら賛否両論。素晴らしい！と絶賛する声もあれば、手厳しいレビューが飛ぶこともあります。 近頃では、スマホに置き換わるともいわれた｢Humane Ai Pin｣が、ポンコツって言われち...",
+          "link": "https://www.gizmodo.jp/2025/05/gadget-strikes-back-1.html",
+          "publishedOn": "2025-05-11T08:08:46.000Z",
+          "wordCount": 490,
+          "title": "初登場時はボロカスに言われたけど…その後に成功したガジェットたち",
+          "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2024/05/14/shutterstock_2359946647.jpg?w=1280&h=630&f=jpg"
+        },
+        {
+          "id": "https://web.archive.org/web/20250511053234/https://anond.hatelabo.jp/20250511130044",
+          "author": null,
+          "description": "みなさん、新たな節目として弊社にJoinくださることを嬉しく思ってます 新しい環境に不安かとも思いますが、その不安を少しでも和らげるために、先んじて情報をお伝えしておこうかと思います。 みなさんの立ち位置について報道にもある通り、みなさんはSongと呼ばれる部署への配属になります。 社内的には、「システムの...",
+          "link": "https://web.archive.org/web/20250511053234/https://anond.hatelabo.jp/20250511130044",
+          "publishedOn": "2025-05-11T07:58:21.000Z",
+          "wordCount": 599,
+          "title": "ゆめみからアクセンチュアにJoinされる皆さんへ",
+          "imageUrl": "https://web.archive.org/web/20250511053234im_/https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://speakerdeck.com/hayaokimura/risc-v-cpu-emulator-made-with-ruby",
+          "author": null,
+          "description": "Ruby で作る RISC-V CPU エミュレーター / RISC-V CPU emulator made with Ruby",
+          "link": "https://speakerdeck.com/hayaokimura/risc-v-cpu-emulator-made-with-ruby",
+          "publishedOn": "2025-05-11T07:55:45.000Z",
+          "wordCount": 1063,
+          "title": "Ruby で作る RISC-V CPU エミュレーター / RISC-V CPU emulator made with Ruby",
+          "imageUrl": "https://files.speakerdeck.com/presentations/c1b5edb3e36e47aaa691b23a1326de63/slide_0.jpg?35038349"
+        },
+        {
+          "id": "https://speakerdeck.com/ydah/lrparser-is-good",
+          "author": null,
+          "description": "Kernel/VM探検隊@関西 11回目「LRパーサーはいいぞ」の発表スライド https://kernelvm.connpass.com/event/347564/",
+          "link": "https://speakerdeck.com/ydah/lrparser-is-good",
+          "publishedOn": "2025-05-11T06:31:35.000Z",
+          "wordCount": 1721,
+          "title": "LRパーサーはいいぞ",
+          "imageUrl": "https://files.speakerdeck.com/presentations/d63667c7808c43a7ba05d70854c18a8c/slide_0.jpg?35038083"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20250511130044",
+          "author": null,
+          "description": "みなさん、新たな節目として弊社にJoinくださることを嬉しく思ってます 新しい環境に不安かとも思いますが、その不安を少しでも和らげるために、先んじて情報をお伝えしておこうかと思います。 みなさんの立ち位置について報道にもある通り、みなさんはSongと呼ばれる部署への配属になります。 社内的には、「システムの...",
+          "link": "https://anond.hatelabo.jp/20250511130044",
+          "publishedOn": "2025-05-11T04:13:17.000Z",
+          "wordCount": null,
+          "title": "ゆめみからアクセンチュアにJoinされる皆さんへ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zenn.dev/kikagaku/articles/26c6d5e37ffccb",
+          "author": null,
+          "description": "こんにちは。 株式会社キカガクの @tetsuro_b です。 2025 年 5 月 10 日、 Cursor v0.50 がリリースされました。 直近の Cursor のアップデートは細かい調整や、他の AI エディタにもある機能の輸入のような内容が多かったですが v0.50...、実に驚きのアップデート内容でした・・・！ アップデート内容の紹介に入る前に...",
+          "link": "https://zenn.dev/kikagaku/articles/26c6d5e37ffccb",
+          "publishedOn": "2025-05-11T03:22:11.000Z",
+          "wordCount": 1863,
+          "title": "【Cursor】並列実装？モノレポ化まで？Cursor v0.50 の 5 つのアップデートを紹介したい",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--q4hSyxiJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Cursor%25E3%2580%2591%25E4%25B8%25A6%25E5%2588%2597%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%259F%25E3%2583%25A2%25E3%2583%258E%25E3%2583%25AC%25E3%2583%259D%25E5%258C%2596%25E3%2581%25BE%25E3%2581%25A7%25EF%25BC%259FCursor%2520v0.50%2520%25E3%2581%25AE%25205%2520%25E3%2581%25A4%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592%25E7%25B4%25B9%25E4%25BB%258B%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2581%25A4%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiY2ZkM2FkNDQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25AD%25E3%2582%25AB%25E3%2582%25AC%25E3%2582%25AF%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2NmYmQxNTQyNjYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://blog.magnolia.tech/entry/2025/05/09/132753",
+          "author": null,
+          "description": "アジャイルサムライ――達人開発者への道 作者:ＪｏｎａｔｈａｎＲａｓｍｕｓｓｏｎ,西村直人,角谷信太郎オーム社Amazon たぶん10年ぶりくらいに『アジャイル・サムライ』を読み直した 基本的な価値観として、オプティミスティックだな、とは思う で、そうではない価値観との衝突の解決方法に本質が有るんじゃないかと思っ...",
+          "link": "https://blog.magnolia.tech/entry/2025/05/09/132753",
+          "publishedOn": "2025-05-11T02:39:21.000Z",
+          "wordCount": 559,
+          "title": "10年ぶりに『アジャイル・サムライ』を読んだ - Magnolia Tech",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/ca3e245dbb6407d92fcc153ea696b5269319c3a8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51lm0alurNL._SL500_.jpg"
+        },
+        {
+          "id": "https://tbpgr.hatenablog.com/entry/2025/05/11/105843",
+          "author": null,
+          "description": "仕事における成長は、いつも順調とは限りません。 そして、成長が煮詰まる原因は一つではありません。 この記事では、「成長の壁」について整理します。 前提 この記事については、以下の方々は対象外としています。 成長への関心や動機がない人 興味・関心のままに振る舞っていれば自然と成長できる人 ※上記の方々を否...",
+          "link": "https://tbpgr.hatenablog.com/entry/2025/05/11/105843",
+          "publishedOn": "2025-05-11T02:29:20.000Z",
+          "wordCount": 2203,
+          "title": "仕事の成長に詰まったときに知っておきたい5つの壁 - Tbpgr Blog",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/8454420450078487324/6802418398422748599/1746928723"
+        },
+        {
+          "id": "https://speakerdeck.com/ymbigo/potipotixuan-ze-surudakedeosswodu-meruvscodekuo-zhang-ji-neng",
+          "author": null,
+          "description": "「OSSを読むのはしんどい」 そう OSS コードリーディングは、現代の3K仕事。 「（関数検索が）きつい」 「（探索していると元の関数に）帰れない」 「（評価されづらく）給料が安い」 そんな思い込みを壊します！ OSSコードリーディングは「GUIでぽちぽちするだけ」「サマリ取得で暗…",
+          "link": "https://speakerdeck.com/ymbigo/potipotixuan-ze-surudakedeosswodu-meruvscodekuo-zhang-ji-neng",
+          "publishedOn": "2025-05-11T02:28:53.000Z",
+          "wordCount": 754,
+          "title": "ぽちぽち選択するだけでOSSを読めるVSCode拡張機能",
+          "imageUrl": "https://files.speakerdeck.com/presentations/b89d5b28266f43c5a472a1a0338f85e5/slide_0.jpg?35033032"
+        },
+        {
+          "id": "https://zenn.dev/h_shinaoka/articles/595830fba76abe",
+          "author": null,
+          "description": "Slackに疲れた研究者のためのMatrix入門 分散型チャットプロトコルがもたらす柔軟で持続可能な研究コミュニケーション 複数の国際共同研究や学際的なプロジェクトに関わっていると、Slackのワークスペースが次第に増え、管理が煩雑になります。 誰かにDMを送ろうとしても、まずどのワークスペースかを思い出す必要があり...",
+          "link": "https://zenn.dev/h_shinaoka/articles/595830fba76abe",
+          "publishedOn": "2025-05-11T01:25:32.000Z",
+          "wordCount": 535,
+          "title": "Slackに疲れた研究者のためのMatrix入門",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--s6UnQcEJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Slack%25E3%2581%25AB%25E7%2596%25B2%25E3%2582%258C%25E3%2581%259F%25E7%25A0%2594%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEMatrix%25E5%2585%25A5%25E9%2596%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiroshi%2520Shinaoka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvaC5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://posfie.com/@petaritape/p/03CM9ms",
+          "author": null,
+          "description": "エコおじい @ally_of_earth プラントエンジニア兼業務委託でWebライターや企業のブログ運営、アプリ開発、Xの運用代行をしています。エネ管.comという工業技術ブログ、Youtubeチャンネルを運営。月間20万PV、登録者2万人達成。資格はエネ管熱と電験三種。株式投資歴12年、アパート1棟運営中です。note.com/ecoogy energy...",
+          "link": "https://posfie.com/@petaritape/p/03CM9ms",
+          "publishedOn": "2025-05-11T01:15:30.000Z",
+          "wordCount": 730,
+          "title": "技術職が「仕様だから」「それは無理」と言うたびに、営業は謝って 頭を下げている。顧客とのクッション材として毎日すり減っている人達を「飲み会要員」と揶揄する人は、一度自分で顧客対応をするしんどさを経験したほうがいいと思う",
+          "imageUrl": "https://s.tgstc.com/ogp3/3534e048aa49741560320d87702a03db-1200x630.jpeg"
+        },
+        {
+          "id": "https://www.shoeisha.co.jp/book/detail/9784798184913",
+          "author": null,
+          "description": "情報システムの基礎から負荷対策・パフォーマンスチューニングにミドルウェア構成、コンプライアンスまで バックエンドエンジニアとして10年後も最前線で活躍するための基礎体力をつくる1冊 本書はバックエンドエンジニアに求められるインフラ・クラウド領域の基礎知識を1冊にまとめた書籍です。現代の複雑化するシステ...",
+          "link": "https://www.shoeisha.co.jp/book/detail/9784798184913",
+          "publishedOn": "2025-05-11T00:38:32.000Z",
+          "wordCount": 2252,
+          "title": "バックエンドエンジニアのためのインフラ・クラウド大全 | 翔泳社",
+          "imageUrl": "https://www.shoeisha.co.jp/static/book/og_image/9784798184913.jpg"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20250511060325",
+          "author": null,
+          "description": "T/O と書きたいところだけど説明してみる。 実際に相続とかで戸籍を取ってみればわかるけど、現状の戸籍って個人（名前・性別・生年月日）と住所と血縁関係のリレーションテーブルなんだけど、主キーであるはずの住所が更新されないことが当然とされているっていう、DB的にはかなり不都合のある状態なんだよね。 あと血...",
+          "link": "https://anond.hatelabo.jp/20250511060325",
+          "publishedOn": "2025-05-10T21:04:12.000Z",
+          "wordCount": 915,
+          "title": "正規化を理解しているまともなITエンジニアなら、漏れなく戸籍廃止論者だよね？",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
           "id": "https://www.na3.jp/entry/20250228/p1",
           "author": null,
           "description": "タイトルの通りですが、ログ的に残しておく。 今までは、2018年末に購入した iPad Pro を使ってきておりまして。 もう6年以上経っていて、そろそろ変えようかと頭をよぎること数回。 毎年、Appleの初売りを見て、そろそろiPad Proを買い替えたいなー、と思うのだけど、買う理由が価格なのだから止めようと結論付けている...",
@@ -1594,6 +1844,16 @@
           "wordCount": 472,
           "title": "iPhoneとPixel、2台持ちはアリ？ 3ヶ月使ったら、正解が見えました",
           "imageUrl": "https://media.loom-app.com/gizmodo/dist/images/2025/04/23/IMG_3532Edited.jpg?w=1280&h=630&f=jpg"
+        },
+        {
+          "id": "https://note.com/nike_cha_n/n/n6b2c5720832c",
+          "author": null,
+          "description": "こんにちは、ニケです。 皆さんは日頃何のAIツールを使っていますでしょうか？ 最近はXを眺めてるだけでもTLにどんどん新しいAIツールやサービスが流れてきて、どれがどれだけすごいのか、何を使えば良いかわからなくなってしまいますね。 というわけで今回は私が良く使っているAIツールについてまとめたいと思います。 ...",
+          "link": "https://note.com/nike_cha_n/n/n6b2c5720832c",
+          "publishedOn": "2025-05-10T04:21:52.000Z",
+          "wordCount": 2873,
+          "title": "私が使ってるAIツールを紹介する｜ニケちゃん",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/189000354/rectangle_large_type_2_e3b9561bf39b337afa0447a69c422c05.png?fit=bounds&quality=85&width=1280"
         },
         {
           "id": "https://azukiazusa.dev/blog/docker-mcp-toolkit/",
@@ -1816,6 +2076,16 @@
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250509-00000045-mai-000-6-view.jpg?exp=10800"
         },
         {
+          "id": "https://note.com/google_gemini/n/na32ff1b28878",
+          "author": null,
+          "description": "こんにちは、Google の AI「Gemini（ジェミニ）」の公式 note 編集部です。 「いいアイデアが浮かんだ！ でも、それを形にするには、時間も手間もかかって大変そう…」 企画書やウェブサイトの作成、ちょっとした息抜きのためのゲーム開発、あるいは日々の業務を効率化するアプリケーションのアイデア。せっかくのひらめ...",
+          "link": "https://note.com/google_gemini/n/na32ff1b28878",
+          "publishedOn": "2025-05-09T08:35:26.000Z",
+          "wordCount": 2797,
+          "title": "Gemini の新機能 「Canvas」入門： アイデアをカタチにする活用法をわかりやすく徹底解説！｜Gemini - Google の AI",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/188965936/rectangle_large_type_2_cf7d25d7e9aec3856c12537dc22df366.png?fit=bounds&quality=85&width=1280"
+        },
+        {
           "id": "https://www.gizmodo.jp/2025/05/google-cloud-accidentally-detele-unisuper-account-1.html",
           "author": null,
           "description": "2024年5月26日の記事を編集して再掲載しています。 Googleさん、やらかしちゃいました。 2024年4月下旬に、Googleが誤ってオーストラリアの年金基金UniSuperのGoogle Cloudアカウントを削除してしまったとThe Guardianが報じました。UniSuperが管理している年金の総額は日本円にしておよそ17兆2500億円。UniSuperにお金...",
@@ -2004,6 +2274,16 @@
           "wordCount": 1120,
           "title": "個人的 AI Writing のやりかた",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Vvwl2yXh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E7%259A%2584%2520AI%2520Writing%2520%25E3%2581%25AE%25E3%2582%2584%25E3%2582%258A%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2588%25E3%2581%2597%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2kwU3JDUjBpVERyUHpqWnF4YjJLZ0tueHgtamE0N253SEE0NGE4RDhrPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/taku_sid/articles/20250508_accenture_yumemi",
+          "author": null,
+          "description": "うさぎでもわかるアクセンチュアによる株式会社ゆめみ買収 👇️ポッドキャストでも聴けます こんにちは、🐰うさぎエージェントです！今日はホットな話題をお届けします。2025年5月8日、アクセンチュアによる株式会社ゆめみの買収合意が発表されました。この買収はデジタルサービス開発業界にどのような影響を与えるのでし...",
+          "link": "https://zenn.dev/taku_sid/articles/20250508_accenture_yumemi",
+          "publishedOn": "2025-05-08T22:33:30.000Z",
+          "wordCount": 666,
+          "title": "うさぎでもわかるアクセンチュアによる株式会社ゆめみ買収 - デジタルサービス開発の未来はどう変わる？",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--byM6QWhu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%2586%25E3%2581%2595%25E3%2581%258E%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2583%25B3%25E3%2583%2581%25E3%2583%25A5%25E3%2582%25A2%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%2586%25E3%2582%2581%25E3%2581%25BF%25E8%25B2%25B7%25E5%258F%258E%2520-%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:taku_sid%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFFIVERiOTUwakhtTUJlendZR0RaeHlPX290RnJISktCY2ZYUFFuY1dVVGNGRkd1d3A9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         },
         {
           "id": "https://pc.watch.impress.co.jp/docs/topic/feature/2012680.html",
@@ -9414,256 +9694,6 @@
           "wordCount": 999,
           "title": "FigmaデザインをHTMLコードへ自動変換する方法 - GMOインターネットグループ グループ研究開発本部",
           "imageUrl": "https://www.gmo-jisedai.com/wp-content/uploads/figma-copy-link-to-selection-150x150.png"
-        },
-        {
-          "id": "https://zenn.dev/channnnsm/articles/0df0ea29d63be3",
-          "author": null,
-          "description": "はじめに Cursorで.cursorrulesを使えば、プロジェクト固有のルールや文脈を理解してもらえていると思っていたのですが、今はProject Rulesに設定することが推奨されているんですね。 色々実例を見ている中で .mdcファイルに出会ったのですが、.mdcファイルってYAMLファイルとどう違うの？従来の.cursorrulesとどう違う...",
-          "link": "https://zenn.dev/channnnsm/articles/0df0ea29d63be3",
-          "publishedOn": "2025-04-12T12:20:35.000Z",
-          "wordCount": 807,
-          "title": "Cursorで使う.mdcファイルとは",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--eX3vugWv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cursor%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586.mdc%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A8%25E3%2581%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:channnnsm%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJkODNiNmZmODUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://azukiazusa.dev/blog/ai-a2a-protocol/",
-          "author": null,
-          "description": "AI エージェントの連携を標準化する A2A プロトコルを試してみる AI エージェント同士の連携を標準化するために Agent2Agent プロトコル（A2A）を発表しました。A2A プロトコルは基盤となるフレームワークやベンダーに依存せず、エージェント同士が安全な方法で相互に通信できるように設計されています。この記事ではサ...",
-          "link": "https://azukiazusa.dev/blog/ai-a2a-protocol/",
-          "publishedOn": "2025-04-12T10:30:34.000Z",
-          "wordCount": 11628,
-          "title": "AI エージェントの連携を標準化する A2A プロトコルを試してみる",
-          "imageUrl": "https://azukiazusa.dev/blog/ogp/ai-a2a-protocol.png"
-        },
-        {
-          "id": "https://zenn.dev/mkizka/articles/a6148876fa46bd",
-          "author": null,
-          "description": "tsconfig.jsonのpaths設定でimport文にエイリアスを使えるようにしたものの、 tscでトランスパイルするとエイリアス形式のパスは変換されない パスの変換のためにtsconfig-pathsなどの追加ライブラリが必要で、ビルドコマンドが冗長になる jestなどはpathsを反映するために追加設定が必要 などで微妙な気持ちになってき...",
-          "link": "https://zenn.dev/mkizka/articles/a6148876fa46bd",
-          "publishedOn": "2025-04-12T10:29:15.000Z",
-          "wordCount": 846,
-          "title": "tsconfig.json paths やめ方",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--BplhIcQi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:tsconfig.json%2520paths%2520%25E3%2582%2584%25E3%2582%2581%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mkizka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dmcTEtdFdzZUczQUFqVmw0dHhWb2xlM2dlY1JKVS1Bdm5WYWNEPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://www.suzukikenichi.com/blog/notebooklm-discovers-sources-from-around-the-web/",
-          "author": null,
-          "description": "[レベル: 上級] 指定したトピックで、Google の NotebookLM がウェブから関連リソースを収集できるようになりました。 独自価値を加えたコンテンツ作成に役立ちそうです。 ウェブのリソースをキュレートする NotebookLM ソース追加のダイアログボックスの右上に「提供元を見る」というボタンが表示されています。 このボ...",
-          "link": "https://www.suzukikenichi.com/blog/notebooklm-discovers-sources-from-around-the-web/",
-          "publishedOn": "2025-04-12T10:04:39.000Z",
-          "wordCount": 3634,
-          "title": "指定したトピックでGoogle NotebookLMがウェブから情報収集、コンテンツ作成に利用可能",
-          "imageUrl": "https://www.suzukikenichi.com/blog/wp-content/uploads/notebooklm-discovers-sources-from-around-the-web-600x358.webp"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20250412184053",
-          "author": null,
-          "description": "frog377という人物何者。 kukky 意地悪なブコメ多いけど、自分は30年ぶりにひとり暮らしに戻ったら、自分の好きな時に好きなものを食べ家事ができる気楽さ、誰かのために何かをする義務から離れた暮らしが楽しくてたまらん。まじ開放感。 https://b.hatena.ne.jp/entry/4768897531079908609/comment/kukky",
-          "link": "https://anond.hatelabo.jp/20250412184053",
-          "publishedOn": "2025-04-12T09:46:55.000Z",
-          "wordCount": 862,
-          "title": "frog377という人物何者。 kukky 意地悪なブコメ多いけど、自分は30年ぶりにひ..",
-          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://piyolog.hatenadiary.jp/entry/2025/04/12/164427",
-          "author": null,
-          "description": "2025年4月6日、中日本高速道路（NEXCO中日本）は、同社管内の一部料金所のETCレーンがシステム障害によって通行できない状態となったと公表しました。ETCのシステム障害は38時間後の翌日4月7日午後に復旧しています。この障害の影響により、高速道路では料金所周辺で渋滞や関連するとみられる事故も複数発生しています。...",
-          "link": "https://piyolog.hatenadiary.jp/entry/2025/04/12/164427",
-          "publishedOn": "2025-04-12T07:58:39.000Z",
-          "wordCount": 1083,
-          "title": "NEXCO中日本管内で発生したETCの広域システム障害についてまとめてみた - piyolog",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/10257846132616586766/6802418398343543602/1744443908"
-        },
-        {
-          "id": "https://zenn.dev/google_cloud_jp/articles/1b1cbd5318bdfe",
-          "author": null,
-          "description": "はじめに Agent Development Kit (ADK) が GitHub のリポジトリで公開されました。これは、会話型の LLM エージェントを作成するためのフレームワークで、複数の外部ツールを使い分けたり、あるいは、複数のエージェントが協調動作するマルチエージェントが作成できます。特に、ADK の特徴として、会話の流れを自然言語...",
-          "link": "https://zenn.dev/google_cloud_jp/articles/1b1cbd5318bdfe",
-          "publishedOn": "2025-04-12T07:50:08.000Z",
-          "wordCount": 5049,
-          "title": "【超速報】Agent Development Kit で会話型エージェントを作成する",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hb7MYdOj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E8%25B6%2585%25E9%2580%259F%25E5%25A0%25B1%25E3%2580%2591Agent%2520Development%2520Kit%2520%25E3%2581%25A7%25E4%25BC%259A%25E8%25A9%25B1%25E5%259E%258B%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Etsuji%2520Nakai%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA1OTIyZmJmYTMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Google%2520Cloud%2520Japan%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZXFUdUVFMHM0Z1lGOXZvQkRsd3lfVkl3QjluNXQyNXYtZ2ZyMDZzN3hpNE9RPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://nazology.kusuguru.co.jp/archives/174727",
-          "author": null,
-          "description": "物価は上がっているのに、給料は増えない。スーパーへ行くと「また高くなってる」、今の日本ではそんな状況が繰り返されています。 一方でテレビをつけると「増税」や「消費税率の見直し」ばかりを政治家が語っています。 なぜ、こんなにも生活が苦しいのに、政府は「増税」と言っているのでしょうか？　現状が見えてい...",
-          "link": "https://nazology.kusuguru.co.jp/archives/174727",
-          "publishedOn": "2025-04-12T07:40:34.000Z",
-          "wordCount": 1713,
-          "title": "なぜ生活が苦しいのに、今の政府は「増税」の話ばかりするのか？【格差拡大の理由】 - ナゾロジー",
-          "imageUrl": "https://nazology.kusuguru.co.jp/wp-content/uploads/2025/04/deb5e37d82802082fc73c7b7fd0efab7.jpg"
-        },
-        {
-          "id": "https://note.com/d_1d2d/n/n6f41795f63f2",
-          "author": null,
-          "description": "最近、「AIによってプログラミングが終わる」みたいな話をよく聞くようになりました。 僕がなんとなく想像してたのは、AIが出てきたことで、今までの「プログラミング」っていう概念が変わるんだろうな、ということでした。 AIを使わない昔ながらのプログラマは、だんだん仕事がなくなっていくかもしれない。でも、AIを...",
-          "link": "https://note.com/d_1d2d/n/n6f41795f63f2",
-          "publishedOn": "2025-04-12T07:20:43.000Z",
-          "wordCount": 2688,
-          "title": "プログラミングの終焉は、世界の終焉を意味するのかもしれない｜d",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/78b7b0d757d809cccf6e23b1c5ce8a6027505cc8.png"
-        },
-        {
-          "id": "https://dot.asahi.com/articles/-/254209?page=1",
-          "author": null,
-          "description": "一時は同時接続ユーザーが全世界で7000万人を超えていたSkype。画像はイメージ（写真：ロイター/アフロ） この記事の写真をすべて見る ひとつの「時代」が終わる。2000年代から10年代にかけて、インターネット上のコミュニケーションに革命を起こしたSkypeが、5月5日でサービスを終了する。04年の正式版リリースから21年...",
-          "link": "https://dot.asahi.com/articles/-/254209?page=1",
-          "publishedOn": "2025-04-12T07:15:04.000Z",
-          "wordCount": 956,
-          "title": "無料ビデオ通話サービス「Skype」がついに終了へ　「Zoom」に勝てなかった“決定的な理由” | AERA DIGITAL（アエラデジタル）",
-          "imageUrl": "https://aeradot.ismcdn.jp/mwimgs/3/8/1200xm/img_38cff32a6e15ac556372a04c3f8bac8e471664.jpg"
-        },
-        {
-          "id": "https://note.com/igz0/n/n6f802152a9b1",
-          "author": null,
-          "description": "昔、厳しかった上司から教わった言葉がある。 それは「ITエンジニアが 『できない』と言ったら終わりだ」という言葉である。 当時はITエンジニアとして駆け出しで、何かにつけて「無理だ」「難しい」とまず否定的に考えてしまいがちだった。 すると上司は必ずといっていいほど「開口一番 『できない』 ってなんだ？ まず...",
-          "link": "https://note.com/igz0/n/n6f802152a9b1",
-          "publishedOn": "2025-04-12T07:04:12.000Z",
-          "wordCount": 2368,
-          "title": "ITエンジニアが絶対に言ってはいけない言葉｜いぐぞー ✈️ 旅するプログラマー",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/183832707/rectangle_large_type_2_b4e77f2a8da1ce5ac3be0bf7bd7daccc.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20250412155251",
-          "author": null,
-          "description": "XとかLINEといったプラットフォームから抜け出す運動？なのだけど、目指すところがよくわからない。 結局ネット上の別のプラットフォームに所属するだけでは？と思う。 https://orillo.org/ Orillo のこれから Orillo は、2025年4月に立ちあがったばかりの運動です。法人化を視野に入れながら、三つの柱を立てて活動をし...",
-          "link": "https://anond.hatelabo.jp/20250412155251",
-          "publishedOn": "2025-04-12T06:56:58.000Z",
-          "wordCount": 601,
-          "title": "Orilloってどうなの？",
-          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://note.com/ihayato/n/nbd8046c4963b",
-          "author": null,
-          "description": "はい、イケハヤです。 今日もコツコツ未来を作ってますか？ 最近、AIの進化が本当にすさまじいですよね……。 ChatGPT、Claude、そしてGoogleのGemini…… 次々と新しいモデルが登場し、性能も信じられないスピードで向上しています。 ぼく自身、AIツールを本格的に使い始めてから、コンテンツ制作の効率が爆発的に上がりま...",
-          "link": "https://note.com/ihayato/n/nbd8046c4963b",
-          "publishedOn": "2025-04-12T05:23:54.000Z",
-          "wordCount": 2623,
-          "title": "ChatGPTより格段にすごい……Googleの最新AI「Gemini 2.5 Pro」を使ってないのは時代遅れ。｜イケハヤ",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/183443495/rectangle_large_type_2_daa5e4e26a47177e73cf6498c17582c5.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://note.com/genkaijokyo/n/n76d7659b1877",
-          "author": null,
-          "description": "はじめにGoogleのGemini Advancedに搭載されたGemini2.5ProによるDeep Research機能は、特に医療分野のような専門的な情報収集において、その高い能力が注目されています。本機能は、ChatGPTなどの既存AIツールと比較して、参照する文献数の多さや情報処理の速度において優位性を示す一方で、生成されるレポートが冗長に...",
-          "link": "https://note.com/genkaijokyo/n/n76d7659b1877",
-          "publishedOn": "2025-04-12T04:01:58.000Z",
-          "wordCount": 2948,
-          "title": "情報収集が変わる！ Gemini Deep Researchの可能性とカスタムGPTによる最適化｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/183764055/rectangle_large_type_2_4f082afd5421ad6d2129de39160c6916.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://github.blog/changelog/2025-04-11-vscode-copilot-agent-mode-in-codespaces/",
-          "author": null,
-          "description": "AI & MLLearn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AILearn how to build with generative AI. GitHub CopilotChange how you work with GitHub Copilot. LLMsEverything developers need to know about LLMs. Machine learningMachine...",
-          "link": "https://github.blog/changelog/2025-04-11-vscode-copilot-agent-mode-in-codespaces/",
-          "publishedOn": "2025-04-12T01:10:15.000Z",
-          "wordCount": 2053,
-          "title": "VSCode Copilot agent mode in Codespaces · GitHub Changelog",
-          "imageUrl": "https://github.blog/wp-content/uploads/2024/08/d34e9c19123898a8a886147f37a1d167130d1c15be6d399a9c4b30ee6f2a7395-1200x630-1.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://blog.g-gen.co.jp/entry/next-25-bigquery-latest-updates",
-          "author": null,
-          "description": "G-gen の杉村です。当記事では、Google Cloud Next '25 で発表された BigQuery の新機能について紹介します。 概要 BigQuery と AI の統合 全体像 BigQuery data preparation データセットレベルのインサイト（BigQuery データキャンバス） BigQuery pipelines にデータエンジニアリングエージェントが組み込み Colab No...",
-          "link": "https://blog.g-gen.co.jp/entry/next-25-bigquery-latest-updates",
-          "publishedOn": "2025-04-12T00:27:05.000Z",
-          "wordCount": 2004,
-          "title": "BigQueryの新発表を解説（Google Cloud Next '25速報） - G-gen Tech Blog",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/6a145f6f85ef0941247de48d20023b41b44b1847/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fggen-sugimura%2F20250411%2F20250411150908.png"
-        },
-        {
-          "id": "https://zenn.dev/canary_techblog/articles/47af6331b4ecfb",
-          "author": null,
-          "description": "WebAssembly 興味あるけど何？調べても、どうやって動いてるのかさっぱりわからないんだけど…という方多いのではないでしょうか！自分もそうでした 😂 この記事では、 WebAssembly の目指しているゴールをその具体例とともに示し、みなさんの今後の深堀りを行うためのインデックスとしてお役にたてれば幸いです！なお、...",
-          "link": "https://zenn.dev/canary_techblog/articles/47af6331b4ecfb",
-          "publishedOn": "2025-04-11T22:54:37.000Z",
-          "wordCount": 2565,
-          "title": "WebAssembly の歩き方",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cy58lgLM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:WebAssembly%2520%25E3%2581%25AE%25E6%25AD%25A9%25E3%2581%258D%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shusann%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U3NzUwZmNjMzUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Canary%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l3SkJWWjBoeVZwODJwMmJRRjZfMWZmZkd2U1V0Z29pZ0U0M1dsRExzPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/column/config/2006241.html",
-          "author": null,
-          "description": "フォントは文章の表現力に大きな影響を与える要素でもある。フォントが異なるだけで、テキストから受けるイメージは大きく変わる。だからこそ、標準的な文字列に使うフォントは慎重に選ぶ必要がある。",
-          "link": "https://pc.watch.impress.co.jp/docs/column/config/2006241.html",
-          "publishedOn": "2025-04-11T21:38:13.000Z",
-          "wordCount": 5870,
-          "title": "【山田祥平のRe:config.sys】 フォントが変われば世界の見え方も変わる",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2006/241/image.jpg"
-        },
-        {
-          "id": "https://togetter.com/li/2537171",
-          "author": null,
-          "description": "あーつ @blackflagcrz プロ256敗　教授と呼ばれたボクサー 89年から2008年までリングに上がったイギリスのプロボクサーのピーター・バックリーはどんなオファーも断らなかった 期待の若手達は異常なディフェンス能力を持つタフな彼に自慢のパンチは当たらず散々苦しめられ、勝ってもプロの難しさを知った 300戦32勝256敗...",
-          "link": "https://togetter.com/li/2537171",
-          "publishedOn": "2025-04-11T19:13:07.000Z",
-          "wordCount": 838,
-          "title": "300戦256敗、史上最弱、当て馬と呼ばれるも「異常なディフェンス技術」で新人たちにプロの洗礼を浴びせ、「教授」と称えられたプロボクサーの話",
-          "imageUrl": "https://s.tgstc.com/ogp3/9ea9eca259f9bfe09c3dae22100b9e0d-1200x630.jpeg"
-        },
-        {
-          "id": "https://zenn.dev/wooheum/articles/8f1da485810b42",
-          "author": null,
-          "description": "Model Context Protocol（MCP） MCP 概要 MCP はオープンプロトコルであり、アプリケーションが大規模言語モデル（LLMs）にコンテキストを提供する方法を標準化することを目的としています。AI アプリケーションの「USB-C ポート」に例えられ、AI モデルが異なるデータソースやツールに接続するための標準化された経路を...",
-          "link": "https://zenn.dev/wooheum/articles/8f1da485810b42",
-          "publishedOn": "2025-04-11T17:45:14.000Z",
-          "wordCount": 572,
-          "title": "次のMCP？？A2Aはなんですか",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--0tQ2pyzJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25AC%25A1%25E3%2581%25AEMCP%25EF%25BC%259F%25EF%25BC%259FA2A%25E3%2581%25AF%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2599%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25A6%25E3%2583%2595%25E3%2583%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzgwMjc2NjQyOTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://blog.lai.so/crashing-mcp-server/",
-          "author": null,
-          "description": "現在普及しているStdioServerTransport型MCPサーバーの使用方法は設定ファイルにnpxやuvxコマンドを記述する。​これはその場でダウンロードしたスクリプトファイルを実行することを意味する。 https://code.visualstudio.com/docs/copilot/chat/mcp-servers​しかしこの実行方式は開発者には悪名高いソフトウェアのインス...",
-          "link": "https://blog.lai.so/crashing-mcp-server/",
-          "publishedOn": "2025-04-11T15:59:37.000Z",
-          "wordCount": 509,
-          "title": "MCPサーバーを安全に動かすための工夫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.cloudflare.com/cloudflare-containers-coming-2025/",
-          "author": null,
-          "description": "Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 20252025-04-11 It is almost the end of Developer Week and we haven’t talked about containers: until now. As some of you may know, we’ve been working on a container platform behind the scenes for some time. In late J...",
-          "link": "https://blog.cloudflare.com/cloudflare-containers-coming-2025/",
-          "publishedOn": "2025-04-11T14:19:23.000Z",
-          "wordCount": 4202,
-          "title": "Simple, scalable, and global: Containers are coming to Cloudflare Workers in June 2025",
-          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4WO0LhhPIXNPr1ntAHn9nA/67d58582b2be2731fc7f3a859316d7b8/OG_Share_2024__49_.png"
-        },
-        {
-          "id": "https://developer.mozilla.org/ja/docs/MDN/Writing_guidelines/Code_style_guide/JavaScript",
-          "author": null,
-          "description": "この節では、 JavaScript のサンプルコードを書く際に留意すべき一般的なガイドラインを説明します。後の節では、より具体的な詳細について説明します。 正しいインデント、ホワイトスペース、行の長さに関する意見は常に論争の的となってきました。このようなトピックに関するディスカッションは、コンテンツを作成した...",
-          "link": "https://developer.mozilla.org/ja/docs/MDN/Writing_guidelines/Code_style_guide/JavaScript",
-          "publishedOn": "2025-04-11T13:19:01.000Z",
-          "wordCount": 3361,
-          "title": "JavaScript のサンプルコードの作成ガイドライン - MDN Web Docs | MDN",
-          "imageUrl": "https://developer.mozilla.org/mdn-social-share.d893525a4fb5fb1f67a2.png"
-        },
-        {
-          "id": "https://togetter.com/li/2537197",
-          "author": null,
-          "description": "X68PRO-HD @CZ662C なんかプチバズってるのでちょっと宣伝。 X68000を中心に、ほぼレトロPC・ゲーム関係のツイートをしているアカウントです。 現在4台のX68000が現役稼働中です～ もし同じ趣味の方でお気に召しましたら、フォロー頂けると嬉しいです！ pic.x.com/mHEKp6rcTH 2025-04-11 19:18:35 X68PRO-HD @CZ662C レ...",
-          "link": "https://togetter.com/li/2537197",
-          "publishedOn": "2025-04-11T13:13:09.000Z",
-          "wordCount": 736,
-          "title": "昔のアニメとかでよく「こうやってテープを読む科学者」が出てきましたが、実際に読める物なんでしょうか？→古の技術を「読める」という報告例が続々",
-          "imageUrl": "https://s.tgstc.com/ogp3/5ce77617def5af4674a91e0fec8a242f-1200x630.jpeg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/2006179.html",
-          "author": null,
-          "description": "日本HPは、CPUにRyzen AI 300またはCore Ultra 200Vシリーズを搭載した個人向けノートPC「HP OmniBook 7 Aero 13」、「HP OmniBook X Flip 14」シリーズを発売した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/2006179.html",
-          "publishedOn": "2025-04-11T13:09:05.000Z",
-          "wordCount": 6008,
-          "title": "AIを使うと仕事が楽しくなる。日本HPから1kg切りのRyzen AI 300搭載ノート",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2006/179/1.jpg"
         }
       ]
     },
@@ -9672,6 +9702,26 @@
       "feedUrl": "http://feeds.japan.cnet.com/rss/cnet/all.rdf",
       "siteUrl": "https://japan.cnet.com",
       "articles": [
+        {
+          "id": "https://japan.cnet.com/article/35232839/",
+          "author": "Taylor Leamey （CNET News） 翻訳校正： 編集部",
+          "description": "カーネギーメロン大学のコンピュータ科学者チームは、入力されたテキストを物理的に安定したレゴのデザインに変換する初の人工知能（AI）モデル「LegoGPT」を開発した。",
+          "link": "https://japan.cnet.com/article/35232839/",
+          "publishedOn": "2025-05-12T00:41:00.000Z",
+          "wordCount": 2255,
+          "title": "テキストからレゴを設計する「LegoGPT」、カーネギーメロン大が公開",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/12/6629785a7cefc6945550efd038b8a3bc/gettyimages-503313200_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35232834/",
+          "author": "Omar Gallaga （CNET News） 翻訳校正： 編集部",
+          "description": "モンスターを捕まえて育てる人気ゲーム『パルワールド』の開発元Pocketpairは、『ポケモン』シリーズと似すぎていると指摘された要素を削除する一方で、ゲームのさらなる進化を目指すと明らかにし",
+          "link": "https://japan.cnet.com/article/35232834/",
+          "publishedOn": "2025-05-11T21:55:00.000Z",
+          "wordCount": 2254,
+          "title": "「どう見てもポケモン」と物議のパルワールド、任天堂の提訴で一部機能削除--今後どうなる？",
+          "imageUrl": "https://japan.cnet.com/storage/2025/05/12/984af0d055e77abe8ebefb72c5490861/palworld.jpeg"
+        },
         {
           "id": "https://japan.cnet.com/article/35232787/",
           "author": "Amanda Kooser （CNET News） 翻訳校正： 編集部",
@@ -11831,16 +11881,6 @@
           "wordCount": 2580,
           "title": "重低音ガンガン。ソニーの新型Bluetoothスピーカー「ULT Field 3 / 5」レビュー",
           "imageUrl": "https://japan.cnet.com/storage/2025/04/12/c53ffd965bd4706ff9ada498a30481c9/sony-ult-field-3-and-ult-field-5.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35231688/",
-          "author": "Nina Raemont （ZDNET.com） 翻訳校正： 編集部",
-          "description": "ワイヤレスイヤホンに求める性能はシンプルだ。数日は余裕でもつバッテリーと、クリアで力強い音質だ。JBLはこの「黄金の組み合わせ」を熟知しており、製品開発にもそれを反映させている。",
-          "link": "https://japan.cnet.com/article/35231688/",
-          "publishedOn": "2025-04-11T23:31:00.000Z",
-          "wordCount": 2351,
-          "title": "このAirPods Pro 2にない機能を備えた「JBL」のイヤホンは、高音質で1週間電池が持続--欠点は",
-          "imageUrl": "https://japan.cnet.com/storage/2025/04/11/0127bd32366fa0a01a25bbc026104085/a7d63fe5-7522-4b4d-89d4-cd23ee5fcb70-1-201-a (1).jpeg"
         }
       ]
     }
