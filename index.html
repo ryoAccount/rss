@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-30 datetime="2025-11-30T22:33:35.000Z">2025-11-30</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-30 datetime="2025-11-30T22:33:35.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-12-01 datetime="2025-12-01T23:26:59.000Z">2025-12-01</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-12-01 datetime="2025-12-01T23:26:59.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -42,6 +42,922 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/google_cloud_jp/articles/703890e264751f"
+                        open
+                      >
+                        <summary class="article-expander__title">Kubernetes History Inspector(KHI)を使って入門する本格的なKubernetesの障害原因調査(RCA)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/google_cloud_jp/articles/703890e264751f">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--rZmKeALR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Kubernetes%2520History%2520Inspector%2528KHI%2529%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E6%25A0%25BC%25E7%259A%2584%25E3%2581%25AAKubernetes%25E3%2581%25AE%25E9%259A%259C...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kyasbal%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA1OTIyZmJmYTMuanBlZw&#x3D;&#x3D;%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Google%2520Cloud%2520Japan%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBmZDMxZmE4ZDQuanBlZw&#x3D;&#x3D;%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Google Cloud の Technical Solutions Engineer。GKE / GDC上で発生する様々なトラブルの解決をお手伝いしています。 Kubernetes History Inspector 開発者 未踏2016 スーパークリエイター / 未踏アドバンスト2018</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/mkj/articles/1a9aed0c21db7e"
+                        open
+                      >
+                        <summary class="article-expander__title">RAGプロダクトを支える、ベクトルDB構築以外の周辺Tips</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/mkj/articles/1a9aed0c21db7e">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--vIOzJpqb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:RAG%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E6%2594%25AF%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25ABDB%25E6%25A7%258B%25E7%25AF%2589%25E4%25BB%25A5%25E5%25A4%2596%25E3%2581%25AE%25E5%2591%25A8%25E8%25BE%25BATips%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ukita%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw&#x3D;&#x3D;%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWtFREpiRTFERFIwY0syRzVSNExhbkJhMkQ2Yktfeld6T1ZTMHJnZlc0Y0U5OUxQQT1zOTYtYw&#x3D;&#x3D;%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>松尾研究所テックブログPublication ProGoogle CloudVertex AILLMRAGtech松尾研究所テックブログPublication Pro株式会社松尾研究所のテックブログです。 Discussion</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://tech.findy.co.jp/entry/2025/12/02/070000_1"
+                        open
+                      >
+                        <summary class="article-expander__title">Terraform x Devinで実現するユーザー管理の自動化 - Findy Tech Blog</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://tech.findy.co.jp/entry/2025/12/02/070000_1">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.image.st-hatena.com/image/scale/20c2bdb37f52966269e348ccb0c4c0a7fa6c0532/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftakenorio%2F20251128%2F20251128133148.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>こんにちは。 ファインディのPlatform開発チームでSREを担当している大矢です。 私たちのチームでは現在、SREのトイル削減を目指して様々な施策に取り組んでいます。今回はその1つとして、AIエージェント「Devin」を活用したユーザー管理の自動化についてご紹介します。 今回のお話 本記事で触れること 本記事で触れない...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20251202-stop-hacklore/"
+                        open
+                      >
+                        <summary class="article-expander__title">「公共Wi-Fiを避ける」「QRコードをスキャンしない」「公共のUSBポートでデバイスを充電しない」「パスワードを定期的に変更する」など時代遅れのセキュリティアドバイスを止めろと専門家グループが声を上げる</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20251202-stop-hacklore/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2025/12/02/stop-hacklore/00_m.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>現役の情報セキュリティ責任者やセキュリティ専門家などで構成されるグループが、国民・企業・ジャーナリスト・政策立案者に向けて、インターネット上や公共のコラムなどで依然として広く流布されている誤ったセキュリティアドバイスである「ハックロア」を止めるよう求めています。 The Letter — Stop Hacklore! https:...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://pc.watch.impress.co.jp/docs/topic/feature/2067713.html"
+                        open
+                      >
+                        <summary class="article-expander__title">【特集】 モバイルバッテリ処分2025、楽になったよ。ありがとう環境省</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://pc.watch.impress.co.jp/docs/topic/feature/2067713.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://pc.watch.impress.co.jp/img/pcw/list/2067/713/mobagomi_01.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>昨今世間をお騒がせしているのが、モバイルバッテリの爆発事故だ。電車内で爆発したり、火事の原因になるなど、大きな社会問題となっている。バッテリを内蔵した機器は年々増加しており、バッテリとは無関係で過ごすのはなかなか難しい昨今だが、当然筆者の手元にも多くのモバイルバッテリはあるし、バッテリ内蔵機器も数えきれないくらい所持している。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://fujii-yuji.net/2025/12/02/002932"
+                        open
+                      >
+                        <summary class="article-expander__title">ちょっとだけ牧歌的インターネットが帰ってくる季節だよね - フジイユウジ::ドットネット</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://fujii-yuji.net/2025/12/02/002932">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ogimage.blog.st-hatena.com/10328749687194051370/17179246901327681621/1764630242" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>しわーっす(12月の挨拶) 12月になると、いろいろなアドベントカレンダー(ブログ)が始まりますね。 読んでいて楽しい・学びがあるステキな記事が溢れるように出てきて、SNSでもその感想やシェアする投稿が増えて盛り上がります。 インターネットの景色としては、一年で一番好きな季節といえるかもしれません。 かつて、イ...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://konifar.hatenablog.com/entry/2025/12/01/234148"
+                        open
+                      >
+                        <summary class="article-expander__title">Kyashに入社して8年くらい経ちました - Konifar&#x27;s WIP</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://konifar.hatenablog.com/entry/2025/12/01/234148">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ogimage.blog.st-hatena.com/8454420450087934214/17179246901327669951/1764633422" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>この記事は Kyash Advent Calendar 2025 1日目の記事です。 2017年12月に Kyash に入社してから8年経ったので、ざっと振り返っておこうと思います。いわゆる在籍エントリというやつです。 過去の在籍エントリは 自分の在籍エントリまとめ - Konifar&#x27;s ZATSU にまとめています。 長く続いている 自分は4年おきくらいに転...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://note.com/mongee0792/n/n1006007b1cb4"
+                        open
+                      >
+                        <summary class="article-expander__title">京大理系がPythonで「最強の株AI」を作ろうとしたら、結論が「ニュースを見て寝なさい」になった話｜もんげー</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://note.com/mongee0792/n/n1006007b1cb4">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/c12231f50d9970e586670cd1390d338884e61449.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>初めに忠告するが、私は国語が苦手だ。なのでもし読むときはchatgpt使って、要約をかけさせることをお勧めする。 ーこの記事の要約ー ・テクニカル分析が嘘であることを検証した話 ・一番結果を出した戦略について ー次回書くことー ・ＡＩによる取り組み①～強化学習編～ ・ＡＩによる取り組み②～教師あり学習編～ まず...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20251201-deepseek-coding-tasks-ccp-valunerability/"
+                        open
+                      >
+                        <summary class="article-expander__title">DeepSeekは中国共産党がセンシティブ扱いするようなプロンプトだと脆弱性を含むコードを出力する可能性が増加</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20251201-deepseek-coding-tasks-ccp-valunerability/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2025/12/01/deepseek-coding-tasks-ccp-valunerability/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>中国製AI・DeepSeek(深度求索)は非常に高い能力を持っていることが第三者の検証でも明らかになっていますが、一方で、中国製ということで、中国政府の好まない相手向けにはわざと低品質な回答を出力している可能性があることが指摘されていました。セキュリティ企業・CrowdStrikeがこの問題を調査し、「中国共産党がセン...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://fintan-contents.github.io/gai-dev-guide/"
+                        open
+                      >
+                        <summary class="article-expander__title">Fintan » Development Guide with Generative AI</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://fintan-contents.github.io/gai-dev-guide/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://fintan-contents.github.io/gai-dev-guide/img/OGP.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>生成AI エンジニアリング活用ガイドは、開発プロセスにおいてすぐに生成AIを活用できるように設計された、TIS株式会社が提供しているガイドラインです。 ChatGPTやGitHub Copilotなどの導入方法、開発プロセスにおける生成AIの具体的な活用方法などを提供します。 どなたでも無償で利用いただけます。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://dev.classmethod.jp/articles/dont-forget-to-use-devcontainer-when-using-antigravity/"
+                        open
+                      >
+                        <summary class="article-expander__title">Antigravity を使うときは DevContainer で安全に使おう | DevelopersIO</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://dev.classmethod.jp/articles/dont-forget-to-use-devcontainer-when-using-antigravity/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://devio2024-media.developers.io/image/upload/v1764496101/user-gen-eyecatch/nooc0sjxto2ljyuzawkg.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>こんにちは。すらぼです。 先日リリースされた Google Antigravity を使い込んでいます。特に、エージェントが自己判断でコマンドを実行してくれる &quot;Terminal Command Auto Execution&quot; の &quot;Auto モード&quot; のおかげで、イメージがサクサク実現されていくのは爽快です。 Auto モードの詳細が気になる方は、以下の記事をご覧...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.publickey1.jp/blog/25/awsamazon_ecs_express_mode.html"
+                        open
+                      >
+                        <summary class="article-expander__title">AWS、コンテナアプリケーションのインフラ周りを自動設定してくれる「Amazon ECS Express Mode」提供開始</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.publickey1.jp/blog/25/awsamazon_ecs_express_mode.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.publickey1.jp/2025/ecs-express-mode01.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>AWS、コンテナアプリケーションのインフラ周りを自動設定してくれる「Amazon ECS Express Mode」提供開始 Amazon Web Services（AWS）は、コンテナ化されたアプリケーションのデプロイやスケーリング、運用管理などを提供するフルマネージドサービス「Amazon ECS」（Amazon Elastic Container Service）の新機能として、...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://togetter.com/li/2634210"
+                        open
+                      >
+                        <summary class="article-expander__title">私はプロ患者なので、持病に関する採血データを10年以上Excelで保管しており、医者を怖がらせたことがある「同じくやっています」「素晴らしい」</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://togetter.com/li/2634210">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://s.tgstc.com/ogp3/9ebcf72d9b905256fa4c20b626da4452-1200x630.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>りねん @linen_mi 「プロ患者って何だ？」 →自分の病状を的確に把握し、主治医や医療従事者に敬意を持って建設的に会話できる患者のことだよ！知らんけど 「病院が保管してるで」「意味ないで」 →知ってるけど、病院転々としてるし、何より私が見て楽しい！ 「私もやってる！」 →楽しいよねわかる 2025-12-01 09:28:24 ...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.itmedia.co.jp/news/articles/2512/01/news127.html"
+                        open
+                      >
+                        <summary class="article-expander__title">健康保険「資格確認書」が届かない？　Web交付という可能性も</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.itmedia.co.jp/news/articles/2512/01/news127.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.itmedia.co.jp/news/articles/2512/01/cover_news127.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>従来の健康保険証が、12月1日で有効期限が切れた。2026年3月末まで使える暫定措置はあるものの、今後は原則として医療機関の窓口で「マイナ保険証」か「資格確認書」を提示する必要がある。資格確認書は申請なしで送付されるが、中には届かないケースもあるようだ。 例えば、多くのIT企業が加盟する関東ITソフトウェア健...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.publickey1.jp/blog/25/awsgoogle_cloudazureaws_interconnect.html"
+                        open
+                      >
+                        <summary class="article-expander__title">AWSがGoogle Cloudとの高速接続を発表、来年にはAzureとも接続。「AWS Interconnect」プレビュー開始</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.publickey1.jp/blog/25/awsgoogle_cloudazureaws_interconnect.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.publickey1.jp/2025/aws-interconnect-pv.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>AWSがGoogle Cloudとの高速接続を発表、来年にはAzureとも接続。「AWS Interconnect」プレビュー開始 Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと高速なプライベート接続を実現する新サービス「AWS Interconnect - multicloud」のプレビュー開始を発表しました。 AWSサービスにより外...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241103/"
+                        open
+                      >
+                        <summary class="article-expander__title">みずほ、キャッシュカードの生体認証を廃止--利用減少で</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241103/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/b13219005e85b32621c11fda63b813a1/20181127_154234__1_.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>みずほ銀行は12月1日、ICキャッシュカードの生体認証機能による本人確認サービスを2026年6月1日に終了すると発表した。利用が減っていることが理由で、2026年5月末の規定改定を経て、6月からATMの生体認証装置を順次取り外す。撤去作業は9月末までに完了する予定だ。生体認証の新規登録も2025年12月30日で終了する。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://dev.henry.jp/entry/2025/12/01/170729"
+                        open
+                      >
+                        <summary class="article-expander__title">事業戦略は技術戦略に影響を与えるが、技術戦略もまた事業戦略に影響を与えるべき - 株式会社ヘンリー エンジニアブログ</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://dev.henry.jp/entry/2025/12/01/170729">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ogimage.blog.st-hatena.com/4207112889953777012/17179246901327385487/1764577450" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>こんにちは。ヘンリーで VPoP (VP of Product) をしている agatan です。 2025年の10月から、これまでのエンジニアとしての役割に加え、VP of Product &amp; 製品部門長という役割を担うことになりました。 これまではテックリードやアーキテクトなど、エンジニアとして、ヘンリーの複雑で巨大なドメイン（レセコン・電子カ...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/acntechjp/articles/411bbb4fe65022"
+                        open
+                      >
+                        <summary class="article-expander__title">M365 Copilotで「自社スタイルPPT」を自動生成する方法</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/acntechjp/articles/411bbb4fe65022">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--vrKnFAei--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:M365%2520Copilot%25E3%2581%25A7%25E3%2580%258C%25E8%2587%25AA%25E7%25A4%25BE%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25ABPPT%25E3%2580%258D%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:shinya.hara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw&#x3D;&#x3D;%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSzNHaEJfbzM5alNTMWxRQ1V3QmpjZnBRQmx1bF9aVVZHYldIczNSUXVWRDBTN2F3PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>アクセンチュア株式会社に所属する社員有志による運営です。アクセンチュアの社員による様々な発信をまとめています。なお、投稿内容は社員個人の見解であり、所属する組織を代表するものではありません。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qiita.com/alclimb/items/e303cf655373992f61f4"
+                        open
+                      >
+                        <summary class="article-expander__title">ずんだもんに『先輩のクソコードのせいで本番が燃えてるのだ！』と毎朝叫ばれる目覚ましアプリを作った - Qiita</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qiita.com/alclimb/items/e303cf655373992f61f4">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNjcxOTIlMkZwcm9maWxlLWltYWdlcyUyRjE2MTE5OTQ4MjA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTkwOWI1YTYxMTYzNjcwNTFmY2RjM2Y3MjI4Yzc3MmU5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D05e38f4a6a23f172a2e678278646164f?ixlib&#x3D;rb-4.0.0&amp;w&#x3D;1200&amp;fm&#x3D;jpg&amp;mark64&#x3D;aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJTlBJUUzJTgyJTkzJUUzJTgxJUEwJUUzJTgyJTgyJUUzJTgyJTkzJUUzJTgxJUFCJUUzJTgwJThFJUU1JTg1JTg4JUU4JUJDJUE5JUUzJTgxJUFFJUUzJTgyJUFGJUUzJTgyJUJEJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgxJUFFJUUzJTgxJTlCJUUzJTgxJTg0JUUzJTgxJUE3JUU2JTlDJUFDJUU3JTk1JUFBJUUzJTgxJThDJUU3JTg3JTgzJUUzJTgxJTg4JUUzJTgxJUE2JUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJUEwJUVGJUJDJTgxJUUzJTgwJThGJUUzJTgxJUE4JUU2JUFGJThFJUU2JTlDJTlEJUU1JThGJUFCJUUzJTgxJUIwJUUzJTgyJThDJUUzJTgyJThCJUU3JTlCJUFFJUU4JUE2JTlBJUUzJTgxJUJFJUUzJTgxJTk3JUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjhiZGU4ODVlOGIzODQ2ZWJlZDg5MzRmNTNmYWRjNzQ&amp;mark-x&#x3D;120&amp;mark-y&#x3D;112&amp;blend64&#x3D;aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBhbGNsaW1iJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmI1NTg5Y2ZmMjY0YzBmZWRlNWE3MGI4MmJlMmI3OTQ&amp;blend-x&#x3D;242&amp;blend-y&#x3D;480&amp;blend-w&#x3D;838&amp;blend-h&#x3D;46&amp;blend-fit&#x3D;crop&amp;blend-crop&#x3D;left%2Cbottom&amp;blend-mode&#x3D;normal&amp;s&#x3D;7e8b3d00e88cd6cbd0d9df1925a7b429" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>はじめに：エンジニアにとって「最高の目覚まし」とは 朝、起きることができない。 大音量のアラームも、光で起こす目覚ましライトも、計算問題を解かないと止まらないアプリも試しました。しかし、慣れてしまえば二度寝は容易です。脳が「これはただのアラームだ」と学習してしまうからです。 ですが、我々エンジニアに...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.itmedia.co.jp/news/articles/2512/01/news114.html"
+                        open
+                      >
+                        <summary class="article-expander__title">アスクル、ランサム被害で売上高が大幅減　11月度は“前年対比4.9％”　343億円→17億円に</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.itmedia.co.jp/news/articles/2512/01/news114.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.itmedia.co.jp/news/articles/2512/01/cover_news114.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>主力分野のASKUL事業の売上高は17億円（同5.4％）、LOHACO事業の売上高は300万円（同0.1％）で、どちらも大きく数字を落とした。 アスクルでは10月19日、ランサムウェア被害を公表。複数の通販サービスで出荷・受注業務を停止し、29日に一部商品の出荷を手作業で再開していた。その後も対象商品や各物流拠点の機能を徐々...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/tchen/articles/8999302b0953b3"
+                        open
+                      >
+                        <summary class="article-expander__title">【絶対ダメ】node:vmモジュールをサンドボックスとして使ってみた！！！！</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/tchen/articles/8999302b0953b3">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--6AyP0JEZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25B5%25B6%25E5%25AF%25BE%25E3%2583%2580%25E3%2583%25A1%25E3%2580%2591node%253Avm%25E3%2583%25A2%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2589%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A6%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%25EF%25BC%2581%25EF%25BC%2581%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:t-chen%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSndGbmw3UUNSVkZRdDdIRXpZYm84alBZQW0xYzhXTXhUc0c2UkgzMXRjV3NsMll3PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Node.jssandboxCTFtechDiscussion</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://tech.layerx.co.jp/entry/2025/12/01/161913"
+                        open
+                      >
+                        <summary class="article-expander__title">OCR技術の変遷と日本語対応モデルの性能検証 - LayerX エンジニアブログ</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://tech.layerx.co.jp/entry/2025/12/01/161913">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.image.st-hatena.com/image/scale/61f0b1e5d15f9c790862396f350048d011af6c8e/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftaku-buntu%2F20251201%2F20251201120216.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>こんにちは、バクラク事業部AI・機械学習部の飯田 (@frkake) です。 こちらはLayerXアドベントカレンダー1日目の記事です。初日は @izumin5210 さんの記事との二本立てです。 最近、DeepSeek-OCRの登場など、OCR界隈がにわかに活気づいていますね。LLMやVLMの進化に伴い、OCRも単なる「文字起こし」から「構造の読み取り...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://falsandtru.hatenablog.com/entry/passkey-fido-security-and-vulnerability-and-catastrophic-defect"
+                        open
+                      >
+                        <summary class="article-expander__title">パスキー(FIDO)の安全性と脆弱性と破滅的欠陥 - falsandtruのメモ帳</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://falsandtru.hatenablog.com/entry/passkey-fido-security-and-vulnerability-and-catastrophic-defect">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ogimage.blog.st-hatena.com/12921228815718538158/6802418398336207842/1764621002" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>これはパスキー(FIDO/FIDO2)の安全性と脆弱性と破滅的欠陥そして正しい認証設計の最も包括的かつ総合的な解説である。パスキーの破滅的欠陥の公開はこれが世界初である。次に列挙する事項を読めば欠陥の原理を掴める。全体の文量が多ければ最初はハイライト部分だけ流し読んで要点を掴むのもいいだろう。証拠となる公式...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241066/"
+                        open
+                      >
+                        <summary class="article-expander__title">Suicaをポケットに入れたまま改札通過、実装の技術的課題をクリア【鉄道技術展レポート】</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241066/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/b34bccb82843fb0b13b420133f877ffd/ph03.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>「ウォークスルー改札」という言葉が鉄道改札機の世界でホットトピックとなりつつある。現在、東日本旅客鉄道（JR東日本）が上越新幹線の長岡駅と新潟駅の間で顔認証改札機の実証実験を行っているが、文字通り“手ぶら”で改札を通過可能な仕組みは、従来の改札機が提供してきた“タッチ”から、“タッチしない”への時代への...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CNET Japan 最新情報　総合</button>
+                  <a class="source-heading__link" href="https://japan.cnet.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241111/"
+                        open
+                      >
+                        <summary class="article-expander__title">中国DeepSeek、Gemini 3.0 Proに「匹敵する」新モデル</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241111/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/02/2500843ed9dee375b43c0170321cf1c0/deepseek-ai-9733.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>中国のAI企業DeepSeekは、推論能力を備えたAIモデル「V3.2」と「V3.2-Speciale」を発表した。後者はベンチマークで「Gemini 3.0 Pro」や「GPT-5 High」を上回ったと、同社は月曜のニュースリリースで明らかにしている。V3.2はアプリとウェブで利用できるが、V3.2-SpecialeはAPI経由のみ提供されている。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241109/"
+                        open
+                      >
+                        <summary class="article-expander__title">Netflixから「キャスト」機能が消え始めている--事実上自社アプリに誘導か</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241109/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/02/51349652da211a8904b90e16fa5a3bc0/img-9988__1_.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Netflixは、スマホからテレビやストリーミング機器へ映像を飛ばす「キャスト」機能の提供を段階的にやめ、各デバイスに内蔵されたNetflixアプリの利用を促している。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241107/"
+                        open
+                      >
+                        <summary class="article-expander__title">年末オススメのNetflixドラマは「BEAST －私のなかの獣－」で決まり--1話見たら止まらない新作サイコスリラー</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241107/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/02/85098b1c4a3c319cb25ecd93a839a092/beast-in-me-brittany-snow-matthew-rhys-netflix__1_.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>年末に差しかかったタイミングで、Netflixがとんでもない新作を投入してきた。「BEAST －私のなかの獣－」だ。配信が始まった瞬間、今年の“マイ・ベスト”を大幅に塗り替えるほどの衝撃で、まさに隠れた目玉タイトルと言っていい。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241106/"
+                        open
+                      >
+                        <summary class="article-expander__title">Rakuten TV「購入型コンテンツ」提供終了へ　視聴は2026年12月まで</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241106/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/4f97be41e191321b8c747b0cf07b8ae5/IMG_4241.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>楽天グループは12月1日、動画配信サービス「Rakuten TV」で提供している“購入型コンテンツ”の販売を、2025年12月25日正午で終了すると発表した。すでに購入済み、もしくは販売終了日時までに購入した作品は、2026年12月までの視聴期間内であれば引き続き再生できる。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241104/"
+                        open
+                      >
+                        <summary class="article-expander__title">KDDI公式「INFOBARデザインのスマートリング」がクラファン開始</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241104/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/1001bb67bf537516d5e1b84c28bf488e/if_2025-023_img_01_fd017bc1e973d139.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>KDDIは12月1日、「INFOBAR」とコラボしたスマートリング「Smart Recovery Ring/INFOBARコラボモデル」の購入型クラウドファンディングをCAMPFIREで開始した。期間は2026年1月31日までで、今後はau Online Shopなどでの販売も検討する。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241103/"
+                        open
+                      >
+                        <summary class="article-expander__title">みずほ、キャッシュカードの生体認証を廃止--利用減少で</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241103/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/b13219005e85b32621c11fda63b813a1/20181127_154234__1_.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>みずほ銀行は12月1日、ICキャッシュカードの生体認証機能による本人確認サービスを2026年6月1日に終了すると発表した。利用が減っていることが理由で、2026年5月末の規定改定を経て、6月からATMの生体認証装置を順次取り外す。撤去作業は9月末までに完了する予定だ。生体認証の新規登録も2025年12月30日で終了する。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241098/"
+                        open
+                      >
+                        <summary class="article-expander__title">ARグラス単体で映像を3D化する「XREAL 1S」発表、6万7980円で1月下旬発売</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241098/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/8b3ebf1d8d87bebbb1123c21d74f393b/top.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>手頃な価格でAR体験が身近に。XREALが発表した6万円台の新型ARグラス「XREAL 1S」は、AI搭載チップで2D映像を3D変換し、頭を動かしても画面が空間に固定される快適な視聴体験を実現する。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241100/"
+                        open
+                      >
+                        <summary class="article-expander__title">三井住友「Vpassアプリ」に「マネーフォワードME」の機能を導入へ</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241100/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/08dd2a52aafcda3a294044cf3a00ae3c/IMG_8642_2__1_-1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>三井住友銀行と三井住友カード、そしてマネーフォワードホームの3社は12月1日、家計簿アプリ「マネーフォワードME」の資産管理機能を、三井住友銀行アプリおよび三井住友カードの「Vpassアプリ」に導入すると発表した。提供開始は2026年3月上旬の予定。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241085/"
+                        open
+                      >
+                        <summary class="article-expander__title">サムスンの「G型」vsファーウェイの「Z型」、三つ折りスマホ競争で「折り方」が重要な理由</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241085/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/d17d7c1df161b9a56f91fb8001d36359/img-20251120-103956_1280x960.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>サムスンが予告した三つ折りスマホは、折り方がファーウェイの「Mate XT」とは異なっている。サムスンに期待してきた筆者にとって、その点が非常に悩ましい。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241092/"
+                        open
+                      >
+                        <summary class="article-expander__title">従来の健康保険証、12月2日以降はすべて期限切れに</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241092/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/61939a4aec08d53bb5b34fb4b022da45/large.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>従来の健康保険証が明日（12月2日）にすべて期限切れとなる。12月2日以降は、医療機関の窓口で「マイナンバーカード」か「資格確認書」のどちらかを提示する必要がある。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241091/"
+                        open
+                      >
+                        <summary class="article-expander__title">NTTドコモの電子マネー「iD」が20周年、抽選で2000人に50%キャッシュバック</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241091/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/dea58ac67cee9d77c7a1086451a9f36c/docomo-id-mobile-payment.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>NTTドコモは12月1日、電子マネー「iD」がサービス開始から20周年を迎えたことを記念し、「iD利用で当たる!50%キャッシュバックキャンペーン」を開始したと発表した。期間は2026年1月31日まで。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241066/"
+                        open
+                      >
+                        <summary class="article-expander__title">Suicaをポケットに入れたまま改札通過、実装の技術的課題をクリア【鉄道技術展レポート】</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241066/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/12/01/b34bccb82843fb0b13b420133f877ffd/ph03.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>手ぶらで通れるウォークスルー改札が鉄道の常識を変える？ JR東日本のミリ波Suica改札、日本信号のBLE＋顔認証改札など最先端技術を鉄道技術展2025の展示から詳しくレポート</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://japan.cnet.com/article/35241072/"
+                        open
+                      >
+                        <summary class="article-expander__title">OpenAI、ChatGPTで「広告」表示へ？ アプリベータ版に記述発見</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://japan.cnet.com/article/35241072/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://japan.cnet.com/storage/2025/04/17/b79c44c79c169fc817b4d1c4d8e3afb8/chatgpt-openai-logo-gettyimages-2208674774_1280x960.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>OpenAIが近く「ChatGPT」に広告を導入する可能性がある。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TechFeedおすすめ記事ランキング - すべてカテゴリー</button>
+                  <a class="source-heading__link" href="http://techfeed.io/categories/all">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://techfeed.io/entries/692e05da3837533862f14f15?from&#x3D;rss"
+                        open
+                      >
+                        <summary class="article-expander__title">Linuxカーネル6.18リリース — 2025年最後のリリース、多数の改善点を伴うLTS候補</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://techfeed.io/entries/692e05da3837533862f14f15?from&#x3D;rss">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1764623499/comments/azttiioceljckgcfgbx5.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>12月1日、「Linuxカーネル 6.18がリリースされた」。この記事では、Linuxカーネル6.18の正式リリースと、その主な新機能・改良点について詳しく紹介する。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://techfeed.io/categories/all/selections/daily/2025/12/1?from&#x3D;rss"
+                        open
+                      >
+                        <summary class="article-expander__title">【12月1日ランキング】【ChatGPT】笑いすぎ注意！SNSでバズった使い方45選／ほか19本</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://techfeed.io/categories/all/selections/daily/2025/12/1?from&#x3D;rss">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fweel.co.jp%2Fwp-content%2Fuploads%2F2025%2F09%2Fchatgpt-interesting-list_2511.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>すべてカテゴリー 2025年12月1日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。
+1位: 【ChatGPT】笑いすぎ注意！SNSでバズった使い方45選（weel.co.jp）
+2位: 【海外記事紹介】「今はAIバブルだ、なぜなら私たちが必要とされていないから😭」と嘆く機械学習エンジニアのブログが話題に — ソフトウェアによる効率化はなぜ後回しにされるのか
+3位: S&amp;P500神話の終わる時　～インデックス投資バブルの形成過程と、AI投資がもたらす株式市場のレジームチェンジ～（note.com）
+…ほか17本
+ランキングはこちらから</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CSS-Tricks</button>
+                  <a class="source-heading__link" href="https://css-tricks.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://css-tricks.com/?p&#x3D;390613"
+                        open
+                      >
+                        <summary class="article-expander__title">Prevent a page from scrolling while a dialog is open</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/prevent-a-page-from-scrolling-while-a-dialog-is-open/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Bramus:
+Chrome 144 features a small change to overscroll-behavior: it now also works on non-scrollable scroll containers. While this change might seem trivial, it fixes an issue developers have been dealing with for ages: prevent a page from 
+…
+Prevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-30 datetime="2025-11-30T23:20:40.000Z">2025-11-30</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-30 datetime="2025-11-30T23:20:40.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >はてなブックマーク - 人気エントリー - テクノロジー</button>
+                  <a class="source-heading__link" href="https://b.hatena.ne.jp/hotentry/it">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac"
+                        open
+                      >
+                        <summary class="article-expander__title">客先のDBを間違えて削除した話 - Qiita</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDY3Mjc3JTJGZGQwZTE5N2FkN2ZhMmFhNjIxZWNiYjVmOTlmMDFhMWU3MzY5NWI0YiUyRmxhcmdlLnBuZyUzRjE3NjQxOTg4MjY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPThhMmE3NWI3MjlhZDQ1NTQzNTJlM2I0OThhZWU1ODEy%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6f992bed8a26e26962e499c0b03e7aaa?ixlib&#x3D;rb-4.0.0&amp;w&#x3D;1200&amp;fm&#x3D;jpg&amp;mark64&#x3D;aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JUFFJUEyJUU1JTg1JTg4JUUzJTgxJUFFREIlRTMlODIlOTIlRTklOTYlOTMlRTklODElOTUlRTMlODElODglRTMlODElQTYlRTUlODklOEElRTklOTklQTQlRTMlODElOTclRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05OTM4ZTA0NjVmMzkzMTFmY2VmZDMwNTk4N2MyZmEwMg&amp;mark-x&#x3D;120&amp;mark-y&#x3D;112&amp;blend64&#x3D;aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBsaWZfeXVtdW11JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9M2Q1MWY3NDk4OTY2ZTU1ZWY3ZDZiNWJmMGM0ZGQwZjI&amp;blend-x&#x3D;242&amp;blend-y&#x3D;480&amp;blend-w&#x3D;838&amp;blend-h&#x3D;46&amp;blend-fit&#x3D;crop&amp;blend-crop&#x3D;left%2Cbottom&amp;blend-mode&#x3D;normal&amp;s&#x3D;ddb9580b1a88bd87bdc02afb6d7c0ffe" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>この記事は「 本番環境などでやらかしちゃった人 Advent Calendar 2025」の1日目です。 はじめに 「慣れてきた頃が一番危ない」 あれ、ほんとです。 当時の私は作業にも環境にも慣れてきて、油断が出始めていました。 「いつもの作業だし、サクッと終わらせよう」 完全にそんな気持ちでした。 何が起きたのか ECサイトの...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.humanlayer.dev/blog/writing-a-good-claude-md"
+                        open
+                      >
+                        <summary class="article-expander__title">Writing a good CLAUDE.md</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.humanlayer.dev/blog/writing-a-good-claude-md">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://humanlayer.dev/api/writing-a-good-claude-md/og" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Note: this post is also applicable to AGENTS.md, the open-source equivalent of CLAUDE.md for agents and harnesses like OpenCode, Zed, Cursor and Codex. ## Principle: LLMs are (mostly) stateless LLMs are stateless functions. Their weights are frozen by the time they&#x27;re used for inference, so they ...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://internet.watch.impress.co.jp/docs/column/shimizu/2065406.html"
                         open
                       >
@@ -52,6 +968,26 @@
                             <span class="media-object__text">
                               <span>長らくネットワーク関連の記事を書いてきた筆者だが、「よく言われるけど、それってホントなの？」と、ずっとモヤモヤしていた疑問がいくつかあった。そんな疑問を、株式会社インターネットイニシアティブ（IIJ）の専門家に教えてもらおうというのが今回の企画だ。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/mkj/articles/bf59c4c86d98a8"
+                        open
+                      >
+                        <summary class="article-expander__title">AIコーディング実践環境の構築方法【2025年12月】</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/mkj/articles/bf59c4c86d98a8">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--VTCTxHVx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E5%25AE%259F%25E8%25B7%25B5%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%25E6%25A7%258B%25E7%25AF%2589%25E6%2596%25B9%25E6%25B3%2595%25E3%2580%25902025%25E5%25B9%25B412%25E6%259C%2588%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%258B%25E3%2582%2589%25E3%2581%2582%25E3%2581%2592%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw&#x3D;&#x3D;%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXMyNTAtYw&#x3D;&#x3D;%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>松尾研究所テックブログPublication ProLLMSDDClaude Codetech松尾研究所テックブログPublication Pro株式会社松尾研究所のテックブログです。 Discussion</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -132,6 +1068,26 @@
                             <span class="media-object__text">
                               <span>アウトプットLLMideaDiscussion</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://note.com/ikora/n/n66b3129357e8"
+                        open
+                      >
+                        <summary class="article-expander__title">スタートアップとかいう界隈に３年いて思ったこと｜イコラ</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://note.com/ikora/n/n66b3129357e8">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assets.st-note.com/production/uploads/images/233042228/rectangle_large_type_2_3cef76f812f24952da53467ed1de6ff5.jpeg?fit&#x3D;bounds&amp;quality&#x3D;85&amp;width&#x3D;1280" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>はじめに以降の写真は全て私が撮影したものどうも、「AIは学習しない。」イコラです。 医師を辞めて、AI・スタートアップ界隈に来てからもう少しで3年になります。 「石（医師）の上にも3年」ということで、ここらでスタートアップやAI業界について振り返ってみようかと思います。 自分自身はAI業界に転身したつもりなの...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -509,6 +1465,26 @@
                             <span class="media-object__text">
                               <span>11月8日付の日本海新聞の報道によると、漫画家・水木しげるのゆかりの地、鳥取県境港市で長らく開催されてきた「妖怪川柳コンテスト」が、第20回を最後に終了することが決まったという。主催者である境港観光協会はその理由を、生成AIで川柳が簡単に作れるようになってしまい、人間の創作物と見分けることが難しくなった...</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/okiyuki/articles/d94b4ceb940160"
+                        open
+                      >
+                        <summary class="article-expander__title">SELECT * がデータモデルの保守性を下げる話</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/okiyuki/articles/d94b4ceb940160">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--OLLtPLHD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SELECT%2520%252A%2520%25E3%2581%258C%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E4%25BF%259D%25E5%25AE%2588%25E6%2580%25A7%25E3%2582%2592%25E4%25B8%258B%25E3%2581%2592%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okiyuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pGTm82Mm4wcjMzUlRJTXVDZy0zNzFCN0xENjk4TW45UEh5NTRkUlE9czk2LWM&#x3D;%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>SQLdatatechDiscussion</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2270,6 +3246,26 @@
                             <span class="media-object__text">
                               <span>「VAIO P」というPCをご存知だろうか。弊誌の読者様であれば、「ポケットに入る(っていうけど半分しか入ってない)やつね」と即答されるに違いない。コンパクトな筐体に高解像度液晶を搭載し、SSDも選択できた先進的なウルトラモバイルPCだ。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;19
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://note.com/yugen_matuni/n/ndbd3cc5cff90"
+                        open
+                      >
+                        <summary class="article-expander__title">Python1つでPPTXが作成できる方法｜まつにぃ</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://note.com/yugen_matuni/n/ndbd3cc5cff90">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assets.st-note.com/production/uploads/images/232332412/rectangle_large_type_2_4c84c0dfb074c6b088d77eb166812f62.png?fit&#x3D;bounds&amp;quality&#x3D;85&amp;width&#x3D;1280" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>初めましての人は初めまして、そうでない人はお久しぶりです。 エクスプラザで AIリードプロデューサー 兼 AIえばんじぇりすと をしている「まつにぃ」です。 以下のNoteに記載されているように、AIを楽しみながら仕事に邁進している人です。 昨今、スライド作成のサービスや手法がどんどん増えてきていますね。 Nanoban...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -25553,243 +26549,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.gizmodo.jp/2025/11/sound-blaster-reimagine.html"
-                        open
-                      >
-                        <summary class="article-expander__title">音源の入出力はコレひとつでOK。モジュラー式オーディオハブが便利そう</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.gizmodo.jp/2025/11/sound-blaster-reimagine.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://media.loom-app.com/gizmodo/dist/images/2025/10/31/251031_soundblaster.jpg?w&#x3D;1280&amp;h&#x3D;630&amp;f&#x3D;jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>音源の入出力はコレひとつでOK。モジュラー式オーディオハブが便利そう2025.11.02 13:0028,168 岡本玄介 画面付きでレトロゲームもできちゃう。 コンピューターの裏や表には、マイクやスピーカーやヘッドホンなど、いろんなデバイスを繋ぐことができます。 だけど増やせばそれだけケーブルがゴチャつきますし、切り替え...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://ledge.ai/articles/google_skills_ai_learning_platform_launch"
-                        open
-                      >
-                        <summary class="article-expander__title">Google、誰でも学べるAI学習サイト「Google Skills」を正式公開──Cloud・DeepMind・教育部門を横断する3000講座を展開 | Ledge.ai</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://ledge.ai/articles/google_skills_ai_learning_platform_launch">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Keyword_blog_header_2096x1182_width_1200_format_webp_539cc78549/Keyword_blog_header_2096x1182_width_1200_format_webp_539cc78549.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Top &gt; ラーニング &gt; Google、誰でも学べるAI学習サイト「Google Skills」を正式公開──Cloud・DeepMind・教育部門を横断する3000講座を展開</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://speakerdeck.com/satoshi7/classmethod-20251018"
-                        open
-                      >
-                        <summary class="article-expander__title">就職せずに自己資本でクラスメソッドを起業して21年掛けて年商950億円になった話</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://speakerdeck.com/satoshi7/classmethod-20251018">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://files.speakerdeck.com/presentations/d674cd5a61d64ae18f6a1d8e39f28269/slide_0.jpg?37196471" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>No content preview</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.rakumachi.jp/news/column/385270"
-                        open
-                      >
-                        <summary class="article-expander__title">土地代で45億稼ぐ科学大、クラファンでトイレ改修する金沢大…国立大学「金策」の明暗｜楽待不動産投資新聞</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.rakumachi.jp/news/column/385270">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>「2026年度から75年間、年45億円の土地貸付料収入」 これは東京科学大学（旧東京工業大学・東京医科歯科大学）が、保有している田町キャンパスの土地再活用を行うにあたり、開発事業者から今後受け取る土地貸付料収入だ。 2021年、旧東京工業大学が田町キャンパスの再開発にかかる事業協定書の締結を発表し、その金額の...</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.businessinsider.jp/article/2510-ai-tools-doubled-income-save-me-fifteen-hours-each-week/"
-                        open
-                      >
-                        <summary class="article-expander__title">5つのAIツールが私の人生を変えた…収入は倍増、週に15時間の作業時間を節約 | Business Insider Japan</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.businessinsider.jp/article/2510-ai-tools-doubled-income-save-me-fifteen-hours-each-week/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://media.loom-app.com/loom/2025/09/22/f3be3ca0-2499-4b29-b0c4-8c36c0402d46/original.jpg?w&#x3D;1200&amp;h&#x3D;630" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>ジェシカ・カミレリ＝シェルトンによると、AIツールにはそれぞれ得意分野があり、ChatGPTがすべてに最適というわけではないという。Jessica Camilleri-Shelton ジェシカ・カミレリ＝シェルトンは、コピーライターの仕事と自分で立ち上げたビジネスにAIを活用することで収入を倍増させた。彼女はChatGPTやClaudeといったA...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://posfie.com/@kalofollow/p/dBakngb"
-                        open
-                      >
-                        <summary class="article-expander__title">もうワシITエンジニア生命終わったかもしれん。IT勉強会行きたいって思わないもん。息子とマリカーしたいし、休みの日は試験勉強じゃなくて遊びたいんだよな子供と→第二部が始まったんだ</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://posfie.com/@kalofollow/p/dBakngb">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://s.tgstc.com/ogp3/38ceb3a8956844cc63fa34b341262883-1200x630.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>夏目葉太🦈2025/02から第2子育休中 @infragirl644 #インフラ女子の日常 の人。旧名：なつよ。北陸ド田舎インフラエンジニア。エッセイ漫画やイラストを描いたりしてましたが、最近は娘と息子に振り回される日々。K13改→RX-8→MAZDA2 Sport 青空は infragirl755.bsky.social natsuyo.net 夏目葉太🦈2025/02から第2子育休中...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://note.com/econ101_/n/nb73c3aba3bee"
-                        open
-                      >
-                        <summary class="article-expander__title">ノア・スミス「AI がちょっぴり期待外れになるどうかにアメリカの未来はかかってるのかも」（2025年10月12日）｜経済学101</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://note.com/econ101_/n/nb73c3aba3bee">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.st-note.com/production/uploads/images/226606763/rectangle_large_type_2_3a6a3dfebbcfd69b47cc3ca3ef9dbd82.png?fit&#x3D;bounds&amp;quality&#x3D;85&amp;width&#x3D;1280" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Photo by Siddhant Kumar on Unsplashアメリカ経済の支柱がひとつ倒れたら，トランプ政権は大コケするだろういま大勢の人たちの脳裏でざわついている問題といえば，これだ：「なんでアメリカ経済は持ちこたえてるんだろう？」 トランプ関税で製造業は大打撃を受けているし，雇用統計の数字もふるわないし，消費者感情は2...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;11
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.sshh.io/p/how-i-use-every-claude-code-feature"
-                        open
-                      >
-                        <summary class="article-expander__title">How I Use Every Claude Code Feature</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.sshh.io/p/how-i-use-every-claude-code-feature">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://substackcdn.com/image/fetch/$s_!o_oM!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ee93292-646a-407a-95da-d469be81002e_1158x720.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>I use Claude Code. A lot. As a hobbyist, I run it in a VM several times a week on side projects, often with --dangerously-skip-permissions to vibe code whatever idea is on my mind. Professionally, part of my team builds the AI-IDE rules and tooling for our engineering team that consumes several b...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;23
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://yusufaytas.com/most-of-what-we-call-progress/"
-                        open
-                      >
-                        <summary class="article-expander__title">Most of What We Call Progress</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://yusufaytas.com/most-of-what-we-call-progress/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://yusufaytas.com/wp-content/uploads/2025/10/keep-it-simple-rust.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Most of What We Call ProgressMost of what we call progress in software is just motion. New tools, new frameworks, same problems. Maybe fancier logos. Our industry always has this collective thrill that a new fancy method, framework, process will make things infinitely better. Perhaps, perhaps, pe...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;27
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://zenn.dev/uhyo/articles/state-update-while-rendering"
-                        open
-                      >
-                        <summary class="article-expander__title">自己補正するコンポーネント: レンダリング中に状態更新する公式テクニックの解釈</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/uhyo/articles/state-update-while-rendering">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/zenn/image/upload/s--jDTQp8PX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E5%25B7%25B1%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%2599%25E3%2582%258B%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%253A%2520%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E4%25B8%25AD%25E3%2581%25AB%25E7%258A%25B6%25E6%2585%258B%25E6%259B%25B4%25E6%2596%25B0%25E3%2581%2599%25E3%2582%258B%25E5%2585%25AC%25E5%25BC%258F%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2581%25AE%25E8%25A7%25A3%25E9%2587%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:uhyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVjYjFlMDJlNGQuanBlZw&#x3D;&#x3D;%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Reactにおいてプロダクトの品質を高く保つには、Reactのやり方に合ったコードを書くことが重要です。公式ドキュメントの名物ページ「そのエフェクトは不要かも」には、useEffectの望ましくない使い方と、それに代わるテクニックが紹介されています。 この記事で取り上げるのは、その中でも「props が変更されたときに一...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;12
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20251102-galaxy-ring-incident/"
-                        open
-                      >
-                        <summary class="article-expander__title">Samsungのスマートリング「Galaxy Ring」が膨張し装着者は病院に</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20251102-galaxy-ring-incident/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2025/11/02/galaxy-ring-incident/00.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>指輪型のスマートデバイス「Galaxy Ring」を装着していたインフルエンサーのダニエル・ロタール氏が、「指輪が膨張した」と報告しました。ロタール氏はGalaxy Ringを取り外すために入院を余儀なくされたそうです。 My Galaxy Ring Incident - What Really Happened! - YouTube Samsung Galaxy Ring swells and crushes u...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://speakerdeck.com/phaya72/she-ji-nishu-ienziniademoshi-meyasuiakitekutiyadokiyumento"
-                        open
-                      >
-                        <summary class="article-expander__title">設計に疎いエンジニアでも始めやすいアーキテクチャドキュメント</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://speakerdeck.com/phaya72/she-ji-nishu-ienziniademoshi-meyasuiakitekutiyadokiyumento">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://files.speakerdeck.com/presentations/20369d0e9b0f4f49b6f4328ce8c7ebfd/slide_0.jpg?37192400" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Kome Kaigi 2025 で登壇させていただいた際の資料です。 https://komekaigi.dev/</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -25831,118 +26590,10 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-01 datetime="2025-11-01T23:39:26.000Z">2025-11-01</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-01 datetime="2025-11-01T23:39:26.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >はてなブックマーク - 人気エントリー - テクノロジー</button>
-                  <a class="source-heading__link" href="https://b.hatena.ne.jp/hotentry/it">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.magnolia.tech/entry/2025/11/01/174631"
-                        open
-                      >
-                        <summary class="article-expander__title">初めてのGo言語 第2版 - Magnolia Tech</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.magnolia.tech/entry/2025/11/01/174631">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.image.st-hatena.com/image/scale/c3adae87e9f58da0c2663d2730a5db9350c3fddb/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F41X10%2BelsuL._SL500_.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>初めてのGo言語 第2版 ―他言語プログラマーのためのイディオマティックGo実践ガイド 作者:Jon BodnerオライリージャパンAmazon ちょっとしたコマンドラインツールを書くのに今までGoで書いてなかったなーと思って、最近の情報にアップデートされたリファレンスが欲しくなったので、初めてのGo言語 第2版を買ってきた 表...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.itmedia.co.jp/news/articles/2511/02/news018.html"
-                        open
-                      >
-                        <summary class="article-expander__title">Bluesky、4000万人到達　荒らし対策で「dislike」（嫌い）ボタン実験へ</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.itmedia.co.jp/news/articles/2511/02/news018.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://image.itmedia.co.jp/news/articles/2511/02/cover_news018.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>分散型SNSを手掛ける米Blueskyは10月31日（現地時間）、登録ユーザー数が4000万人を超えたと発表した。 これに合わせ、主要な会話体験の改善に向けた一連の実験を公表した。その一環として「dislike（低評価）」のβ検証を進めているという。 従来のSNSは注目や憤怒を最適化する仕組みにあるとし、リプライの質を高めるた...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://zenn.dev/qnighy/articles/c6653eaf49a21a"
-                        open
-                      >
-                        <summary class="article-expander__title">カレントディレクトリとは何か (Unix系OSの場合)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/qnighy/articles/c6653eaf49a21a">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://res.cloudinary.com/zenn/image/upload/s--jvTDjRaf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AB%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2588%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25AC%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2520%2520%2528Unix%25E7%25B3%25BBOS%25E3%2581%25AE%25E5%25A0%25B4%25E5%2590%2588%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Masaki%2520Hara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l3aEI4dTM5cFZyM09sWVFLcUU5Z1ozV2d3MHlsMS03cUZad0huYWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>結論 カレントディレクトリ (以下cwd) は、以下の2つの組み合わせで管理される、プロセス状態の構成要素です。 物理的なcwd: ディレクトリそのものを指すポインタ。カーネル側で管理される。 論理的なcwd: ディレクトリパス。 PWD という名前の環境変数を経由して、ユーザーランドで管理される。 ポイント 一般論として...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.docswell.com/s/ai_yamasaki/537V8P-2025-11-01-135827"
-                        open
-                      >
-                        <summary class="article-expander__title">Microsoft 365 SharePoint 勉強会 No1 | ドクセル</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.docswell.com/s/ai_yamasaki/537V8P-2025-11-01-135827">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://bcdn.docswell.com/page/3EKWRXPMED.jpg?width&#x3D;480" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Microsoft 365 SharePoint 勉強会の第一回開催の資料です。冒頭では弊社の研修のご案内もしています。 今回は初回の勉強会ということで、生成AIを用いた SharePoint 内のコンテンツ管理を支援する新機能であるSharePoint ナレッジエージェントを取り上げました。組織内で生成されるファイルなどの様々なコンテンツはファ...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ryoAccount/rss/actions/runs/19807793072">
-        <time id="build-timestamp" datetime="2025-12-01T01:02:20.410Z">2025-12-01T01:02:20.410Z</time>
+      <a class="footer-link" href="https://github.com/ryoAccount/rss/actions/runs/19842769483">
+        <time id="build-timestamp" datetime="2025-12-02T00:52:37.314Z">2025-12-02T00:52:37.314Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
