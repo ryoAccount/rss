@@ -135,26 +135,6 @@
           "wordCount": 1647,
           "title": "Yet Another Way to Center an (Absolute) Element",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392606",
-          "author": "Lee Meyer",
-          "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-exploit-in-css/",
-          "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 2235,
-          "title": "An Exploit … in CSS?!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392196",
-          "author": "Declan Chidlow",
-          "description": "Browsers don't just let you bookmark web pages. You can also bookmark JavaScript, allowing you to do so much more than merely save pages.\nA Complete Guide to Bookmarklets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-complete-guide-to-bookmarklets/",
-          "publishedOn": "2026-02-25T14:50:58.000Z",
-          "wordCount": 2433,
-          "title": "A Complete Guide to Bookmarklets",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/02/bookmarklets.png"
         }
       ]
     },
@@ -357,21 +337,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
-          "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
-          "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4065,
-          "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png"
         }
       ]
     },
@@ -380,6 +345,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "69c6f8747cf270651055571c",
+          "author": "Prosper Ugbovo",
+          "description": "APIs power everything from mobile apps to enterprise platforms, quietly handling millions of requests per day. Without safeguards, a single misconfigured client or a burst of automated traffic can ove",
+          "link": "https://www.freecodecamp.org/news/token-bucket-rate-limiting-fastapi/",
+          "publishedOn": "2026-03-27T21:36:52.000Z",
+          "wordCount": 3281,
+          "title": "How to Implement Token Bucket Rate Limiting with FastAPI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/fba3d4a6-faca-429a-8e16-a3e9778d2cf8.png"
+        },
+        {
+          "id": "69c6ecde7cf27065104cd8a1",
+          "author": "Daniel Nwaneri",
+          "description": "Every developer eventually has a workflow they repeat. A way they write commit messages. A checklist they run before opening a pull request. A structure they follow when reviewing code. They do it man",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-claude-code-skill/",
+          "publishedOn": "2026-03-27T20:47:26.000Z",
+          "wordCount": 3448,
+          "title": "How to Build Your Own Claude Code Skill",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c0947834-4b11-46c6-ab61-994667e70a7e.png"
+        },
+        {
+          "id": "69c6eb7c7cf27065104ba964",
+          "author": "David Aniebo",
+          "description": "Next.js App Router splits your app into Server Components and Client Components. Server Components run on the server and keep secrets safe. Client Components run in the browser and handle interactivit",
+          "link": "https://www.freecodecamp.org/news/how-to-share-components-between-server-and-client-in-nextjs/",
+          "publishedOn": "2026-03-27T20:41:32.000Z",
+          "wordCount": 3149,
+          "title": "How to Share Components Between Server and Client in NextJS",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/80c9b6dc-daaa-49d5-8c3a-f61bff3b7e11.png"
+        },
+        {
+          "id": "69c6ea5a7cf27065104ab997",
+          "author": "Olalekan Odukoya",
+          "description": "In Kubernetes, when you need to isolate workloads, you might start by using namespaces. Namespaces provide a simple way to separate workloads within a single cluster. But as your requirements grow, es",
+          "link": "https://www.freecodecamp.org/news/how-to-run-multiple-kubernetes-clusters-without-the-overhead-using-kcp/",
+          "publishedOn": "2026-03-27T20:36:42.000Z",
+          "wordCount": 3946,
+          "title": "How to Run Multiple Kubernetes Clusters Without the Overhead Using kcp",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a42c1a28-7a9e-4676-891d-eae7d64f2900.png"
+        },
+        {
+          "id": "69c6d1357cf270651037755c",
+          "author": "iyiola",
+          "description": "If you've ever needed your database to automatically respond to changes – like logging every update to a sensitive table, enforcing a business rule before an insert, or syncing derived data after a de",
+          "link": "https://www.freecodecamp.org/news/what-are-database-triggers-practical-intro-with-postgresql-examples/",
+          "publishedOn": "2026-03-27T18:49:25.000Z",
+          "wordCount": 2923,
+          "title": "What Are Database Triggers? A Practical Introduction with PostgreSQL Examples",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b5940820-d1aa-4d10-8b40-06005bec7e60.png"
+        },
+        {
+          "id": "69c6d07e7cf2706510370b13",
+          "author": "Balajee Asish Brahmandam",
+          "description": "GitHub Copilot costs $10/month, and I'd been using it for two years without thinking twice. But when Claude Code launched, I got curious. What if I just... switched? I didn't want to just add Claude C",
+          "link": "https://www.freecodecamp.org/news/what-happened-when-i-replaced-copilot-with-claude-code-for-2-weeks/",
+          "publishedOn": "2026-03-27T18:46:22.000Z",
+          "wordCount": 3182,
+          "title": "What Happened When I Replaced Copilot with Claude Code for 2 Weeks",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b4f5a663-3ef6-4fcb-a08c-1c0ff36c495d.png"
+        },
+        {
+          "id": "69c6a9e49aa3928a58bfd382",
+          "author": "Gopinath Karunanithi",
+          "description": "Cloud-native development enables enterprise .NET applications to scale and remain resilient in the cloud. Using Azure DevOps CI/CD pipelines, you can automate building, testing, and deploying applicat",
+          "link": "https://www.freecodecamp.org/news/cloud-native-development-with-azure-devops-ci-cd-pipelines-in-enterprise-net-applications/",
+          "publishedOn": "2026-03-27T16:00:00.000Z",
+          "wordCount": 3538,
+          "title": "Cloud-Native Development with Azure DevOps CI/CD Pipelines in Enterprise .NET Applications",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/eada90ad-0d90-4287-acee-2e544980ed4a.png"
+        },
+        {
+          "id": "69c6a8f79aa3928a58bf4237",
+          "author": "Abhijeet Dave",
+          "description": "Checkboxes are a fundamental part of modern UI design. They allow users to make multiple selections, confirm actions, and control features with ease. And while they may appear simple, designing intera",
+          "link": "https://www.freecodecamp.org/news/how-to-create-and-use-checkboxes-in-figma/",
+          "publishedOn": "2026-03-27T15:57:43.000Z",
+          "wordCount": 3012,
+          "title": "How to Create and Use Checkboxes in Figma",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/895586d9-6b46-4974-858b-2caebdf8c9f1.png"
+        },
+        {
+          "id": "69c663a8267178d9ebf9a641",
+          "author": "Beau Carnes",
+          "description": "Today Quincy Larson interviews Landon Gray. He's a software engineer who worked at agencies for years. Then he taught himself AI assisted software development. And now he's helping other devs do the s",
+          "link": "https://www.freecodecamp.org/news/what-happens-when-the-model-can-t-fix-it-interview-with-software-engineer-landon-gray-podcast-213/",
+          "publishedOn": "2026-03-27T11:00:00.000Z",
+          "wordCount": 1408,
+          "title": "What happens when the model CAN'T fix it? Interview with software engineer Landon Gray [Podcast #213]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/36e53ae9-8124-48ac-888e-f4620d18d33c.jpg"
+        },
         {
           "id": "69c5a33110e664c5da34c6d3",
           "author": "Tapas Adhikary",
@@ -1279,46 +1334,6 @@
           "wordCount": 1001,
           "title": "Master Kubernetes Through Production-Ready Practice",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/b1d63be6-f5d9-4ddc-8afc-4455c2ed95ee.jpg"
-        },
-        {
-          "id": "699f5dc4c9015c37f6bc8f92",
-          "author": "Ilyas Seisov",
-          "description": "Getting a web developer job today is hard. In 2021, I got my first developer job by sending one direct email and then doing a single live call. That was enough. Later the same year, I found my second",
-          "link": "https://www.freecodecamp.org/news/the-ultimate-web-developer-job-search-handbook/",
-          "publishedOn": "2026-02-25T20:38:28.000Z",
-          "wordCount": 7098,
-          "title": "The Ultimate Web Developer Job Search Handbook",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2362ab0d-419d-4add-8228-9788e5a58d0f.png"
-        },
-        {
-          "id": "699f5b70c9015c37f6bbd3e8",
-          "author": "Nikhil Adithyan",
-          "description": "In fintech or wealthtech products, people constantly need quick market context. They need to know why a particular stock moved, what changed recently, or what they should watch next. This usually beco",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-llm-market-copilot-mvp-with-langchain-apis-and-streamlit/",
-          "publishedOn": "2026-02-25T20:28:32.000Z",
-          "wordCount": 7905,
-          "title": "How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/24b80a39-6649-4987-961c-ca4efb964b28.png"
-        },
-        {
-          "id": "699f1d4e6049477bf67a9ad8",
-          "author": "Orim Dominic Adah",
-          "description": "A REST API documentation is a guide that explains how clients can make use of the REST APIs in an application. It details the available endpoints, how to send requests and what responses to expect. It",
-          "link": "https://www.freecodecamp.org/news/rest-api-documentation-with-scalar/",
-          "publishedOn": "2026-02-25T16:03:26.000Z",
-          "wordCount": 4331,
-          "title": "How to Create REST API Documentation in Node.js Using Scalar",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/ec5d63f1-d65f-4852-a297-9c517fc76e2f.png"
-        },
-        {
-          "id": "699f0d7c6049477bf66fb933",
-          "author": "Christopher Galliart",
-          "description": "Most RAG tutorials end the same way: you've got a working prototype and a bill for a vector database that runs whether anyone's querying it or not. Add an always-on embedding service, a hosted LLM end",
-          "link": "https://www.freecodecamp.org/news/serverless-rag-pipeline-on-aws/",
-          "publishedOn": "2026-02-25T14:55:56.000Z",
-          "wordCount": 4135,
-          "title": "How to Build a Serverless RAG Pipeline on AWS That Scales to Zero",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/c9a4a8b7-4dea-41a0-b0d2-7c57e2e94578.png"
         }
       ]
     },
@@ -1327,6 +1342,16 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2026/3/27?from=rss",
+          "author": null,
+          "description": "<img src=\"https://cdn.image.st-hatena.com/image/scale/fadfc77118ce2aedfb878e32a5842d82c31e3900/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcocolog-nifty%2F20260326%2F20260326160523.png\"><br>すべてカテゴリー 2026年3月27日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: AI を使って国立国会図書館デジタルコレクションを大量に読んでいる（cocolog-nifty.hatenablog.com）<br>2位: 「GitHub Copilot」個人ユーザーは要確認！ 拒否しないとAIの学習に利用されるように／「Copilot Free」「Copilot Pro」「Copilot Pro+」が対象（forest.watch.impress.co.jp）<br>3位: 生成AIで誰でもオシャレなパワポを作る方法（qiita.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2026/3/27?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2026/3/27?from=rss",
+          "publishedOn": "2026-03-27T14:59:59.059Z",
+          "wordCount": 7765,
+          "title": "【3月27日ランキング】AI を使って国立国会図書館デジタルコレクションを大量に読んでいる／ほか19本",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/fadfc77118ce2aedfb878e32a5842d82c31e3900/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fc%2Fcocolog-nifty%2F20260326%2F20260326160523.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2026/3/26?from=rss",
           "author": null,
@@ -1586,36 +1611,6 @@
           "wordCount": 7768,
           "title": "【2月26日ランキング】中国当局者がチャットGPTに残した記録から世界的な威嚇工作が明らかに　高市首相の中傷も画策／ほか19本",
           "imageUrl": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fwww.cnn.co.jp%2Fstorage%2F2026%2F02%2F26%2Fae30f845483a18f28770825da4061414%2Fap25217544785149.jpg"
-        },
-        {
-          "id": "https://techfeed.io/entries/699ff41bb8be4e210aad3b57?from=rss",
-          "author": null,
-          "description": "2月25日、rebane2001が「x86CSS」と題した記事を公開した。この記事では、CSSのみでx86アーキテクチャをシミュレートするCPUエミュレータについて詳しく紹介されている。以下に、その内容を紹介する。プロジェクトの概要本プロジェクトは、ウェブサイトの装飾言語であるCSSのみを用いて、16bitのx86（Intel 8086）プログラムを実行可能にするものだ。最大の特徴は、JavaScriptを一切使用していない点にある。通常、ブラウザ上で動作する複雑なロジックはJavaScriptが担うが、作者はC言語のソースコードをバイナリ形式のマシンコード（機械語）へコンパイルし、そのバイナリをCSSのロジックのみで読み込み、演算して実行することに成功した。",
-          "link": "https://techfeed.io/entries/699ff41bb8be4e210aad3b57?from=rss",
-          "publishedOn": "2026-02-26T07:19:55.318Z",
-          "wordCount": 7815,
-          "title": "【海外記事紹介】「CSSだけでx86 CPUを作ってみた」という狂気のプロジェクトが話題に — CSSの最新仕様を駆使、（当然）JSも不要",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1772090424/entries/o2hp5lu4ytghgdrgrata.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/699fb43c45014c741cc406b2?from=rss",
-          "author": null,
-          "description": "2月25日、Mozillaが「Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148 – Mozilla Hacks」と題した記事を公開した。この記事では、Firefox 148で導入された標準化済みのSanitizer APIと、それを用いたXSS対策の強化、およびブラウザ間の実装状況について詳しく紹介されている。以下に、その内容を紹介する。",
-          "link": "https://techfeed.io/entries/699fb43c45014c741cc406b2?from=rss",
-          "publishedOn": "2026-02-26T02:47:24.063Z",
-          "wordCount": 7918,
-          "title": "【海外記事紹介】さよならinnerHTML、こんにちはsetHTML — Firefox 148がSanitizer APIを初搭載、セキュアなHTML挿入が可能に",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1772074084/entries/telawfzssvscdzxgsipn.png"
-        },
-        {
-          "id": "https://techfeed.io/categories/all/selections/daily/2026/2/25?from=rss",
-          "author": null,
-          "description": "<img src=\"https://forest.watch.impress.co.jp/img/wf/list/2088/188/image_top.png\"><br>すべてカテゴリー 2026年2月25日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: GPUなしで動作する軽量なAI OCRツール「NDLOCR-Lite」、国会図書館のラボから無償公開／コマンドライン版に加えWindows/Mac/Linux対応のデスクトップ版を用意（forest.watch.impress.co.jp）<br>2位: OpenAIのサム・アルトマンCEOいわく「人間を訓練するには20年の時間と食料が必要」で「AIのエネルギー消費に関する議論は不公平」（gigazine.net）<br>3位: 米IBM株13%急落　アンソロピックAIが「COBOL」事業の脅威に（www.nikkei.com）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2026/2/25?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
-          "link": "https://techfeed.io/categories/all/selections/daily/2026/2/25?from=rss",
-          "publishedOn": "2026-02-25T14:59:59.059Z",
-          "wordCount": 7765,
-          "title": "【2月25日ランキング】GPUなしで動作する軽量なAI OCRツール「NDLOCR-Lite」、国会図書館のラボから無償公開／コマンドライン版に加えWindows/Mac/Linux対応のデスクトップ版を用意／ほか19本",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2088%2F188%2Fimage_top.png"
         }
       ]
     },
@@ -1631,6 +1626,256 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://zenn.dev/dinii/articles/18128bd1685e2a",
+          "author": null,
+          "description": "はじめに：社内問い合わせがじわじわ開発を削っていく ダイニーでは、飲食店舗から日々、運用サポートチームに問い合わせが寄せられます。そして、運用サポートチームだけでは解決できない技術的な問い合わせを開発チームへつなぐ\"入口\"が 社内問い合わせシステム です。 「会計がうまくいかない」「設定画面の操作が分...",
+          "link": "https://zenn.dev/dinii/articles/18128bd1685e2a",
+          "publishedOn": "2026-03-27T16:20:11.000Z",
+          "wordCount": 636,
+          "title": "社内問い合わせをAIエージェント化して爆速で解決できるようにした",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--JSiGOfDc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25A4%25BE%25E5%2586%2585%25E5%2595%258F%25E3%2581%2584%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2582%2592AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E7%2588%2586%25E9%2580%259F%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25BE%25E3%2582%258A%25E3%2582%258B%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZhNTVhMGJiNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Dinii%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzczNzEwZWYxNWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
+          "id": "https://ai.acsim.app/articles/harness-engineering-2026",
+          "author": null,
+          "description": "ここからは、先進企業がこの考え方をどう実践しているかを掘り下げます。 先進企業の実践 OpenAI、Anthropic、Stripe。 規模もプロダクトも異なる3社ですが、実践には共通パターンがあります。 企業ごとではなく、テーマ別の横串で整理します。 エンジニアの役割の変化 AIにコードを書かせること自体は、もう多くのチー...",
+          "link": "https://ai.acsim.app/articles/harness-engineering-2026",
+          "publishedOn": "2026-03-27T16:12:20.000Z",
+          "wordCount": 647,
+          "title": "ハーネスエンジニアリング ― AIエージェントが自律的に動ける開発環境の設計",
+          "imageUrl": "https://ai.acsim.app/images/articles/harness-engineering-2026/cover.png"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/dgx-spark-turboquant-kv-cache/",
+          "author": null,
+          "description": "はじめに こんにちは、クラスメソッド製造ビジネステクノロジー部の森茂です。 2026 年 3 月 24 日、Google Research が TurboQuant を発表しました（ICLR 2026）。LLM の推論中に蓄積される KV キャッシュ（過去のトークン情報を保持するメモリ領域）を 3 ビットに圧縮して、そのメモリ使用量を最大 6 分の 1 に削減す...",
+          "link": "https://dev.classmethod.jp/articles/dgx-spark-turboquant-kv-cache/",
+          "publishedOn": "2026-03-27T15:21:55.000Z",
+          "wordCount": 7850,
+          "title": "TurboQuant と RotorQuant を DGX Spark で試してみた | DevelopersIO",
+          "imageUrl": "https://images.ctfassets.net/ct0aopd36mqt/1dD7b8HkT2sbiJzUIewMTD/e5cdc6f33c4fdd9d798f11a4564612ff/eyecatch_developersio_darktone_1200x630.jpg"
+        },
+        {
+          "id": "https://blog.lai.so/agents-sandbox/",
+          "author": null,
+          "description": "コーディングエージェントの普及にともない、エージェントをリモートで動作させるための専用実行環境——リモートサンドボックスが注目されています。ここでいうサンドボックスとは、プロジェクトやエージェントごとに気軽に生成・破棄できるリモートVMのことで、exe.dev、Sprites、Docker Sandbox などのサービス・ツール...",
+          "link": "https://blog.lai.so/agents-sandbox/",
+          "publishedOn": "2026-03-27T14:19:39.000Z",
+          "wordCount": 531,
+          "title": "コーディングエージェント向けのリモートサンドボックス",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gigazine.net/news/20260327-apple-gives-fbi-user-real-name-hide-my-email/",
+          "author": null,
+          "description": "Appleは「Appleでサインイン」機能を使うことで、個人のメールアドレスを非公開にする「メールを非公開」という機能を提供しています。しかし、この機能で隠されているはずのユーザーの実名が、Appleにより連邦捜査局(FBI)に提供されたと404 Mediaが報じました。 Apple Gives FBI a User’s Real Name Hidden Behind ’Hid...",
+          "link": "https://gigazine.net/news/20260327-apple-gives-fbi-user-real-name-hide-my-email/",
+          "publishedOn": "2026-03-27T14:19:00.000Z",
+          "wordCount": 4204,
+          "title": "Appleがメールアドレスを非公開にしたままメールできる「メールを非公開」機能で隠されているはずのユーザーのメールアドレス＆実名をFBIに提供していたことが明らかに",
+          "imageUrl": "https://i.gzn.jp/img/2026/03/27/apple-gives-fbi-user-real-name-hide-my-email/00_m.jpg"
+        },
+        {
+          "id": "https://www.docswell.com/s/matsuu/ZJWLMG-secure-ssh-key-management-guide",
+          "author": null,
+          "description": "アジェンダ 1. 自己紹介 2. 背景と課題 3. 複製不可能な鍵運用とは 4. 代表的な方式と選び方 5. 導入デモ手順 6. まとめ 2 / 51 自己紹介 • • • • • • matsuuです ◦ X @matsuu ◦ Bluesky @matsuu.bsky.social ◦ Mastodon @[email protected] ◦ mixi2 @tmatsuu ◦ はてな @tmatsuu 主に技術ネタをはてブ→SNSに共有する驚き...",
+          "link": "https://www.docswell.com/s/matsuu/ZJWLMG-secure-ssh-key-management-guide",
+          "publishedOn": "2026-03-27T13:59:34.000Z",
+          "wordCount": 1476,
+          "title": "複製不可能なSSH鍵運用のススメ | ドクセル",
+          "imageUrl": "https://bcdn.docswell.com/page/K74WVV2ZE1.jpg?width=480"
+        },
+        {
+          "id": "https://www.docswell.com/s/fumiya-kume/K2746V-2026-03-27-205311",
+          "author": null,
+          "description": "Kuu - 自己紹介 ● ● ● ● Product Engineer @ Mercari Codex ambassador Cognition ambassador 趣味 ○ ○ 旅行 新しいものを試すこと",
+          "link": "https://www.docswell.com/s/fumiya-kume/K2746V-2026-03-27-205311",
+          "publishedOn": "2026-03-27T13:40:22.000Z",
+          "wordCount": 639,
+          "title": "Ghosttyの凄さを 技術的に深ぼってく | ドクセル",
+          "imageUrl": "https://bcdn.docswell.com/page/VENY8GNMJ8.jpg?width=480"
+        },
+        {
+          "id": "https://posfie.com/@taimport/p/MLAF25U",
+          "author": null,
+          "description": "toro1981 @toro19811 これは重要な指摘で…80年代に北炭や三井三池の主要坑の採算割れが起こるまでダンピングを続けたのが豪州炭。国内の主要坑が閉鎖されてから、日本向け価格をガンと引き上げられた苦い過去がある x.com/nippou_/status… 2026-03-27 16:24:11 日報さん🍎 @nippou_ 97億トンでも日本全国の消費量の50年...",
+          "link": "https://posfie.com/@taimport/p/MLAF25U",
+          "publishedOn": "2026-03-27T13:08:12.000Z",
+          "wordCount": 722,
+          "title": "80年代に北炭や三井三池の主要坑の採算割れが起こるまでダンピングを続けたのが豪州炭。国内の主要坑が閉鎖されてから、日本向け価格をガンと引き上げられた苦い過去がある話",
+          "imageUrl": "https://s.tgstc.com/ogp3/e4d434a29ef6f92ca67dfe8a11c05b0a-1200x630.jpeg"
+        },
+        {
+          "id": "https://posfie.com/@taimport/p/avH6Rmz",
+          "author": null,
+          "description": "たいしょう @taisho__ 透析患者1人の年間コストは500万円ぐらいで、全部で30万人ぐらいいる。年間で150億円。透析開始すると自動的に身体障害者認定されるので、公費負担の範囲が大きい。石油が止まることでこの方々が亡くなることは政府にとってそんなに悪い話ではないのかもしれない。 2026-03-27 13:37:18",
+          "link": "https://posfie.com/@taimport/p/avH6Rmz",
+          "publishedOn": "2026-03-27T12:40:20.000Z",
+          "wordCount": 748,
+          "title": "透析患者1人の年間コストは500万円ぐらいで、全部で30万人ぐらいいる。年間で150億円。透析開始すると自動的に身体障害者認定されるので、公費負担の範囲が大きいという話",
+          "imageUrl": "https://s.tgstc.com/ogp3/02b787e747dbbd55feb0788c460d9b48-1200x630.jpeg"
+        },
+        {
+          "id": "https://blog.google/intl/ja-jp/company-news/technology/caremanager/",
+          "author": null,
+          "description": "日本の介護業界は深刻な人手不足に直面しており、今後数年間でさらに数十万人の介護人材が必要になると予測されています。現在、介護の最前線で働く方々にとって、記録業務は大きな負担となっており、介護記録の作成が労働時間の大きな割合を占めるという現状もあります。この必要不可欠でありながらも時間のかかる業務...",
+          "link": "https://blog.google/intl/ja-jp/company-news/technology/caremanager/",
+          "publishedOn": "2026-03-27T11:36:24.000Z",
+          "wordCount": 3056,
+          "title": "日本の介護現場に、人が人と繋がる時間を。Gemini アプリの Gem 機能に「ケア記録アシスト」を公開",
+          "imageUrl": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260319-1641"
+        },
+        {
+          "id": "https://gigazine.net/news/20260327-ai-roundtable/",
+          "author": null,
+          "description": "スウェーデンのAI企業・Opper AIが公開した「AI Roundtable(AI円卓会議)」は、200種類以上のAIモデルから最大50種類を選んで同じ質問をし、回答を一覧で見たり全体の意見を要約したりすることができます。また、AI同士がお互いの意見をぶつけて考えを変える機会を得られる討論ラウンドを実施することもできます。 AI Rou...",
+          "link": "https://gigazine.net/news/20260327-ai-roundtable/",
+          "publishedOn": "2026-03-27T10:16:26.000Z",
+          "wordCount": 4128,
+          "title": "200種以上のAIから最大50種を選んで同じ質問に回答＆6種のAI同士で議論させて結論を導きだせる「AI Roundtable」",
+          "imageUrl": "https://i.gzn.jp/img/2026/03/27/ai-roundtable/00.jpg"
+        },
+        {
+          "id": "https://zenn.dev/edash_tech_blog/articles/69d01f875dcccd",
+          "author": null,
+          "description": "はじめに git worktree は、1つのリポジトリから複数の作業ディレクトリを同時に展開できる機能です。特に最近は Claude Codeなどのコーディングエージェントを並列で走らせるワークフローが注目されており、活用シーンが増えています。 この git worktree を Worktrunk で管理するようにしたところ、使い勝手がよくwork...",
+          "link": "https://zenn.dev/edash_tech_blog/articles/69d01f875dcccd",
+          "publishedOn": "2026-03-27T10:11:49.000Z",
+          "wordCount": 1647,
+          "title": "git worktree を Worktrunk で管理したら手放せなくなった",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--szu8nRSR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:git%2520worktree%2520%25E3%2582%2592%2520Worktrunk%2520%25E3%2581%25A7%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E6%2589%258B%25E6%2594%25BE%25E3%2581%259B%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:toshiykst%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNkZWM5ZjExNTcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:e-dash%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E4ZWQyN2ZiODMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/2097004.html",
+          "author": null,
+          "description": "米Googleは、LLM実行時に大量のメモリを消費する問題を解消し、使用量を6分の1に抑えられるベクトル量子化における圧縮アルゴリズム「TurboQuant」を発表した。4月23日から開催される学習表現に関する国際会議「ICLR 2026」で詳細が発表される予定。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/2097004.html",
+          "publishedOn": "2026-03-27T09:50:05.000Z",
+          "wordCount": 5386,
+          "title": "Google、LLM実行時の消費メモリを6分の1に削減する「TurboQuant」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2097/004/1.png"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/2097073.html",
+          "author": null,
+          "description": "BSフジは3月27日、「BSフジ4K」放送について、2027年1月24日以降の衛星基幹放送業務認定の更新を行なわないことを取締役会で決議し、放送を終了することを正式発表した。放送終了日は、決定次第改めてアナウンスされる。",
+          "link": "https://av.watch.impress.co.jp/docs/news/2097073.html",
+          "publishedOn": "2026-03-27T09:49:20.000Z",
+          "wordCount": 4511,
+          "title": "「BSフジ4K」放送終了を発表。'27年1月の認定更新行なわず",
+          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/2097/073/WS000147.jpg"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20260327175419",
+          "author": null,
+          "description": "ミッション系学校とは、キリスト教（プロテスタント・カトリック）の宣教師・宗派が設立した、またはキリスト教主義を建学の精神とする学校を指します。以下に首都圏（東京・神奈川・埼玉・千葉中心）と関西圏（京都・大阪・兵庫中心）の代表的な学校をリスト化し、信仰背景と政治的偏向（特に平和教育の度合い・聖書を...",
+          "link": "https://anond.hatelabo.jp/20260327175419",
+          "publishedOn": "2026-03-27T08:54:45.000Z",
+          "wordCount": 669,
+          "title": "ミッション系学校の政治偏向マップ",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://gigazine.net/news/20260327-apple-siri-ai-assistants-beyond-chatgpt-ios-27/",
+          "author": null,
+          "description": "Appleは2026年秋頃提供予定の「iOS 27」で、ユーザーがSiriと連携できるAIチャットボットを自由に選べるようにすることを計画していると、Bloombergのマーク・ガーマン記者が報じています。 Apple Plans to Open Up Siri to Rival AI Assistants Beyond ChatGPT in iOS 27 - Bloomberg https://www.bloomberg.com/news/a...",
+          "link": "https://gigazine.net/news/20260327-apple-siri-ai-assistants-beyond-chatgpt-ios-27/",
+          "publishedOn": "2026-03-27T08:27:17.000Z",
+          "wordCount": 4253,
+          "title": "AppleはiOS 27でSiriをApp Store経由で提供されるあらゆるAIと連携可能にする方針、Apple IntelligenceやSiriでのChatGPTの独占状態は終了",
+          "imageUrl": "https://i.gzn.jp/img/2026/03/27/apple-siri-ai-assistants-beyond-chatgpt-ios-27/00_m.jpg"
+        },
+        {
+          "id": "https://zenn.dev/dely_jp/articles/snowflake-managed-mcp-claude-code-agentic-dataops",
+          "author": null,
+          "description": "こんにちは、クラシルでデータエンジニアをしているharry(@gappy50)です。 突然ですが、私はAIで自分の仕事をほぼ無くしました。 人間の皆様、今までありがとうございました！ 冗談(でもないですが)はさておき、先に結論をお伝えします。まだ道半ばの部分もありますが、データマネジメントを正しくやってAI Readyな状態...",
+          "link": "https://zenn.dev/dely_jp/articles/snowflake-managed-mcp-claude-code-agentic-dataops",
+          "publishedOn": "2026-03-27T08:12:15.000Z",
+          "wordCount": 1701,
+          "title": "Snowflake Managed MCP Server × Claude Codeでデータの仕事を全部Agenticにやりきれそう",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--KNw_MpLB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Snowflake%2520Managed%2520MCP%2520Server%2520%25C3%2597%2520Claude%2520Code%25E3%2581%25A7%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E4%25BB%2595%25E4%25BA%258B%25E3%2582%2592%25E5%2585%25A8%25E9%2583%25A8Agent...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:harry%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM3MDYyNjhkNmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Kurashiru%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzkwYWViZTYyZDcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/2096872.html",
+          "author": null,
+          "description": "グーグルは、量子コンピュータ時代に向けた耐量子暗号(Post-Quantum Cryptography、PQC)への移行について、2029年を目標とする方針を示した。",
+          "link": "https://www.watch.impress.co.jp/docs/news/2096872.html",
+          "publishedOn": "2026-03-27T07:38:47.000Z",
+          "wordCount": 4210,
+          "title": "グーグル、耐量子暗号移行を2029年に設定　Android 17対応",
+          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2096/872/1.jpg"
+        },
+        {
+          "id": "https://speakerdeck.com/nazonohito51/architecture-and-organizational-interaction",
+          "author": null,
+          "description": "4年前、BASEはモジュラモノリスという選択をしました。今では開発のほとんどが新アーキテクチャ上で行われ、リアーキテクチャの大枠はある程度達成されました。本セッションでは、その当時の意思決定に対する「4年越しの答え合わせ」を試みます。 アーキテクチャの成否を数値的に評価することは難しく、また立場上…",
+          "link": "https://speakerdeck.com/nazonohito51/architecture-and-organizational-interaction",
+          "publishedOn": "2026-03-27T05:16:23.000Z",
+          "wordCount": 2076,
+          "title": "モジュラモノリス導入から4年間の総括：アーキテクチャと組織の相互作用について / Architecture and Organizational Interaction",
+          "imageUrl": "https://files.speakerdeck.com/presentations/3ce2f5b825544b74a4fb1e49a4dbdd28/slide_0.jpg?38804635"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/2096775.html",
+          "author": null,
+          "description": "AItuber(AI VTuber)向けに雑談性能を重視して設計されたという日本語特化の8Bパラメータ言語モデル、「ArrowCanaria-Llama-8B-SFT-v0.1」がHugging Faceで公開された。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/2096775.html",
+          "publishedOn": "2026-03-27T04:47:20.000Z",
+          "wordCount": 5382,
+          "title": "AItuber向けに作られた、雑談性能重視の言語モデル",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2096/775/1.jpg"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/topic/2095157.html",
+          "author": null,
+          "description": "日本のキャッシュレス決済比率は2024年に40%を突破し、42.8%に達したと経済産業省は発表している。ところが最近、このキャッシュレス決済比率を変更しようという取り組みが進められている。その結果として、現在の日本のキャッシュレス決済比率は51.7%という数字になり、半数以上の決済がキャッシュレスになっていることになる。",
+          "link": "https://www.watch.impress.co.jp/docs/topic/2095157.html",
+          "publishedOn": "2026-03-27T03:53:18.000Z",
+          "wordCount": 4236,
+          "title": "日本のキャッシュレス比率はすでに50%超え? 新指標で80%を目指す",
+          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2095/157/k00.jpg"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2096171.html",
+          "author": null,
+          "description": "4月1日から自転車にも青切符が導入される。といっても、交通ルールが大きく変わるわけではないし、取り締まりとして反則金が取れるようになるだけなので、これまでもちゃんと交通ルールを守っていたなら、本来大騒ぎすることではないはず……。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2096171.html",
+          "publishedOn": "2026-03-27T03:32:00.000Z",
+          "wordCount": 4541,
+          "title": "4月から自転車でも青切符!!　でも交通ルールおかしくない？　ロードバイク乗りが思う交通ルールの危険なポイント【ぼっち・ざ・ろーど！その6】【空いた時間でなにしてる？】",
+          "imageUrl": "https://internet.watch.impress.co.jp/img/iw/list/2096/171/020.jpg"
+        },
+        {
+          "id": "https://www.logi-today.com/929564",
+          "author": null,
+          "description": "産業・一般ホルムズ海峡の事実上の封鎖から1か月。原油・ナフサの供給途絶と価格高騰の影響が、日本標準産業分類（総務省、2023年改定）の中分類99のうち少なくとも21に及んでいることが、本誌の取材と業界調査の集計で分かった。製造業だけで11中分類が該当し、運輸業は5中分類すべてに影響が出ている。さらに農業資材...",
+          "link": "https://www.logi-today.com/929564",
+          "publishedOn": "2026-03-27T02:11:43.000Z",
+          "wordCount": 7673,
+          "title": "備蓄放出でも届かないナフサ、21中分類に連鎖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zenn.dev/mima_ita/articles/79a98d9b9c97b6",
+          "author": null,
+          "description": "はじめに このたび、ソフトウェアテストとは、そもそもいったいなんなのかということを考え直す機会があったので、その時に読み直した書籍や資料についての備忘録を記録します。 ISTQBとJSTQB ISTQB は International Software Testing Qualifications Board の略で、ソフトウェアテスト分野の国際的な資格制度を運営す...",
+          "link": "https://zenn.dev/mima_ita/articles/79a98d9b9c97b6",
+          "publishedOn": "2026-03-27T01:36:55.000Z",
+          "wordCount": 2887,
+          "title": "ソフトウェアテストの古典から現在まで",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--v9AIgYkN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E5%258F%25A4%25E5%2585%25B8%25E3%2581%258B%25E3%2582%2589%25E7%258F%25BE%25E5%259C%25A8%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mima_ita%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pjcDFUQmpUT3lBUnl4aHM3aVk1MEg2b0JZZ3FrRzFjTTZVblJMPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
+          "id": "https://qiita.com/kai_kou/items/a411215806322af68a73",
+          "author": null,
+          "description": "はじめに LLMの推論コストを支配する要因のひとつが KVキャッシュ（Key-Value Cache） のメモリ消費である。コンテキスト長が伸びるほどKVキャッシュは線形に膨張し、GPUメモリを圧迫してバッチサイズやスループットを制限する。 2026年3月25日、Google Researchは新しい圧縮アルゴリズム TurboQuant を公式ブログで発表...",
+          "link": "https://qiita.com/kai_kou/items/a411215806322af68a73",
+          "publishedOn": "2026-03-27T00:17:59.000Z",
+          "wordCount": 1783,
+          "title": "Google TurboQuant入門 — KVキャッシュ3ビット圧縮でLLM推論を8倍高速化 - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNDg1NDklMkZwcm9maWxlLWltYWdlcyUyRjE1MjQxMzIyMDk_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTg5YjJiN2Q5OGNmODU1NjA0MDU1NzU0YzQ3MTliYjJj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D828d55aeb65ce59821b10c2330043747?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R29vZ2xlJTIwVHVyYm9RdWFudCVFNSU4NSVBNSVFOSU5NiU4MCUyMCVFMiU4MCU5NCUyMEtWJUUzJTgyJUFEJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgyJUI3JUUzJTgzJUE1MyVFMyU4MyU5MyVFMyU4MyU4MyVFMyU4MyU4OCVFNSU5QyVBNyVFNyVCOCVBRSVFMyU4MSVBN0xMTSVFNiU4RSVBOCVFOCVBQiU5NiVFMyU4MiU5MjglRTUlODAlOEQlRTklQUIlOTglRTklODAlOUYlRTUlOEMlOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wN2FhYmVmZjkzZDI0NWRmZGEzNWQ2ODlkZjVmOTc3OQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYWlfa291JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YjgzY2Y5ZDQzMDgzNDBjNmZmYzVhMzk4MTMzZjRhZjM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c5240d909eca1edbea26f72ad6bc80e9"
+        },
+        {
           "id": "https://findy-code.io/media/articles/codesidechat-fujiwara",
           "author": null,
           "description": "本記事では、「OSS応援企画」として記事の最初と最後に「応援ボタン」を設置しています。1回の応援につき、Findyが100円をOSS団体などへ寄付し、エンジニアの成長とOSSの発展を応援する取り組みです。開発者の想いや取り組みに共感した気持ちが、OSSの支援にもつながっていく、そんな前向きな循環をFindyは目指していま...",
@@ -1641,6 +1886,16 @@
           "imageUrl": "https://storage.findy-code.io/storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5NzI2LCJwdXIiOiJibG9iX2lkIn19--83d30162c9cb9ea94dad4e0b1215352a0ecf067f/fujiwara%E3%81%95%E3%82%93_%E8%AA%BF%E6%95%B4%E6%B8%88.png"
         },
         {
+          "id": "https://note.com/m2ai_jp/n/na3869c615096",
+          "author": null,
+          "description": "Claude Codeを「最小構成」で飼い慣らす — CLAUDE.md + Skills + Hooks のハーネス設計 *人間が読む用に書いてません。お手持ちのClaude Codeに読ませてください。 ハーネスの全体像：3つの構成要素ユーザーがプロンプトを送信 │ ▼ ① Hook（settings.json）──── プロンプト送信時に自動発火。「やることリスト」を通知す...",
+          "link": "https://note.com/m2ai_jp/n/na3869c615096",
+          "publishedOn": "2026-03-26T23:38:15.000Z",
+          "wordCount": 3376,
+          "title": "Claude Codeを「最小構成」で飼い慣らす — CLAUDE.md + Skills + Hooks のハーネス設計｜ミーツ｜m2AI",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/262199081/rectangle_large_type_2_bd4753614db8e80b7b0cad674bff9929.png?fit=bounds&quality=85&width=1280"
+        },
+        {
           "id": "https://forest.watch.impress.co.jp/docs/news/2096749.html",
           "author": null,
           "description": "「X Pro」が突如「プレミアム」プランで利用できなくなった。米国時間3月26日より、「プレミアムプラス」プランが必要になるとのこと。",
@@ -1649,6 +1904,26 @@
           "wordCount": 4941,
           "title": "「X Pro」（TweetDeck）が突如「プレミアムプラス」プラン必須に、実質約6.5倍の値上げ／マルチカラム・リアルタイムなクライアントアプリ",
           "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2096/749/image1.png"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2603/27/news018.html",
+          "author": null,
+          "description": "どうもHPかわさきです。 「Put Claude to work on your computer」ですってよ。なんかスゴいのが出ちゃいましたね。「これがあれば、macOSをClaude Desktopから操作しまくりだー」とそう思っていたんです。しかも、Dispatchがあれば、スマートフォン（のClaudeアプリ）からもヤレちゃうんでしょ。というわけで、何ができ...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2603/27/news018.html",
+          "publishedOn": "2026-03-26T23:18:22.000Z",
+          "wordCount": 6357,
+          "title": "CoworkのComputer useとDispatchはどこまで使える？　実際に試して見えた実力と制約",
+          "imageUrl": "https://image.itmedia.co.jp/ait/articles/2603/27/cover_news018.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/business/articles/2603/27/news014.html",
+          "author": null,
+          "description": "著者：水野裕司 労働ジャーナリスト。2025年末まで日本経済新聞社に在籍し、編集委員、論説委員、論説副委員長などを務めた。2009～2021年の12年半、雇用・労働社説を担当。現在は執筆活動および講演活動。複雑な制度の多いこの分野の解説記事を分かりやすく書くことに努めている。日本記者クラブ、日本労働ペンクラブ会...",
+          "link": "https://www.itmedia.co.jp/business/articles/2603/27/news014.html",
+          "publishedOn": "2026-03-26T22:50:04.000Z",
+          "wordCount": 3604,
+          "title": "中間管理職は「中間経営職」へ　AI時代、ホワイトカラーに問われる「役割再定義」",
+          "imageUrl": "https://image.itmedia.co.jp/business/articles/2603/27/cover_news014.jpg"
         },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2603/27/news065.html",
@@ -1719,6 +1994,16 @@
           "wordCount": 3394,
           "title": "Next.js Across Platforms: Adapters, OpenNext, and Our Commitments",
           "imageUrl": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png"
+        },
+        {
+          "id": "https://qiita.com/miruky/items/b996e374c91923141178",
+          "author": null,
+          "description": "はじめに こんばんは、mirukyです。 ある日突然、AWSから $15,000（約200万円）の請求書 が届いたらどうしますか？ 2026年3月、海外でまさにこの事態が発生しました。個人開発者のS3バケットがDDoS攻撃を受け、3日間で160TBのデータ転送が発生。結果として約200万円の請求が来たのです。AWS側に減額を申し出て一部減額は...",
+          "link": "https://qiita.com/miruky/items/b996e374c91923141178",
+          "publishedOn": "2026-03-26T16:06:48.000Z",
+          "wordCount": 2494,
+          "title": "DDoS攻撃でAWS請求が200万円に！S3・CloudFrontで絶対やるべきコスト爆発防止策 6選 - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RERvUyVFNiU5NCVCQiVFNiU5MiU4MyVFMyU4MSVBN0FXUyVFOCVBQiU4QiVFNiVCMSU4MiVFMyU4MSU4QzIwMCVFNCVCOCU4NyVFNSU4NiU4NiVFMyU4MSVBQiVFRiVCQyU4MVMzJUUzJTgzJUJCQ2xvdWRGcm9udCVFMyU4MSVBNyVFNyVCNSVCNiVFNSVBRiVCRSVFMyU4MiU4NCVFMyU4MiU4QiVFMyU4MSVCOSVFMyU4MSU4RCVFMyU4MiVCMyVFMyU4MiVCOSVFMyU4MyU4OCVFNyU4OCU4NiVFNyU5OSVCQSVFOSU5OCVCMiVFNiVBRCVBMiVFNyVBRCU5NiUyMDYlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jZDY4OWMyMjY3YzEyMTU3NzNlOWQ3M2E5YWE4YTQ4ZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=7b6eb5f371a7d1535d45fc6ad917f544"
         },
         {
           "id": "https://speakerdeck.com/kajitack/implementing-herness-engineering",
@@ -2159,6 +2444,16 @@
           "wordCount": 4953,
           "title": "「Claude Code」に自動モード ～リスクを評価して“危ない操作”だけ開発者に可否をお伺い／リサーチプレビューとしてTeamプランに提供",
           "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2095/965/image1.png"
+        },
+        {
+          "id": "https://zenn.dev/tenormusica/articles/anthropic-ai-sre-limits-qcon-2026",
+          "author": null,
+          "description": "Anthropicは2026年3月19日のQCon Londonで、ClaudeをSRE（サイト信頼性エンジニア）として活用する試みの限界を公式に報告しました。「相関関係を因果関係と誤認し続ける」という根本的な問題が残存しており、SREの完全代替には至らないと自社が認めた形です。AIにエラーログやアラートを読ませて原因を特定しようとした...",
+          "link": "https://zenn.dev/tenormusica/articles/anthropic-ai-sre-limits-qcon-2026",
+          "publishedOn": "2026-03-25T01:39:41.000Z",
+          "wordCount": 416,
+          "title": "AnthropicがAI SREの限界を公式認定。「相関関係を因果関係と誤認し続ける」",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jLMThfTw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Anthropic%25E3%2581%258CAI%2520SRE%25E3%2581%25AE%25E9%2599%2590%25E7%2595%258C%25E3%2582%2592%25E5%2585%25AC%25E5%25BC%258F%25E8%25AA%258D%25E5%25AE%259A%25E3%2580%2582%25E3%2580%258C%25E7%259B%25B8%25E9%2596%25A2%25E9%2596%25A2%25E4%25BF%2582%25E3%2582%2592%25E5%259B%25A0%25E6%259E%259C%25E9%2596%25A2%25E4%25BF%2582%25E3%2581%25A8%25E8%25AA%25A4%25E8%25AA%258D%25E3%2581%2597%25E7%25B6%259A%25E3%2581%2591%25E3%2582%258B%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:UrayahaDays%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBmNjNiYzgwZGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         },
         {
           "id": "https://ai-architecture.findy-tools.io/",
@@ -9859,286 +10154,6 @@
           "wordCount": 62221,
           "title": "生成AIの「それっぽい嘘」に 疲弊するアカデミア【平山 優】",
           "imageUrl": "https://koken-publication.com/wp-content/uploads/2026/02/メイントリミング.jpg"
-        },
-        {
-          "id": "https://www.watch.impress.co.jp/docs/news/2089038.html",
-          "author": null,
-          "description": "SWITCHBOTは、映像理解とローカル処理に対応した次世代スマートホームハブ「SwitchBot AIハブ」でAIエージェント「OpenClaw」をサポートした。アップデートにより「OpenClaw」をAIハブ上で実行可能になり、チャットアプリからの会話を通じて、スマートホームの操作・提案・実行までを一気通貫で行なえるようになる。",
-          "link": "https://www.watch.impress.co.jp/docs/news/2089038.html",
-          "publishedOn": "2026-02-26T12:21:32.000Z",
-          "wordCount": 4234,
-          "title": "SwitchBot AIハブ、AIエージェント「OpenClaw」に対応　単体の実行環境に",
-          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2089/038/op2.jpg"
-        },
-        {
-          "id": "https://zenn.dev/hagakun_dev/articles/ba887b4f652b69",
-          "author": null,
-          "description": "3秒まとめ MiniPC + Claude Code + スマホSSHでモバイルから自然言語で開発を進める体験が革命的だった AndroidのSSHアプリは日本語入力がまともに使えないので自分で作った SFTPファイラーとシンタックスハイライト付きプレビューで、AIが書いたコードをその場で確認できる どんな人向けの記事？ Mac MiniやMiniPCでCla...",
-          "link": "https://zenn.dev/hagakun_dev/articles/ba887b4f652b69",
-          "publishedOn": "2026-02-26T12:20:27.000Z",
-          "wordCount": 880,
-          "title": "スマホからスキマ時間で開発するためにClaude Code専用のSSHターミナルアプリを作った話",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ujUSte3b--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%259E%25E3%2583%259B%25E3%2581%258B%25E3%2582%2589%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%259E%25E6%2599%2582%25E9%2596%2593%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2599%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25ABClaude%2520Code%25E5%25B0%2582%25E7%2594%25A8%25E3%2581%25AESSH%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2581%258C%25E3%2581%258F%25E3%2582%2593%2540%25E5%2585%2583%25E8%2596%25AC%25E5%2589%25A4%25E5%25B8%25AB%25E3%2581%25AEFlutter%252F...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YyZDdiMzc4M2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://note.com/ai_dev_notes/n/n0a4ae317a942",
-          "author": null,
-          "description": "コードレビュー、テスト生成、リファクタリング、ドキュメント整備。 これらを「全部やっといて」と頼んだら、16個のClaude Codeインスタンスが同時に動き出して、10万行のRustコードを吐き出した。 Anthropicが公開した事例（2025年）によると、コストは約$20K（約300万円）、人間の介入はほぼゼロだったという。 これ...",
-          "link": "https://note.com/ai_dev_notes/n/n0a4ae317a942",
-          "publishedOn": "2026-02-26T12:20:25.000Z",
-          "wordCount": 2575,
-          "title": "Claude Codeマルチエージェント実践ガイド — 1つの指示で16プロセスが動く世界｜シュン｜AI実務で副業時給2倍にした人",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/254376733/rectangle_large_type_2_85f897783e36cb3c3b6d456a979f6391.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://posfie.com/@light_snow/p/LTXiO0m",
-          "author": null,
-          "description": "米澤穂信 @honobu_yonezawa 小説を書いています。実のある話はしないことにしています。未発表の刊行予定に関するご質問にはお答え出来ません。 pandreamium.sblo.jp",
-          "link": "https://posfie.com/@light_snow/p/LTXiO0m",
-          "publishedOn": "2026-02-26T12:05:58.000Z",
-          "wordCount": 731,
-          "title": "【260225】小説家・米澤穂信先生のご返信まつりまとめ",
-          "imageUrl": "https://s.tgstc.com/ogp3/4faaa284d06ee3caf3075cbf2a465005-1200x630.jpeg"
-        },
-        {
-          "id": "https://kaminashi-developer.hatenablog.jp/entry/2026/02/26/ai-dlc",
-          "author": null,
-          "description": "「カミナシ レポート」の開発・運用をしている furuya です。最近我が家では成長してきた子どもたちのことを考えて寝室含めて部屋の配置換えを検討しており、そのパズルに頭を悩ませています。それはさておき今回は「カミナシ レポート」の開発において AI Agent を主軸にした開発スタイルを取り入れたお話です。 背景 ...",
-          "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/02/26/ai-dlc",
-          "publishedOn": "2026-02-26T10:53:53.000Z",
-          "wordCount": 739,
-          "title": "「AIと一緒に開発する」を本格始動して 1ヶ月の振り返り - カミナシ エンジニアブログ",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/d166a0994da01fe285f93bdc4b08a5f5ec85eace/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkaminashi-developer%2F20260226%2F20260226091954.png"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20260226185819",
-          "author": null,
-          "description": "2026年2月20日の札幌地裁判決（山本章一氏＝堕天作戦作者への1100万円賠償命令）騒動の余波として、ネットで急激に話題になっている内容です。 1つ目のポスト（@syuruto_ss） • 小学館の公式電子書籍ストア「小学館eコミックストア」で**「常人仮面」**の検索結果が0件になり、作品が完全に消えているスクショ付き。 • A...",
-          "link": "https://anond.hatelabo.jp/20260226185819",
-          "publishedOn": "2026-02-26T09:59:58.000Z",
-          "wordCount": 702,
-          "title": "[AI作文]堕天作戦事件続報",
-          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://buildersbox.corp-sansan.com/entry/2026/02/26/100000_jp",
-          "author": null,
-          "description": "はじめに 2025年12月に情報セキュリティ部Product Securityグループでインターンをしました床井です。 Product Securityグループは、ビジネスデータベース「Sansan」や経理AXサービス「Bill One」をはじめとする、Sansanが提供する全てのプロダクトのセキュリティ向上を目的とした業務に取り組んでいます。具体的には、...",
-          "link": "https://buildersbox.corp-sansan.com/entry/2026/02/26/100000_jp",
-          "publishedOn": "2026-02-26T09:33:30.000Z",
-          "wordCount": 696,
-          "title": "入社前から自分の仕事を奪うセキュリティレビューAIエージェントを作った - Sansan Tech Blog",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/10257846132608666252/17179246901352820044/1772067605"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/2088874.html",
-          "author": null,
-          "description": "米Anthropicは2月20日（日本時間）、「Claude in PowerPoint」の提供を有償の「Pro」プランで開始した。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/2088874.html",
-          "publishedOn": "2026-02-26T09:09:11.000Z",
-          "wordCount": 5014,
-          "title": "Anthropic、「Claude in PowerPoint」をPro以上のプランで提供、「Excel」版もあり／サーチプレビューのベータ版として",
-          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2088/874/claude_in_powerpoint.jpg"
-        },
-        {
-          "id": "https://qiita.com/hoge_kawamuro/items/20a91a58680ed93326ee",
-          "author": null,
-          "description": "はじめに Qiita記事、書いてますか？ 正直に言うと、僕は記事を書くのが結構苦手でした。理由はいくつかあって： 記事ネタが見つからない - 何を書けばいいか分からず、ネタ探しに時間がかかる 執筆に時間がかかる - 記事を書くのに何時間もかかり、続かない 投稿の手間が面倒 - コピペやフォーマット調整が煩雑 文章がA...",
-          "link": "https://qiita.com/hoge_kawamuro/items/20a91a58680ed93326ee",
-          "publishedOn": "2026-02-26T08:40:37.000Z",
-          "wordCount": 2382,
-          "title": "Claude Code × Obsidianで実現！Qiita記事執筆を完全自動化したら、記事が書くのが楽しくなった話 - Qiita",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDMxOTg1JTJGNTExYjFjMTNlYWUwOThkZmVjZTQ4ZTBiOTAxMjYzZTM4OGIyZTk4YyUyRnhfbGFyZ2UucG5nJTNGMTc2NTM4NzgzNj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MjM1OGUwNTRhMTdiYTVhNjgyZmRjODkxZmMyN2QyNTI%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5OTY1OGZhNTJmYmI5ZmY4NjMwMDUxNGM2YTdmOGY2ZGUxZDQ1ZDFiJTJGb3JpZ2luYWwuanBnJTNGMTc2Njk4OTYyMD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00ODRlOGI1ODYxNTg1Njg0YjZhZWJiZjI2NWY5ZWVhZg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db245ac5c37d6263d52d820455f099c5a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVDMyU5NyUyME9ic2lkaWFuJUUzJTgxJUE3JUU1JUFFJTlGJUU3JThGJUJFJUVGJUJDJTgxUWlpdGElRTglQTglOTglRTQlQkElOEIlRTUlOUYlQjclRTclQUQlODYlRTMlODIlOTIlRTUlQUUlOEMlRTUlODUlQTglRTglODclQUElRTUlOEIlOTUlRTUlOEMlOTYlRTMlODElOTclRTMlODElOUYlRTMlODIlODklRTMlODAlODElRTglQTglOTglRTQlQkElOEIlRTMlODElOEMlRTYlOUIlQjglRTMlODElOEYlRTMlODElQUUlRTMlODElOEMlRTYlQTUlQkQlRTMlODElOTclRTMlODElOEYlRTMlODElQUElRTMlODElQTMlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kYWIzNjkxNmUxMTU0ZTgzMWRlYjNiMGFkNDRjNjYxYw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBob2dlX2thd2FtdXJvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ODdlY2MwZWIwYTNiM2Y3NzQxYWM2ZWFkYjNhOWZhNWI&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-44OK44OP44OI&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=977487c4ff166af682136bdaae8045fd"
-        },
-        {
-          "id": "https://zenn.dev/nttdata_tech/articles/33ec2c7972373e",
-          "author": null,
-          "description": "jj ブームはすぐそばに? 最近、にわかに jj (jujutsu) が話題だ。 jj は、Google の Martin von Zweigbergk 氏が 2019 年に開発を始めたバージョン管理システム (VCS) だ。2022年のカンファレンス「Git Merge 2022」では、 jj は Google 社内でも利用されていると紹介されている。 私は jj の存在を知ってはいたが、 git...",
-          "link": "https://zenn.dev/nttdata_tech/articles/33ec2c7972373e",
-          "publishedOn": "2026-02-26T08:32:12.000Z",
-          "wordCount": 1989,
-          "title": "git の次の時代のバージョン管理システム jj (jujutsu)",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--uXsHOSYo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:git%2520%25E3%2581%25AE%25E6%25AC%25A1%25E3%2581%25AE%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%25E7%25AE%25A1%25E7%2590%2586%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%2520jj%2520%2528jujutsu%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:gyu-don%2520%257C%2520Takumi%2520Kato%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0M2E4MWQ4NjYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/momonga/articles/ee5b114e038938",
-          "author": null,
-          "description": "# Workaround to prevent Claude Code from repeatedly spawning powershell.exe. # ref: https://github.com/anthropics/claude-code/issues/14352 export CLAUDE_CODE_SKIP_WINDOWS_PROFILE=1 export USERPROFILE=\"/mnt/c/Users/\"  はあなたの環境に合わせて読み替えて...",
-          "link": "https://zenn.dev/momonga/articles/ee5b114e038938",
-          "publishedOn": "2026-02-26T08:10:23.000Z",
-          "wordCount": 536,
-          "title": "WSL内で起動したClaude Codeの動作を高速化する簡単な設定",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gBIgH3W1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WSL%25E5%2586%2585%25E3%2581%25A7%25E8%25B5%25B7%25E5%258B%2595%25E3%2581%2597%25E3%2581%259FClaude%2520Code%25E3%2581%25AE%25E5%258B%2595%25E4%25BD%259C%25E3%2582%2592%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AA%25E8%25A8%25AD%25E5%25AE%259A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:momonga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y3ZGZmZjNiMTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://speakerdeck.com/snoozer05/create-decision-readiness-the-real-skill-behind-architectural-decision",
-          "author": null,
-          "description": "技術選定を突き詰める〜 Online Conferenc​​e 2026〜 での発表資料です #技術選定con_findy https://findy.connpass.com/event/380974/",
-          "link": "https://speakerdeck.com/snoozer05/create-decision-readiness-the-real-skill-behind-architectural-decision",
-          "publishedOn": "2026-02-26T07:48:01.000Z",
-          "wordCount": 1049,
-          "title": "ソフトウェアアーキテクトのための意思決定術: Create Decision Readiness—The Real Skill Behind Architectural Decision",
-          "imageUrl": "https://files.speakerdeck.com/presentations/3d8d8efb3d524aaaa3cbbc90aa432ed6/slide_0.jpg?38529609"
-        },
-        {
-          "id": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo17_hh_000001_00076.html",
-          "author": null,
-          "description": "国土交通省では「建築・都市のDX」や「ジオAI（地理空間情報×AI）」の取組を進め、こうした取組の中で多様な地理空間情報の連携・活用を推進しています。 この一環として、AIを活用して自然言語で多様な地理空間情報を容易に連携・活用できる環境を提供するため「地理空間MCP Server-MLIT Geospatial MCP Server-」（α版...",
-          "link": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo17_hh_000001_00076.html",
-          "publishedOn": "2026-02-26T07:45:35.000Z",
-          "wordCount": 52,
-          "title": "国土交通省｜報道資料｜AIを活用した多様な地理空間情報の連携環境を試作・提供！<br>～地理空間MCP Server（α版）の公開～",
-          "imageUrl": "/common/001391890.png"
-        },
-        {
-          "id": "https://zenn.dev/kawarimidoll/articles/7da5fd40f19fb1",
-          "author": null,
-          "description": "cageで囲む bypass-permissionsで自律作業してくれるのはいいのですが、勝手に関係ないディレクトリとかを消されると困ります。 claude code本体にはsandbox機能があるのですが、bypass-permission状態だと自力でsandboxを突破することがあり、あまり信用できません。以下のissueがありますが、記事執筆時点では明確に修...",
-          "link": "https://zenn.dev/kawarimidoll/articles/7da5fd40f19fb1",
-          "publishedOn": "2026-02-26T07:37:31.000Z",
-          "wordCount": 1546,
-          "title": "202602個人的claude code設定",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--o15bqn7l--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:202602%25E5%2580%258B%25E4%25BA%25BA%25E7%259A%2584claude%2520code%25E8%25A8%25AD%25E5%25AE%259A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kawarimidoll%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QxNjFiNWRjZTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d83884ba96fa6b054839994debc5f38650bc7138",
-          "author": null,
-          "description": "量子コンピューターの実用化を見据え、既存の暗号技術が突破される「Q-Day（Qデー）」の脅威が現実味を帯びている。米国では国家安全保障局（NSA）や国防総省（DoD）が、2030年から2035年を期限とした耐量子暗号への移行を義務付けるなど、官民を挙げた対策が加速している。これは単なる技術的予測ではなく、国家レベル...",
-          "link": "https://news.yahoo.co.jp/articles/d83884ba96fa6b054839994debc5f38650bc7138",
-          "publishedOn": "2026-02-26T04:10:45.000Z",
-          "wordCount": 1716,
-          "title": "ビットコイン、量子コンピューターの脅威に対抗する「歴史的な1歩」を踏み出す（Forbes JAPAN） - Yahoo!ニュース",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260226-00092478-forbes-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://type.jp/et/feature/30535/",
-          "author": null,
-          "description": "NEW! 2026.02.26 スキル コミュニケーション 「もっと言語化能力を磨くべきだ」 評価面談などで、上司からそんなフィードバックを受けた経験を持つエンジニアは少なくないはずだ。現代では、ビジネスの文脈を理解し、会議で雄弁に語る「喋れるエンジニア」こそが市場価値が高いという声もよく耳にする。 では、瞬発的な...",
-          "link": "https://type.jp/et/feature/30535/",
-          "publishedOn": "2026-02-26T04:10:03.000Z",
-          "wordCount": 563,
-          "title": "エンジニアを苦しめる「言語化力」の正体。鍛えようと努力しても、迷走してしまう理由とは？ - エンジニアtype | 転職type",
-          "imageUrl": "https://type.jp/et/feature/wp-content/uploads/2026/02/Lets-practice-verbalization-is-a-wrong-effort.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2088732.html",
-          "author": null,
-          "description": "プログラムサイズがわずか64KBしかないFPSゲーム「QUOD」が、2025年の年末に公開された。そしてこのたび、開発者のDaivuk氏は、いかにして64KBの中にゲームを押し込んだのか、そのノウハウを紹介したビデオをYouTubeで公開し、注目を集めている。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2088732.html",
-          "publishedOn": "2026-02-26T02:59:26.000Z",
-          "wordCount": 5426,
-          "title": "【やじうまPC Watch】 容量わずか64KBのFPS「QUOD」。狂気のデータ圧縮と開発手法とは",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2088/732/1.png"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/news/2088742.html",
-          "author": null,
-          "description": "バッファローは26日、2026年7月(予定)をもって、Blu-rayドライブの販売を終了すると発表した。後継機種は無く、同社は「これまでのご愛顧に心より御礼申し上げます」とコメントしている。なお、販売終了時期は7月だが、受注状況により、終了時期は前後する可能性があるとのこと。",
-          "link": "https://av.watch.impress.co.jp/docs/news/2088742.html",
-          "publishedOn": "2026-02-26T02:10:55.000Z",
-          "wordCount": 4507,
-          "title": "バッファロー、ブルーレイドライブ販売終了、7月予定。「後継機種はない」",
-          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/2088/742/main.jpg"
-        },
-        {
-          "id": "https://tech.hello.ai/entry/2026/02/26/100132",
-          "author": null,
-          "description": "こんにちは。@mottei_0702と申します。ハローでは、世界中のレストランを予約できる予約代行サービスAutoReserveのバックエンド開発を行っています。 RDBMSを使って開発しているバックエンドエンジニアの方ならば、 EXPLAIN (ANALYZE) などを活用しながら、クエリのパフォーマンスを常に意識して開発しているのではない...",
-          "link": "https://tech.hello.ai/entry/2026/02/26/100132",
-          "publishedOn": "2026-02-26T01:07:33.000Z",
-          "wordCount": 608,
-          "title": "PostgreSQLがインデックスを使ってくれなくてスロークエリが発生していた件 〜 PostgreSQLのコスト計算ロジックを深掘りする 〜 - Hello Tech",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/13574176438074176163/17179246901358385640/1772067692"
-        },
-        {
-          "id": "https://note.com/nokowashiyama/n/ndaa9790a9dc4",
-          "author": null,
-          "description": "最近読んだこの記事が、地味に衝撃でした。 👉 記事を読む（Why Are Designers Leaving Figma?） 画像：medium　Why Are Designers Leaving Figma?タイトルからして強いんですが、 「デザイナーがFigmaから離れ始めている」 という話。 え、あんなに“デザインといえばFigma”だったのに？ と思って読んでみたら、単なるツ...",
-          "link": "https://note.com/nokowashiyama/n/ndaa9790a9dc4",
-          "publishedOn": "2026-02-26T00:18:07.000Z",
-          "wordCount": 2620,
-          "title": "デザインはどこへ行く？「Figma離れ」と、つくる人の境界線が消えていく話｜noko",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/254448013/rectangle_large_type_2_00fbaac52c4504a58026aca5e9014c93.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://qiita.com/uno_ha07/items/5820d195510861b5be71",
-          "author": null,
-          "description": "はじめに Claude Codeの生みの親であるAnthropicのスタッフエンジニア、Boris Cherny氏が公開したCLAUDE.mdが話題になっています。 英語で書かれているため、なんとなく意味はわかるけど、実際どう使えばいいかピンと来なかったので、 本記事では、原文 → 日本語訳 → 解説 の3段構成で、1セクションずつ丁寧に読み解いて...",
-          "link": "https://qiita.com/uno_ha07/items/5820d195510861b5be71",
-          "publishedOn": "2026-02-25T23:38:44.000Z",
-          "wordCount": 1931,
-          "title": "Boris Cherny氏がシェアした、CLAUDE.mdを理解する - Qiita",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzkyNzg0JTJGNTIzNjgyMTcwMDg2ODRkZTBmMzA0NGE5ZDI5MjE1NWQ3OWFiNDBlOCUyRnhfbGFyZ2UucG5nJTNGMTc3MTk1MjUyNT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTNiZTRkMDY0MGY2NGY2ZGFhNTMzZDQyMGI0MGQxODU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0949b66d432fab5b911f41fd327164b8?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Qm9yaXMlMjBDaGVybnklRTYlQjAlOEYlRTMlODElQUUlRTclOUYlQTUlRTglQTYlOEIlRTMlODIlOTIlRTUlODUlODMlRTMlODElQUIlRTQlQkQlOUMlRTYlODglOTAlRTMlODElOTUlRTMlODIlOEMlRTMlODElOUYlRTMlODAlODFDTEFVREUubWQlRTMlODIlOTIlRTclOTAlODYlRTglQTclQTMlRTMlODElOTklRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zNzk4YjExYTkzMWNmNDZmMDc3YTZkNmEzMmI4MWM0NA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB1bm9faGEwNyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTJmMDFmNmFlODQ0NWNkYTdkMGYwNjBhNDQyZDA2MTdi&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6c894e2efcce87b5555981eff725b30a"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/2088615.html",
-          "author": null,
-          "description": "先日リリースされた「Firefox 148」には、主要Webブラウザーで初めて「Sanitizer API」が実装されているとのこと。「クロスサイトスクリプティング」と呼ばれるタイプの脆弱性を抑制する技術として期待されており、他のWebブラウザーも追随する見込みだ。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/2088615.html",
-          "publishedOn": "2026-02-25T22:57:49.000Z",
-          "wordCount": 4998,
-          "title": "XSS攻撃の温床「innerHTML」はもう終わり、「Firefox 148」に「setHTML()」が導入／入力を自動でサニタイズしてくれる「Sanitizer API」が実装",
-          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2088/615/image1.png"
-        },
-        {
-          "id": "https://blog.jxck.io/entries/2026-02-25/sptth.html",
-          "author": null,
-          "description": "Intro http://localhost:3000 での開発には限界がある。 しかし、本番と同じように https://example.com でアクセスできる環境をローカルに作るには、ドメインの解決、証明書の発行、443 での起動など、少し手間がかかる。 そこで、必要な全てを 1 つのツールで行い、様々な開発環境を再現するためのツールを開発したの...",
-          "link": "https://blog.jxck.io/entries/2026-02-25/sptth.html",
-          "publishedOn": "2026-02-25T22:52:38.000Z",
-          "wordCount": 426,
-          "title": "ローカル HTTPS 開発専用ツール SPTTH を公開した | blog.jxck.io",
-          "imageUrl": "https://blog.jxck.io/assets/img/jxck.600x600.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20260225-moonshine-voice/",
-          "author": null,
-          "description": "リアルタイムで音声を扱うアプリケーションを作成できるオープンソースのAIツールキットが「Moonshine Voice」です。 GitHub - moonshine-ai/moonshine: Fast and accurate automatic speech recognition (ASR) for edge devices https://github.com/moonshine-ai/moonshine 「Moonshine Voice」はすべてがデバイス上で...",
-          "link": "https://gigazine.net/news/20260225-moonshine-voice/",
-          "publishedOn": "2026-02-25T16:13:37.000Z",
-          "wordCount": 4039,
-          "title": "無料で日本語もサポートしリアルタイム音声アプリをWhisperより高精度で開発できるオープンソースAIツールキット「Moonshine Voice」",
-          "imageUrl": "https://i.gzn.jp/img/2026/02/25/moonshine-voice/00.jpg"
-        },
-        {
-          "id": "https://www.docswell.com/s/mozumasu/KEY6MD-2026-02-25-claude-code-terraform",
-          "author": null,
-          "description": "TerraformをClaude Codeで 書いてもらう技術 一歩踏み込む Claude Code 活用LT会 〜新機能を使い倒す、現場の開発最前線〜 2026/2/25 ファインディ(株) / CTO室 プラットフォーム 開発チーム/SRE もずます (@mozumasu)",
-          "link": "https://www.docswell.com/s/mozumasu/KEY6MD-2026-02-25-claude-code-terraform",
-          "publishedOn": "2026-02-25T14:06:30.000Z",
-          "wordCount": 866,
-          "title": "TerraformをClaude Codeで書く技術 | ドクセル",
-          "imageUrl": "https://bcdn.docswell.com/page/8JDKWG5NEG.jpg?width=480"
-        },
-        {
-          "id": "https://kakehashi-dev.hatenablog.com/entry/2026/02/25/110000",
-          "author": null,
-          "description": "長い前置き おはようございます。カケハシのPE新規サービス開発チームというところでソフトウェアエンジニアをやっているogijunこと荻野です。最近この技術ブログはAIの話題が多めなので、ここから言語オタク語りが始まってしまうのはいいのか？とか思いますが、かまわず書きたいと思います。 前置きとして、わたしたち...",
-          "link": "https://kakehashi-dev.hatenablog.com/entry/2026/02/25/110000",
-          "publishedOn": "2026-02-25T13:59:13.000Z",
-          "wordCount": 901,
-          "title": "多言語横断開発の現場から「Python と static duck typing」 - KAKEHASHI Tech Blog",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/26006613781264652/17179246901356046900/1771995106"
-        },
-        {
-          "id": "https://zenn.dev/epicai_techblog/articles/20b78066cac63f",
-          "author": null,
-          "description": "はじめに EpicAIの佐藤です。 現在、Claude CodeやCodexなどのコーディングAIエージェントが広く使われていますが、その仕組みについて詳細に解説した記事はほとんど存在しません。「LLMが様々なCLIツールを駆使してコーディングを行うAI Agentだ」という抽象的な理解は浸透しており、実際使ってみるとUIからもそれは推...",
-          "link": "https://zenn.dev/epicai_techblog/articles/20b78066cac63f",
-          "publishedOn": "2026-02-25T13:28:55.000Z",
-          "wordCount": 5434,
-          "title": "Claude CodeのOSS版 OpenCodeの内部挙動を理解する",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Fua4Te24--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AEOSS%25E7%2589%2588%2520OpenCode%25E3%2581%25AE%25E5%2586%2585%25E9%2583%25A8%25E6%258C%2599%25E5%258B%2595%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E4%25BD%2590%25E8%2597%25A4%25E5%25A4%25A7%25E5%259C%25B0%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I5NTQzMjA5ODkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:EpicAI%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M4OTU2NjY1ZmEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/aeonpeople/articles/morihaya-20260224-copilot-skills-is-tetsuzukisho",
-          "author": null,
-          "description": "はじめに こんにちは。イオンスマートテクノロジー株式会社（AST）でSREチームの林 aka もりはやです。 本記事ではGitHub Copilotの「Skills」と呼ばれる機能について、私たちJTCやEnterpriseの文脈で捉え直した結果「要は手順書ですね」と捉えることで複雑なTerraformの移行を再現性のある形で進められるようになった話...",
-          "link": "https://zenn.dev/aeonpeople/articles/morihaya-20260224-copilot-skills-is-tetsuzukisho",
-          "publishedOn": "2026-02-25T13:27:46.000Z",
-          "wordCount": 1310,
-          "title": "GitHub CopilotのSkillsは手順書だ：3桁行差分の大規模Terraform移行に使い回す",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xyn-ALfc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%2520Copilot%25E3%2581%25AESkills%25E3%2581%25AF%25E6%2589%258B%25E9%25A0%2586%25E6%259B%25B8%25E3%2581%25A0%25EF%25BC%259A3%25E6%25A1%2581%25E8%25A1%258C%25E5%25B7%25AE%25E5%2588%2586%25E3%2581%25AE%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1Terraform%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2584%25E5%259B%259E%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%2582%25E3%2582%258A%25E3%2581%25AF%25E3%2582%2584%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA3ZjEwNGIzZWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:AEON%2520TECH%2520HUB%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzIyZWMxMmQxNTcuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -10147,6 +10162,56 @@
       "feedUrl": "http://feeds.japan.cnet.com/rss/cnet/all.rdf",
       "siteUrl": "https://japan.cnet.com",
       "articles": [
+        {
+          "id": "https://japan.cnet.com/article/35245609/",
+          "author": "Dashia Milden （CNET News） 翻訳校正： 編集部",
+          "description": "Wikipediaはこの25年間、信頼でき検証できる情報源に基づく限り、誰もが知識を持ち寄れるオープンなオンライン百科事典として運営されてきた。だが、AIツールがコンテンツ制作の在り方を急速に変えつつある中で、同サイトは明確に一線を引いた。Wikipediaの記事を作成したり書き換えたりする目的で、AIツールを使うことは認めないという。",
+          "link": "https://japan.cnet.com/article/35245609/",
+          "publishedOn": "2026-03-27T06:50:00.000Z",
+          "wordCount": 2944,
+          "title": "Wikipedia、AI生成コンテンツを原則禁止に　例外は2つのみ",
+          "imageUrl": "https://japan.cnet.com/storage/2026/03/27/63e43c5a8005cfe3c96ada8d96477cb9/gettyimages-458651827.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35245598/",
+          "author": "CNET Japan Staff",
+          "description": "NTTドコモビジネスとNTTソノリティは3月26日、JR東海が2026年度から順次導入する東海道新幹線 N700Sの上級クラス座席に、NTTの音響技術「PSZ」（パーソナライズドサウンドゾーン）を活用した音響ソリューションを導入すると発表した。PSZ技術が国内の公共交通機関で採用されるのは初めてという。",
+          "link": "https://japan.cnet.com/article/35245598/",
+          "publishedOn": "2026-03-27T05:15:00.000Z",
+          "wordCount": 2896,
+          "title": "音漏れをキャンセルするNTTの新技術、東海道新幹線の上級座席に採用へ",
+          "imageUrl": "https://japan.cnet.com/storage/2026/03/27/7d944098cc2a8867a36ae76b977522d9/タ_ウンロ_ト_.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/extra/ypmc_202603/35245070/",
+          "author": "CNET Japan Ad Special",
+          "description": "新潟県と佐渡島の間で定期航路事業を営む佐渡汽船は現在、持続可能な経営を推進する一環として、老朽化が進む施設・設備に対する施設・資産管理DXにチャレンジしている。",
+          "link": "https://japan.cnet.com/extra/ypmc_202603/35245070/",
+          "publishedOn": "2026-03-27T04:00:00.000Z",
+          "wordCount": 2895,
+          "title": "[PR]離島交通の未来を守る資産管理DX--佐渡汽船がb-platformを選んだ理由",
+          "imageUrl": "https://japan.cnet.com/storage/2026/03/27/27612692581b74e8714835ef595d1924/thumb_ypmc_1280.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35245592/",
+          "author": "CNET Japan Staff",
+          "description": "富士通は3月27日、防衛・防災分野の監視能力を高める高感度・高精細な2波長赤外線センサーを開発したと発表した。防衛装備庁の「広帯域・高感度赤外線検知器の研究試作」を受注して開発したもので、試作品はすでに同庁へ納品済み。100万画素超の高精細化と、中赤外線（MWIR）・遠赤外線（LWIR）の2波長検知を両立したT2SL赤外線センサーとしては世界初としている。",
+          "link": "https://japan.cnet.com/article/35245592/",
+          "publishedOn": "2026-03-27T02:24:00.000Z",
+          "wordCount": 2871,
+          "title": "「0.05度C以下の温度差」を鮮明に捉えるカメラセンサー、富士通が開発　防衛監視に活用",
+          "imageUrl": "https://japan.cnet.com/storage/2026/03/27/80027754ca193794de686298f829ef1e/2026-03-27_11.17の画像.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35245591/",
+          "author": "CNET Japan Staff",
+          "description": "OKIと日立製作所、日立チャネルソリューションズは3月26日、ATMを含む自動化機器事業の統合に向けた契約と、合弁会社に関する株主間契約の締結で合意したと発表した。OKIがATMを含む自動化機器の開発・生産事業を吸収分割で日立チャネルソリューションズに承継させた後、OKIが同社株式の一部を取得して合弁会社化する。出資比率はOKIが60％、日立製作所が40％となる予定。関係当局の承認を前提に、2026年10月1日の事業開始を目指す。",
+          "link": "https://japan.cnet.com/article/35245591/",
+          "publishedOn": "2026-03-27T01:47:00.000Z",
+          "wordCount": 2872,
+          "title": "OKIと日立、ATM事業を統合　キャッシュレス化でも持続可能な事業成長めざす",
+          "imageUrl": "https://japan.cnet.com/storage/2026/03/27/aef4273ebf79249837b471d4b7e3b098/2026-03-27_10.45の画像.jpeg"
+        },
         {
           "id": "https://japan.cnet.com/article/35245587/",
           "author": "CNET Japan Staff",
@@ -12336,126 +12401,6 @@
           "wordCount": 2947,
           "title": "あなたのクルマの「空気圧センサー」もハッキングされている？--その脅威とは",
           "imageUrl": "https://japan.cnet.com/storage/2026/02/27/be6f5ffbcf8e1288dc91ea4cbd9b7b61/car-tire-pressure-gettyimages-1228382439-1.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244356/",
-          "author": null,
-          "description": "NTTドコモは2月25日、生成AIを活用したモバイルネットワーク保守業務向けAIエージェントシステムを開発し、2月4日から商用利用を開始したと発表した。100万台以上のネットワーク装置から収集される世界最大級規模のデータをリアルタイムに分析し、複雑なネットワーク故障への対応時間を従来比で50％以上削減、サービス影響時間の短縮を実現するという。",
-          "link": "https://japan.cnet.com/article/35244356/",
-          "publishedOn": "2026-02-26T09:30:00.000Z",
-          "wordCount": 2916,
-          "title": "NTTドコモ、通信障害復旧にAIエージェント　対応時間を従来比50%削減へ",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/65b2d67829789d4868c51323a124f16e/large_.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244352/",
-          "author": "CNET Japan Staff",
-          "description": "NTTドコモは2月26日、スマートフォン決済サービス「d払い」のアプリに新機能を追加したと発表した。アプリ起動時の読み込み中でも決済用のバーコードやQRコードを表示し、すぐに支払いができるようになる。",
-          "link": "https://japan.cnet.com/article/35244352/",
-          "publishedOn": "2026-02-26T09:05:00.000Z",
-          "wordCount": 2864,
-          "title": "d払い、アプリ起動後すぐにバーコード表示　読み込み待たず",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/4387833cdbe7728990173b7eacf85019/2026-02-26_17.53の画像.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244343/",
-          "author": "CNET Japan Staff",
-          "description": "バッファローは2月26日、ブルーレイドライブの販売を2026年7月（予定）をもって終了すると発表した。後継機種の開発予定はないという。",
-          "link": "https://japan.cnet.com/article/35244343/",
-          "publishedOn": "2026-02-26T06:59:00.000Z",
-          "wordCount": 2862,
-          "title": "バッファロー、ブルーレイドライブの販売を2026年7月で終了へ　後継機種なし",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/067f95cf87b71d0dde083bd77a49b4dd/2026-02-26_14.52の画像.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244344/",
-          "author": "Giselle Castro-Sloboda （CNET News） 翻訳校正： 編集部",
-          "description": "スイス発の人気スニーカーブランドであるOnは現地時間2月25日、ロボット生産施設を拡張し、韓国に新たな拠点を設けると発表した。",
-          "link": "https://japan.cnet.com/article/35244344/",
-          "publishedOn": "2026-02-26T06:27:00.000Z",
-          "wordCount": 2957,
-          "title": "人気スニーカーの「オン」が韓国にロボット新工場、わずか数分で「吹き付け」生産",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/dfda4284b8f05469a453d67c74431160/create-small-jpg-ss26-lightspray-pr-product-still-02_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244338/",
-          "author": "西中悠基",
-          "description": "キヤノンは2月26日、カメラと写真映像のワールドプレミアショー「CP+2026」にて、「アナログコンセプトカメラ」を参考展示した。",
-          "link": "https://japan.cnet.com/article/35244338/",
-          "publishedOn": "2026-02-26T04:46:00.000Z",
-          "wordCount": 2931,
-          "title": "キヤノン、これまでにない「アナログコンセプトカメラ」発表--ウエストレベルのデジタルカメラ、商品化は未定",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/ccc30defac01a12b2355444f8d4e3a91/260226_ca_000.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244334/",
-          "author": "Steven Musil （CNET News） 翻訳校正： 編集部",
-          "description": "ニューヨーク州の司法長官は、ゲーム開発会社のValveを提訴した。同社がゲーム内の「ルートボックス」を通じて、若者の違法なギャンブルを助長していると主張している。",
-          "link": "https://japan.cnet.com/article/35244334/",
-          "publishedOn": "2026-02-26T03:38:00.000Z",
-          "wordCount": 2964,
-          "title": "ニューヨーク州がValveを提訴、人気ゲームの「ガチャ」は違法なギャンブルと主張",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/7cb63b8e3689dc74e9f3726496046cef/gettyimages-2213890597_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244327/",
-          "author": "Omar Gallaga （CNET News） 翻訳校正： 編集部",
-          "description": "リアルタイムチャットサービスのDiscordは、年齢確認機能の導入を延期すると発表した。",
-          "link": "https://japan.cnet.com/article/35244327/",
-          "publishedOn": "2026-02-26T02:45:00.000Z",
-          "wordCount": 2932,
-          "title": "「顔スキャン、ID提示」にユーザー猛反発、Discordが年齢確認を延期",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/55074b516b4fe54f8d6d0b0f7e7b6810/discord-logo-8805_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244333/",
-          "author": "CNET Japan Staff",
-          "description": "JR東日本は2月25日、モバイルSuicaアプリの最新バージョンをiPhoneとAndroid向けにリリースした。新バージョンでは、JRE POINTの保有数確認、モバイルSuicaへのチャージ、Suicaグリーン券への交換機能を追加。これまで必要だったJRE POINT WEBサイトでの事前申し込みが不要となり、モバイルSuicaアプリ内で操作が完結するようになった。",
-          "link": "https://japan.cnet.com/article/35244333/",
-          "publishedOn": "2026-02-26T02:30:00.000Z",
-          "wordCount": 2889,
-          "title": "iPhoneやAndroidの「Suica」アプリだけで「JREポイント」をグリーン券へ交換可能に",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/f010cb2ea988847a904c2e19164183bb/large.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244332/",
-          "author": "CNET Japan Staff",
-          "description": "財務省は公式プラットフォームとして「財務省note」を開設した。",
-          "link": "https://japan.cnet.com/article/35244332/",
-          "publishedOn": "2026-02-26T02:15:00.000Z",
-          "wordCount": 2870,
-          "title": "財務省、「note」アカウントを開設--職員が月1〜2回ペースで投稿",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/88997f7ee47eac364bea627cddb2e6db/1771389701-9hBMZT5Y8OiDnQ36c2tA7oLj.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244311/",
-          "author": "Anna Gragert （CNET News） 翻訳校正： 編集部",
-          "description": "1回水を流すだけで便器がピカピカに。そんな「自動お掃除トイレ」が当たり前になる未来なら大歓迎だ──。",
-          "link": "https://japan.cnet.com/article/35244311/",
-          "publishedOn": "2026-02-26T01:35:00.000Z",
-          "wordCount": 2985,
-          "title": "TOTOの最新トイレ、面倒な「フチ掃除」を完全自動化",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/737e909a78b048d49a6f30de02cc581b/screenshot-2026-02-18-at-12-06-30pm.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244305/",
-          "author": "Macy Meyer （CNET News） 翻訳校正： 編集部",
-          "description": "サムスンが現地時間2月25日に開催した「Galaxy Unpacked 2026」で発表した「Galaxy S26 Ultra」には、こうした場面を想定した新機能「Privacy Display」が搭載される。周囲の視線を気にせず画面を操作できるのが特徴だ。",
-          "link": "https://japan.cnet.com/article/35244305/",
-          "publishedOn": "2026-02-25T22:25:00.000Z",
-          "wordCount": 2924,
-          "title": "サムスン最新スマホGalaxy S26 Ultra、のぞき見防止機能を実装",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/3ae1c988ff77dab98a657748194141f8/screenshot-2026-02-25-at-2-18-44pm__1_.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35244304/",
-          "author": "Patrick Holland （CNET News） 翻訳校正： 編集部",
-          "description": "サムスンは米国時間2月25日、Galaxy Unpackedイベントを開催し、「Galaxy S26」「Galaxy S26＋」「Galaxy S26 Ultra」を発表した。",
-          "link": "https://japan.cnet.com/article/35244304/",
-          "publishedOn": "2026-02-25T20:00:00.000Z",
-          "wordCount": 3253,
-          "title": "サムスン「Galaxy S26」発表、100ドルの値上げも強力なAI機能を随所に搭載",
-          "imageUrl": "https://japan.cnet.com/storage/2026/02/26/eef47ab22caacc260d824349b3ca466f/galaxy-unpacked-2026-capture-65_1280x960.jpg"
         }
       ]
     }
