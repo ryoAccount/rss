@@ -2,10 +2,420 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-26T02:09:04.210Z</updated>
+    <updated>2026-06-27T02:04:54.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「LLM使用を正直に申告したらパッチを却下された」— GNUのポリシーが生む「隠した方が得」な構造]]></title>
+        <id>https://techfeed.io/entries/6a3ee939799628ba032e6f8a?from=rss</id>
+        <link href="https://techfeed.io/entries/6a3ee939799628ba032e6f8a?from=rss"/>
+        <updated>2026-06-26T21:03:53.019Z</updated>
+        <summary type="html"><![CDATA[6月26日、xlii.spaceが「Honesty gets Emacs patch rejected」と題した記事を公開した。LLMを活用したことを正直に申告したEmacsへのパッチが、GNUのポリシーにより却下された経緯と、その構造的な問題を論じた内容だ。筆者が問題にしているのは「LLM支援成果物を受け付けないこと」ではなく、「申告した者だけが弾かれる」という非対称性だ。黙って出せば通っていたかもしれないパッチが、誠実に開示したことで却下される——このポリシー構造は、むしろ隠蔽を合理的な選択にしてしまう。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2,000人・6,000通の攻撃を受けてもAIは秘密を守りきった——プロンプトインジェクション実験が示す「モデル選択」の重要性]]></title>
+        <id>https://techfeed.io/entries/6a3ee859799628ba032e6f49?from=rss</id>
+        <link href="https://techfeed.io/entries/6a3ee859799628ba032e6f49?from=rss"/>
+        <updated>2026-06-26T21:00:09.950Z</updated>
+        <summary type="html"><![CDATA[6月26日、Fernando Iが「What happened after 2,000 people tried to hack my AI assistant」と題した記事を公開した。自作のAIアシスタントに対して2,000人超・6,000通以上のプロンプトインジェクション攻撃を試みた実験の結果と、そこから得られた知見が詳しくまとめられている。結論から言えば、漏洩件数はゼロだった。しかもFernandoがシステムプロンプトに追加したセキュリティルールは、わずか数行のシンプルな指示に過ぎない。AIエージェントのセキュリティリスクが業界全体で議論されるなか、この実験は「プロンプトインジェクション耐性はモデル選択で大きく変わる」という、AIエージェントを本番運用するすべての開発者に刺さる実践的示唆を与えている。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI、ミュトス対抗「GPT-5.6」発表　Sol・Terra・Lunaの3モデル、一般提供は数週間後]]></title>
+        <id>https://japan.cnet.com/article/35249508/</id>
+        <link href="https://japan.cnet.com/article/35249508/"/>
+        <updated>2026-06-26T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[米OpenAIは6月26日（米国時間）、次世代モデル「GPT-5.6」シリーズを発表した。最上位の「Sol」、日常業務向けの「Terra」、低価格の「Luna」という3モデルをそろえる。数週間のうちに広く提供する計画だが、まずは一部の信頼できるパートナー向けの限定プレビューから始める。米政府の求めに応じた措置だという。]]></summary>
+        <author>
+            <name>小口貴宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「+65」から始まる番号から不審な電話がありAIに「調べて」とお願いしたら急に通話発信をしはじめて焦った話…その後「絶対に折り返さないように」と言い出してコント]]></title>
+        <id>https://togetter.com/li/2713993</id>
+        <link href="https://togetter.com/li/2713993"/>
+        <updated>2026-06-26T20:10:13.000Z</updated>
+        <summary type="html"><![CDATA[あーてぃ @Rantz174978001 ちょっと聞いてや。 +65から始まる不審電話あったからGemini proに「調べて」ってお願いしたら、止めるまもなく「その電話番号に通話発信」しよった。最悪ですよ。 ITリテラシーゼロ。常識が人間と違う。 おまけに 「絶対に折り返しや連絡は行わないようご注意ください。」だって。 お前や！！...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正直に言う。お前のClaude Codeの使い方は間違っている - Qiita]]></title>
+        <id>https://qiita.com/tehito/items/356e5f1dba112a075be1</id>
+        <link href="https://qiita.com/tehito/items/356e5f1dba112a075be1"/>
+        <updated>2026-06-26T18:18:48.000Z</updated>
+        <summary type="html"><![CDATA[「特定の作業のときだけ要る知識」は Agent Skills（.claude/skills/） に逃がせ。Skillsは必要なときだけ読まれる。常に読ませるな。引かせろ。 CLAUDE.md は憲法。Skills は六法全書。違いが分からないなら、まずそこからだ。 ミス2. 1つの指示に作業を全部詰め込んでいる 「テスト直して、リファクタして、ドキュメン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Personal AI Web Research Agent with Ollama and Qwen]]></title>
+        <id>6a3ebfce33b56590aa5b54c9</id>
+        <link href="https://www.freecodecamp.org/news/build-a-personal-ai-web-research-agent-with-ollama-and-qwen/"/>
+        <updated>2026-06-26T18:07:10.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, I’ll show you how to build an AI web research agent using Ollama, Qwen, and Python. The agent searches the web for a topic, fetches relevant pages, and uses a local LLM to generate a]]></summary>
+        <author>
+            <name>Darsh Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手動診断でしか見つからない脆弱性の話 - エムティーアイ エンジニアリングブログ]]></title>
+        <id>https://tech.mti.co.jp/entry/ac2026summer/0626</id>
+        <link href="https://tech.mti.co.jp/entry/ac2026summer/0626"/>
+        <updated>2026-06-26T17:51:33.000Z</updated>
+        <summary type="html"><![CDATA[※この記事は「エムティーアイ Blog Summer 2026」の 6/26 の記事です。 こんにちは、テクノロジー本部 Red Teamの石廣です。 今回は、Red Teamの強みでもある手動診断について、自動スキャンとの違いを交えながらお話しします。 目次 はじめに 自動スキャンが得意なこと 自動・手動・コードレビューの役割分担 自動スキ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Cloudflare Tunnel Alternatives – How to Choose the Right Tunneling Solution for Your Use Case]]></title>
+        <id>6a3ea9940d87116ae52e3a24</id>
+        <link href="https://www.freecodecamp.org/news/how-to-choose-the-right-tunneling-tool/"/>
+        <updated>2026-06-26T16:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare Tunnel is a secure tunneling solution that allows developers to expose local applications and private services to the internet without opening inbound ports or changing firewall rules. Inst]]></summary>
+        <author>
+            <name>Abdul Talha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【6月26日ランキング】【役に立つの？】「Google公式」の初心者向けAI講座、受けてみたら想像以上にすごかった／ほか19本]]></title>
+        <id>https://techfeed.io/categories/all/selections/daily/2026/6/26?from=rss</id>
+        <link href="https://techfeed.io/categories/all/selections/daily/2026/6/26?from=rss"/>
+        <updated>2026-06-26T14:59:59.059Z</updated>
+        <summary type="html"><![CDATA[<img src="https://image.itmedia.co.jp/business/articles/2606/25/cover_news034.png"><br>すべてカテゴリー 2026年6月26日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 【役に立つの？】「Google公式」の初心者向けAI講座、受けてみたら想像以上にすごかった（www.itmedia.co.jp）<br>2位: 「Mac」「iPad」突然の一斉値上げ　MacBook Airは18万4800円→22万4800円からに（www.itmedia.co.jp）<br>3位: まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に（pc.watch.impress.co.jp）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2026/6/26?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Your AI Models with Micro-DDP]]></title>
+        <id>6a3e8bdd236a80e142a6cfb5</id>
+        <link href="https://www.freecodecamp.org/news/scaling-your-ai-models-with-micro-ddp/"/>
+        <updated>2026-06-26T14:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Scaling large AI models requires more than just raw computing power. It demands sophisticated techniques to distribute workloads efficiently across hardware. We just posted a new course on the freeCod]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Computers Can’t Count Money]]></title>
+        <id>6a3e89720906465b70cc2db8</id>
+        <link href="https://www.freecodecamp.org/news/why-computers-can-t-count-money/"/>
+        <updated>2026-06-26T14:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Computers are incredibly fast, but they have a surprising, fundamental flaw when it comes to counting money. In our latest freeCodeCamp.org video, "Why Computers Can’t Count Money," Ania Kubow dives i]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an AI Agent in Telegram with Vercel, Cursor, Composio]]></title>
+        <id>6a3e883af66202341a399634</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-agent-in-telegram-with-vercel-cursor-composio/"/>
+        <updated>2026-06-26T14:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Building your own AI agent has never been more accessible. We just released a comprehensive new course on the freeCodeCamp.org YouTube channel that guides you through building a powerful, persistent A]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[潰れたネジ山用の特殊ビットも入った特殊精密工具138点セット「TL-027」がアイネックスから]]></title>
+        <id>https://akiba-pc.watch.impress.co.jp/docs/news/news/2119701.html</id>
+        <link href="https://akiba-pc.watch.impress.co.jp/docs/news/news/2119701.html"/>
+        <updated>2026-06-26T11:56:29.000Z</updated>
+        <summary type="html"><![CDATA[潰れたネジ山用の特殊ビットも入った特殊精密工具138点セット「TL-027」がアイネックスから発売された。店頭価格は2,780円。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[気持ちイイほどよく吹っ飛ぶ!!　電動エアダスターが便利過ぎるのでHiKOKIの18Vモデルを買ったら爆風すぎてやみつきになった件 【テレワークグッズ・ミニレビュー 第162回】]]></title>
+        <id>https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2120194.html</id>
+        <link href="https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2120194.html"/>
+        <updated>2026-06-26T11:47:00.000Z</updated>
+        <summary type="html"><![CDATA[以前エレコムの電動エアダスターを紹介した。コンパクトながらかなり強力な風量で、キーボードなどの掃除用に買ったが、実際には自転車を洗車したあとの水気を飛ばしたり、すき間にたまったホコリ取りなどで気持ちいいぐらいに吹っ飛んでくれるので、大活躍している。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火山灰に埋もれて炭化した古代ローマの巻物を広げることなく1巻丸ごと解読することに成功]]></title>
+        <id>https://gigazine.net/news/20260626-vesuvius-challenge-carbonised-herculaneum-scroll/</id>
+        <link href="https://gigazine.net/news/20260626-vesuvius-challenge-carbonised-herculaneum-scroll/"/>
+        <updated>2026-06-26T11:28:39.000Z</updated>
+        <summary type="html"><![CDATA[西暦79年、イタリア・ナポリ近郊にあるヴェスヴィオ火山の噴火により、ポンペイやヘルクラネウムといった古代ローマの都市が壊滅しました。そんなヘルクラネウムの遺跡から発掘された黒焦げになった古代ローマの巻物を、物理的に広げることなく1巻丸ごと解読に成功したと報告されました。 Complete virtual unwrapping a...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイルが開始を目指す衛星ダイレクト通信、700MHz帯の使用ルール策定]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/2120475.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/2120475.html"/>
+        <updated>2026-06-26T10:42:11.000Z</updated>
+        <summary type="html"><![CDATA[総務省は、情報通信審議会より「衛星コンステレーションによる携帯電話向け700MHz帯非静止衛星通信システムの技術的条件」について一部答申を受けた。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホでも213tok/sの爆速推論を実現するモデル「LFM2.5-230M」無料公開]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/2120513.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/2120513.html"/>
+        <updated>2026-06-26T10:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Liquid AIは6月25日(米国時間)、同社最小のエージェントAIモデル「LFM2.5-230M」をオープンウェイトで公開した。ツール呼び出しやデータ抽出といった軽量なエージェント用途に特化している。パラメータ数は230M(=0.2B)で、Hugging Faceからダウンロードして利用できる。CPUで4bit量子化したモデルを利用した場合、スマートフォン「Galaxy S25 Ultra」では213tok/s、シングルボードコンピュータの「Raspberry Pi 5」でも42tok/sの高速な応答を実現するという。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky、ユーザー数が4500万人を突破]]></title>
+        <id>https://www.watch.impress.co.jp/docs/news/2120504.html</id>
+        <link href="https://www.watch.impress.co.jp/docs/news/2120504.html"/>
+        <updated>2026-06-26T09:56:18.000Z</updated>
+        <summary type="html"><![CDATA[分散型SNSのBlueskyは、世界のユーザー数が4,500万人を突破したことを明らかにした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTの座を奪ったCodex、OpenAI法務・財務にも浸透]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/2120497.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/2120497.html"/>
+        <updated>2026-06-26T09:49:45.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIは6月25日、AIコーディングエージェント「Codex」の利用状況に関する調査結果を報告した。同社内のケースでは、現在エンジニア以外の部門でもCodexを主要なAIツールとして活用しており、従業員の出力トークンの85%以上をCodexが占めているという。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近は文字を入れた解説画像をアップしただけで生成AI呼ばわりされるのか……手作業だよ！]]></title>
+        <id>https://posfie.com/@s1yu/p/mfcsUza</id>
+        <link href="https://posfie.com/@s1yu/p/mfcsUza"/>
+        <updated>2026-06-26T09:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Pinky Closet（ピンキークローゼット） @pinkycloset_jp *˖性別関係なく、なりたい自分を叶える場所『Pinky Closet（ピンキークローゼット）』の公式アカウント*˖ 男性でも可愛くなれるお洋服やアイテム、ブログなどをご紹介したり、時にはスタッフのつぶやきなども…*˖ pinkycloset.jp Pinky Closet（ピンキークローゼッ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ政権がOpenAIに「GPT-5.6」のリリースを遅らせるよう要請]]></title>
+        <id>https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/</id>
+        <link href="https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/"/>
+        <updated>2026-06-26T09:19:43.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIの次期大型モデル「GPT-5.6」について、潜在的な安全保障問題への懸念から、トランプ政権がリリースを遅らせるように要請していることが明らかになりました。 Trump Administration Asks OpenAI to Stagger Release of New Model Over Security Concerns — The Information https://www.theinformation.com/articl...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadやMacBookなど一斉値上げ--「前例のない部材高騰のため」とアップル説明　秋にはiPhoneも？]]></title>
+        <id>https://japan.cnet.com/article/35249505/</id>
+        <link href="https://japan.cnet.com/article/35249505/"/>
+        <updated>2026-06-26T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[米Appleが、一部の「MacBook」「iPad」「HomePod」を値上げした。メモリやストレージ向け半導体の需給逼迫が理由で、機種によっては最大33%の大幅な引き上げとなる。現時点で「iPhone」は据え置かれたが、CNETの専門記者は今秋にもiPhoneに値上げが及ぶ可能性が高いとみている。]]></summary>
+        <author>
+            <name>Corin Cesaric-Epple （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人の資産運用、AIチャットで完結　銀行28社連合が28年度にも実現へ - 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUB246DY0U6A620C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUB246DY0U6A620C2000000/"/>
+        <updated>2026-06-26T09:01:27.000Z</updated>
+        <summary type="html"><![CDATA[個人の資産運用を相談から商品購入手続きまで自律型の人工知能（AI）のチャットなどで一括対応できる仕組み作りが7月から始まる。三菱UFJフィナンシャル・グループなど3メガバンクを含む計28社が連携し、2028年度にも商用化を目指す。チャットなどのAIツールは投資家に金融サービスを使ってもらうための入り口になりつつ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルビーの白黒パッケにイラストを描くブームに生成AIや合成で乗っかる人が増えて残念→どこに面白みを感じるか人によって違うのでこういう事態が起こる？]]></title>
+        <id>https://togetter.com/li/2713818</id>
+        <link href="https://togetter.com/li/2713818"/>
+        <updated>2026-06-26T08:45:52.000Z</updated>
+        <summary type="html"><![CDATA[くりひろし＠C108東7"Ｕ31b"です！漫画図書館Ｚ10周年キャンペーン参加中！ @kurihiroshi 例のカルビー銀パッケへイラストを描くムーブメント、あっという間に生成AIと別描きイラスト合成ばっかりになったので残念だなぁ。 なんでそのまま描くだけって簡単なことをしないんだろうか？ ちゃんと描いてる人のは見ただけで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インスタンスサイズを「上げた」のに、Auroraのコストが「下がった」話 - Timee Product Team Blog]]></title>
+        <id>https://tech.timee.co.jp/entry/2026/06/26/155400</id>
+        <link href="https://tech.timee.co.jp/entry/2026/06/26/155400"/>
+        <updated>2026-06-26T08:22:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。プラットフォームエンジニアリングチームに所属している徳富(@yannKazu1)です。 「インスタンスサイズを上げたらコストが下がりました」と言うと、だいたい「？」という顔をされます。スペック上げたらお金かかるに決まってるだろ、と。自分もそう思っていたので気持ちはわかります。 この記事では...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub ActionsでAI to Humanになるようレビューフローをコントロールする - プププなテクブ]]></title>
+        <id>https://blog.inorinrinrin.com/entry/2026/06/26/164821</id>
+        <link href="https://blog.inorinrinrin.com/entry/2026/06/26/164821"/>
+        <updated>2026-06-26T08:13:17.000Z</updated>
+        <summary type="html"><![CDATA[GitHub After Dark Osakaでの登壇資料です。オリジナルの資料はこちらです。 このエントリはGitHub After Dark Osakaでお話しした内容を文字起こししているものです。 AIレビューと人間のレビューが同時に走る問題 CodeRabbit や GitHub Copilot などの AI コードレビューツールを導入しているチームでは、こんな状況に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時間内に「LaTeX」で数式を打ち込め！ 新感覚Webアプリ「数式タイピング」が楽しい／高校レベルから大学レベルまでをカバー、復習もできるぞ【やじうまの杜】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120299.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120299.html"/>
+        <updated>2026-06-26T07:46:04.000Z</updated>
+        <summary type="html"><![CDATA[「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、金融情報サービス「Google Finance」を大幅刷新　Androidアプリも新登場]]></title>
+        <id>https://japan.cnet.com/article/35249500/</id>
+        <link href="https://japan.cnet.com/article/35249500/"/>
+        <updated>2026-06-26T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[グーグルは、金融情報サービス「Google Finance」の大幅なアップデートと、新たな「Android」向けアプリの提供開始を発表した。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Windows 10」のセキュリティ更新、さらに1年延長　2027年10月12日まで　個人向け]]></title>
+        <id>https://japan.cnet.com/article/35249496/</id>
+        <link href="https://japan.cnet.com/article/35249496/"/>
+        <updated>2026-06-26T07:07:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、「Windows 10」の拡張セキュリティ更新（ESU）プログラムを個人向けに1年延長した。公式ページの記載を更新し、これまで2026年10月13日までだった提供期限を2027年10月12日まで延ばした。Windows 10を、あと1年はセキュリティ更新を受けながら使い続けられる。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分が詳しくない領域でAIを使う #プロヒス2026]]></title>
+        <id>https://speakerdeck.com/konifar/zi-fen-gaxiang-sikunailing-yu-deaiwoshi-u</id>
+        <link href="https://speakerdeck.com/konifar/zi-fen-gaxiang-sikunailing-yu-deaiwoshi-u"/>
+        <updated>2026-06-26T06:33:40.000Z</updated>
+        <summary type="html"><![CDATA[PRODUCT HISTORY CONFERENCE 2026 https://lp-prohis.youtrust.jp/]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[講談社、アマチュアスポーツ・データベースの「グリーンカード」に出資　選手データを連携し付加価値創出]]></title>
+        <id>https://japan.cnet.com/article/35249492/</id>
+        <link href="https://japan.cnet.com/article/35249492/"/>
+        <updated>2026-06-26T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[グリーンカード（福岡市）は6月26日、講談社と資本業務提携を結んだと発表した。講談社を単独の引受先とする第三者割当増資で出資を受け、両社はサッカーを中心に、アマチュアからプロまでの選手データをつなぐ協業の検討を始める。]]></summary>
+        <author>
+            <name>小口貴宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIデータセンター建設ブームで「錫（スズ）」に脚光 | Forbes JAPAN 公式サイト（フォーブス ジャパン）]]></title>
+        <id>https://forbesjapan.com/articles/detail/99724</id>
+        <link href="https://forbesjapan.com/articles/detail/99724"/>
+        <updated>2026-06-26T05:35:16.000Z</updated>
+        <summary type="html"><![CDATA[およそ4000年前の青銅器時代以来、錫（スズ）への需要がこれほど強く、価格がこれほど高くなったことはない。3週間前には1トンあたり5万8900ドル（約948万2900円。1ドル＝161円換算）という過去最高値に達した。 かつての時代には、錫と銅の合金で作られた青銅製の道具や武器が錫の主な使い道だった。これに対し今日では...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30代を捧げてきた技術が死にそう]]></title>
+        <id>https://anond.hatelabo.jp/20250528222518</id>
+        <link href="https://anond.hatelabo.jp/20250528222518"/>
+        <updated>2026-06-26T05:06:58.000Z</updated>
+        <summary type="html"><![CDATA[日本の端の方にいるIT技術者である。 30代をとある技術に全ベットしてきた。 数年前までは結構勢いがあったのだが、とある上位互換の技術の台頭により、一気にシェアを落としてしまった。 採算が取れないので会社としても、近々プロジェクトを終了させるだろう。IT技術なんて栄枯盛衰あって当然だが、実際に自分の携わっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube、ショート動画で「2倍速再生」を可能に　「低評価」ボタンは廃止]]></title>
+        <id>https://japan.cnet.com/article/35249480/</id>
+        <link href="https://japan.cnet.com/article/35249480/"/>
+        <updated>2026-06-26T04:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Google傘下のYouTubeは米国時間6月25日、短尺動画機能「YouTubeショート」の視聴体験を向上させる複数の新機能を発表した。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天井からの風が快適! アレクサ対応サーキュライトは扇風機置けない部屋も涼しい【家電レビュー】]]></title>
+        <id>https://kaden.watch.impress.co.jp/docs/column_review/kaden/2119365.html</id>
+        <link href="https://kaden.watch.impress.co.jp/docs/column_review/kaden/2119365.html"/>
+        <updated>2026-06-26T04:23:40.000Z</updated>
+        <summary type="html"><![CDATA[暑くなってくると欠かせないのがエアコンや扇風機などの空調家電。これらを組み合わせることで部屋を涼しくできます。しかし、いつも悩むのが扇風機の置き場所です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6月26日は「ノートパソコンの日」。日本記念日協会が認定]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/2120303.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/2120303.html"/>
+        <updated>2026-06-26T03:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Dynabookは、6月26日が「ノートパソコンの日」として、日本記念日協会に認定されたことを発表した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メインフレーム離脱プロジェクトの7割超が失敗、理由は「生成AIの過大評価」]]></title>
+        <id>https://www.itmedia.co.jp/enterprise/articles/2606/25/news052.html</id>
+        <link href="https://www.itmedia.co.jp/enterprise/articles/2606/25/news052.html"/>
+        <updated>2026-06-26T03:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Gartnerは2026年6月18日（現地時間）、2026年に開始されたメインフレーム離脱プロジェクトの70％超が、意図した利益を生み出せずに終わるとの予測を発表した。原因として、生成AIツールの能力を過大に見積もる傾向を挙げた。同社は、複雑なレガシーコードの変換や移行について、生成AIによる効率化を強調する市場の訴求...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経営者になって廃人となりすべてを失った弟]]></title>
+        <id>https://anond.hatelabo.jp/20260626120948</id>
+        <link href="https://anond.hatelabo.jp/20260626120948"/>
+        <updated>2026-06-26T03:21:28.000Z</updated>
+        <summary type="html"><![CDATA[時期はぼかすが今年、弟が死んだ。 44歳、心不全だった。 弟は統合失調症になって社会からリタイヤしてようやく治療の甲斐あって薬で日常生活は送れる程にはなっていた。 統合失調症罹患者は心不全での突然死のリスクが普通の人より30％近く高いので生活管理に気を付けてください、と主治医の先生からは聞いていた。 弟...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[final、“気持ちいい”に特化した極小耳栓「YOKONE」一般発売開始。2480円から]]></title>
+        <id>https://av.watch.impress.co.jp/docs/news/2120256.html</id>
+        <link href="https://av.watch.impress.co.jp/docs/news/2120256.html"/>
+        <updated>2026-06-26T02:48:37.000Z</updated>
+        <summary type="html"><![CDATA[finalは、GREEN FUNDINGで先行販売していた"気持ちいい"に特化した耳栓「YOKONE」の一般発売を開始した。予定価格は「しっかり遮音タイプ」が4,980円、「やさしい遮音タイプ」と「やわらか装着タイプ」が各2,480円。軸は長さの異なるS/M/Lの3サイズ、イヤーピースは直径や高さの異なるS/M/Lサイズを同梱。耳の形状や装着の好み、シーンに合わせて計9パターンから選択できる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM、爪サイズに1000億個のトランジスタを搭載する0.7nmチップを発表]]></title>
+        <id>https://japan.cnet.com/article/35249474/</id>
+        <link href="https://japan.cnet.com/article/35249474/"/>
+        <updated>2026-06-26T02:44:00.000Z</updated>
+        <summary type="html"><![CDATA[IBMは米国時間6月25日、同社の最新半導体技術を用いた初のチップを発表した。爪ほどの小さなハードウェアに、1000億個近くのトランジスタを搭載している。]]></summary>
+        <author>
+            <name>Katelyn Chedraoui Lori Grunin （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authorization Design as a User Story：権限設計を通して学ぶ、業務フローとユーザーストーリーのポイント - freee Developers Hub]]></title>
+        <id>https://developers.freee.co.jp/entry/authorization-design-as-a-user-story</id>
+        <link href="https://developers.freee.co.jp/entry/authorization-design-as-a-user-story"/>
+        <updated>2026-06-26T02:18:55.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに こんにちは、権限管理基盤チームで PdM をしている sentokun と申します。 私は基盤チームの立場でよくプロダクトチームから権限設計に関する相談を受けるのですが、実際にやっている内容に立ち返ると、それは業務フローとユーザーストーリーの整理に通じると感じています。 この記事では、権限設計という複...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクロソフト、「Xbox」を世界中でまた値上げへ メモリ価格2.5倍以上に]]></title>
         <id>https://japan.cnet.com/article/35249471/</id>
@@ -14,6 +424,26 @@
         <summary type="html"><![CDATA[マイクロソフトは2026年8月1日から、「Xbox Series X」および「Xbox Series S」を世界中で再び値上げすると発表した。]]></summary>
         <author>
             <name>Oscar Gonzalez （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる]]></title>
+        <id>https://speakerdeck.com/yuukit/alerting-in-the-wild</id>
+        <link href="https://speakerdeck.com/yuukit/alerting-in-the-wild"/>
+        <updated>2026-06-26T01:36:57.000Z</updated>
+        <summary type="html"><![CDATA[ホンマでっかSRE勉強会 #1 https://honmadekka.connpass.com/event/395755/]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube、「ショート動画」を2倍速で再生可能に　「低評価」ボタンは廃止]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2606/26/news069.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2606/26/news069.html"/>
+        <updated>2026-06-26T01:02:59.000Z</updated>
+        <summary type="html"><![CDATA[米Google傘下のYouTubeは6月25日（現地時間）、短編動画「ショート動画」のプレーヤーに複数の新機能を導入すると発表した。同日から順次展開する。 新たに、再生画面上のアイコンやテキストを一時的に非表示にする「Clear Screen」モードを追加する。動画に集中できる没入感のある表示を提供する目的という。 再生速度...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -27,6 +457,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita]]></title>
+        <id>https://qiita.com/yuyanz/items/5c96232d188ecfb2544b</id>
+        <link href="https://qiita.com/yuyanz/items/5c96232d188ecfb2544b"/>
+        <updated>2026-06-26T00:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カテゴリー 「ブックマーカー分析」 - はてな匿名ダイアリー]]></title>
+        <id>https://anond.hatelabo.jp/c/%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E5%88%86%E6%9E%90</id>
+        <link href="https://anond.hatelabo.jp/c/%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E5%88%86%E6%9E%90"/>
+        <updated>2026-06-25T23:42:54.000Z</updated>
+        <summary type="html"><![CDATA[結論から言うと、`gr■■■` と双璧という見立てはかなり妥当です。 ただし役割は少し違います。 `gr■■■` が 反右派・反ネトウヨ・反自民・反ミソジニーの広域焼却炉 だとすると、`zy■■` は ジェンダー/ミソジニー/男性特権/アンチフェミ批判に特化した高出力バーサーカー です。 1. 基本プロファイル 指標 値 総ブックマー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[現場の施設情報、360度画像でまとめて管理　山下PMC「b-platform」がkintone連携強化]]></title>
         <id>https://japan.cnet.com/article/35249457/</id>
         <link href="https://japan.cnet.com/article/35249457/"/>
@@ -34,6 +484,26 @@
         <summary type="html"><![CDATA[山下PMCは6月25日、施設情報を管理するクラウドサービス「b-platform」で、サイボウズの「kintone」との連携機能を強化したと発表した。複数のkintoneアプリにバラバラに入っていた設備情報や点検記録を自動で集め、360度画像上の一画面から横断的に確認・更新できるようになった。]]></summary>
         <author>
             <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Reliable SSE Client in TypeScript]]></title>
+        <id>6a3db0651016f6a6b4bd2a89</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-reliable-sse-client-in-typescript/"/>
+        <updated>2026-06-25T22:49:09.000Z</updated>
+        <summary type="html"><![CDATA[When you build a feature that streams data, like an AI chat response or a live notification feed, the network is rarely as cooperative as fetch makes it look. Connections drop, proxies buffer response]]></summary>
+        <author>
+            <name>timothy ogbemudia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Dart: Learn Asynchronous Programming with Streams, Isolates, and the Event Loop]]></title>
+        <id>6a3daf77210c3204fe177441</id>
+        <link href="https://www.freecodecamp.org/news/advanced-dart-learn-async-programming-with-streams-isolates-event-loop/"/>
+        <updated>2026-06-25T22:45:11.000Z</updated>
+        <summary type="html"><![CDATA[I had been writing Flutter apps for over a year before I actually understood how Dart handles concurrency. I knew how to use await. I knew FutureBuilder and StreamBuilder well enough to get things wor]]></summary>
+        <author>
+            <name>Gidudu Nicholas</name>
         </author>
     </entry>
     <entry>
@@ -13030,646 +13500,6 @@ What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, a
         <summary type="html"><![CDATA[<img src="https://res.cloudinary.com/zenn/image/upload/s--PqF9Nn3v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CJWT%2520%25E3%2582%2592%2520localStorage%2520%25E3%2581%25AB%25E7%25BD%25AE%25E3%2581%258F%25E3%2581%25AA%25E3%2580%258D%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25A8%2580%25E3%2582%258F%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E3%2580%2581Cookie%2520%25E5%259B%259E%25E5%25B8%25B0%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E6%2599%2582%25E7%25B3%25BB%25E5%2588%2597%25E6%2595%25B4%25E7%2590%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:khale%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFjMGJhZTZjOTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"><br>すべてカテゴリー 2026年5月28日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 「JWT を localStorage に置くな」はなぜ言われるのか、Cookie 回帰までの時系列整理（zenn.dev）<br>2位: Anthropic、脆弱性を自動修正する「Claude Code」プラグイン（pc.watch.impress.co.jp）<br>3位: ChatGPTに「職場でバカって言う人どう思う？」って聞いたら「許せないね！」→「私が言ったんだよね」って返したら「気持ちわかるよ」って言ってきたから適当（togetter.com）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2026/5/28?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
         <author>
             <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`]]></title>
-        <id>https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/</id>
-        <link href="https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/"/>
-        <updated>2026-05-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Production RAG with LangChain & Vector Databases]]></title>
-        <id>6a183a86badcd8afcb9da431</id>
-        <link href="https://www.freecodecamp.org/news/production-rag-with-langchain-vector-databases/"/>
-        <updated>2026-05-28T12:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Master the transition from simple prototypes to production-grade RAG systems by addressing the critical scaling, debugging, and security challenges that standard tutorials often ignore. We just posted]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日立が全グループのパソコン17万台にレノボ採用、運用もアウトソース]]></title>
-        <id>https://xtech.nikkei.com/atcl/nxt/news/24/03246/</id>
-        <link href="https://xtech.nikkei.com/atcl/nxt/news/24/03246/"/>
-        <updated>2026-05-28T12:43:37.000Z</updated>
-        <summary type="html"><![CDATA[レノボ・ジャパンは2026年5月28日、日立製作所が全世界のグループ会社で使用する最大約17万3000台のパソコンについて、レノボのサービスである「Lenovo TruScale DaaS」を採用すると発表した。日立はパソコンを購入するのではなくサービスとして月額料金制で利用し、運用管理もレノボにアウトソースする。 日立はかつて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Codeですべての日常業務を爆速化しよう！]]></title>
-        <id>https://speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou</id>
-        <link href="https://speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou"/>
-        <updated>2026-05-28T12:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Qiita Conference 2026 https://qiita.com/official-campaigns/conference/2026]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIの成果物を、人類がレビューしない時代がくるのではないか？｜深津 貴之 (fladdict)]]></title>
-        <id>https://note.com/fladdict/n/n700730fc0efb</id>
-        <link href="https://note.com/fladdict/n/n700730fc0efb"/>
-        <updated>2026-05-28T12:11:55.000Z</updated>
-        <summary type="html"><![CDATA[小学生に複雑に見えることが、中学生にはシンプルに見える。中学生が頭を抱えていたことも、高校生になると「なんでこれで悩んでたんだろう」に変わる。 この構図を、そのまま先まで延ばしてみる。すると、ちょっと不穏な未来が見えてくる。 「人間に複雑すぎるものも、実は超知性にはシンプルに見えるのではないか」 仮...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NGK、半導体・通信向け開発に2500億円投資　AIの「裏方」に軸足 - 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOFD20C5F0Q6A520C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOFD20C5F0Q6A520C2000000/"/>
-        <updated>2026-05-28T12:04:07.000Z</updated>
-        <summary type="html"><![CDATA[NGK（旧・日本ガイシ）は2030年度までに2500億円を投じ、半導体製造の基幹部品や高速通信向け製品の開発を進める。28日、新たな長期経営計画を発表した。電気自動車（EV）の普及で自動車向け事業が縮小することを見据え、生成AI（人工知能）の普及を支える「裏方」に力を注ぐ。長期経営計画では35年度までの10年間で連結...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[何故今日においても回帰分析の理論的基礎を勉強しておくべきなのか - 渋谷駅前で働くデータサイエンティストのブログ]]></title>
-        <id>https://tjo.hatenablog.com/entry/2026/05/28/180000</id>
-        <link href="https://tjo.hatenablog.com/entry/2026/05/28/180000"/>
-        <updated>2026-05-28T11:48:53.000Z</updated>
-        <summary type="html"><![CDATA[先日のことですが、以下のredtea(@Syuiro_2)さんの記事をお見かけしました。 これがもう本当に素晴らしい回帰分析の解説記事で、もう少し色々書き足すだけでかの佐和本*1の現代版として書籍化できるのではないか、というほどの優れた内容です*2。発展的話題として最近時々話題になる二重機械学習(Double/Debiased Machin...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソースソフトウェア開発者を標的にするボットネット「Glassworm」をCrowdStrikeやGoogleが遮断]]></title>
-        <id>https://gigazine.net/news/20260528-crowdstrike-takedown-glassworm/</id>
-        <link href="https://gigazine.net/news/20260528-crowdstrike-takedown-glassworm/"/>
-        <updated>2026-05-28T11:21:57.000Z</updated>
-        <summary type="html"><![CDATA[CrowdStrikeがGoogle・Shadowserver Foundationと協力し、オープンソースのソフトウェア供給網を狙うボットネット「Glassworm」の遮断作戦を実行したと発表しました。Glasswormは開発者の端末や認証情報を侵害し、下流の組織や利用者に被害が広がる恐れのある脅威として扱われています。 Inside CrowdStrike’s Takedown ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Share（AirDrop）でAndroid端末からiPhoneへファイル転送する]]></title>
-        <id>https://orefolder.jp/2026/05/quick-share-airdrop-2/</id>
-        <link href="https://orefolder.jp/2026/05/quick-share-airdrop-2/"/>
-        <updated>2026-05-28T11:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Android端末には、端末間でファイルを簡単に共有できる「Quick Share」という機能があります。一方、iPhoneやMacなどAppleデバイスでも同じようにファイル共有できる「AirDrop」という機能があります。 これまではAndroidはAndroid間で、AppleデバイスはAppleデバイス間のみでこれが利用できていたのですが、2025年11月...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重要だが緊急でない仕事が組織を停滞させる｜MRYY]]></title>
-        <id>https://note.com/mryy/n/n78d9ac66059e</id>
-        <link href="https://note.com/mryy/n/n78d9ac66059e"/>
-        <updated>2026-05-28T10:42:33.000Z</updated>
-        <summary type="html"><![CDATA[概要重要だが緊急でない仕事は、長期的に取り組むべきと推奨される一方で、着手すると組織のパフォーマンスを停滞させる厄介な性質を持つ。 重要だが緊急でない仕事をプロジェクト化しても緊急の割り込みに時間を奪われ、メンバーはタスクを先延ばしに、MTGは欠席を繰り返し、定例会はちょっとしたタスクのやれたことの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClawブームのその後とHermes Agent]]></title>
-        <id>https://blog.lai.so/hermes-agent/</id>
-        <link href="https://blog.lai.so/hermes-agent/"/>
-        <updated>2026-05-28T10:27:32.000Z</updated>
-        <summary type="html"><![CDATA[以前OpenClawの何が特別なのか？で、セルフホストできる「自分専用のパーソナルアシスタント」としてOpenClawを取り上げました。Mac miniなどの手元のマシンに住まわせて、TelegramやDiscordから話しかけると雑務をこなしてくれる、常駐型のエージェントです。指示がなくても定期的に自分から動くHEARTBEAT、会話やメモ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Agentにレビューしてもらったら、設計書を書くことが急に楽しくなった話 | iret.media]]></title>
-        <id>https://iret.media/197744</id>
-        <link href="https://iret.media/197744"/>
-        <updated>2026-05-28T09:41:36.000Z</updated>
-        <summary type="html"><![CDATA[はじめに結論から先に書くと、AWSのAIセキュリティレビューを「設計書込み」で当ててみたら、設計書を書くこと自体が次のレビューの評価軸を作っていた、という話です。順を追って書いていきます。 最近、社内で生成AIを使ったプロダクトを作る機会が増えてきました。 私はいま MSP 監視チームで大規模障害時の対応を補...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太陽光発電所の「銅線盗難」、ミリ波レーダーで監視効率化　NTTとパナが導入]]></title>
-        <id>https://japan.cnet.com/article/35248170/</id>
-        <link href="https://japan.cnet.com/article/35248170/"/>
-        <updated>2026-05-28T09:28:00.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモビジネスとパナソニック コネクトは5月27日、メガソーラー太陽光発電所での銅線ケーブル盗難対策として、ミリ波レーダーとセキュリティカメラを組み合わせた次世代の侵入検知ソリューションを導入したと発表した。NTTアノードエナジーのメガソーラー太陽光発電所に展開した。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レノボ、ノートPC部材のコスト上昇を見込む「SSDが最も厳しい」]]></title>
-        <id>https://japan.cnet.com/article/35248173/</id>
-        <link href="https://japan.cnet.com/article/35248173/"/>
-        <updated>2026-05-28T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[ノボ・ジャパンは2026年度の事業戦略説明会の中で、PCの主要部材であるメモリやSSDのコストが今後も上がる見通しを示した。]]></summary>
-        <author>
-            <name>石井徹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI時代の私の技術インプットとアウトプット術]]></title>
-        <id>https://speakerdeck.com/tonkotsuboy_com/aishi-dai-nosi-noji-shu-inpututotoautopututoshu</id>
-        <link href="https://speakerdeck.com/tonkotsuboy_com/aishi-dai-nosi-noji-shu-inpututotoautopututoshu"/>
-        <updated>2026-05-28T08:55:17.000Z</updated>
-        <summary type="html"><![CDATA[Qiita Conference 2026（キータ カンファレンス 2026）で発表した資料です。 2025年、Claude Codeの登場により開発現場は大きく変わりました。日夜新しいAI技術が生まれては消え、Xのタイムラインを見れば椅子から転げ落ちた人で溢れかえっています。進化の早いこの時代の…]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100万円超えの超高級折りたたみスマホが登場　24金とダイヤをあしらった富裕層向け]]></title>
-        <id>https://japan.cnet.com/article/35248166/</id>
-        <link href="https://japan.cnet.com/article/35248166/"/>
-        <updated>2026-05-28T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[価格は「事実上、上限なし」というVertuの新型スマホ「AlphaFoldは、高給取りのCEOが望むあらゆる華やかさを備えている。]]></summary>
-        <author>
-            <name>Andrew Lanxon （CNET News） 翻訳校正： 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceXのIPO、日本からも申し込み可能に　楽天証券・SBI証券が募集へ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2605/28/news115.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2605/28/news115.html"/>
-        <updated>2026-05-28T08:09:32.000Z</updated>
-        <summary type="html"><![CDATA[楽天証券とSBI証券は5月27日、米Nasdaqへの上場を計画する米SpaceXをIPO銘柄として取り扱うと発表した。これにより日本の個人投資家は、両社を通じて新規公開株を公開価格で抽選により申し込めるようになる。 SpaceXは5月20日（現地時間）に上場申請書類を提出。Nasdaqにティッカーシンボル「SPCX」での上場を予定してお...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成AIが本当に変えるのは「検索」ではなく「設計知」だ]]></title>
-        <id>https://wirelesswire.jp/2026/05/93805/</id>
-        <link href="https://wirelesswire.jp/2026/05/93805/"/>
-        <updated>2026-05-28T07:56:39.000Z</updated>
-        <summary type="html"><![CDATA[清水 亮 ryo_shimizu 新潟県長岡市生まれ。1990年代よりプログラマーとしてゲーム業界、モバイル業界などで数社の立ち上げに関わる。現在も現役のプログラマーとして日夜AI開発に情熱を捧げている。 「これを一年間も作っていたの？お客さんもいないのに?」 「はい」 一瞬で嫌な空気が流れた。 おしゃれなカフェスペース...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグル社員をインサイダー取引で起訴、予測市場で約2億円の不当利益]]></title>
-        <id>https://japan.cnet.com/article/35248163/</id>
-        <link href="https://japan.cnet.com/article/35248163/"/>
-        <updated>2026-05-28T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[グーグルのソフトウェアエンジニアが同社の機密情報を悪用して予測市場でインサイダー取引を行い、不当な利益を得たとして起訴された。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜ日本は「子どものSNS利用」を禁止しないのか--その理由を総務省の議論から読み解く]]></title>
-        <id>https://japan.cnet.com/article/35248155/</id>
-        <link href="https://japan.cnet.com/article/35248155/"/>
-        <updated>2026-05-28T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[総務省は、SNSを利用する青少年を保護する目的で、年齢確認の厳格化を事業者に求める方針を定めている。一方、海外の一部で導入が進んでいる年齢による一律の利用制限は見送る方針だ。夏までに報告書をまとめ、こども家庭庁などと連携し、法制化を目指す予定となっている。なぜ日本では年齢での一律規制をしないのか。日本の対策は適切なのだろうか。]]></summary>
-        <author>
-            <name>高橋暁子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI、プライベートMCPサーバーをChatGPTやCodexに安全に接続できる「Secure MCP Tunnel」を提供開始 | gihyo.jp]]></title>
-        <id>https://gihyo.jp/article/2026/05/openai-secure-mcp-tunnel</id>
-        <link href="https://gihyo.jp/article/2026/05/openai-secure-mcp-tunnel"/>
-        <updated>2026-05-28T06:32:08.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI⁠⁠、プライベートMCPサーバーをChatGPTやCodexに安全に接続できる「Secure MCP Tunnel」を提供開始 OpenAIは2026年5月28日、プライベートネットワーク内のMCPサーバーを、インターネットに公開することなくOpenAIのサービスに接続できる「Secure MCP Tunnel」の提供を開始した。 Secure MCP Tunnel | OpenAI Priva...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アマゾン、AIで映像制作を支援　プライム・ビデオで配信予定の3作品とは]]></title>
-        <id>https://japan.cnet.com/article/35248145/</id>
-        <link href="https://japan.cnet.com/article/35248145/"/>
-        <updated>2026-05-28T06:11:00.000Z</updated>
-        <summary type="html"><![CDATA[アマゾンは生成AIの取り組みを進めており、次は「プライム・ビデオ」の視聴者が、3本の新しいアニメシリーズでその成果に触れることになりそうだ。]]></summary>
-        <author>
-            <name>Kourtnee Jackson （CNET News） 翻訳校正： 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude CodeとCodexを2ヶ月使い比べて分かった選び方 — settings.jsonを育てた側が速い]]></title>
-        <id>https://zenn.dev/playpark/articles/claude-code-vs-codex-comparison</id>
-        <link href="https://zenn.dev/playpark/articles/claude-code-vs-codex-comparison"/>
-        <updated>2026-05-28T06:06:36.000Z</updated>
-        <summary type="html"><![CDATA[「どっちが速いの？」という問いへの正直な答え AIコーディングツールを検討するとき、誰もが最初に聞く。「Claude CodeとCodex、実際どっちが速い？」 ベンチマークや機能表は世の中に溢れている。でも「同じプロジェクトに両方投入した体感」をレポートしている記事はあまり見かけない。自分はNext.js 16 + React 19の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カリフォルニア州の“年齢確認法”、Linuxディストロは例外となる公算大 | gihyo.jp]]></title>
-        <id>https://gihyo.jp/article/2026/05/daily-linux-260528</id>
-        <link href="https://gihyo.jp/article/2026/05/daily-linux-260528"/>
-        <updated>2026-05-28T05:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Linux Daily Topics カリフォルニア州の“年齢確認法”⁠⁠、Linuxディストロは例外となる公算大 米国では1、2年前から複数の州でOSプロバイダに対してユーザの年齢確認を義務付ける法案が可決されつつあるが、そのなかでも比較的初期から独自の法律を制定したことで注目されてきたのがカリフォルニア州である。同州では2025...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Excel設計書の壁」を越え、生成AIでテスト仕様書の作成工数を4割削減した事例]]></title>
-        <id>https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news007.html</id>
-        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2605/28/news007.html"/>
-        <updated>2026-05-28T05:16:35.000Z</updated>
-        <summary type="html"><![CDATA[「Excel設計書の壁」を越え、生成AIでテスト仕様書の作成工数を4割削減した事例：＠IT Techブログ PickUp（TISインテックグループ編） IPAのデータによると、システム開発の工数の約5割が制作工程と結合テスト工程で占められています。この領域を工数削減できたら、開発がぐっと楽になると思いませんか？　本稿では、制...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon、新幹線で商品輸送を開始　青森・函館・金沢への当日配送を拡大]]></title>
-        <id>https://japan.cnet.com/article/35248143/</id>
-        <link href="https://japan.cnet.com/article/35248143/"/>
-        <updated>2026-05-28T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[アマゾンジャパンは5月28日、新幹線を活用した商品輸送の委託を始めたと発表した。東北新幹線（東京-新青森）、東北・北海道新幹線（東京-新函館北斗）、北陸新幹線（東京-金沢）の3路線で、新幹線車内の業務用スペースの一部を使い、商品を運ぶ。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネーフォワード、PayPay銀行との連携をついに再開]]></title>
-        <id>https://japan.cnet.com/article/35248142/</id>
-        <link href="https://japan.cnet.com/article/35248142/"/>
-        <updated>2026-05-28T04:35:00.000Z</updated>
-        <summary type="html"><![CDATA[マネーフォワードは5月28日、PayPay銀行との連携を再開したと発表した。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「国会議員マップ」話題　建設職人が個人で開発、議員の発言や政治の動きを分かりやすく　生成AI活用]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2605/28/news082.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2605/28/news082.html"/>
-        <updated>2026-05-28T04:03:56.000Z</updated>
-        <summary type="html"><![CDATA[衆参両院の国会議員について、国会での発言や本会議の投票記録などを横断的に検索・比較できるWebサイト「国会議員マップ」が「便利」「個人でここまで作ってすごい」などと注目を集めている。 小さな建設会社を経営し、工事現場で働く職人でもある「中島」氏が、けがで現場を離れた期間に立ち上げたというサイトだ。余...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コードレビュー文化に、ずっと違和感を感じていた]]></title>
-        <id>https://zenn.dev/yamamoto620/articles/7f022a21906ca8</id>
-        <link href="https://zenn.dev/yamamoto620/articles/7f022a21906ca8"/>
-        <updated>2026-05-28T03:54:39.000Z</updated>
-        <summary type="html"><![CDATA[長年システム開発をしてきて、コードレビュー文化に対して、ずっと違和感を感じていた。 もちろん、レビューそのものを否定したいわけではない。 ただ、現場を見続ける中で、どうしても疑問に感じていたことがある。 「本当にレビューでシステムを理解できているのか？」 ということだ。 一番システムを理解しているのは...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blueskyは「国家が関与する世論操作アカウント」を1年で8526件削除]]></title>
-        <id>https://gigazine.net/news/20260528-bluesky-state-backed-influence-activity/</id>
-        <link href="https://gigazine.net/news/20260528-bluesky-state-backed-influence-activity/"/>
-        <updated>2026-05-28T03:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Blueskyが2025年5月以降に「国家が関与する世論操作アカウント」を8526件削除したことを明らかにしました。 2025年5月以降、Bluesky上で国家ぐるみの世論操作に関わる8,526件のアカウントを削除しました。そのうち4,907件は2026年に対処したもので、昨年1年間と比較して約2倍のペースです。 乗っ取った実在アカウントを...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FacebookやInstagramの有料プラン「Plus」、世界展開へ]]></title>
-        <id>https://japan.cnet.com/article/35248136/</id>
-        <link href="https://japan.cnet.com/article/35248136/"/>
-        <updated>2026-05-28T03:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Metaは春の限定的なテストに続き、有料サブスクリプション「Facebook Plus」「Instagram Plus」「WhatsApp Plus」を世界中で展開すると発表した。]]></summary>
-        <author>
-            <name>Tyler Lacoma （CNET News） 翻訳校正： 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選 - Qiita]]></title>
-        <id>https://qiita.com/TMiyamoto/items/47a13155032f716a43bd</id>
-        <link href="https://qiita.com/TMiyamoto/items/47a13155032f716a43bd"/>
-        <updated>2026-05-28T03:38:52.000Z</updated>
-        <summary type="html"><![CDATA[Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 「毎週の会議前に、議事録テンプレートを手で作っている」 「請求書や見積書を、スプレッドシートから手作業で PDF 化している」 「フォーム申請が来るたびに、承認者へメールを手...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汎用人工知能(AGI)の実現は2030年頃と予想しているが2029年の可能性も視野に入れているとGoogle DeepMindのデミス・ハサビスCEOが発言]]></title>
-        <id>https://gigazine.net/news/20260528-google-deepmind-ceo-demis-hassabis-agi-2030/</id>
-        <link href="https://gigazine.net/news/20260528-google-deepmind-ceo-demis-hassabis-agi-2030/"/>
-        <updated>2026-05-28T03:09:57.000Z</updated>
-        <summary type="html"><![CDATA[Googleの年次開発者向け会議であるGoogle I/O 2026に出席したGoogle DeepMindのデミス・ハサビスCEOが、人間のように思考することが可能な汎用人工知能(AGI)の実現は「早ければ2029年になる」と発言したことが話題を呼んでいます。 Google DeepMind CEO Demis Hassabis says we're close to AGI https://www.axios.com/2...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JR西日本、技術ビジョンを8年ぶり刷新　生成AIの進歩などを受け]]></title>
-        <id>https://japan.cnet.com/article/35248127/</id>
-        <link href="https://japan.cnet.com/article/35248127/"/>
-        <updated>2026-05-28T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[JR西日本は5月27日、2018年に策定した「技術ビジョン」をアップデートしたと発表した。2026年度に策定した「中期経営計画2030」と歩調を合わせ、概ね2040年のJR西日本グループのありたい姿を描き直す内容で、挑戦分野を従来の12項目から18項目へ広げた。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグルのAI押し付けに反発？「DuckDuckGo」の利用者が急増]]></title>
-        <id>https://japan.cnet.com/article/35248120/</id>
-        <link href="https://japan.cnet.com/article/35248120/"/>
-        <updated>2026-05-28T02:24:00.000Z</updated>
-        <summary type="html"><![CDATA[検索エンジンおよびウェブブラウザを開発するDuckDuckGoは今週、新規ユーザーが急増していると明らかにした。そのタイミングは、グーグルの開発者会議「Google I/O」と重なっている。]]></summary>
-        <author>
-            <name>Alex Valdes （CNET News） 翻訳校正： 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大学での授業中、教室の有線LAN端子同士をLANケーブルで繋いだ奴がいたらしく、情報センターの職員が「絶許」みたいな感じで飛んできた「社会人でもこれやる人いるから怖い」]]></title>
-        <id>https://togetter.com/li/2702339</id>
-        <link href="https://togetter.com/li/2702339"/>
-        <updated>2026-05-28T02:15:36.000Z</updated>
-        <summary type="html"><![CDATA[Masashi Komori @masashikomori 人間の行動をだらだらと記録し続ける自称心理学者．大阪電気通信大学 情報工学科．『RとStanではじめる　心理学のための時系列分析入門』（講談社）2022/6/21発売　ソースコードを掲載したサポートサイト github.com/komorimasashi/…　一家に一冊]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都営地下鉄など、制服にポロシャツ導入　熱中症対策で6月1日から]]></title>
-        <id>https://japan.cnet.com/article/35248125/</id>
-        <link href="https://japan.cnet.com/article/35248125/"/>
-        <updated>2026-05-28T02:10:00.000Z</updated>
-        <summary type="html"><![CDATA[東京都交通局は5月27日、都営交通の制服にポロシャツを新たに導入すると発表した。気温上昇による熱中症対策と働きやすさの向上が狙いで、6月1日から職員が着用を始める。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - fujibee/agmsg]]></title>
-        <id>https://github.com/fujibee/agmsg</id>
-        <link href="https://github.com/fujibee/agmsg"/>
-        <updated>2026-05-28T01:58:35.000Z</updated>
-        <summary type="html"><![CDATA[# 1. Install (one-liner) bash <(curl -fsSL https://raw.githubusercontent.com/fujibee/agmsg/main/setup.sh) # Or clone first if you want to inspect the code git clone https://github.com/fujibee/agmsg.git && cd agmsg && ./install.sh # 2. Restart Claude Code / Codex to pick up the new skill # 3. Run ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テレ朝HD、新日本プロレスを連結子会社化　IP・グローバル展開を強化]]></title>
-        <id>https://japan.cnet.com/article/35248124/</id>
-        <link href="https://japan.cnet.com/article/35248124/"/>
-        <updated>2026-05-28T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[テレビ朝日ホールディングスは5月27日、子会社のテレビ朝日が新日本プロレスリングの株式を追加取得し、持分法適用関連会社から連結子会社に変えると発表した。株式取得は6月30日に実行する予定。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1万円台で買える、Googleの画面なし運動トラッカー「Fitbit Air」徹底レビュー　良い点と悪い点]]></title>
-        <id>https://japan.cnet.com/article/35248121/</id>
-        <link href="https://japan.cnet.com/article/35248121/"/>
-        <updated>2026-05-28T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleが1万6800円で投入した「Fitbit Air」は、画面のないスリムなヘルストラッカーだ。2週間ほど腕につけっぱなしで使い続けてみたところ、じわじわと気に入ってきた。一方で、長年スマートウォッチに慣れた身としては、ちょっとした"禁断症状"も味わうことになった。]]></summary>
-        <author>
-            <name>Vanessa Hand Orellana （CNET News） 翻訳校正： 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube、AI動画のラベルを見やすく改善　自動検出も開始]]></title>
-        <id>https://japan.cnet.com/article/35248116/</id>
-        <link href="https://japan.cnet.com/article/35248116/"/>
-        <updated>2026-05-28T01:06:00.000Z</updated>
-        <summary type="html"><![CDATA[グーグル傘下のYouTubeは、コンテンツがAIで改変または生成されたものであることを示すラベルの表示を改善すると発表した。]]></summary>
-        <author>
-            <name>Omar Gallaga （Special to CNET News） 翻訳校正： 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エヌビディア、日産他登壇「ソフトウェアデザイン for ハードウェアConference」]]></title>
-        <id>https://soft-hard-con.findy-tools.io/2026</id>
-        <link href="https://soft-hard-con.findy-tools.io/2026"/>
-        <updated>2026-05-28T00:59:19.000Z</updated>
-        <summary type="html"><![CDATA[7/31(金)コングレスクエア羽田/ソフトウェアが物理世界を直接動かす領域における設計・実装・運用の意思決定をテーマに開催]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術 - Qiita]]></title>
-        <id>https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f</id>
-        <link href="https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f"/>
-        <updated>2026-05-28T00:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Steam Deck」が海外で大幅値上げ、ゲーム機の高騰が止まらない]]></title>
-        <id>https://japan.cnet.com/article/35248104/</id>
-        <link href="https://japan.cnet.com/article/35248104/"/>
-        <updated>2026-05-28T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[世界的なメモリー不足の影響が続いており、Valveは米国時間5月27日、携帯型ゲーム機「Steam Deck」の価格を北米や欧州連合（EU）などで引き上げた。]]></summary>
-        <author>
-            <name>Oscar Gonzalez （Special to CNET News） 翻訳校正： 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新のWindowsでアプリのインストール先はどこにすべき？ Windowsのフォルダー構成を正しく理解しよう／「Program Files」や「Users」などにはそれぞれ意味と役割がある【特集・集中企画】]]></title>
-        <id>https://forest.watch.impress.co.jp/docs/special/2104573.html</id>
-        <link href="https://forest.watch.impress.co.jp/docs/special/2104573.html"/>
-        <updated>2026-05-28T00:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Windowsには「Program Files」や「Users」、「Windows」といったフォルダーが最初から用意されていますが、これらはそれぞれ意味と役割を持っています。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「コーディングを学べ」もう通用せず、AIが若者の雇用を奪い始めた]]></title>
-        <id>https://www.technologyreview.jp/s/383775/its-time-to-address-the-looming-crisis-in-entry-level-work/</id>
-        <link href="https://www.technologyreview.jp/s/383775/its-time-to-address-the-looming-crisis-in-entry-level-work/"/>
-        <updated>2026-05-27T23:52:45.000Z</updated>
-        <summary type="html"><![CDATA[AIが仕事を奪う——そう言われながら、先進国の雇用総数はおおむね安定しており、大規模な失業はまだ起きていない。しかし調査によると、AIの影響を受けやすい職種の22〜25歳の雇用は生成AI普及後に相対的に16%減少している。AIが奪っているのは仕事全体ではなく、若者がキャリアの第一歩を踏み出す入口だ。 by MIT Techno...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Error Handling in Dart: Records, Result Types, Monads, and Freezed Exceptions]]></title>
-        <id>6a17657ebadcd8afcb2bcdb4</id>
-        <link href="https://www.freecodecamp.org/news/advanced-error-handling-in-dart-records-result-types-monads-and-freezed-exceptions/"/>
-        <updated>2026-05-27T21:43:26.000Z</updated>
-        <summary type="html"><![CDATA[Every Dart developer has written this at some point: try {   final user = await repository.getUser(id);   // do something with user } catch (e) {   // what is e? who knows.   print(e.toString()); } I]]></summary>
-        <author>
-            <name>Oluwaseyi Fatunmole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: GPT-4 Technical Report (GPT-4)]]></title>
-        <id>6a17653cbadcd8afcb2bb430</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-gpt-4-technical-report/"/>
-        <updated>2026-05-27T21:42:20.000Z</updated>
-        <summary type="html"><![CDATA[When GPT-3 was released in 2020, it completely changed how people thought about language models. It showed that a sufficiently large neural network could learn tasks directly from prompts and examples]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon、スマイルセール開始　6月2日まで　ガジェット・家電・日用品などが安い]]></title>
-        <id>https://japan.cnet.com/article/35248100/</id>
-        <link href="https://japan.cnet.com/article/35248100/"/>
-        <updated>2026-05-27T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは5月27日、大規模セール「スマイルセール」を開始した。期間は6月2日まで。お菓子や日用品、ガジェットなど、さまざまな製品がセール対象となっている。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【海外記事紹介】PHP最大級のパッケージ管理「Composer」がサプライチェーン攻撃に本腰 — Laravel標的事件受け、バージョン不変化・MFA義務化へ]]></title>
-        <id>https://techfeed.io/entries/6a175f1d7aea74110d7ecde6?from=rss</id>
-        <link href="https://techfeed.io/entries/6a175f1d7aea74110d7ecde6?from=rss"/>
-        <updated>2026-05-27T21:16:13.306Z</updated>
-        <summary type="html"><![CDATA[5月27日、Packagistチームが「An Update on Composer & Packagist Supply Chain Security」と題した記事を公開した。Laravel攻撃事件が決定打に5月22日、PHPの人気フレームワークLaravelの言語パック「laravel-lang」が攻撃を受けた。攻撃者はGitHubアカウントを乗っ取り、悪意のあるコードを含む新しいバージョンを公開。同様の手口で4月30日には「intercom/intercom-php」も標的となった。laravel-langパッケージは月間数百万ダウンロードを誇る基幹パッケージで、被害の可能性があるプロジェクト数は膨大だった。これらの事件を受け、月間数億回のダウンロードを誇るPHP最大のパッケージリポジトリ「Packagist.org」が包括的なセキュリティ強化に踏み切る。近年、npm（JavaScript）やPyPI（Python）といったパッケージマネージャーを狙ったサプライチェーン攻撃が急増している。攻撃者は盗まれたアクセストークンや乗っ取ったアカウントを使い、正当なパッケージに悪意のあるコー...]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoogleのAI検索強制導入でDuckDuckGoのインストール数が30%急増 — ユーザーが求めるのは「選択の自由」]]></title>
-        <id>https://techfeed.io/entries/6a175e0c7aea74110d7ecd5e?from=rss</id>
-        <link href="https://techfeed.io/entries/6a175e0c7aea74110d7ecd5e?from=rss"/>
-        <updated>2026-05-27T21:11:40.716Z</updated>
-        <summary type="html"><![CDATA[5月27日、Fire the Ringが「DuckDuckGo Installs Jumped 30% as Frustration With Google's AI Search Grew」と題した記事を公開した。Googleが5月のGoogle I/O 2024でAI検索の全面導入を発表した直後、予想外の現象が起きている。DuckDuckGoのアプリインストール数が週次平均で18.1%増加し、5月25日には30.5%のピークを記録したのだ。iOS版では更に顕著で、週次成長率は平均33%、最大69.9%に達している。問題の核心は、Googleが従来の「10本の青いリンク」を廃止し、オプトアウト不可能なAI機能を強制導入したことにある。検索市場で92%のシェアを握るGoogleの動きは、ユーザーから選択の自由を奪い、結果として競合サービスへの移行を促進している。検索体験の根本的変更への反発Google I/O 2024でGoogleが発表したのは、20年以上続いた検索結果表示の根本的な変更だった。馴染みのある青いリンクのリストは廃止され、代わりにAI OverviewsというAI生成の...]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostHogが顧客データでAI訓練を開始 — プロダクト分析の「自動化」で先手を打つ戦略]]></title>
-        <id>https://techfeed.io/entries/6a175c2b7aea74110d7ecccb?from=rss</id>
-        <link href="https://techfeed.io/entries/6a175c2b7aea74110d7ecccb?from=rss"/>
-        <updated>2026-05-27T21:03:39.542Z</updated>
-        <summary type="html"><![CDATA[5月27日、PostHogが「Training our own AI models」と題した記事を公開した。プロダクト分析ツールがAI自動化に本格参入オープンソースのプロダクト分析プラットフォームPostHogが、ユーザーデータを活用した独自AI訓練に乗り出す。同社は30,000以上の企業が利用するプロダクト分析ツールで、Airbnb、Y Combinator、Hasuraといった企業が導入している。同社創業者のJames Hawkins氏は「プロアクティブで自動運転型のプロダクト構築」への転換を宣言し、従来の「分析結果を人間が解釈する」モデルから「AIが自動で答えを見つけてアクションを実行する」モデルへの移行を打ち出した。これは、プロダクト分析業界全体が直面する「データの洪水に対する分析工数の限界」という課題への回答でもある。Mixpanel、Amplitude、Google Analyticsといった競合も機械学習機能を強化する中、PostHogは完全自動化で差別化を狙う。3つの自動化領域で競合優位を狙うPostHogが独自モデル訓練で注力するのは以下の3領域だ。セッションリプレイ...]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Proxy Providers for Developers]]></title>
-        <id>6a175a04badcd8afcb276a4e</id>
-        <link href="https://www.freecodecamp.org/news/top-5-proxy-providers-for-developers/"/>
-        <updated>2026-05-27T20:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Developers today build software in a world where the internet is fragmented. Websites change content based on geography. APIs introduce rate limits. Security systems block repeated requests. Testing e]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドコモとKDDI、さらなる通信速度向上へ「共同開発」を発表　その中身は]]></title>
-        <id>https://japan.cnet.com/article/35248097/</id>
-        <link href="https://japan.cnet.com/article/35248097/"/>
-        <updated>2026-05-27T20:27:00.000Z</updated>
-        <summary type="html"><![CDATA[KDDIとNTTドコモは5月27日、KDDIとドコモ双方のミリ波基地局の電波を1台で中継できる「共用中継器」を共同開発したと発表した。京セラの協力を得て5月20日に開発を完了。今夏から上野恩賜公園で実証実験を始め、5Gのミリ波エリアの効率的な拡大を目指す。]]></summary>
-        <author>
-            <name>CNET Japan Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国産AIへ製造業連合　ソフトバンク新社に出資検討　旭化成など30社 - 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGKKZO96534430Y6A520C2MM8000/</id>
-        <link href="https://www.nikkei.com/article/DGKKZO96534430Y6A520C2MM8000/"/>
-        <updated>2026-05-27T19:31:33.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクが設けた国産AI（人工知能）開発の新会社に対し、旭化成など30社程度が出資を検討していることが分かった。すでに資本参加している自動車や電機の大手に加え、化学やロボットも含む製造業の主要企業が集結する。AIのモデル開発で米中が先行するなか、日本勢はものづくりの現場が持つデータが強みだ。素材や...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国産AI開発へ製造業連合　旭化成など30社、ソフトバンク系に出資検討 - 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUC24B8X0U6A420C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUC24B8X0U6A420C2000000/"/>
-        <updated>2026-05-27T19:31:18.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクが設けた国産AI（人工知能）開発の新会社に対し、旭化成など30社程度が出資を検討していることが分かった。すでに資本参加している自動車や電機の大手に加え、化学やロボットも含む製造業の主要企業が集結する。AIのモデル開発で米中が先行するなか、日本勢はものづくりの現場が持つデータが強みだ。素材や...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RubyKaigi 2026 記録 Part 3: 世迷いごと - そんなことはさておいて]]></title>
-        <id>https://d.s01.ninja/entry/20260528/1779907625</id>
-        <link href="https://d.s01.ninja/entry/20260528/1779907625"/>
-        <updated>2026-05-27T18:58:31.000Z</updated>
-        <summary type="html"><![CDATA[つづきです。最後に感情を処理して終わりましょう。2026の記録はこれで終わり。 これまでの記事は Part 0: 旅程 Part 1: 荷物ストラテジー Part 2: セッション です。 「この一瞬を最高のパーティーにしよう」 （注: このセクションは映画『超かぐや姫！』の文脈を強く含みます。ネタバレはないハズ。） 「この一瞬を最...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Bash & Python for Real DevOps Automation – Full Handbook with 5 Production Use Cases]]></title>
-        <id>6a171310badcd8afcb060460</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-bash-python-for-real-devops-automation-handbook-with-production-use-cases/"/>
-        <updated>2026-05-27T15:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Automation scripts often validate process completion instead of system health. A Kubernetes pod can be running while the application inside it can't authenticate to the database. A Terraform deploymen]]></summary>
-        <author>
-            <name>Osomudeya Zudonu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How CAPTCHAs Affect Accessibility: Problems, Workarounds, and Alternatives]]></title>
-        <id>6a17098ebadcd8afcb01782a</id>
-        <link href="https://www.freecodecamp.org/news/how-captchas-affect-accessibility-problems-and-alternatives/"/>
-        <updated>2026-05-27T15:11:10.000Z</updated>
-        <summary type="html"><![CDATA[CAPTCHAs – or the “I am not a robot” challenges – were originally designed to separate humans from bots. It started with deciphering some distorted text, then evolved into checking a box or boxes wher]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Rotator Using JavaScript]]></title>
-        <id>6a17079fbadcd8afcb0097bf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-rotate-pdf-pages/"/>
-        <updated>2026-05-27T15:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes PDF pages appear upside down, sideways, or in the wrong orientation after scanning or exporting documents. Instead of re-creating the document manually, users usually just need a quick way t]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5月27日ランキング】Microsoftが費用高騰を理由にAI使用禁止命令。AIで人件費が下がるのは幻想なのか?／ほか19本]]></title>
-        <id>https://techfeed.io/categories/all/selections/daily/2026/5/27?from=rss</id>
-        <link href="https://techfeed.io/categories/all/selections/daily/2026/5/27?from=rss"/>
-        <updated>2026-05-27T14:59:59.059Z</updated>
-        <summary type="html"><![CDATA[<img src="https://wirelesswire.jp/wp-content/uploads/2026/05/p20260526_shimizu1.jpg"><br>すべてカテゴリー 2026年5月27日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: Microsoftが費用高騰を理由にAI使用禁止命令。AIで人件費が下がるのは幻想なのか?（wirelesswire.jp）<br>2位: 【完全版】AIセキュリティ地獄絵図2026（qiita.com）<br>3位: AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる（連載Part 3）（zenn.dev）<br>…ほか17本<br><a href="https://techfeed.io/categories/all/selections/daily/2026/5/27?from=rss" target="_blank">ランキングはこちらから</a><img src="https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall">]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Apps in the Browser with TensorFlow.js and WebGPU]]></title>
-        <id>6a1706d0badcd8afcb00415d</id>
-        <link href="https://www.freecodecamp.org/news/build-ai-apps-in-the-browser-with-tensorflow-js-and-webgpu/"/>
-        <updated>2026-05-27T14:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Most developers think of AI the same way: you send data to a server, the server thinks, you get a response back. That mental model made sense for a long time. It still makes sense for a lot of use cas]]></summary>
-        <author>
-            <name>Ayantunji Timilehin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic、「Claude Code」向けにセキュリティ監査プラグインを無償提供／3つのレイヤーでコードベースからリアルタイムで脆弱性を検出・修正]]></title>
-        <id>https://forest.watch.impress.co.jp/docs/news/2112164.html</id>
-        <link href="https://forest.watch.impress.co.jp/docs/news/2112164.html"/>
-        <updated>2026-05-27T14:24:52.000Z</updated>
-        <summary type="html"><![CDATA[米Anthropicは5月27日（日本時間）、新しい「Claude Code」向けのプラグイン「security-guidance」を発表した。コードを編集するとリアルタイムで脆弱性をスキャンし、検出すると警告するプラグインで、すべてのプランに提供される。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クオンツトレーダーがLLMをどこに使うべきか — 「アルファの最終層に置かない」設計入門 - Qiita]]></title>
-        <id>https://qiita.com/tikeda123/items/a71261ecc47f609e52fc</id>
-        <link href="https://qiita.com/tikeda123/items/a71261ecc47f609e52fc"/>
-        <updated>2026-05-27T14:21:27.000Z</updated>
-        <summary type="html"><![CDATA[2.2 情報収集 — 「読む」を圧縮する クオンツリサーチの体感工数で一番大きいのは、実は「読む」です。 決算説明会・IR資料・論文といった大量の非構造文書をRAG(Retrieval-Augmented Generation) で検索可能にし、引用付きで要約させる構成が王道です。Morgan StanleyのAskResearchGPTは、年間70,000本以上の独自リサー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
 </feed>
