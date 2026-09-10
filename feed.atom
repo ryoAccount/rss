@@ -2,10 +2,610 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryoAccount.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T01:59:10.137Z</updated>
+    <updated>2026-09-10T01:56:03.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ryoAccount.github.io/rss/index.html"/>
     <link rel="self" href="https://ryoAccount.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webページをスキャンして、古いCSSに置き換わるモダンCSSを提案してくれる無料ツール -Modern CSS Radar]]></title>
+        <id>https://coliss.com/articles/build-websites/operation/css/modern-css-radar.html</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/modern-css-radar.html"/>
+        <updated>2026-09-10T00:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Webページに使用されているHTMLとCSSをスキャンして、古いHTMLとCSSが使用されている箇所を指摘し、それに置き換わるモダンHTMLとCSSを提案してくれるオンラインツールを紹介します。 現在では必要のないプレフィックス付きのプロパティだったり、物理プロパティを論理プロパティにしたり、アスペクト比で実装するための...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【後編】｜占部雅一　masakazu urabe]]></title>
+        <id>https://note.com/masakazu_urabe/n/n59bcda4ddef2</id>
+        <link href="https://note.com/masakazu_urabe/n/n59bcda4ddef2"/>
+        <updated>2026-09-10T00:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflareの技術は、先進的で独自の哲学を持つにもかかわらず、外部からは十分に理解されていないのが現状です。その理由は、従来の技術カテゴリに当てはまらないことに加え、技術開発のストーリーが十分に語られていないためかもしれません。今回は、創業者の一人、リー・ホロウェイの革新的な設計思想と、それを引き...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜエージェントハーネスで開発パイプラインを作っているのか]]></title>
+        <id>https://zenn.dev/xtm_blog/articles/689d035440c0ae</id>
+        <link href="https://zenn.dev/xtm_blog/articles/689d035440c0ae"/>
+        <updated>2026-09-09T23:54:17.000Z</updated>
+        <summary type="html"><![CDATA[クロステック・マネジメントでは docker-agent を使い、エージェントハーネスで開発パイプラインを構築しています。現時点の設計では、プロダクトオーナーやプロダクトマネージャーが要求仕様書を Markdown で記述すると、それを受け取って、要求を満たす Web アプリケーションの Pull Request を生成する、という流れで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnthropicがClaudeに「見えない透かし」を導入 — AIテキストの単語選択確率を操作する技術は品質を犠牲にするか]]></title>
+        <id>https://techfeed.io/entries/6aa1e81b3e0b243779026e25?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e81b3e0b243779026e25?from=rss"/>
+        <updated>2026-09-09T23:13:31.033Z</updated>
+        <summary type="html"><![CDATA[9月9日、IEEE Spectrumが「AI Text Watermarks Will Rewrite Models' Language」と題した記事を公開した。Anthropicが8月にClaudeへの透かし導入を発表し、EUのAI法による義務化が迫るなか、AIテキスト透かし技術への注目が急速に高まっている。技術的には「品質に影響しない」と主張する研究者がいる一方、Markdownの考案者として知られるJohn Gruberはこれを「文章表現の歪曲」と強く批判しており、その実態と限界を詳しく解説した記事だ。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DatabricksがRAG専用の検索モデルを発表 — 主要LLMと同等以上の精度を主張しつつ、検索コストに「上限」を設定できる]]></title>
+        <id>https://techfeed.io/entries/6aa1e80e3e0b243779026e22?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e80e3e0b243779026e22?from=rss"/>
+        <updated>2026-09-09T23:13:18.961Z</updated>
+        <summary type="html"><![CDATA[9月9日、InfoWorldが「Databricks unveils adaptive AI retrieval model to cut search costs and latency」と題した記事を公開した。Databricksがエージェント型AIのRAG検索コストとレイテンシを抑制するための専用モデル「Adaptive Instructed-Retriever」を発表したという内容だ。「コストに上限を設けながら、主要汎用モデルと同等以上の検索品質を実現する」というクレームは、RAGをプロダクション規模で運用するエンジニアにとって見逃せない。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLMの「なぜそうなったか」を訓練データまで遡って特定する — GoodfireとAi2のオープンスタックが可能にしたデバッグ手法]]></title>
+        <id>https://techfeed.io/entries/6aa1e8053e0b243779026e05?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e8053e0b243779026e05?from=rss"/>
+        <updated>2026-09-09T23:13:09.252Z</updated>
+        <summary type="html"><![CDATA[9月9日、Ai2が「How Goodfire used Ai2's open post-training stack to trace unwanted model behavior」と題した記事を公開した。「キャラクターの放屁で周囲の魚が死ぬ」というファンフィクションを、プリファレンストレーニング後のモデルがより積極的に生成するようになっていた——誰も監視しようとすら考えていなかったこの振る舞いの変化を、GoodfireとAi2の共同研究は訓練データの個別ペアにまで遡って検出・特定してみせた。これは「モデル出力がおかしい」と気づいてから原因を探る従来のデバッグとは根本的に異なるアプローチだ。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「1件のデータで最良と判断する」AIを防ぐ — シニアアナリストの思考を6段階パイプラインでPython実装する方法]]></title>
+        <id>https://techfeed.io/entries/6aa1e7f93e0b243779026dec?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e7f93e0b243779026dec?from=rss"/>
+        <updated>2026-09-09T23:12:57.120Z</updated>
+        <summary type="html"><![CDATA[9月9日、KDNuggetsが「Build an AI Data Analyst That Thinks Like a Senior Analyst」と題した記事を公開した。この記事では、チャットボットが陥りがちな「データ件数を無視した即答」を防ぐため、シニアアナリストの思考プロセスを6段階のパイプラインとしてPythonで実装する手法について詳しく紹介されている。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SunoがWarner Music GroupおよびBMGとのライセンス契約のもとv6をリリース — 著作権訴訟から協調へ、AI音楽は「ライセンス型モデル」に移行できるか]]></title>
+        <id>https://techfeed.io/entries/6aa1e7ed3e0b243779026de0?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e7ed3e0b243779026de0?from=rss"/>
+        <updated>2026-09-09T23:12:45.611Z</updated>
+        <summary type="html"><![CDATA[9月10日、The Newsが「Suno launches v6 AI music models developed in partnership with Warner music group and BMG」と題した記事を公開した。AI音楽生成プラットフォームのSunoが、大手音楽レーベルとのライセンス契約を締結したうえで新モデル「v6」をグローバルリリースした。著作権訴訟によって「無断学習」問題が業界全体に問われてきたAI音楽の世界で、今回の動きは訴訟・対立から契約・協調へという構造転換の最初の具体例として注目を集めている。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoogleのAIエージェント「Gemini Spark」、EUでは同じ料金を払っても使えない — DMA合意との矛盾も浮上]]></title>
+        <id>https://techfeed.io/entries/6aa1e7e23e0b243779026dd3?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e7e23e0b243779026dd3?from=rss"/>
+        <updated>2026-09-09T23:12:34.017Z</updated>
+        <summary type="html"><![CDATA[9月10日、The Next Webが「Google adds three features to its AI plans, and keeps a fourth for Americans」と題した記事を公開した。Googleは秋のアップデートとしてGeminiサブスクリプションに3つの新機能を追加したが、今回の発表で改めて浮き彫りになったのは「加わったもの」ではなく「依然として欠けているもの」だ。エージェント機能「Gemini Spark」がEU・英国で引き続き利用できない事実が確認され、しかもGoogleはその理由を一切説明していない。さらに、GoogleがDMA（デジタル市場法）に基づき欧州委員会と交わした合意内容と、この除外措置が論理的に矛盾するという問題まで浮上している。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[systemdがAI生成コードの"人間レビュー未確認投稿"を検出する罠を仕掛ける — README.mdに警告行を自動挿入させ、削除を人間のみに課す仕組み]]></title>
+        <id>https://techfeed.io/entries/6aa1e7d53e0b243779026dc4?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e7d53e0b243779026dc4?from=rss"/>
+        <updated>2026-09-09T23:12:21.186Z</updated>
+        <summary type="html"><![CDATA[9月9日、Phoronixが「systemd 262-rc2 Adds An AI Canary For Detecting Unreviewed AI/LLM Code Contributions」と題した記事を公開した。OSSプロジェクトへのAI生成コードの流入が増加するなか、主要プロジェクトが「AIエージェントを罠にかける」という対策に動き始めている。systemd 262-rc2もその流れに加わり、人間によるレビューなしに投稿されたコードを検出する「AIカナリア」機能を導入した。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが「醜悪なコード」を大量生成してLinuxカーネルのビルドを最大90%高速化 — ボトルネック発見にLLMを活用したARMエンジニアの実践]]></title>
+        <id>https://techfeed.io/entries/6aa1e7c93e0b243779026db8?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e7c93e0b243779026db8?from=rss"/>
+        <updated>2026-09-09T23:12:09.307Z</updated>
+        <summary type="html"><![CDATA[9月9日、Phoronixが「AI Made A Lot Of "Hideous" Code But Found Major Bottlenecks For Faster Linux Compilation」と題した記事を公開した。ARMのLinuxエンジニアがAI/LLMを活用してLinuxカーネルのビルド時間を大幅に短縮するパッチ群を開発した取り組みについて詳しく紹介されている。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Faceがチャットだけで機械学習実験を自動実行できる「ML Intern」を公開 — コード不要、予算上限を設定して6時間の訓練が約0.5ドル以下]]></title>
+        <id>https://techfeed.io/entries/6aa1e7bd3e0b243779026da2?from=rss</id>
+        <link href="https://techfeed.io/entries/6aa1e7bd3e0b243779026da2?from=rss"/>
+        <updated>2026-09-09T23:11:57.074Z</updated>
+        <summary type="html"><![CDATA[9月9日、The Decoderが「Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat」と題した記事を公開した。Hugging Faceが、チャットUIに話しかけるだけで機械学習実験の全工程を自動実行するAIアシスタント「ML Intern」をリリースした——コードを一行も書かず、予算上限を設定するだけで、モデルの訓練からデモ公開まで完結するという。No-codeでMLを民主化しようとする試みが各所で進むなか、Hugging Faceが打ち出したアプローチは何が新しいのか。]]></summary>
+        <author>
+            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「1つの電話番号」を「2台のiPhone」で使用可能に]]></title>
+        <id>https://japan.cnet.com/article/35252457/</id>
+        <link href="https://japan.cnet.com/article/35252457/"/>
+        <updated>2026-09-09T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[米Appleは9日（現地時間）、新製品発表イベント「Surprise and Shine」で、1つの電話番号を2台のiPhoneで使えるようにする新機能「iPhone Handoff」を発表した。14日配信予定の「iOS 27」に搭載するとしている。対応する通信事業者は当初、米T-Mobileと独Deutsche Telekomの2社に限られるという。]]></summary>
+        <author>
+            <name>Joe Supan （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 19.3 – React]]></title>
+        <id>https://react.dev/blog/2026/09/09/react-19-3</id>
+        <link href="https://react.dev/blog/2026/09/09/react-19-3"/>
+        <updated>2026-09-09T22:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we shared View Transitions and Fragment Refs as new experimental APIs coming to React. We’re excited to announce that both of these are now stable in React 19.3! In this post, we’ll go over how they work, and also cover some other notable changes in this release. New React Features Vie...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、既存モデルも値上げ--「iPhone 17」は14万2800円 → 15万9800円に]]></title>
+        <id>https://japan.cnet.com/article/35252455/</id>
+        <link href="https://japan.cnet.com/article/35252455/"/>
+        <updated>2026-09-09T22:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleの国内オンラインストアで、既存のiPhoneの販売価格が引き上げられた。9月10日時点で、「iPhone 17」は15万9800円から、「iPhone 17e」は12万4800円からとなっている。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型iPhone「高すぎ」「買えない」悲鳴……1台約22～57万円　「換算レート円安すぎ」の声も]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/10/2000001343/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/10/2000001343/"/>
+        <updated>2026-09-09T22:18:46.000Z</updated>
+        <summary type="html"><![CDATA[「iPhone18シリーズ、高すぎて買えない」「『Duo』36万超えエグい」「うちの冷蔵庫より高い」…… 米Appleが9月9日（現地時間）に発表した「iPhone 18」シリーズと、折りたたみ型「iPhone Duo」に対し、発表直後からXで「高すぎる」「欲しかったけどとても買えない」といった声が相次いでいる。 日本価格は「18 Pro」が21...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[みんなほしいのはiPhone Duo “mini”だよね]]></title>
+        <id>https://anond.hatelabo.jp/20260910070047</id>
+        <link href="https://anond.hatelabo.jp/20260910070047"/>
+        <updated>2026-09-09T22:08:36.000Z</updated>
+        <summary type="html"><![CDATA[気が早いけど折りたたみiPhoneを一回り小さくしたiPhone Duo miniがほしい 折り畳めば画面端まで指が届く横幅で12mini/13miniユーザーも成仏 開けば大型iPhoneより広い画面 ついでに価格もminiにして… でないと円安の日本人には買えないよ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5分でわかるアップル発表まとめ--「iPhone Duo」以外の新製品は？ 新AirPods、新Apple Watchも]]></title>
+        <id>https://japan.cnet.com/article/35252454/</id>
+        <link href="https://japan.cnet.com/article/35252454/"/>
+        <updated>2026-09-09T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは日本時間9月10日、イベント「Surprise and shine.」を開催。初の折りたたみ式iPhone「iPhone Duo」をはじめ、「iPhone 18 Pro」「iPhone 18 Pro Max」、ワイヤレスイヤホン「AirPods 5」、スマートウォッチ「Apple Watch Series 12」を発表した。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Apple Watch Ultra 4」発表、Siri AIや音声検知に対応　9月18日発売へ]]></title>
+        <id>https://japan.cnet.com/article/35252452/</id>
+        <link href="https://japan.cnet.com/article/35252452/"/>
+        <updated>2026-09-09T21:23:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、フィットネス重視の新型スマートウォッチ「Apple Watch Ultra 4」を発表した。]]></summary>
+        <author>
+            <name>Jeff Carlson （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップルが「AirPods 5」発表　最安モデルにもノイズキャンセリング搭載、2万3800円から、9月18日発売]]></title>
+        <id>https://japan.cnet.com/article/35252453/</id>
+        <link href="https://japan.cnet.com/article/35252453/"/>
+        <updated>2026-09-09T21:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは日本時間9月10日、オープンイヤー型イヤホンの新モデル「AirPods 5」を発表した。ラインアップは、標準モデルの「AirPods 5」と、上位モデルの「ワイヤレス充電ケース付きAirPods 5」の2つ。どちらもアクティブノイズキャンセリング（ANC）を搭載する。価格はそれぞれ2万3800円と2万7800円（いずれも税込）。日本を含む65以上の国と地域で同日から予約を受け付け、9月18日に発売する。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Apple Watch Series 12」発表、新チップ「S11」搭載　ヘルスケアを強化]]></title>
+        <id>https://japan.cnet.com/article/35252450/</id>
+        <link href="https://japan.cnet.com/article/35252450/"/>
+        <updated>2026-09-09T20:32:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは9月10日にイベントを開催し、最新の主力スマートウォッチ「Apple Watch Series 12」を発表した。]]></summary>
+        <author>
+            <name>Vanessa Hand Orellana （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPhone 18 Pro」、日本で4万円値上げ　1ドル167円換算　直近の円高反映せず]]></title>
+        <id>https://japan.cnet.com/article/35252451/</id>
+        <link href="https://japan.cnet.com/article/35252451/"/>
+        <updated>2026-09-09T20:26:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルが発表した「iPhone 18 Pro」は、前世代の「iPhone 17 Pro」と比べ、日本での値上げ率が米国を大きく上回った。最小容量の256GBモデルでは、米国の税別価格が約9％上がったのに対し、日本の税込価格は約22％上昇。日米の税抜き価格から逆算した換算レートは、前世代の1ドル約149円から約167円へと円安方向に動いている。]]></summary>
+        <author>
+            <name>小口貴宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/2139677.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/2139677.html"/>
+        <updated>2026-09-09T19:48:22.000Z</updated>
+        <summary type="html"><![CDATA[米アップル（Apple）は、日本時間で9月10日、「iPhone 18 Pro」、「iPhone 18 Pro Max」、「iPhone Duo」を発表した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Machine Learning Model is and How to Make One]]></title>
+        <id>6aa1b782434f42bd4da9b37c</id>
+        <link href="https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/"/>
+        <updated>2026-09-09T19:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国で空前の起業ブーム　AIと若者、ブルーカラーより「自分で会社」 - 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOGN27BAF0X20C26A8000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOGN27BAF0X20C26A8000000/"/>
+        <updated>2026-09-09T19:29:33.000Z</updated>
+        <summary type="html"><![CDATA[米国で起業する若者が増えている。人工知能（AI）の普及でビジネスが変革期を迎えるなか、アイデアと才能次第で成功をつかめるとの期待が広がる。テック大手などが経験の少ない若手の採用に及び腰になっていることも後押しとなり、米国の新規事業の申請件数は過去最高水準に膨らんでいる。スタンフォード大の天才が生み...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル初の折りたたみ「iPhone Duo」　ペン対応で36.4万から]]></title>
+        <id>https://www.watch.impress.co.jp/docs/news/2139678.html</id>
+        <link href="https://www.watch.impress.co.jp/docs/news/2139678.html"/>
+        <updated>2026-09-09T19:24:15.000Z</updated>
+        <summary type="html"><![CDATA[アップルは9日(米国時間)、同社初となるフォルダブルスマートフォン「iPhone Duo」を10月23日に発売する。予約注文は10月16日21時から。価格は256GBが364,800円、512GBが399,800円、1TBが469,800円、2TBが574,800円。カラーはナイトスカイとスターホワイトの2色を用意する。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、「iPhone 17」など値上げ]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/2139679.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/2139679.html"/>
+        <updated>2026-09-09T19:24:03.000Z</updated>
+        <summary type="html"><![CDATA[アップルは10日、国内向けのiPhoneシリーズの価格を値上げした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPhone 18」は発表されず。メモリ高騰が影響か]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/2139681.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/2139681.html"/>
+        <updated>2026-09-09T19:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Appleは9月9日(米国時間)、2026年のiPhoneラインナップを発表。新製品としてまず「iPhone 18 Pro」と「iPhone 18 Pro Max」、そして最後の隠し玉として「iPhone Duo」を発表したのだが、主力ともいえる「iPhone 17」の後継機、つまり「iPhone 18」に相当する製品は発表されなかった。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPhone 18 Pro/Pro Max」発表、約22万円から　可変絞りカメラとA20 Pro搭載]]></title>
+        <id>https://japan.cnet.com/article/35252449/</id>
+        <link href="https://japan.cnet.com/article/35252449/"/>
+        <updated>2026-09-09T19:13:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは9月10日に開催したイベント「Surprise and shine.」で、「iPhone 18 Pro」と「iPhone 18 Pro Max」を発表した。]]></summary>
+        <author>
+            <name>Andrew Lanxon （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPhone Duo」はApple初の7.6型折りたたみで36万円強から]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/2139675.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/2139675.html"/>
+        <updated>2026-09-09T19:12:14.000Z</updated>
+        <summary type="html"><![CDATA[ついに折りたたみiPhoneが手に入る。Appleは、同社初の折りたたみ型iPhone「iPhone Duo」を発表した。10月16日に予約受付を開始し、10月23日に発売する。日本での価格は36万4,800円から。ストレージは256GB～2TBを用意する。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、「iPhone 18」標準モデルは発表されず――9月10日の発表会]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/2139671.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/2139671.html"/>
+        <updated>2026-09-09T18:55:54.000Z</updated>
+        <summary type="html"><![CDATA[9月10日2時（日本時間）から、アップル（Apple）が新製品発表会を開催した。新シリーズとなる「iPhone 18」の発表は「iPhone 18 Pro」と「iPhone 18 Pro Max」に留まり、従来発表されていた「iPhone18」（無印）モデルや、無印モデルとProモデルの中間に位置するモデルは発表されなかった。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップルが「iPhone 18 Pro」と「iPhone 18 Pro Max」発表、9月18日発売]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/2139670.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/2139670.html"/>
+        <updated>2026-09-09T18:55:37.000Z</updated>
+        <summary type="html"><![CDATA[米アップル（Apple）は、「iPhone 18 Pro」と「iPhone 18 Pro Max」を発表した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Deployment Checklist That Actually Prevents Production Incidents]]></title>
+        <id>6aa1a7edf42d135b6e7c6de3</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/"/>
+        <updated>2026-09-09T18:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル初の折りたたみ「iPhone Duo」発表　開くと7.6インチに]]></title>
+        <id>https://japan.cnet.com/article/35252448/</id>
+        <link href="https://japan.cnet.com/article/35252448/"/>
+        <updated>2026-09-09T18:23:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、同社初の折りたたみ式iPhoneとなる「iPhone Duo」を発表した。]]></summary>
+        <author>
+            <name>Abrar Al-Heeti （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、初の折りたたみスマホ「iPhone Duo」10月23日発売　7.6インチ大画面で36.5万円から]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/2139665.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/2139665.html"/>
+        <updated>2026-09-09T18:12:03.000Z</updated>
+        <summary type="html"><![CDATA[アップルは9日（現地時間）、同社初となる折りたたみスマートフォン「iPhone Duo」を発表した。米国や日本など70以上の国と地域で10月16日から予約受付を開始し、23日に発売する。価格は36万4800円～。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface]]></title>
+        <id>6aa1a112cbd6145df593b93b</id>
+        <link href="https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/"/>
+        <updated>2026-09-09T18:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo]]></summary>
+        <author>
+            <name>Oluwaseyi Fatunmole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Gradio with Python: A Complete Beginner-to-Advanced Book]]></title>
+        <id>6aa1a0ef2158248eeaf392ca</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/"/>
+        <updated>2026-09-09T18:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr]]></summary>
+        <author>
+            <name>Eva J Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iPhone Duo」発表　Apple初の折りたたみスマホ　36万4800円から]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/10/2000001335/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/10/2000001335/"/>
+        <updated>2026-09-09T18:01:30.000Z</updated>
+        <summary type="html"><![CDATA[米Appleは9月9日（現地時間）、同社初の折りたたみスマートフォン「iPhone Duo」を発表した。開くと7.6インチと、iPhoneで最大のディスプレイとして使える。生体認証にはサイドボタンに組み込んだ指紋認証「Touch ID」を採用した。価格は36万4800円から。カラーはナイトスカイとスターホワイトの2色。10月16日午後9時に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使い込むほど成長するAIエージェント「Hermes Agent」に好みを覚えさせて新しいチャットでも記憶を引き継げる「記憶(Memory)」機能を試してみた]]></title>
+        <id>https://gigazine.net/news/20260909-hermes-agent-memory/</id>
+        <link href="https://gigazine.net/news/20260909-hermes-agent-memory/"/>
+        <updated>2026-09-09T17:56:42.000Z</updated>
+        <summary type="html"><![CDATA[これまでAIエージェント「Hermes Agent」を使って、ウェブ検索やブラウザ操作を行ったり、実際に行った作業を「スキル」として保存したり、指定した時刻にタスクを自動実行させたり、その実行結果をメールで受け取ったりしてきました。Hermes Agentにはこうした作業方法を保存するスキルとは別に、ユーザーの好みや作業...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 18シリーズ発表、今年はPro・Pro Maxのみ　なんと“無印”なし　価格は21万9800円から【更新終了】]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/10/2000001336/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/10/2000001336/"/>
+        <updated>2026-09-09T17:16:33.000Z</updated>
+        <summary type="html"><![CDATA[旧モデルが搭載する「A19 Pro」に比べ最大40％高速というチップ「A20 Pro」を搭載。CPUは6コア、GPUは7コア構成で、Neural Engineは計32コアに強化した。メモリ帯域も「iPhone 17 Pro」比で50％増加。日本でも10月中にリリースする、生成AIベースの「Siri」も利用できる。ディスプレイはProが6.3インチ、Pro Maxが6.9イ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【前編】｜占部雅一　masakazu urabe]]></title>
+        <id>https://note.com/masakazu_urabe/n/n7815f5b64fab</id>
+        <link href="https://note.com/masakazu_urabe/n/n7815f5b64fab"/>
+        <updated>2026-09-09T15:50:45.000Z</updated>
+        <summary type="html"><![CDATA[クラウドサービスのCloudflareは急成長した要因には、同社のユニークな技術が多々あります。Anycastや同一IPアクセスといった技術が一例ですが、これらの仕組みを作ったのがCTOであり、共同創業者のリー・ホロウエイです。ところが、深刻な脳の病気（FTD)のために途中で離脱してしまいます。彼の残した技術の功績と、明...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏休みの宿題をオンスケで終えられなかった私が、AWS全冠を約2か月で完走できた理由 | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20260909a/</id>
+        <link href="https://future-architect.github.io/articles/20260909a/"/>
+        <updated>2026-09-09T14:37:29.000Z</updated>
+        <summary type="html"><![CDATA[FutureVulsチームの棚井です。この記事は夏休み自由研究連載2026の1本として書いています。 「夏休み自由研究」連載の趣旨は、童心を思い出して何かをじっくり研究してみることだそうです。「夏休み」と言われて最初に思い出したのは、昔、8月31日の夜に机の上に残っていた宿題でした。当時、夏休みの宿題を予定どおりに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェント向けコーディングルールをArchUnitで機械的に検証する運用 - ZOZO TECH BLOG]]></title>
+        <id>https://techblog.zozo.com/entry/verify-ai-agent-coding-rules-with-archunit</id>
+        <link href="https://techblog.zozo.com/entry/verify-ai-agent-coding-rules-with-archunit"/>
+        <updated>2026-09-09T13:57:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。商品基盤部の藤本です。 私たちのチームでは、生成AIコーディングエージェント（以下、AIエージェント。主にClaude Code）を使って開発に取り組んでいます。以前からAIエージェントに一貫した実装をしてもらうため、ルールを書いて指示する運用を続けてきました。しかし、ルール同士の矛盾やレビュ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python Interactively]]></title>
+        <id>6aa16581cfb9039ff59e60ca</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-interactively/"/>
+        <updated>2026-09-09T13:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Python continues to be one of the most versatile, widely adopted programming languages in tech. Because its syntax mirrors plain English, it remains the absolute best place for a beginner to start. We]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 駆動 Terraform 開発/SRE_BizReach_MIXI_2]]></title>
+        <id>https://speakerdeck.com/visional_engineering_and_design/sre-bizreach-mixi</id>
+        <link href="https://speakerdeck.com/visional_engineering_and_design/sre-bizreach-mixi"/>
+        <updated>2026-09-09T13:36:06.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月9日開催「[SRE AI活用事例] 減らせ！TOIL削減大作戦！」の登壇資料です。 https://mixi.connpass.com/event/403987/ ▼関連資料 WAF 運用改善の承認サイクル https://speakerdeck.com/visional_en…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI創業者サム・アルトマンを描く映画『Artificial』ティザー予告編公開、Amazon撤退後にNeonが推定30億円で購入]]></title>
+        <id>https://gigazine.net/news/20260909-artificial-teaser-trailer/</id>
+        <link href="https://gigazine.net/news/20260909-artificial-teaser-trailer/"/>
+        <updated>2026-09-09T13:28:07.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIの創業者であるサム・アルトマン氏が2023年、OpenAIの取締役会によって退任させられたのち2週間足らずで復帰した出来事を中心として描く映画『Artificial』のティザー予告編が公開されました。本作はすでに完成していて2026年6月に公開される予定でしたが、Amazon MGMスタジオの配給撤退で宙に浮いていました。 Ar...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勝手に曲を作らない、“弾いて操る”AI。Roland×Neutone「Project LYDIA」の正体【ADC Japan 2026レポート⑥】]]></title>
+        <id>https://www.dtmstation.com/archives/79443.html</id>
+        <link href="https://www.dtmstation.com/archives/79443.html"/>
+        <updated>2026-09-09T11:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Project LYDIAとは何か LYDIAは、ローランドの研究開発部門「Roland Future Design Lab」と、AIオーディオ技術を手がけるNeutoneの共同研究プロジェクトです。2025年11月12日、英国ブリストルで開催されたADC Bristolでプレビュー版として初公開されました。名前の「LYDIA」は「DIY」と「AI」の融合を意味するとのことで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「1週間以内に自殺しようとする人」を75％の精度で予測することに成功]]></title>
+        <id>https://gigazine.net/news/20260909-predicts-next-week-suicide-attempts/</id>
+        <link href="https://gigazine.net/news/20260909-predicts-next-week-suicide-attempts/"/>
+        <updated>2026-09-09T11:06:57.000Z</updated>
+        <summary type="html"><![CDATA[自殺はさまざまな国々で社会問題となっており、特に病気などで死亡するリスクが低い若年層では上位の死因となっています。新たにハーバード大学の研究チームが、「1週間以内に自殺企図する人」を75％の精度で予測することに成功したとの研究結果を報告しました。 Using smartphone surveys to predict next-week suicide...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AIは10年以内に我々全員を殺す」　アンソロピックの研究者が「企業は無責任」と退社]]></title>
+        <id>https://www.sankei.com/article/20260909-YXTSWA7BWZA6VI3SCMGOQ3YMSM/</id>
+        <link href="https://www.sankei.com/article/20260909-YXTSWA7BWZA6VI3SCMGOQ3YMSM/"/>
+        <updated>2026-09-09T10:41:53.000Z</updated>
+        <summary type="html"><![CDATA[米オープンAIを経て米アンソロピックに勤務していた英国出身の人工知能（AI）研究者、ジェーコブ・コクソン氏（27）が8日、アンソロピックを退社したと、X（旧ツイッター）で明らかにした。「どちらの会社も責任を持って行動していない」と、自らを改良する自己改善型AIの開発競争を批判している。 コクソン氏は「彼らは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
+        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
+        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
+        <updated>2026-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロジェクトマネジメントの教科書（内製チーム向け）]]></title>
+        <id>https://zenn.dev/tan_go238/books/project-management-textbook</id>
+        <link href="https://zenn.dev/tan_go238/books/project-management-textbook"/>
+        <updated>2026-09-09T09:28:52.000Z</updated>
+        <summary type="html"><![CDATA[内製・プロダクト組織のための実践ガイド。計画は外れる前提で立て、要件を軽く扱わず、言われていないことを扱う。立ち上げから要件定義、計画、チーム、実行、運用、そして終わらせ方までを全42章で扱う。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動画編集もAIにやってもらう時代？　言葉で指示するAI編集ツール「Palmier Pro」を使ってみた]]></title>
+        <id>https://www.itmedia.co.jp/news/article/2609/09/2000001311/</id>
+        <link href="https://www.itmedia.co.jp/news/article/2609/09/2000001311/"/>
+        <updated>2026-09-09T07:40:28.000Z</updated>
+        <summary type="html"><![CDATA[前回は米Adobeが公開した「ChatGPT」向けプラグインをテストした。1つのプラグインで写真やイラスト、動画が扱えるということで、従来のアプリを横断しての作業や、特にツールを指定せずやりたいことを指示するだけで勝手にツールが選択されるなど、従来のワークフローを大きく変える可能性が感じられた。 その一方で、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Xiaomi 18 Fold」実機を試す　アップル初の折りたたみiPhoneと真っ向勝負か]]></title>
+        <id>https://japan.cnet.com/article/35252437/</id>
+        <link href="https://japan.cnet.com/article/35252437/"/>
+        <updated>2026-09-09T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[シャオミが披露した新しい折りたたみスマートフォン「Xiaomi 18 Fold」の実際を試す機会を得た。同機はパスポート型のデザインで、サムスンと（おそらく）アップルとの競争に直面するとみられる。]]></summary>
+        <author>
+            <name>Andrew Lanxon （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」の難問を解決したと発表]]></title>
+        <id>https://japan.cnet.com/article/35252440/</id>
+        <link href="https://japan.cnet.com/article/35252440/"/>
+        <updated>2026-09-09T06:37:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIは米国時間9月8日、数学の7大難問「ミレニアム懸賞問題」の1つ、ナビエ・ストークス方程式の存在と滑らかさの問題を、社内のAIシステムで解決したと発表した。流体の運動を記述するこの方程式について、当初は滑らかだった流れでも、有限の時間内に流速が際限なく増大する場合があることを証明したという。証明の解説と、定理証明支援系「Lean」で形式化した証明を公開した。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「2020年代末までにAIで人類滅亡の恐れ」--Anthropic研究者が退社、開発競争に警鐘]]></title>
+        <id>https://japan.cnet.com/article/35252436/</id>
+        <link href="https://japan.cnet.com/article/35252436/"/>
+        <updated>2026-09-09T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[AI企業Anthropicの研究者Jacob Coxon氏は米国時間9月8日、同社を辞めたとXで明らかにした。「どちらの会社も責任ある行動をとっていない。自己改善する超知能へまっしぐらに突き進み、私たちの命を賭けている」と述べ、研究者として在籍したOpenAIとAnthropicの両社を批判した。]]></summary>
+        <author>
+            <name>小口貴宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ食洗機に「カメラ」が必要なのか？ ミーレ最新モデルの仕組みと狙い]]></title>
+        <id>https://japan.cnet.com/article/35252431/</id>
+        <link href="https://japan.cnet.com/article/35252431/"/>
+        <updated>2026-09-09T04:24:00.000Z</updated>
+        <summary type="html"><![CDATA[ドイツの家電メーカーMiele（ミーレ）の最新型食器洗い機は、ドアの裏側に搭載されたカメラのほか、さまざまなスマート機能を備えている。]]></summary>
+        <author>
+            <name>David Watsky （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[どこに行ってもクリーンな空気を！ 首かけ空気清浄機「MyComfyTech」]]></title>
+        <id>https://japan.cnet.com/article/35252133/</id>
+        <link href="https://japan.cnet.com/article/35252133/"/>
+        <updated>2026-09-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[どこに行ってもクリーンな空気を！ 首かけ空気清浄機「MyComfyTech」]]></summary>
+        <author>
+            <name>フィリピン 下鳥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リコー、「全く新たなコンセプト」のデジタル一眼を開発--現行「Kシリーズ」の生産は終了]]></title>
+        <id>https://japan.cnet.com/article/35252428/</id>
+        <link href="https://japan.cnet.com/article/35252428/"/>
+        <updated>2026-09-09T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[リコーイメージングは9月9日、同社の一眼レフカメラブランド「PENTAX」において、「全く新たなコンセプトのデジタル一眼レフカメラ」の開発を進めていると発表した。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIとの会話は「秘密」ではない　知っておくべきプライバシーリスクと対策]]></title>
+        <id>https://japan.cnet.com/article/35252423/</id>
+        <link href="https://japan.cnet.com/article/35252423/"/>
+        <updated>2026-09-09T02:28:00.000Z</updated>
+        <summary type="html"><![CDATA[DuckDuckGoが最近実施した調査で、人々はプライバシー上のリスクを十分に認識しないまま、チャットボットに個人的な情報を明かしていることが分かった。]]></summary>
+        <author>
+            <name>Alex Valdes （CNET News） 翻訳校正： 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo2.0、トッピングを企業の福利厚生サービスでも提供　15〜20%還元]]></title>
+        <id>https://japan.cnet.com/article/35252427/</id>
+        <link href="https://japan.cnet.com/article/35252427/"/>
+        <updated>2026-09-09T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDI、沖縄セルラー電話、KDDI Digital Life、ベネフィット・ワンの4社は9月9日、福利厚生サービス「ベネフィット・ステーション」で「povo2.0」のデータトッピングの販売を始めた。勤務先などが同サービスを導入していれば、福利厚生サービス経由でトッピングを買え、購入額の15〜20%がポイントで戻る。]]></summary>
+        <author>
+            <name>CNET Japan Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[警察庁と日本マイクロソフトが「サイバー対策」で協定--その中身とは]]></title>
         <id>https://japan.cnet.com/article/35252422/</id>
@@ -14173,388 +14773,6 @@ Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong
         <summary type="html"><![CDATA[はじめに AI 駆動開発を始めてから、コードを書く時間そのものは大幅に減りました。一方で、 プロンプトに渡す定型文を毎回打ち直す 生成されたコードや会話履歴をあとから探す よく使うファイルやアプリを何度も開き直す ウィンドウを切り替えながら作業する といった「人間側の手作業」が、ボトルネックとして目立つよ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新幹線「独りぼっち席」が話題――「2000円追加で“隣が空席”」との声、なぜ導入？]]></title>
-        <id>https://www.itmedia.co.jp/mobile/articles/2608/11/news018.html</id>
-        <link href="https://www.itmedia.co.jp/mobile/articles/2608/11/news018.html"/>
-        <updated>2026-08-11T12:46:53.000Z</updated>
-        <summary type="html"><![CDATA[SNSを中心に、新幹線で追加料金を支払うだけで“隣が空席の状態で、自分だけの特別なスペースを確保できる座席”が話題を呼んでいる。 SNS上ではこの座席が「課金するだけで独りぼっちの席を確保できる神サービス」や「人権が確保されるシート」などと呼ばれ、長時間の移動を快適に過ごしたい一人旅の旅行者や出張中のビジ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[すべての文字起こしAIモデルをサポートするGGMLベースの文字起こしライブラリ「transcribe.cpp」、ほぼそのままでwhisper.cppと置き換え可能]]></title>
-        <id>https://gigazine.net/news/20260811-transcribe-cpp/</id>
-        <link href="https://gigazine.net/news/20260811-transcribe-cpp/"/>
-        <updated>2026-08-11T12:40:10.000Z</updated>
-        <summary type="html"><![CDATA[「transcribe.cpp」は最新の文字起こしモデルの多くをサポートするGGMLベースのC/C++音声認識ライブラリです。 Project - transcribe.cpp https://workshop.cjpais.com/projects/transcribe-cpp GitHub - handy-computer/transcribe.cpp: ggml speech-to-text inference for 16+ model families · GitHub https://github...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js + Cloudflareで「サボる」ためのWebツール集を個人開発した]]></title>
-        <id>https://zenn.dev/ikuosaito1989/articles/47a9b4d4177d87</id>
-        <link href="https://zenn.dev/ikuosaito1989/articles/47a9b4d4177d87"/>
-        <updated>2026-08-11T12:22:36.000Z</updated>
-        <summary type="html"><![CDATA[個人開発で neglegere（ネグレゲレ） というWebサービスを作っています。 コンセプトは、 地味に時間を取られる作業を少しだけ任せて、大事なところに力を残す です。 最初は、自分の声を使って文章を読み上げる「AIボイス」から始めました。 そこから、 音声加工 背景除去 画像変換 PDF OCR 読み上げ 電子サイン マイク...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セキュリティ・キャンプ2026B2 セキュリティ分析LLMエージェントの実装 /seccamp2026-b2]]></title>
-        <id>https://speakerdeck.com/mizutani/seccamp2026-b2</id>
-        <link href="https://speakerdeck.com/mizutani/seccamp2026-b2"/>
-        <updated>2026-08-11T11:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Deep Security Conference 2025：生成AI時代のセキュリティ監視 /dsc2025-genai-secmon]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「使いにくい折りたたみキーボード」は、過去の話。いまは“ほぼ文庫本サイズ”でテンキー付きの時代 (1/5)]]></title>
-        <id>https://ascii.jp/elem/000/004/425/4425034/</id>
-        <link href="https://ascii.jp/elem/000/004/425/4425034/"/>
-        <updated>2026-08-11T11:40:08.000Z</updated>
-        <summary type="html"><![CDATA[『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 ノートPCを持ち歩くほどでもないけど、外出先で仕事やSNSなどでちょっと長めのテキストを打ちたいという人は多いと思います。とくにタブレットをメイン機としてバリバリ使いたいならペン入力やオンスクリーン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[義母がキッチンにあるWi-Fiルーターを見て「この電磁波って健康に問題ないの？」というので「そこの鍋から放出されてる電磁波はWi-Fiよりずっと強い」と教えたらたまげてた]]></title>
-        <id>https://togetter.com/li/2731705</id>
-        <link href="https://togetter.com/li/2731705"/>
-        <updated>2026-08-11T11:12:46.000Z</updated>
-        <summary type="html"><![CDATA[山崎はるか @harusanda 義母が キッチンにあるWi-Fiルーターを指して 「この電磁波って健康に問題ないの？」 （ルーターの場所を変えたい） というので 僕「そこ お鍋が吹いてるじゃないですか」 義母「うん、ガスで お湯を沸かしてる」 僕「そこから いま放出されてる電磁波、Wi-Fiの1000倍ですよ」 って言ったら たま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BM25を使用してCodexのトークンの消費を30%抑える]]></title>
-        <id>https://zenn.dev/knowledgesense/articles/9e55a3bb67729c</id>
-        <link href="https://zenn.dev/knowledgesense/articles/9e55a3bb67729c"/>
-        <updated>2026-08-11T10:46:19.000Z</updated>
-        <summary type="html"><![CDATA[導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 今回は、コード探索にBM25を組み込むことで、回答品質とトークン消費がどのように変わるのかを、自社のコードベースで検証しました。 きっかけは、2026年7月に公開された論文「BM25 Wins at Scale」[1]です。 サマリー 最近のコーディングエージェント、トーク...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「美空ひばりが2位というのは当時の空気ではわかる」昭和の嫌いなタレントワースト15に様々な反応…当時の背景を知ると納得する部分もありそう]]></title>
-        <id>https://togetter.com/li/2731721</id>
-        <link href="https://togetter.com/li/2731721"/>
-        <updated>2026-08-11T10:25:56.000Z</updated>
-        <summary type="html"><![CDATA[ミキヤックス⁉️ @AxMJqjdkKEn5M2d 立川談志と美輪明宏はこれを読んで さぞかし喜んだだろうね！ あの人たちは嫌われるほどにパワーアップする人だから。 月亭とかケーシー が嫌われてる理由はよくわかんないけど（笑） 美空ひばり が国民的な歌手なのかと思ったら、こ嫌われてるのが意外だったッス‼️ 泉ピン子とか大橋巨泉...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOSでメモリを使い続けるCursorUIViewServiceを無効化する]]></title>
-        <id>https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos</id>
-        <link href="https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos"/>
-        <updated>2026-08-11T10:17:40.000Z</updated>
-        <summary type="html"><![CDATA[はじめに こんにちは。 ここ最近、Macのメモリが妙に圧迫されているときにActivity Monitorを開くと、CursorUIViewServiceというプロセスが大量のRAMを使っていることが何度かありました。 私の環境では、気づいたときにはメモリ使用量が約15GBまで増えていました。プロセスを強制終了すればRAMは解放されますが、しばら...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
-        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
-        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
-        <updated>2026-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge]]></title>
-        <id>https://www.techno-edge.net/article/2026/08/11/5382.html</id>
-        <link href="https://www.techno-edge.net/article/2026/08/11/5382.html"/>
-        <updated>2026-08-11T08:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Anthropicが、AIモデル Claudeが生成する文章に電子透かしを導入する計画を明らかにしました。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストリーミングされるチャット UI の回答をスクリーンリーダーに伝える手法の調査]]></title>
-        <id>https://azukiazusa.dev/blog/accessible-streaming-chat-ui/</id>
-        <link href="https://azukiazusa.dev/blog/accessible-streaming-chat-ui/"/>
-        <updated>2026-08-11T08:03:42.000Z</updated>
-        <summary type="html"><![CDATA[sr-only は画面上では表示せず、スクリーンリーダーからは読み取れる状態にするための CSS クラスです。display: none や hidden を使用するとアクセシビリティツリーからも削除されるため、1px の領域に切り詰める方法などが使われます。 ChatGPT の回答本文には、aria-live や aria-busy は指定されていませんでした。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です]]></title>
-        <id>https://zenn.dev/singularity/articles/ever-better-pm2</id>
-        <link href="https://zenn.dev/singularity/articles/ever-better-pm2"/>
-        <updated>2026-08-11T07:38:41.000Z</updated>
-        <summary type="html"><![CDATA[AI にどんどん書かせて、コードレビューはしない。 それで1日500コミットを、毎日出しています。 無茶に聞こえると思いますが、条件が1つだけあります。「読まなくても壊れない足回り」が先に入っていること。 前に書いたとおり、レビューをやめられたのではなく、レビューを機械に移しただけなので。 その足回りを作る...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoftも警告、ホテルWi-Fiで「M365」が狙われる？　安全になったはずの公衆Wi-Fiで起きている異変]]></title>
-        <id>https://www.itmedia.co.jp/enterprise/articles/2608/11/news007.html</id>
-        <link href="https://www.itmedia.co.jp/enterprise/articles/2608/11/news007.html"/>
-        <updated>2026-08-11T07:11:46.000Z</updated>
-        <summary type="html"><![CDATA[個人によるセキュリティ対策の難しいところは、時間がたつと常識も変化していくことにあると思っています。これまでは十分だとされていたものが、いつの間にか常識が変化し、不十分なものになります。その対策がプラスからゼロになるならまだしも、マイナスになることすらあり得るのがセキュリティの世界。 本連載もスタ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア]]></title>
-        <id>https://36kr.jp/492696/</id>
-        <link href="https://36kr.jp/492696/"/>
-        <updated>2026-08-11T04:58:42.000Z</updated>
-        <summary type="html"><![CDATA[中国ではいま、人型ロボット（ヒューマノイド）がショールーム展示やイベントパフォーマンスの段階を越え、家庭や実用シーンへと急速に広がり始めている。一方で普及の陰で、「買った後に維持できるのか」という現実的な課題も浮かび上がってきた。 約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している]]></title>
-        <id>https://gigazine.net/news/20260811-china-ai-chinese-training-data/</id>
-        <link href="https://gigazine.net/news/20260811-china-ai-chinese-training-data/"/>
-        <updated>2026-08-11T01:35:52.000Z</updated>
-        <summary type="html"><![CDATA[高度なAIモデルの性能を伸ばすには大量の質の高い訓練データが必要です。中国のAI開発を阻む問題としてはアメリカによる先端AIチップの輸出規制が注目されてきましたが、中国のAI専門家は中国語の訓練データ不足が次の大きなボトルネックになりうると警告しています。 China faces new AI bottleneck as it runs out of ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「異質なAIバブルの正体」　投資していない庶民もこうして火傷する | 崩壊したら過去最大級の危機になり得るワケ]]></title>
-        <id>https://courrier.jp/news/archives/455535/</id>
-        <link href="https://courrier.jp/news/archives/455535/"/>
-        <updated>2026-08-11T00:54:29.000Z</updated>
-        <summary type="html"><![CDATA[AIバブルはシリコンバレーのテック企業の間だけで完結していると、その特異な「閉鎖性」が指摘されている。つまり、一般の個人投資家たちは「蚊帳の外」に置かれているわけだが、この巨大バブルが崩壊したとき、普通の人々も深刻な痛手を免れない理由を米誌が分析する。 市場関係者に広がる不安 米国の株式市場は人工知...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications]]></title>
-        <id>6a7a662d92a5f4f663b525f9</id>
-        <link href="https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/"/>
-        <updated>2026-08-11T00:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com]]></summary>
-        <author>
-            <name>Rudrendu Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「前回は正しかった」がAIへの過信を生んだ — 農薬アドバイスを信じた農家が25エーカーのゴマ畑を全滅させた事例]]></title>
-        <id>https://techfeed.io/entries/6a7a5a4eec7a075ad32755ea?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a5a4eec7a075ad32755ea?from=rss"/>
-        <updated>2026-08-10T23:10:06.135Z</updated>
-        <summary type="html"><![CDATA[8月10日、TechSpotが「Farmer trusted AI after it gave good advice, then it helped wipe out 25 acres of his crops」と題した記事を公開した。この記事では、AIチャットボットの除草・害虫対策アドバイスを信じた中国の農家が、約25エーカーのゴマ苗を枯死させた事例について詳しく紹介されている。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 27で刷新されたSiriが「画面を見て答える」AIに — 知っておくべき12の使いこなし術]]></title>
-        <id>https://techfeed.io/entries/6a7a5a40ec7a075ad32755e3?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a5a40ec7a075ad32755e3?from=rss"/>
-        <updated>2026-08-10T23:09:52.861Z</updated>
-        <summary type="html"><![CDATA[8月10日、PCMagが「Apple's Overhauled Siri AI Is Finally Here. Here Are 12 Ways to Master It」と題した記事を公開した。最大の目玉は、iPhoneの画面に表示されているものをそのままSiriに質問できるという新機能だ。設定画面で迷ったときにその場で音声で尋ねれば、Siriが画面を「読んで」説明と手順を返す。従来のSiriとは次元の異なる体験であり、本記事ではその使いこなし術12項目を紹介する。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CiscoがネットワークインフラをMCP対応で公開 — AIエージェントが「Wi-Fiが遅い」チケットを自律診断できるか]]></title>
-        <id>https://techfeed.io/entries/6a7a5a36ec7a075ad32755e0?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a5a36ec7a075ad32755e0?from=rss"/>
-        <updated>2026-08-10T23:09:42.105Z</updated>
-        <summary type="html"><![CDATA[8月11日、Ciscoが「Build agentic networking experiences with Cisco MCP servers」と題した記事を公開した。CiscoがMeraki・Catalyst Center向けに公開したMCPサーバーを使い、AIエージェントをネットワーク運用ワークフローに組み込む方法について解説している。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCCは禁止、カーネルは「理解できるなら可」、Kubernetesは「開示すれば可」— LinuxエコシステムのAIコード利用ポリシーが三者三様に分岐]]></title>
-        <id>https://techfeed.io/entries/6a7a5a2aec7a075ad32755dd?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a5a2aec7a075ad32755dd?from=rss"/>
-        <updated>2026-08-10T23:09:30.277Z</updated>
-        <summary type="html"><![CDATA[8月10日、Olimpiu Popが「Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem」と題した記事を公開した。AIコード生成ツールの普及が進む中、OSSコミュニティでは「AIが生成したコードをどう扱うか」という問いに対して、プロジェクトごとに異なる答えを出し始めている。GCCは禁止、Linuxカーネルは「理解できるなら使ってよい」、Kubernetesは「開示すれば使える」——同じLinuxエコシステムでも、その対応は三者三様だ。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Codeスキル47個を全数検証したら40個が出力を悪化させた — 本当に使えるスキルはこの5つだけ]]></title>
-        <id>https://techfeed.io/entries/6a7a5a1dec7a075ad32755d9?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a5a1dec7a075ad32755d9?from=rss"/>
-        <updated>2026-08-10T23:09:17.241Z</updated>
-        <summary type="html"><![CDATA[8月10日、ksred.comが「Best Claude Code Skills: Which Are Actually Worth It」と題した記事を公開した。公開されているClaude Codeスキルを実際にインストール・検証し、本当に使えるものだけを厳選した結果が報告されている。「多くの公開スキルは助けにならないだけでなく、トークン消費・レイテンシ増加・出力の制約という形で積極的に害を及ぼす」という結論は、スキルを積み上げがちな開発者には耳の痛い内容だ。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「AIがあるからジュニアは要らない」は間違い — 10年・75名の育成実績が証明する、人材投資がAI時代こそ重要な理由]]></title>
-        <id>https://techfeed.io/entries/6a7a5a0fec7a075ad32755d4?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a5a0fec7a075ad32755d4?from=rss"/>
-        <updated>2026-08-10T23:09:03.357Z</updated>
-        <summary type="html"><![CDATA[8月10日、Atomic Objectが「Here's How We're Successfully Hiring Junior Talent in the Age of AI」と題した記事を公開した。AI全盛期においてジュニア開発者の採用・育成を継続することがなぜ重要か、そして同社の具体的なプログラムがどのような成果を上げているかについて、10年分の実績データを交えながら詳しく論じている。「AIがあればジュニアは不要」という業界の空気に対し、真っ向から反論する内容だ。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIにアプリを丸投げしてわかった7つの教訓 — 「一度にやりすぎない」「目を離さない」がバイブコーディングの鉄則だった]]></title>
-        <id>https://techfeed.io/entries/6a7a5a04ec7a075ad32755d1?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a5a04ec7a075ad32755d1?from=rss"/>
-        <updated>2026-08-10T23:08:52.236Z</updated>
-        <summary type="html"><![CDATA[8月11日、PCMagが「What I Learned Vibe-Coding Apps With AI: 7 Pro Tips」と題した記事を公開した。コードを一行も書かずにアプリを完成させられると話題の「バイブコーディング」だが、実際に複数のアプリを作り切った筆者が行き着いた結論は、「AIに任せすぎてはいけない」という逆説的な教訓だった。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8nが約70サービスへのMCPワンクリック接続に対応 — 「ノード・エージェントツール・MCPサーバー」の使い分けも解説]]></title>
-        <id>https://techfeed.io/entries/6a7a59f8ec7a075ad32755cd?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a59f8ec7a075ad32755cd?from=rss"/>
-        <updated>2026-08-10T23:08:40.149Z</updated>
-        <summary type="html"><![CDATA[8月11日、n8nが「One-click connection to nearly 70 MCP servers and when to use them」と題した記事を公開した。Airtable・Grafana・New Relicなど新たなサービスが追加され、OAuthワンクリックで接続できるMCPサーバーが約70に達した。あわせて、n8nのネイティブノード・エージェントツール・MCPサーバーという3つの統合方式をどう使い分けるかも整理されている。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映像・音声・物理を一度の推論で統合生成するFLUX 3 — マルチモーダルアーキテクチャがもたらす「音と映像の相互制約」]]></title>
-        <id>https://techfeed.io/entries/6a7a59ecec7a075ad32755c7?from=rss</id>
-        <link href="https://techfeed.io/entries/6a7a59ecec7a075ad32755c7?from=rss"/>
-        <updated>2026-08-10T23:08:28.632Z</updated>
-        <summary type="html"><![CDATA[8月4日、Replicateが「The Ultimate Guide to FLUX 3 – Replicate blog」と題した記事を公開した。Black Forest Labsが開発したマルチモーダル動画生成モデル「FLUX 3」の設計思想・機能・実装方法を網羅的に解説する内容で、従来モデルとは一線を画すアーキテクチャ上の革新が詳述されている。]]></summary>
-        <author>
-            <name>TechFeedおすすめ記事ランキング - すべてカテゴリー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「全面ガラスのiPhone」開発頓挫か　歩留まりの低さが原因との報道]]></title>
-        <id>https://japan.cnet.com/article/35251481/</id>
-        <link href="https://japan.cnet.com/article/35251481/"/>
-        <updated>2026-08-10T22:21:00.000Z</updated>
-        <summary type="html"><![CDATA[米Appleは、全面ガラスのiPhoneを開発しているとうわさされてきた。米証券会社Jefferiesのアナリスト、エディソン・リー氏は、その開発が中止されたとの見方を示した。米金融メディアBarron'sが8月10日（現地時間）に報じた。]]></summary>
-        <author>
-            <name>Zachary McAuliffe （CNET News） 翻訳校正： 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your Side Project Seen and Gain Paying Users]]></title>
-        <id>6a7a38d57c96966272403ab6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/"/>
-        <updated>2026-08-10T20:47:17.000Z</updated>
-        <summary type="html"><![CDATA[In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d]]></summary>
-        <author>
-            <name>George Field</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]]]></title>
-        <id>6a7a37b45687127b2dce7c6e</id>
-        <link href="https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/"/>
-        <updated>2026-08-10T20:42:28.000Z</updated>
-        <summary type="html"><![CDATA[The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app]]></summary>
-        <author>
-            <name>Ayobami Adejumo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理職にならないまま45歳になるとどうなる？　マネジメントを避ける若者が陥る「3つの誤解」 [1/2] | ログミーBusiness]]></title>
-        <id>https://logmi.jp/main/management/333602</id>
-        <link href="https://logmi.jp/main/management/333602"/>
-        <updated>2026-08-10T19:31:47.000Z</updated>
-        <summary type="html"><![CDATA[【3行要約】 ・「若者は管理職になりたがらない」と言われますが、実は20代の約3割が昇進を望んでいるという意外な実態があります。 ・廣田文将氏は、全体の8割が拒否しているという思い込みを捨て、「今の仕事はおもしろいが管理職にはなりたくない」層に注目します。 ・潜在的な意欲を持つ層を動かすため、今の組織が...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orca 実践ガイド: Claude Code や Codex を並列運用する ADE の使いこなし術 - TECHSCORE BLOG]]></title>
-        <id>https://blog.techscore.com/entry/2026/07/15/080000</id>
-        <link href="https://blog.techscore.com/entry/2026/07/15/080000"/>
-        <updated>2026-08-10T17:25:02.000Z</updated>
-        <summary type="html"><![CDATA[はじめに 第1章: Orca とは何か — ADE という発想 エージェントを走らせる環境という位置づけ エージェントの状態は色で確認する 従来の使い方との対比 第2章: Worktree-native ワークフロー タスク = 隔離された worktree というモデル start-from の使い分けと非同期作成 作成に失敗したときの対処とセッション復元 画...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドメインモデル図がすぐ古くなるので、Storybookっぽくコードと関連付けて見れるようにしてみた]]></title>
-        <id>https://zenn.dev/dress_code/articles/34f18afe1464e8</id>
-        <link href="https://zenn.dev/dress_code/articles/34f18afe1464e8"/>
-        <updated>2026-08-10T16:35:11.000Z</updated>
-        <summary type="html"><![CDATA[はじめに ドメインモデリングの手法として、SUDOモデリングを個人的によく使っています。チームで正式に採用しているわけではないですが、手軽にドメインを整理できるので気に入っている、くらいの温度感で5年ほど使ってきました。ただ、その中の「ドメインモデル図」と「オブジェクト図」の運用にはずっとモヤモヤして...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animating CSS border-image]]></title>
-        <id>https://css-tricks.com/?p=394978</id>
-        <link href="https://css-tricks.com/animating-css-border-image/"/>
-        <updated>2026-08-10T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
-Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
-        <id>https://css-tricks.com/?p=396506</id>
-        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
-        <updated>2026-08-10T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
-SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rikyū]]></title>
-        <id>https://rikyu.ai/ja</id>
-        <link href="https://rikyu.ai/ja"/>
-        <updated>2026-08-10T15:44:40.000Z</updated>
-        <summary type="html"><![CDATA[もう、デザインしなくていい。デザインが苦手でも、悩む必要はありません。伝えるだけで、必要なデザインが揃います。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age]]></title>
-        <id>6a79dcd1e93f9db759fd99d6</id>
-        <link href="https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/"/>
-        <updated>2026-08-10T14:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr]]></summary>
-        <author>
-            <name>Jesutoni Aderibigbe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Dynamic Features to a Static Site Without a Server]]></title>
-        <id>6a79dc91e7c11cc73062288e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/"/>
-        <updated>2026-08-10T14:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
