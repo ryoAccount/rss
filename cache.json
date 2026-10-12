@@ -70,6 +70,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "6acb97b4d2b7bc0f3bd063ec",
+          "author": "Javeed Shaik",
+          "description": "A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho",
+          "link": "https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/",
+          "publishedOn": "2026-10-11T14:05:40.000Z",
+          "wordCount": 3132,
+          "title": "What to Do When Your Constants Are Someone Else's Law",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d0b15ef7-16e3-4521-afe8-f2bd08611f97.png"
+        },
+        {
+          "id": "6acb5b01b19fbe5ad15d6949",
+          "author": "Hugo Teijiz",
+          "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
+          "link": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
+          "publishedOn": "2026-10-11T09:46:41.000Z",
+          "wordCount": 4603,
+          "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/55c7ea87-fbb5-4b3f-ae4e-1d1616362579.png"
+        },
+        {
+          "id": "6acb575a7dfd7348cce66960",
+          "author": "Saar Twito",
+          "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
+          "link": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
+          "publishedOn": "2026-10-11T09:31:06.000Z",
+          "wordCount": 5980,
+          "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
+        },
+        {
           "id": "6ac91e9ac74cf25dc4943707",
           "author": "Beau Carnes",
           "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
@@ -688,106 +718,6 @@
           "wordCount": 6335,
           "title": "How to Design Gifting Features People Actually Use: Evidence from 58 Apps",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/94d818a8-6ce2-4335-8d55-5f93907186de.png"
-        },
-        {
-          "id": "6aa47c59141bdd8e9f05b331",
-          "author": "Solomon Amos",
-          "description": "If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em",
-          "link": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
-          "publishedOn": "2026-09-11T22:10:33.000Z",
-          "wordCount": 3293,
-          "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dd244f7-30e5-484e-8552-3938d1555bf3.png"
-        },
-        {
-          "id": "6aa477b6e81d2fc1cc117115",
-          "author": "Mari",
-          "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
-          "link": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
-          "publishedOn": "2026-09-11T21:50:46.000Z",
-          "wordCount": 6956,
-          "title": "How to Prevent Race Conditions in Django",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/560a0578-8b5d-4109-b1ba-9728e8476d6a.png"
-        },
-        {
-          "id": "6aa476cb322207896c23ef21",
-          "author": "Reetain Raina",
-          "description": "Your Apple Watch can tell you how fast you're moving, how your heart responds to exercise, and how your workout changes over time. But one of its more interesting fitness metrics is something it can't",
-          "link": "https://www.freecodecamp.org/news/apple-watch-vo2-max-test-cardiorespiratory-fitness/",
-          "publishedOn": "2026-09-11T21:46:51.000Z",
-          "wordCount": 3174,
-          "title": "Apple Watch’s New VO2 Max Test: How It Measures Your Cardiorespiratory Fitness",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/63ffe5f1-2569-4684-8119-dcad13568ac9.png"
-        },
-        {
-          "id": "6aa475c369d3adf4a48d4cc9",
-          "author": "Chris Roy",
-          "description": "Here's a program restricting itself, then trying to read two files: without landlock:   read /etc/hostname            ok   read /tmp/secret.txt          ok with landlock, /etc allowed:   read",
-          "link": "https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/",
-          "publishedOn": "2026-09-11T21:42:27.000Z",
-          "wordCount": 3336,
-          "title": "How to Sandbox a Linux Process with Landlock, No Root Required",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d2e4d0c7-23b4-4d74-a41c-8102fa298e6a.png"
-        },
-        {
-          "id": "6aa42a894ba1a9c008082580",
-          "author": "Vaibhav Gupta",
-          "description": "Every other AI product you open today has the same screen: a message list, a text box at the bottom, and words that stream in one token at a time. It looks simple, but it's not simple to build well. Y",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-chat-app-interface-with-the-ai-sdk/",
-          "publishedOn": "2026-09-11T16:21:29.000Z",
-          "wordCount": 3875,
-          "title": "How to Build an AI Chat App Interface With the Vercel AI SDK and Shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7c0df36-a134-4ea2-b307-da5c4f7d2937.png"
-        },
-        {
-          "id": "6aa41d147411afb20c713931",
-          "author": "Jude Otine",
-          "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
-          "link": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
-          "publishedOn": "2026-09-11T15:24:04.000Z",
-          "wordCount": 6776,
-          "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e470b44-a02d-440b-a576-e12de96a3b68.png"
-        },
-        {
-          "id": "6aa41cc6739dc5dd502bad21",
-          "author": "Manish Shivanandhan",
-          "description": "Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w",
-          "link": "https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/",
-          "publishedOn": "2026-09-11T15:22:46.000Z",
-          "wordCount": 2854,
-          "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/891dc84b-49d3-4823-bf82-fc5acac84c43.png"
-        },
-        {
-          "id": "6aa41b2dad98007dc3d90177",
-          "author": "Shradha Puri",
-          "description": "Your birthday tells you how many years you've been alive. But it doesn't necessarily tell you how your body is aging. Two people can be the same age and still have very different levels of cardiovascu",
-          "link": "https://www.freecodecamp.org/news/apple-watch-health-age-whats-it-actually-measuring/",
-          "publishedOn": "2026-09-11T15:15:57.000Z",
-          "wordCount": 3956,
-          "title": "Apple Watch Can Now Estimate Your Health Age, But What's It Actually Measuring?",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c264e43d-417a-47f2-bb5d-46ca7ced815e.png"
-        },
-        {
-          "id": "6aa419635b994140774d7f9c",
-          "author": "Atuoha Anthony",
-          "description": "Almost everyone has snapped two LEGO bricks together at some point, even without owning a single set as an adult. You press one brick down onto another, feel it click, and it holds. You likely never o",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-lego-architecture-in-flutter-handbook/",
-          "publishedOn": "2026-09-11T15:08:19.000Z",
-          "wordCount": 8400,
-          "title": "How to Implement LEGO Architecture in Flutter [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b53122ab-f3d5-4b7e-a4d1-6e42e01cbe02.png"
-        },
-        {
-          "id": "6aa41926c7a41a4b7462a57d",
-          "author": "Rudrendu Paul",
-          "description": "On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa",
-          "link": "https://www.freecodecamp.org/news/what-is-an-agent-harness/",
-          "publishedOn": "2026-09-11T15:07:18.000Z",
-          "wordCount": 5692,
-          "title": "What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c85a5e6e-104a-49a0-984d-e7c2dd141d22.png"
         }
       ]
     },
@@ -796,6 +726,96 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/categories/all/selections/daily/2026/10/12?from=rss",
+          "author": null,
+          "description": "<img src=\"https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032088434102/1791647033\"><br>すべてカテゴリー 2026年10月12日のTechFeed記事デイリーランキングです（日本語記事10本、英語記事10本）。<br>1位: 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた（piyolog.hatenadiary.jp）<br>2位: SQLite 本体にベクトル検索拡張 vec1 がやってきた（zenn.dev）<br>3位: CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能（gigazine.net）<br>…ほか17本<br><a href=\"https://techfeed.io/categories/all/selections/daily/2026/10/12?from=rss\" target=\"_blank\">ランキングはこちらから</a><img src=\"https://techfeed.io/b?type=rss&path=http%3A%2F%2Ftechfeed.io%2Ffeeds%2Fcategories%2Fall\">",
+          "link": "https://techfeed.io/categories/all/selections/daily/2026/10/12?from=rss",
+          "publishedOn": "2026-10-12T14:59:59.059Z",
+          "wordCount": 7876,
+          "title": "【10月12日ランキング】国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた／ほか19本",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image//fetch/w_1200,h_630,c_fill/https%3A%2F%2Fogimage.blog.st-hatena.com%2F10257846132616586766%2F14945776032088434102%2F1791647033"
+        },
+        {
+          "id": "https://techfeed.io/entries/6acc14764939f92decf17cf2?from=rss",
+          "author": null,
+          "description": "10月11日、Matt Binderが「Google upgrades its AI detection tool. How to use SynthID.」と題した記事を公開した。今回のアップグレードの核心は、SynthID DetectorがGoogle製モデル以外——OpenAI・NVIDIA・Kakaoにも対応範囲を拡大した点だ。AI生成コンテンツの検出がどのプラットフォーム製かを問わない共通基盤へと一歩近づく、注目のアップデートである。",
+          "link": "https://techfeed.io/entries/6acc14764939f92decf17cf2?from=rss",
+          "publishedOn": "2026-10-11T22:57:58.866Z",
+          "wordCount": 7944,
+          "title": "GoogleのAI検出ツール「SynthID」がOpenAI・NVIDIAにも対応 — ただし「AIかどうか」は判定できない",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1791759477/entries/wqrusergmdk56vnpx9ux.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6acc145d4939f92decf17ce1?from=rss",
+          "author": null,
+          "description": "10月8日、Game Fileが「Unity's new AI game-creation tool has a twist: You still have to put the work in」と題した記事を公開した。UnityのCEO、Matt Bromberg氏が新ツール「Unity Spark」の設計思想をインタビューで語ったもので、「AIにゲームを丸ごと作らせる」という世間の期待を真っ向から否定する内容が注目を集めている。",
+          "link": "https://techfeed.io/entries/6acc145d4939f92decf17ce1?from=rss",
+          "publishedOn": "2026-10-11T22:57:33.856Z",
+          "wordCount": 7954,
+          "title": "UnityのAIゲーム制作ツール「Spark」は「AIに作らせる」ツールではない — 「ワンショット生成には興味がない」とCEOが明言",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1791759453/entries/k4eyj30vbjrmwf5bkr1o.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6acc144a4939f92decf17cd8?from=rss",
+          "author": null,
+          "description": "10月10日、The Next Webが「Vittorio Colao on AI and copyright: 'You want me to allow stealing?'」と題した記事を公開した。元イタリア通信相でVodafoneのCEOも務めたヴィットリオ・コラオが、AI企業による著作権緩和要求に真っ向から反論した。「盗みを認めろということか」——この一言が、EUの規制論争に新たな視点を投げ込んでいる。「著作権保護は盗みを防ぐためだ」——コラオの直言ヴィットリオ・コラオは現在、グローバルプライベートエクイティ大手General AtlanticのEMEA（欧州・中東・アフリカ）担当副会長を務める。元政治家・元経営者であると同時に、現役の投資家でもあり、本記事での発言はその複合的な立場から発せられている点に留意されたい。10月10日、イタリア・トリノで開催されたテックカンファレンス「Wave by Vento」に登壇し、The Timesのジャーナリスト、イアン・キングのインタビューに答えた。EUの規制がAIの発展を妨げているかという問いに対し、コラオは「そうだ」と即答した。た...",
+          "link": "https://techfeed.io/entries/6acc144a4939f92decf17cd8?from=rss",
+          "publishedOn": "2026-10-11T22:57:14.865Z",
+          "wordCount": 7959,
+          "title": "「AI学習に著作権は不要」論にVodafone元CEOが反論——「それは盗みを認めろということか」",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1791759433/entries/fdqi5ylzwykbswxjxful.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6acc14324939f92decf17cc6?from=rss",
+          "author": null,
+          "description": "10月11日、nyosegawa.comが「How far can the OpenAI Decisions API go on image recognition tasks?」と題した記事を公開した。OpenAIが2025年10月6日にベータ公開したDecisions APIを、ファインチューン済み画像モデルや既存APIと5つの画像認識タスクで比較した実験レポートだ。結論を先に述べると、Decisions APIは学習データなしのゼロショット条件でSigLIP2ゼロショットを多くのタスクで上回り、ファインチューン済みモデルには届かないケースも多いが、速度とコストの優位性を加味すると十分に実用的な選択肢となっている。",
+          "link": "https://techfeed.io/entries/6acc14324939f92decf17cc6?from=rss",
+          "publishedOn": "2026-10-11T22:56:50.170Z",
+          "wordCount": 8119,
+          "title": "OpenAIの新API「Decisions API」は既存の画像認識モデルを超えるか — 5タスクで精度・速度・コストを徹底比較",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1791759409/entries/ybnodzlmk34gyph2bnzu.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6acc14214939f92decf17cc1?from=rss",
+          "author": null,
+          "description": "10月10日、GBHackersが「GhostAction Hackers Compromise 500+ GitHub Accounts to Steal Cloud and AI API Credentials」と題した記事を公開した。500超のGitHubアカウントが侵害され、数万リポジトリに不正なワークフローが注入された「GhostAction」キャンペーンは、uber/athenadriverやkitao/pyxelといった著名OSSをも標的に取り込み、AWS・AI系APIを含む13種のクレデンシャルパターンを組織的に窃取するものだ。なお、元記事URLにはcredits（APIクレジット＝利用枠）とあり、単純なキー文字列の窃取にとどまらず利用枠そのものの不正消費も含意している可能性がある点は留意されたい。",
+          "link": "https://techfeed.io/entries/6acc14214939f92decf17cc1?from=rss",
+          "publishedOn": "2026-10-11T22:56:33.073Z",
+          "wordCount": 8010,
+          "title": "500以上のGitHubアカウントが侵害された「GhostAction」攻撃 — 「security-audit.yml」に偽装しAWSキーやAI APIキーを盗み出す手口とは",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1791759392/entries/zfbs2djczvuqhtllksqw.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6acc13364939f92decf17ca5?from=rss",
+          "author": null,
+          "description": "10月11日、SiliconAngleのM. Touheedが「Agentic workloads break assumptions about software testing. Here's how to cope」と題した記事を公開した。AIエージェント型ワークロードは、従来のソフトウェアテストが依拠してきた3つの前提——「ジョブはすぐ終わる」「リトライはタダ」「同じ入力は同じ出力を返す」——をすべて壊す。PoCが成功したのに本番で問題が噴出するのはモデルの品質ではなく、周辺インフラと運用プロセスがエージェント型ワークロードの特性を前提としていないことが原因だ。この構造的な落とし穴と、その具体的な対処法を本記事は詳説している。",
+          "link": "https://techfeed.io/entries/6acc13364939f92decf17ca5?from=rss",
+          "publishedOn": "2026-10-11T22:52:38.742Z",
+          "wordCount": 7959,
+          "title": "AIエージェントはPoC成功後の本番で崩壊しやすい — 「同じ入力が同じ出力を返す」前提が崩れたソフトウェアテストの再設計",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1791759157/entries/ctiwvwe7uahyph2a0iug.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6acc132b4939f92decf17ca1?from=rss",
+          "author": null,
+          "description": "10月10日、IEEE Spectrumが「Solar-Powered Data Centers Turn Wasted Sunlight Into AI Compute」と題した記事を公開した。この記事では、太陽光発電の余剰・廃棄電力をAI推論用GPUクラスターに直接供給するスタートアップ「Rune Energy」のアプローチについて詳しく紹介されている。",
+          "link": "https://techfeed.io/entries/6acc132b4939f92decf17ca1?from=rss",
+          "publishedOn": "2026-10-11T22:52:27.348Z",
+          "wordCount": 7944,
+          "title": "年間5万GWh捨てられている太陽光の余剰電力を、その場でGPUに直結するデータセンターが登場",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1791759146/entries/fvmyc0ljfs3zuvotctpt.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6acc131e4939f92decf17c9e?from=rss",
+          "author": null,
+          "description": "10月11日、CNBCが「AI may change the price of your Big Mac and groceries」と題した記事を公開した。今週、マクドナルドに対してAIを使った価格設定を巡る連邦反トラスト訴訟が提起されたことを受け、AIによる動的価格設定が食品小売・外食産業に広がりつつある現状と、消費者ごとに異なる価格が提示される「個人別価格」の時代が現実味を帯びてきている背景を詳報している。",
+          "link": "https://techfeed.io/entries/6acc131e4939f92decf17c9e?from=rss",
+          "publishedOn": "2026-10-11T22:52:14.166Z",
+          "wordCount": 7952,
+          "title": "マクドナルドがAI価格設定で反トラスト訴訟を提起された時代へ — 電子棚札・顔認証決済が「あなただけの高値」を実現しつつある",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1791759133/entries/zixsa69laimpvcz7g2vd.png"
+        },
         {
           "id": "https://techfeed.io/entries/6acac6b74939f92decf12785?from=rss",
           "author": null,
@@ -3415,106 +3435,6 @@
           "wordCount": 7937,
           "title": "ChatGPTが生成した「架空の証人の証言」を裁判書面に引用した弁護士が制裁を受ける — 「AIだから正確なはず」は通じなかった",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789254153/entries/xfruzydxrdkn5xhq2q1d.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b933e0b243779040da6?from=rss",
-          "author": null,
-          "description": "9月12日、Sophia Fox-Sowellが「Newsom signs legislation establishing framework for third party AI auditors」と題した記事を公開した。連邦レベルのAI規制が停滞する中、カリフォルニア州知事がAIシステムを独立監査する第三者機関の枠組みを定める2本の法律に同日署名した。「誰がAIを審査するか」と「その審査者をどう管理するか」という制度インフラを一度に整備するこの動きは、州主導AI規制の新たな到達点として注目に値する。",
-          "link": "https://techfeed.io/entries/6aa48b933e0b243779040da6?from=rss",
-          "publishedOn": "2026-09-11T23:15:31.096Z",
-          "wordCount": 7943,
-          "title": "カリフォルニア州が「AIを審査する機関」と「その審査機関を管理する仕組み」を同時に法制化 — 連邦政府が動かない中、州主導のAI規制が加速",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168530/entries/zotrob9zgeeioraamutc.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b813e0b243779040da3?from=rss",
-          "author": null,
-          "description": "9月11日、Techstrong.aiが「Agentic AI Is Forcing the Software Stack Back Together」と題した記事を公開した。AIエージェントの台頭が、インフラ・DevOps・QA・セキュリティといった20年かけて分断されてきたチーム境界を再統合しつつある——そう主張する本記事は、楽観論に終始せず懐疑論も正面から取り上げており、現時点での実態データとともに構造変化の輪郭を描いている。",
-          "link": "https://techfeed.io/entries/6aa48b813e0b243779040da3?from=rss",
-          "publishedOn": "2026-09-11T23:15:13.385Z",
-          "wordCount": 7946,
-          "title": "AIエージェントがチーム境界を横断する時代 — DevOps・インフラ・QAの縦割りスタックが再統合されつつある",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168512/entries/zw4wjnm67k4ypdlxdnwm.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b723e0b243779040da0?from=rss",
-          "author": null,
-          "description": "9月11日、Amazon Scienceが「Why don't machine learning research agents overfit?」と題した記事を公開した。LLMベースのMLリサーチエージェントがベンチマークへの過学習を起こしにくい理由を、情報圧縮の観点から実験的に解明した研究だ。核心を一言で言えば、「32トークンに収まる戦略は、本物の改善である」——この問いへの答えが、古典的な情報理論から導かれる。",
-          "link": "https://techfeed.io/entries/6aa48b723e0b243779040da0?from=rss",
-          "publishedOn": "2026-09-11T23:14:58.568Z",
-          "wordCount": 7967,
-          "title": "「ベンチマークを何度叩いても過学習しない」謎をAmazonが解明 — 勝利した戦略が32トークンに圧縮できるなら、それは本物の改善だ",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168497/entries/kxtdck8mzibe9tl3h9il.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b643e0b243779040d9c?from=rss",
-          "author": null,
-          "description": "9月11日、Techstrong.AIが「Databricks Adaptive Search Model Addresses AI Agent Costs」と題した記事を公開した。AIエージェントが「すでに答えは出ているのに検索をやめられない」という現場レベルの問題に、Databricksが専用モデルで正面から応えた。発表されたのはAdaptive Instructed-Retriever——質問の難易度をリアルタイムに判断し、必要な分だけ検索して止まれる適応型検索モデルだ。",
-          "link": "https://techfeed.io/entries/6aa48b643e0b243779040d9c?from=rss",
-          "publishedOn": "2026-09-11T23:14:43.988Z",
-          "wordCount": 7944,
-          "title": "DatabricksがAIエージェントの「検索しすぎ」問題に対処 — 質問の難易度に応じて検索回数を自動調整するモデルが登場",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168483/entries/fan4wpjntkpshz5z1rhg.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b533e0b243779040d99?from=rss",
-          "author": null,
-          "description": "9月11日、Techstrong.AIが「Salesforce in Talks to Acquire AI Startup Listen Labs for $2 Billion: Report」と題した記事を公開した。創業わずか2年のスタートアップが年商の67倍にあたる約20億ドル（約3,000億円）で買収交渉されているという異例の事態であり、さらにシリーズCのタームシートに一度サインしながら自らクローズ前に離脱するという異例の経緯も重なる。SalesforceのAgentforce戦略が水面下でどこまで進んでいるかを示す一件として注目を集めている。",
-          "link": "https://techfeed.io/entries/6aa48b533e0b243779040d99?from=rss",
-          "publishedOn": "2026-09-11T23:14:27.521Z",
-          "wordCount": 7964,
-          "title": "Salesforceが創業2年のAIリサーチ自動化スタートアップを約3,000億円で買収交渉 — 年商の67倍という評価額が示す可能性があるAgentforce戦略の本気度",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168466/entries/jbtbenuervfkzaisnopi.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b453e0b243779040d95?from=rss",
-          "author": null,
-          "description": "9月11日、Ayushi Jainが「Nvidia CEO Jensen Huang says cybersecurity will be AI's next big market after coding」と題した記事を公開した。NVIDIAのCEO Jensen Huangが、サイバーセキュリティをコーディングに続くAIの次の主要市場と位置づけた発言を紹介したものだ。NVIDIAはすでにCrowdStrike・Cisco・Palantirとの提携を発表しており、この発言は単なる見通しにとどまらない重みを持つ。",
-          "link": "https://techfeed.io/entries/6aa48b453e0b243779040d95?from=rss",
-          "publishedOn": "2026-09-11T23:14:13.490Z",
-          "wordCount": 7954,
-          "title": "NVIDIAのJensen Huang「AIの次の主戦場はサイバーセキュリティ」— CrowdStrikeやCiscoとの提携がすでに動き出している",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168452/entries/kyt305tzofi8xdxjoiq6.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b343e0b243779040d8f?from=rss",
-          "author": null,
-          "description": "9月12日、AWSが「Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations」と題した記事を公開した。この記事では、本番環境で稼働するマルチエージェントシステムを「品質」と「インフラ」の二層で継続的に監視する手法について詳しく紹介されている。",
-          "link": "https://techfeed.io/entries/6aa48b343e0b243779040d8f?from=rss",
-          "publishedOn": "2026-09-11T23:13:56.904Z",
-          "wordCount": 8029,
-          "title": "AIエージェントは「500エラーゼロ」でも静かに壊れている — AWSが提案する品質×インフラの二層監視アーキテクチャ",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168436/entries/pmayjedos4xepx9qouja.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b263e0b243779040d88?from=rss",
-          "author": null,
-          "description": "9月11日、Vercelが「How Tailscale built a customer-facing model router on AI Gateway」と題した記事を公開した。この記事では、TailscaleがVercel AI Gateway上にAPIキー不要・ネットワークID管理付きの顧客向けモデルルーターを構築した実装事例について詳しく紹介されている。",
-          "link": "https://techfeed.io/entries/6aa48b263e0b243779040d88?from=rss",
-          "publishedOn": "2026-09-11T23:13:42.517Z",
-          "wordCount": 7992,
-          "title": "TailscaleがAIモデルへのアクセス管理をAPIキーなしで実現 — 「自前でルーターを作ろうとしたが、複雑さが想定外だった」",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168421/entries/ci9zyd5vz0saq9skd32e.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b183e0b243779040d7f?from=rss",
-          "author": null,
-          "description": "9月11日、Google Cloudが「Introducing the Google Cloud Developer Plugin for AI Coding Agents」と題した記事を公開した。AIコーディングエージェント向けにGoogle Cloudの各種ツールをバンドル化した「Google Cloud Developer Plugin」の提供開始について詳しく紹介されている。",
-          "link": "https://techfeed.io/entries/6aa48b183e0b243779040d7f?from=rss",
-          "publishedOn": "2026-09-11T23:13:28.892Z",
-          "wordCount": 7975,
-          "title": "Google CloudがAIコーディングエージェント向けプラグインを公開 — MCPサーバーとスキルを一括管理、ツール設定の煩雑さから解放されるか",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168408/entries/fexbqnyvgmhegq7iz6ez.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6aa48b0a3e0b243779040d78?from=rss",
-          "author": null,
-          "description": "9月11日、AWSが「Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference」と題した記事を公開した。この記事では、Amazon SageMaker InferenceにおけるKVキャッシュを効果的に活用するプレフィックス対応ルーティング機能と、それによるLLM推論レイテンシの大幅削減について詳しく紹介されている。マルチインスタンス環境でKVキャッシュが効かない問題LLMを使ったアプリケーションでは、プロンプトの冒頭に固定のシステム指示やドキュメントを置き、末尾にユーザー入力を続けるパターンが一般的だ。カスタマーサポートボットであれば、「あなたはAnyCompanyのサポートエージェントです。以下がポリシーです…」という3,000トークンの固定部分に、ユーザーの50トークン程度の質問が続く。vLLMやTensorRT-LLMといったLLMサービングフレームワークは、この問題に対してプレフィックスキャッシュ（prefix caching）を実装している。一度処理したプロンプトの冒頭部分のKV（K...",
-          "link": "https://techfeed.io/entries/6aa48b0a3e0b243779040d78?from=rss",
-          "publishedOn": "2026-09-11T23:13:14.144Z",
-          "wordCount": 8004,
-          "title": "SageMakerの新ルーティング機能でLLM初回応答を最大77%高速化 — 複数サーバーに分散してもKVキャッシュを無駄にしない仕組み",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1789168393/entries/td4umxkkrdqmpmamjcz4.png"
         }
       ]
     },
@@ -3529,6 +3449,156 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+          "author": null,
+          "description": "米Microsoftのサティア・ナデラCEOは10月10日（現地時間）、Xに「Models as Insider Risks in the Super Intelligence Era」（SI時代の内部リスクとしてのモデル）と題した長文を投稿した。フロンティアモデルを組織内部の“インサイダーリスク”と同様に扱い、モデルの外側に統制の仕組みを置くべきだと訴えている。なお...",
+          "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+          "publishedOn": "2026-10-12T01:35:17.000Z",
+          "wordCount": 1114,
+          "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿　統制はモデルの外に置くよう提言",
+          "imageUrl": "https://www.itmedia.co.jp/news/article/ogp/2610/12/2000002195/10009088/2048"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
+          "author": null,
+          "description": "Amazonベーシックから、USB4に対応したハイスペックなケーブル「USB4 C to C高速充電ケーブル」が登場した。80Gbpsの高速転送に対応するほか、最大240Wの充電も可能、さらに16K/60Hzの映像出力にも対応するなど、全部入りといっていいスペックでありながら、2,000円台というリーズナブルな価格が特徴だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
+          "publishedOn": "2026-10-11T22:07:57.000Z",
+          "wordCount": 5658,
+          "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2147/366/01.jpg"
+        },
+        {
+          "id": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
+          "author": null,
+          "description": "3D CAD が苦手だ。始めて触ったのは小学4年生のときだったと思う。六角大王と Metasequoia のどちらを先に触ったかは記憶が曖昧である。 3D プリンタを買った。2年以上前のことである。Bambu A1 mini は白物家電の領域に到達しつつある、セールをしているから今すぐ買え、というようなことを言われたような気がする。 買...",
+          "link": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
+          "publishedOn": "2026-10-11T15:00:42.000Z",
+          "wordCount": 314,
+          "title": "Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/13208692334729890363/14945776032088919870/1791718855"
+        },
+        {
+          "id": "https://togetter.com/li/2756939",
+          "author": null,
+          "description": "堀井雄二 @YujiHorii その昔、PCで『ポートピア連続殺人事件』を作った時は、自分で物語を考え、絵も描いて、プログラムもして、ひとりでゲームを作りました。そして今、ＡＩを使えば、絵を描けなくても、プログラムしなくても、ＡＩに指図するだけで、ひとりで、そこそこのゲームを作れてしまいます。ホントびっくりで...",
+          "link": "https://togetter.com/li/2756939",
+          "publishedOn": "2026-10-11T12:39:51.000Z",
+          "wordCount": 709,
+          "title": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる",
+          "imageUrl": "https://s.tgstc.com/ogp3/0f04b4f4c00d07c8bce50ea5a4790c52-1200x630.jpeg"
+        },
+        {
+          "id": "https://toruoka.xyz/202610_security_key/",
+          "author": null,
+          "description": "みなさん、証券口座やその他重要なパスワードはどのように管理していますか？今どきは多くの方がパスワードマネージャーを使用して管理しているかと思います。僕もそのひとり。今はiCloudにパスワードを一元管理しています。 そういう人たちにとって、少しぞわっとなるニュースが先日報道されました。それがこれ。 証券...",
+          "link": "https://toruoka.xyz/202610_security_key/",
+          "publishedOn": "2026-10-11T12:13:54.000Z",
+          "wordCount": 15810,
+          "title": "証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話",
+          "imageUrl": "https://toruoka.xyz/wp-content/uploads/2026/10/DSC_7279.jpg"
+        },
+        {
+          "id": "https://songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html",
+          "author": null,
+          "description": "とにかく数多のサプライチェーンインシデントが発生しており、OSSを公開・頒布している身からすると、より気を使わなければいけない状況です。 例えば、配布しているバイナリやアーカイブ、パッケージなどの成果物(artifact)の信頼性を保証するために、それが、どのソースを元に、どの環境及びワークフローでビルドされ...",
+          "link": "https://songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html",
+          "publishedOn": "2026-10-11T09:26:40.000Z",
+          "wordCount": 499,
+          "title": "GitHub Actions上で証明書を付与するサプライチェーン構築 | おそらくはそれさえも平凡な日々",
+          "imageUrl": "https://i.gyazo.com/04ab616f11ea921e2b4fba960c0db126.png"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/440/4440915/",
+          "author": null,
+          "description": "健康診断の結果を見るたびに、そろそろ本気で体を立て直したいと思う。そんな人は多いはずです。私もその一人で、これまでいくつものスマートウォッチを試してきましたが、結局手元に残るのはApple Watchでした。9月に発売された12世代目の「Apple Watch Series 12」は、見た目こそ前のモデルとほぼ同じですが、中身は心...",
+          "link": "https://ascii.jp/elem/000/004/440/4440915/",
+          "publishedOn": "2026-10-11T09:09:58.000Z",
+          "wordCount": 1204,
+          "title": "やっぱりApple Watchで決まり！ Series 12は計測が大きく進化、健康になりたい俺が本気で試してみた (1/5)",
+          "imageUrl": "https://ascii.jp/img/2026/10/09/4536914/xl/aaa800cdc576f4b7.jpg?20200122"
+        },
+        {
+          "id": "https://slides.yusu.ke/honoconf-2026",
+          "author": null,
+          "description": "::title:: Hono in this era Yusuke Wada Hono Conference 2026 ・ October 11, 2026 ::center size=1.5 bg=white:: 時代 ::center:: Hono Conference 2025 2025/10/18 npmダウンロード数 2025年10月 → 1,110万 / 月 2026年9月 → 2.67億 / 月 -# api.npmjs.org ::right:: express → 2.7倍 react → 3.8倍 next → 4.1倍 zo...",
+          "link": "https://slides.yusu.ke/honoconf-2026",
+          "publishedOn": "2026-10-11T09:03:48.000Z",
+          "wordCount": 5876,
+          "title": "Hono in this era",
+          "imageUrl": "https://slides.yusu.ke/ogp/honoconf-2026.png"
+        },
+        {
+          "id": "https://note.com/humble_bobcat51/n/n64602c64db6c",
+          "author": null,
+          "description": "日本の開発者さんっぽいリポジトリだーと思ってみたら、物凄い高性能な文字起こしツールでした。凄いなコレ。 貰い物の半壊PCでも全然CPUだけで文字起こし出来るし、翻訳でもかなり性能高い感じ。唯一の弱点は複数言語をいっぺんに読み取れないくらいしか、今のところは見当たらない。 こんなの出来るんだ、凄いってなり...",
+          "link": "https://note.com/humble_bobcat51/n/n64602c64db6c",
+          "publishedOn": "2026-10-11T08:37:11.000Z",
+          "wordCount": 2223,
+          "title": "GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/307126145/rectangle_large_type_2_63013f96c0fd55a3256fc9e134731b93.jpeg?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
+          "author": null,
+          "description": "Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。",
+          "link": "https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
+          "publishedOn": "2026-10-11T08:34:08.000Z",
+          "wordCount": 2541,
+          "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
+          "imageUrl": "https://files.speakerdeck.com/presentations/081ed3fb6c014b668bb8f4b6b6ee7309/slide_0.jpg?40870095"
+        },
+        {
+          "id": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
+          "author": null,
+          "description": "はじめに 株式会社アイデアログで取締役CTOをしている松川です。 当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。 今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。 作るスピードと量は...",
+          "link": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
+          "publishedOn": "2026-10-11T08:27:53.000Z",
+          "wordCount": 442,
+          "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--EoTNqKoi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25A7%25E6%25B5%25AE%25E3%2581%2584%25E3%2581%259F%25E6%2599%2582%25E9%2596%2593%25E3%2582%2592%25E3%2580%258C%25E3%2582%2582%25E3%2581%25A3%25E3%2581%25A8%25E4%25BD%259C%25E3%2582%258B%25E3%2580%258D%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2587%25E3%2582%25A2%25E3%2583%25AD%25E3%2582%25B0%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkyY2ZlMWNlZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
+          "id": "https://togetter.com/li/2756877",
+          "author": null,
+          "description": "pixiv閲覧中にMcAfeeを装ったAndroidの盗聴警告画面が突然表示…カメラ・マイク動作中や「誰かがあなたの銀行情報と連絡先にアクセスしようとしています」という警告文も",
+          "link": "https://togetter.com/li/2756877",
+          "publishedOn": "2026-10-11T08:26:53.000Z",
+          "wordCount": 790,
+          "title": "pixiv閲覧中にMcAfeeを装ったAndroidの盗聴警告画面が突然表示…カメラ・マイク動作中や「誰かがあなたの銀行情報と連絡先にアクセスしようとしています」という警告文も",
+          "imageUrl": "https://s.tgstc.com/ogp3/55c8802e906b54969bd8609449245e9c-1200x630.jpeg"
+        },
+        {
+          "id": "https://gigazine.net/news/20261011-hayamimi/",
+          "author": null,
+          "description": "「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 oboroge0/hayamimi: 早耳 - Real-time multi...",
+          "link": "https://gigazine.net/news/20261011-hayamimi/",
+          "publishedOn": "2026-10-11T04:33:54.000Z",
+          "wordCount": 4401,
+          "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
+          "imageUrl": "https://i.gzn.jp/img/2026/10/11/hayamimi/00.jpg"
+        },
+        {
+          "id": "https://kawarimidoll.com/posts/202610051/",
+          "author": null,
+          "description": "Git primitives for autonomous coding agents. Contribute to raine/git-surgeon development by creating an account on GitHub. 機能 Rust製のgitの変更を非対話的に操作できるCLIです。 gitはgit add のようにファイル単位でステージング・コミットするだけでなく、 git add -pという一部の変更のみをス...",
+          "link": "https://kawarimidoll.com/posts/202610051/",
+          "publishedOn": "2026-10-11T04:33:35.000Z",
+          "wordCount": null,
+          "title": "エージェントにコミット整理を教えるgit-surgeonが良さげかも | kawarimidoll.com",
+          "imageUrl": null
+        },
+        {
+          "id": "https://boristane.com/blog/self-improving-software-is-inevitable/",
+          "author": null,
+          "description": "The release you shipped this morning already surfaced what's wrong with it. It's been telling you all day, across multiple surfaces. The only reason prod is still failing is you. Agents write the vast majority of software now, they can one-shot an application, deploy it, and wire up its observabi...",
+          "link": "https://boristane.com/blog/self-improving-software-is-inevitable/",
+          "publishedOn": "2026-10-11T01:39:22.000Z",
+          "wordCount": 1952,
+          "title": "Boris Tane",
+          "imageUrl": "https://boristane.com/assets/blog/self-improving-software-is-inevitable/og.png"
+        },
         {
           "id": "https://togetter.com/li/2756720",
           "author": null,
@@ -3560,6 +3630,16 @@
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/babe07b76bee1354e62be11bf3bceec14e95985a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpiyokango%2F20261011%2F20261011011044.png"
         },
         {
+          "id": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
+          "author": null,
+          "description": "はじめに 2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。 その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへアクセスすることによって生じる、新たな...",
+          "link": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
+          "publishedOn": "2026-10-10T18:04:33.000Z",
+          "wordCount": 2895,
+          "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjE5NjM3JTJGNzMzODQwMGExYzY2ODhkNDQ5OTYxMzRlNDRjYzA2NWI3MDIwMDY3ZiUyRnhfbGFyZ2UucG5nJTNGMTcwNDk0MzA1OD9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGMwNjQ2MzY3NDU1N2NhMmQ3YzU5MjMwZjM1YzRkODU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D93de5a27fe52d475289d0a418d48f20e?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TWljcm9zb2Z0JTIwJUUzJTgyJUJCJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUFBJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgwJTgxJUUzJTgxJTkzJUUzJTgyJThDJUUzJTgyJTkyJUUzJTgyJTg0JUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJThGJUUzJTgxJUEwJUUzJTgxJTk1JUUzJTgxJTg0JUVGJUJDJTgxJUVGJUJEJTlFJTIwJUU1JUFFJTlGJUU4JUI3JUI1JUUzJTgzJTk5JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgyJUFGJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2FiYWQ1ZWI2NDIyYmMxOTkyYjc0MjA4MGE2OTdlZTg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBjYXJvbDAyMjYmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04OGMxMjhjYmI4YTkxYWQwNDMzNzYwYjlmOGU2NTY3NA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=07e61e17d519e6e531254ec564e589ed"
+        },
+        {
           "id": "https://zenn.dev/mattn/articles/6e9996319ac099",
           "author": null,
           "description": "はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...",
@@ -3578,6 +3658,16 @@
           "wordCount": 1526,
           "title": "国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog",
           "imageUrl": "https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032088434102/1791647033"
+        },
+        {
+          "id": "https://note.com/kenichiota0711/n/n7c8035175167",
+          "author": null,
+          "description": "AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します。 これは『AIを活用した仕組み』が作れるようになる27のルールと11ステップをskill化したものです。普段私が使っているルールを、そのままお渡しできる形にしました。記事の最後にダウンロードできます。 できるようになること『AIを...",
+          "link": "https://note.com/kenichiota0711/n/n7c8035175167",
+          "publishedOn": "2026-10-10T15:27:34.000Z",
+          "wordCount": 795,
+          "title": "AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/322737848/rectangle_large_type_2_e843b9ed738b8c9abc146efccccc4274.png?fit=bounds&quality=85&width=1280"
         },
         {
           "id": "https://www.opengroup.org//openbrand/register/",
@@ -3608,6 +3698,26 @@
           "wordCount": 971,
           "title": "音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【前編】",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mwJGFbU5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%25B3%25E5%25A3%25B0%25E5%2590%2588%25E6%2588%2590%25E3%2581%25AB%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2582%2592%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%258F%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2582%2589%25E3%2581%2586%25E8%25A9%25B1%2520%25E3%2580%259C%25E9%25AB%2598%25E4%25BD%258E%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589G2P%25E3%2581%25BE%25E3%2581%25A7%25E3%2580%259C%2520%25E3%2580%2590%25E5%2589%258D%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kiyoshi%2520Kurihara%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnAwaG5JMy1EczJmWVJQSUZHMUZsWHF0Q01sOHo1UVY1MXdlZkJkWk92SF9GWEpBPXMyNTAtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
+          "id": "https://fabscene.com/new/make/felucca-m-vave-fm-1-custom-firmware-13-synth-engines-hugelton/?PageSpeed=noscript",
+          "author": null,
+          "description": "神戸の開発者が小型シンセ「FM-1」の非公式ファームウェアを公開、音源は13種類 2026 10/10 M-VAVEの小型シンセサイザー「FM-1」の純正ソフトを入れ替え、13種類の音源を切り替えて使える楽器にするファームウェア「Felucca」がGitHubで公開された。作ったのは、神戸の楽器設計事務所Hügelton InstrumentsのLeo Kuroshit...",
+          "link": "https://fabscene.com/new/make/felucca-m-vave-fm-1-custom-firmware-13-synth-engines-hugelton/?PageSpeed=noscript",
+          "publishedOn": "2026-10-10T13:38:13.000Z",
+          "wordCount": 4291,
+          "title": "神戸の開発者が小型シンセ「FM-1」の非公式ファームウェアを公開、音源は13種類 - FabScene（ファブシーン）",
+          "imageUrl": "https://fabscene.com/wp-content/uploads/2026/10/image-66.webp"
+        },
+        {
+          "id": "https://fabscene.com/new/make/solvecraft-open-source-parametric-3d-cad-rust-fusion-76-parts-mcp/",
+          "author": null,
+          "description": "オートデスクの3D CAD「Fusion」と同じような手順で部品を設計できるオープンソースのCAD「SolveCraft」が、GitHubで公開された。作ったのは開発者のbherbruck氏だ。同氏はプログラミング言語Rustで書き、AIエージェントがCADを操作するための窓口も組み込んだ。 操作の流れはFusionに近い。利用者は平面にスケッチを描...",
+          "link": "https://fabscene.com/new/make/solvecraft-open-source-parametric-3d-cad-rust-fusion-76-parts-mcp/",
+          "publishedOn": "2026-10-10T12:25:31.000Z",
+          "wordCount": 4659,
+          "title": "個人がCAD「SolveCraft」を無料公開、Fusionの部品76個を再現 - FabScene（ファブシーン）",
+          "imageUrl": "https://fabscene.com/wp-content/uploads/2026/10/image-67.webp"
         },
         {
           "id": "https://speakerdeck.com/sudoakiy/kosodate-enjinia-no-kashobun-jikan-ga-he-temo-seichou-o-akiramenai-tatakaikata",
@@ -3678,6 +3788,26 @@
           "wordCount": 1202,
           "title": "日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析",
           "imageUrl": "https://www.itmedia.co.jp/news/article/ogp/2610/10/2000002035/10008517/2048"
+        },
+        {
+          "id": "https://duckdb.org/2026/10/09/agent-mode",
+          "author": null,
+          "description": "TL;DR: The DuckDB v2.0 CLI has an agent mode that gets AI coding agents to a correct result faster and with fewer tokens. When the CLI detects an agent, it prints compact Markdown tables instead of padded boxes, says clearly when a result was cut, stops runaway queries early, and reports errors a...",
+          "link": "https://duckdb.org/2026/10/09/agent-mode",
+          "publishedOn": "2026-10-10T02:58:07.000Z",
+          "wordCount": 2428,
+          "title": "Agent Mode in the DuckDB CLI",
+          "imageUrl": "https://duckdb.org/images/blog/thumbs/agent-mode.png"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35253437/",
+          "author": null,
+          "description": "国内企業への不正アクセスによる個人情報の漏えいが相次いでいる。10月8〜9日には、ローソンやココナラ、Sansan、LINEヤフーなどが相次いで被害を公表した。ローソンでは約215万件の顧客情報が漏えいしたほか、複数の企業が利用する外部サービスへの攻撃が、各社に波及する事態も起きている。ここにきて急増した要因は不...",
+          "link": "https://japan.cnet.com/article/35253437/",
+          "publishedOn": "2026-10-10T01:57:11.000Z",
+          "wordCount": 3228,
+          "title": "止まらない不正アクセス　ローソン215万件、ココナラやSansanでも情報漏えい",
+          "imageUrl": "https://japan.cnet.com/storage/2026/10/10/6d51d5421e7984dcfc1b05dc89bcdda5/e1d74c7c-4ed0-427f-8a23-7bc4032d64f4.jpeg"
         },
         {
           "id": "https://future-architect.github.io/articles/20261009a/",
@@ -4050,6 +4180,16 @@
           "imageUrl": "https://imgopt.asahi.com/ogp/AS20261009002206_comm.jpg"
         },
         {
+          "id": "https://diamond.jp/articles/-/400815",
+          "author": null,
+          "description": "カーシェアのタイムズカーを運営するパーク24で最大660万件の顧客情報が流出して以降、多くの情報漏洩が発覚している　撮影：編集部 タイムズカーをはじめ、大企業で個人情報の流出が相次いでいる。なぜ、これほど被害が止まらないのか。AIの登場でサイバー防衛の前提が崩れつつある今、企業に求められるのは、これまで...",
+          "link": "https://diamond.jp/articles/-/400815",
+          "publishedOn": "2026-10-09T06:29:01.000Z",
+          "wordCount": 7729,
+          "title": "サイバーセキュリティーの常識が崩れた…「個人情報」の流出を防ぐ“身も蓋もない方法”",
+          "imageUrl": "https://dol.ismcdn.jp/mwimgs/3/8/-/img_38a1c4ac00403200dfe8ba83ec0fc40895488.jpg"
+        },
+        {
           "id": "https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html",
           "author": null,
           "description": "注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 直近において、国内の金融機関や通信事業者等の幅広い事業者から、不正アクセスの被害による情報漏えい事案の公表が相次いで行われています。特に、大量の個人情報を取り扱うオンラインサービス・アカウントサービス等に関するシステ...",
@@ -4078,6 +4218,16 @@
           "wordCount": 5791,
           "title": "ローカルAIを持ち歩ける16型2in1、MSIのRTX Spark機が10月下旬発売",
           "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2146/983/1.jpg"
+        },
+        {
+          "id": "https://github.com/p10node/k10s",
+          "author": null,
+          "description": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+          "link": "https://github.com/p10node/k10s",
+          "publishedOn": "2026-10-09T05:12:20.000Z",
+          "wordCount": 8157,
+          "title": "GitHub - p10node/k10s: Kubernetes TUI you can click. Instant search, logs/exec/port-forward, 7 themes, context-aware AI. Single Go binary.",
+          "imageUrl": "https://opengraph.githubassets.com/bd6597de56f3e152a694eb2a0b2c651d7f8083dce4b60df8338d57f296ef97ff/p10node/k10s"
         },
         {
           "id": "https://gigazine.net/news/20261009-lets-encrypt-cuts-certificate-lifetimes-64-days/",
@@ -4158,6 +4308,16 @@
           "wordCount": 3029,
           "title": "【速報】ブックオフで情報漏えい、最大643万件",
           "imageUrl": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png"
+        },
+        {
+          "id": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b",
+          "author": null,
+          "description": "こんにちは。コロンビア大学の博士課程でシステムセキュリティを研究しているKoukyosyumeiです。 ここ数日、セキュリティインシデントに関するニュースを目にする機会が増えています。こうしたニュースを見ると、「自分のWebサービスは大丈夫だろうか？」と考える方も多いのではないでしょうか。 Webアプリケーションへ...",
+          "link": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b",
+          "publishedOn": "2026-10-09T00:05:54.000Z",
+          "wordCount": 2086,
+          "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTU5OTUzJTJGMzZjNGVlMTEzMDI3MTMzZDMxYTQyMjM0YWZhODE4MTVhNTE3MjEwOSUyRnhfbGFyZ2UucG5nJTNGMTc4MjY4ODc2NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MjI3Y2NlOTA5NzVjZWZkNzBkYzIwMzNhNjk4YjkyNDU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9a7849baacfecd0bbca065a5c7d3e310?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk0JUJCJUU2JTkyJTgzJUU4JTgwJTg1JUUzJTgxJUFGV2ViJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgxJUFFJUUzJTgxJUE5JUUzJTgxJTkzJUUzJTgyJTkyJUU3JThCJTk5JUUzJTgxJTg2JUVGJUJDJTlGJTIwJUU1JTg4JTlEJUU1JUJGJTgzJUU4JTgwJTg1JUUzJTgxJUE3JUUzJTgyJTgyJUU0JUJCJThBJUUzJTgxJTk5JUUzJTgxJTkwJUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgyJUJCJUUzJTgyJUFEJUUzJTgzJUE1JUUzJTgzJUFBJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgzJTgxJUUzJTgyJUE3JUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgyJUI5JUUzJTgzJTg4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjE2ZmYwMTQ3N2FjMGY1NDBlOTE0ZmI5MjIwN2ZlZDU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBLb3VreW9zeXVtZWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lYWVkZjEyNTVkNmMxYjIxNDdhM2I0ODVkZDQ3ZTI3Mw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=86fa15332bc80963243f2d072d3bf5b5"
         },
         {
           "id": "https://togetter.com/li/2755848",
@@ -4998,6 +5158,16 @@
           "wordCount": 4825,
           "title": "Google ドライブとドキュメント、Markdownファイルを直接編集可能に　変換不要で共同編集",
           "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/2145/948/01.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/book/2026/978-4-297-16033-3",
+          "author": null,
+          "description": "著者 元木大介（もときだいすけ），熊井悠（くまいゆう）　著 定価 2,860円（本体2,600円＋税10%） 発売日 2026.10.27 判型 A5 頁数 288ページ ISBN 978-4-297-16033-3 978-4-297-16034-0 概要 AIにコードを書かせる。文章を書かせる。設計図を描かせる。作ることのスピードは、この数年で桁違いに上がりました。しかし...",
+          "link": "https://gihyo.jp/book/2026/978-4-297-16033-3",
+          "publishedOn": "2026-10-06T04:01:51.000Z",
+          "wordCount": 547,
+          "title": "AI×アーキテクト | 技術評論社",
+          "imageUrl": "https://gihyo.jp/assets/images/ogp/2026/9784297160333.jpg"
         },
         {
           "id": "https://forest.watch.impress.co.jp/docs/news/2145843.html",
@@ -11688,226 +11858,6 @@
           "wordCount": 737,
           "title": "クロスプラットフォーム開発が解決するコスト、解決しないコスト",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vu5O-xW0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E9%2596%258B%25E7%2599%25BA%25E3%2581%258C%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2580%2581%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nkzn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hpRkgxVktGMXZZOFk2eEtfZl9PVklHS2pEeWxkWG42MzVLU0VEZEE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://darioamodei.com/post/we-must-pace-the-frontier",
-          "author": null,
-          "description": "I have worked on AI for the last twelve years because I believe it could dramatically raise the quality of human life. I’ve written often about these incredible benefits: I believe that AI could cure most major diseases in the next 5–10 years, greatly accelerate economic growth rates, create a wo...",
-          "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-          "publishedOn": "2026-09-12T14:44:53.000Z",
-          "wordCount": 6365,
-          "title": "Dario Amodei — We Must Pace the Frontier",
-          "imageUrl": "https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg"
-        },
-        {
-          "id": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
-          "author": null,
-          "description": "Claude Codeを対話で使いこなせるようになった。次は、それを「毎晩黙って働くチームメンバー」にする番です。本書は、ヘッドレス実行（claude -p）をCI/CDに組み込み、検出→修正→検証→コミットの自律ループを無人で回すための設計書です。本番運用で立ちはだかる4つの壁——暴走・品質・コスト・監査——に対して、ガードレ...",
-          "link": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
-          "publishedOn": "2026-09-12T14:11:07.000Z",
-          "wordCount": 294,
-          "title": "Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mCycDyD6--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci84OTQ3ZGI0MTE4LnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
-        },
-        {
-          "id": "https://econ101.jp/methodological-individualism/",
-          "author": null,
-          "description": "本記事は、ジョセフ・ヒース教授によるThe Stanford Encyclopedia of Philosophy（以下SEP）のエントリ、「方法論的個人主義（Methodological Individualism）」の翻訳です。本翻訳は、SEPのアーカイブに収録されている2024年夏版（Summer 2024 version）に基づいています。 本翻訳の公開後にSEPの原記事が更新されてい...",
-          "link": "https://econ101.jp/methodological-individualism/",
-          "publishedOn": "2026-09-12T12:15:57.000Z",
-          "wordCount": 99452,
-          "title": "ジョセフ・ヒース「方法論的個人主義（Stanford Encyclopedia of Philosophy）」",
-          "imageUrl": "https://i0.wp.com/econ101.jp/wp-content/uploads/2026/08/SEP-methodological-individualism.jpg?fit=1200%2C649&ssl=1"
-        },
-        {
-          "id": "https://speakerdeck.com/yosuke_furukawa/web-no-chizu",
-          "author": null,
-          "description": "FEC Fukuoka で発表したWebの地図についての話です",
-          "link": "https://speakerdeck.com/yosuke_furukawa/web-no-chizu",
-          "publishedOn": "2026-09-12T11:42:46.000Z",
-          "wordCount": 1892,
-          "title": "Webの地図",
-          "imageUrl": "https://files.speakerdeck.com/presentations/5df3c45f04ff49bdbc6e04a8229843ea/slide_0.jpg?40547872"
-        },
-        {
-          "id": "https://note.com/yubais/n/nd4505991a6d6",
-          "author": null,
-          "description": "「AI が数学の未解決問題を解いた」というニュースを頻繁に見かけるようになった。中でも、ナヴィエ・ストークス方程式の爆発解発見はひときわインパクトが大きい。これは「ミレニアム懸賞問題」として100万ドルの賞金がかけられていた7問のひとつだからだ。いわば21世紀の七大難問と言っていい。 しかし、多くの有名な...",
-          "link": "https://note.com/yubais/n/nd4505991a6d6",
-          "publishedOn": "2026-09-12T10:56:24.000Z",
-          "wordCount": 2545,
-          "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/cd272b80f72e8c8df79f1a33538e6355acc6425e.png"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOUC089IZ0Y6A900C2000000/",
-          "author": null,
-          "description": "富士通が人工知能（AI）向けの半導体の輸出を始める。スーパーコンピューター「富岳」の技術を活用して開発した演算用のロジック半導体を2027年以降に国内のほか米国やアジアで販売する。世界で供給を広げ先端ロジック半導体の復権の足掛かりとする。AIの急速な普及に伴い、大量の情報から適切な回答を素早く導くAI推論...",
-          "link": "https://www.nikkei.com/article/DGXZQOUC089IZ0Y6A900C2000000/",
-          "publishedOn": "2026-09-12T10:38:57.000Z",
-          "wordCount": 292,
-          "title": "富士通がAI半導体を輸出、スパコン技術活用　米国やアジアの需要開拓 - 日本経済新聞",
-          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3587027011092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=21367c08695aa8b51cafdab29f0439fa"
-        },
-        {
-          "id": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
-          "author": null,
-          "description": "【読売新聞】　【ワシントン＝中根圭一】「数学界のノーベル賞」と呼ばれるフィールズ賞を受賞した森重文・京都大特別教授ら世界の数学者２５人が１１日、人工知能（ＡＩ）を使って企業が数学の難問を解く行為を非難する緊急声明を発表した。数学の理",
-          "link": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
-          "publishedOn": "2026-09-12T10:12:56.000Z",
-          "wordCount": 1639,
-          "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
-          "imageUrl": "https://www.yomiuri.co.jp/media/2026/09/20260912-GYT1I00174-1.jpg?type=ogp"
-        },
-        {
-          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2609/12/news005.html",
-          "author": null,
-          "description": "CERNが巨大加速器の制御基盤OSを「CentOS 7」から「Debian 13」に全面移行　コミュニティー主導OSを選ぶ理由：「CentOS Stream」追従を断念 CentOSのEOLに伴い、CERNは制御基盤OSをCentOS 7からDebian 13へ移行すると公表。商用ディストリビューションではなくコミュニティー主導のOSを選択した背景には何があったのか。...",
-          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/12/news005.html",
-          "publishedOn": "2026-09-12T09:03:58.000Z",
-          "wordCount": 6107,
-          "title": "CERNが巨大加速器の制御基盤OSを「CentOS 7」から「Debian 13」に全面移行　コミュニティー主導OSを選ぶ理由",
-          "imageUrl": "https://image.itmedia.co.jp/ait/articles/2609/12/cover_news005.jpg"
-        },
-        {
-          "id": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
-          "author": null,
-          "description": "巨大なモノリシック Rails アプリケーションの マイクロサービス化戦略 / 2019 microservices in cookpad",
-          "link": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
-          "publishedOn": "2026-09-12T08:17:26.000Z",
-          "wordCount": 3014,
-          "title": "AI Agent時代のリアーキテクチャ戦略と実践",
-          "imageUrl": "https://files.speakerdeck.com/presentations/2fc464787284424b896e8b9868992802/slide_0.jpg?40547933"
-        },
-        {
-          "id": "https://saypip.app/",
-          "author": null,
-          "description": "Let's start social media over. Be yourself on Saypip, anonymous by default.",
-          "link": "https://saypip.app/",
-          "publishedOn": "2026-09-12T08:16:39.000Z",
-          "wordCount": 242,
-          "title": "saypip",
-          "imageUrl": "https://saypip.app/og.png"
-        },
-        {
-          "id": "https://automaton-media.com/articles/newsjp/20260912-467049/",
-          "author": null,
-          "description": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない レベルファイブの代表取締役社長を務める日野晃博氏は9月12日、先日おこなわれたオンライン発表イベント「LEVEL5 VISION 2026 II 夢」の中で、生成AIによる映像...",
-          "link": "https://automaton-media.com/articles/newsjp/20260912-467049/",
-          "publishedOn": "2026-09-12T07:36:59.000Z",
-          "wordCount": 12229,
-          "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
-          "imageUrl": "https://automaton-media.com/wp-content/uploads/2026/09/20260912-467049-header.jpg"
-        },
-        {
-          "id": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
-          "author": null,
-          "description": "::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ September 12, 2026 ::center bg=blue:: マジで ::center bg=blue:: 喉（声帯）がやられて ::center bg=blue:: 声がでない ::center bg=blue size=2:: 😱 ::center bg=blue:: お聞き苦しいところありますがご...",
-          "link": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
-          "publishedOn": "2026-09-12T07:11:39.000Z",
-          "wordCount": 5823,
-          "title": "AI時代のWebフレームワークはどこへ行く？",
-          "imageUrl": "https://slides.yusu.ke/images/fec2026/title-ogp.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20260912-firefox-translations/",
-          "author": null,
-          "description": "Google翻訳やDeepLなどの翻訳サイトは非常に便利ですが「機密文書」や「プライバシーに直結するテキスト」を翻訳する場合はあまり使いたくありません。かといって、ローカルで使える翻訳システムは「LLMの実行が必要で負荷が高い」とか「負荷は軽いけど品質が低い」といった問題があります。「ローカルで使えて簡単に導...",
-          "link": "https://gigazine.net/news/20260912-firefox-translations/",
-          "publishedOn": "2026-09-12T07:02:30.000Z",
-          "wordCount": 4280,
-          "title": "Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利",
-          "imageUrl": "https://i.gzn.jp/img/2026/09/12/firefox-translations/00.png"
-        },
-        {
-          "id": "https://azukiazusa.dev/blog/cloudflare-os/",
-          "author": null,
-          "description": "たとえば、エージェントにメモアプリを作ってもらった場合、そのアプリが Gadget です。実際にどのように Gadget を作って組織のメンバーに共有するのかを試してみましょう。 ローカルで起動する まずは 公式リポジトリの起動手順に従って、Cloudflare OS をローカルで動かしてみましょう。Node.js と、パッケージマネー...",
-          "link": "https://azukiazusa.dev/blog/cloudflare-os/",
-          "publishedOn": "2026-09-12T04:28:14.000Z",
-          "wordCount": 3514,
-          "title": "AI エージェントとアプリを動かす Cloudflare OS を試してみた",
-          "imageUrl": "https://ogp.azukiazusa.dev/blog/ogp/cloudflare-os.png"
-        },
-        {
-          "id": "https://www.watch.impress.co.jp/docs/topic/watchplus/2139283.html",
-          "author": null,
-          "description": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
-          "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2139283.html",
-          "publishedOn": "2026-09-12T04:09:43.000Z",
-          "wordCount": 4421,
-          "title": "三井住友銀アプリで「PayPay残高」がわかる　変わりつつある「経済圏」",
-          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2139/283/op01.jpg"
-        },
-        {
-          "id": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-          "author": null,
-          "description": "I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have also posted our declaration on this web page, and (similarly to the Leiden declaration) invite further signatur...",
-          "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-          "publishedOn": "2026-09-12T02:49:37.000Z",
-          "wordCount": 8592,
-          "title": "A Severe Misalignment of AI in Mathematics",
-          "imageUrl": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1789264297"
-        },
-        {
-          "id": "https://speakerdeck.com/gappy50/bs5227-snowflake-world-tour-tokyo-ontology-harry",
-          "author": null,
-          "description": "Snowflake World Tour Tokyo 2026 Day 2 - 2026年9月11日(金) 12:10 - 12:40 BS5227 Snowflake Cortex AgentからAIに数字を聞ける基盤はできた。でも発注や承認は、まだ人が手を動かしていませんか？その壁を越える鍵…",
-          "link": "https://speakerdeck.com/gappy50/bs5227-snowflake-world-tour-tokyo-ontology-harry",
-          "publishedOn": "2026-09-11T23:26:02.000Z",
-          "wordCount": 487,
-          "title": "問いに答えるAIから、ビジネスを動かすAIへ！Snowflakeで作るオントロジー",
-          "imageUrl": "https://files.speakerdeck.com/presentations/60a8be0ae83b4f6ea140410bd5b90cba/slide_0.jpg?40533762"
-        },
-        {
-          "id": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
-          "author": null,
-          "description": "「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。 この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社向けに、アクセスログを 7 本のコマンドに通し...",
-          "link": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
-          "publishedOn": "2026-09-11T22:52:01.000Z",
-          "wordCount": 2504,
-          "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK) - Qiita",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDQzNjQwJTJGNTFlMTk3MTk0Mzg0YjhlYmE3ZmE5M2JjOGRhZTE3ZjA4ZWZjM2IzZSUyRnhfbGFyZ2UucG5nJTNGMTc4MDYzOTY2ND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWI3ZGMyMWNjN2MyNjVjZGZkNmE4MTc0NDk5Y2M2NGI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D683aa7ed29701ffb01177d4edbd11507?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUEyJUUzJTgyJUFGJUUzJTgyJUJCJUUzJTgyJUI5JUUzJTgzJUFEJUUzJTgyJUIwJUUzJTgxJThCJUUzJTgyJTg5JUU0JUI4JThEJUU2JUFEJUEzJUUzJTgyJUEyJUUzJTgyJUFGJUUzJTgyJUJCJUUzJTgyJUI5JUUzJTgxJUFFJUU1JTg1JTg2JUU1JTgwJTk5JUUzJTgyJTkyJUU4JUE2JThCJUUzJTgxJUE0JUUzJTgxJTkxJUUzJTgyJThCNyVFMyU4MSVBNCVFMyU4MSVBRSVFOSU5QiU4NiVFOCVBOCU4OCUyOG5naW54JTJGQXBhY2hlJUU1JUFGJUJFJUU1JUJGJTlDJUUzJTgzJUJCJUUzJTgyJUIzJUUzJTgzJTk0JUUzJTgzJTlBT0slMjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01ZTFmMWIyYjlmNGM4ODVmYzY3OTU5NGNiZTFjZTFhZg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqaWlzLXNhc2FraSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRjZDE3ZmZiZDY4ZjIxN2Q2MTQ5YjExYTlmNjE0ODFk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=965a21dddaee712c1252ec83993979c6"
-        },
-        {
-          "id": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
-          "author": null,
-          "description": "For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.",
-          "link": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
-          "publishedOn": "2026-09-11T19:46:00.000Z",
-          "wordCount": 7454,
-          "title": "Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers",
-          "imageUrl": "https://developers.openai.com/images/blog/rethinking-skills-and-prompts-for-gpt-6-astra/cover.webp"
-        },
-        {
-          "id": "https://rune.build/blog/rune-is-now-open-source",
-          "author": null,
-          "description": "Rune is now open source under the GPLv3. A native, keyboard-driven IDE written primarily in Go is ready for Go developers to inspect, change, and help build.",
-          "link": "https://rune.build/blog/rune-is-now-open-source",
-          "publishedOn": "2026-09-11T19:37:52.000Z",
-          "wordCount": 66,
-          "title": "Rune is now open source. Rune Blog",
-          "imageUrl": "https://rune.build/images/og4.png"
-        },
-        {
-          "id": "https://developers.openai.com/showcase/games",
-          "author": null,
-          "description": "For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.",
-          "link": "https://developers.openai.com/showcase/games",
-          "publishedOn": "2026-09-11T15:45:07.000Z",
-          "wordCount": 8018,
-          "title": "Games | OpenAI Developers",
-          "imageUrl": "https://developers.openai.com/open-graph.png"
-        },
-        {
-          "id": "https://github.com/iselegant/manager-readme/blob/main/README_ja.md",
-          "author": null,
-          "description": "まず私一番ワクワクしているのは、あたたたちメンバーと一緒に、これまでとは違う新しい働き方を作れることです。逆に一番の不安は、プレイングとマネジメントの両立の負荷です。ここは正直、やってみないと分からない部分なので、気になる点があれば遠慮なく教えてください（自分では気づきにくいタイプなので）。 譲れ...",
-          "link": "https://github.com/iselegant/manager-readme/blob/main/README_ja.md",
-          "publishedOn": "2026-09-11T15:42:04.000Z",
-          "wordCount": 1678,
-          "title": "manager-readme/README_ja.md at main · iselegant/manager-readme",
-          "imageUrl": "https://opengraph.githubassets.com/51dbf430dea2b898f53868bd5c478ae589be037d01f644a8ebd7f0f0d075aa39/iselegant/manager-readme"
         }
       ]
     },
@@ -14135,36 +14085,6 @@
           "wordCount": 2920,
           "title": "Anthoropic CEOが「AI開発の減速」提言　OpenAIアルトマン氏、イーロン・マスク氏も賛同",
           "imageUrl": "https://japan.cnet.com/storage/2026/09/13/7e127ce4f2dc21d2e2b65186fe641617/09.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35252557/",
-          "author": "Tyler Lacoma （CNET News） 翻訳校正： 編集部",
-          "description": "米AnthropicがAI開発に反対する活動家を監視し、犯罪を起こす恐れがあるとして警察に通報していると、米誌The American Prospectが9日（現地時間）に報じた。「Claude」を手がける同社は「活動家を監視するための予測型監視システムを構築してはいない」と反論している。",
-          "link": "https://japan.cnet.com/article/35252557/",
-          "publishedOn": "2026-09-12T08:52:00.000Z",
-          "wordCount": 3038,
-          "title": "Anthropicが「AI反対派」を監視・通報しているとの報道　同社は反論",
-          "imageUrl": "https://japan.cnet.com/storage/2026/09/12/dd4b070048721dd84592f45ba6d014d2/04.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35252555/",
-          "author": "CNET Japan Staff",
-          "description": "米プリンストンプラズマ物理研究所（PPPL）は9月2日、核融合実験で特定の異常をAIで予測し、装置を制御して回避したと発表した。米国の実験装置「DIII-D」で試し、異常の発生を約0.2秒前に予測した。核融合に必要な高温のプラズマを安定して保つための技術だ。",
-          "link": "https://japan.cnet.com/article/35252555/",
-          "publishedOn": "2026-09-11T22:13:00.000Z",
-          "wordCount": 2921,
-          "title": "核融合の異常、AIが0.2秒前に予測して回避　米PPPLが実験",
-          "imageUrl": "https://japan.cnet.com/storage/2026/09/12/0b458bd01e4b68e45058775bf1310f9e/02.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35252554/",
-          "author": "CNET Japan Staff",
-          "description": "米マサチューセッツ工科大学（MIT）は8月17日、細菌の集まりをつなぎ、足し算ができる「生きた回路」を作ったと発表した。電気の代わりに化学物質で信号を伝える仕組みで、最大24の細菌の集まりを使って2つの入力を足し合わせた。",
-          "link": "https://japan.cnet.com/article/35252554/",
-          "publishedOn": "2026-09-11T21:59:00.000Z",
-          "wordCount": 2911,
-          "title": "細菌をつないで足し算　MITが「生きた回路」、植物への応用目指す",
-          "imageUrl": "https://japan.cnet.com/storage/2026/09/12/e28f4d436b3d8624b7da0e334a76e231/01.jpeg"
         }
       ]
     }
