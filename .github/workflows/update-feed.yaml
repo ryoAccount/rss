@@ -9,17 +9,18 @@ on:
     # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
     # Recommended tool: https://crontab.guru/
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
       - name: Setup Node.js environment
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1
         with:
-          node-version: "18"
+          node-version: "24"
       - name: Install dependencies
         run: npm i
       - name: Build the feed
