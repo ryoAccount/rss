@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=397800",
+          "author": "Geoff Graham",
+          "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
+          "publishedOn": "2026-11-13T14:05:24.000Z",
+          "wordCount": 2916,
+          "title": "10 Big Ol’ 2027 Black Friday Deals",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=397598",
           "author": "Andy Clarke",
           "description": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.\nBeyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
@@ -260,6 +270,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6af7069e2028f50f83240511",
+          "author": "Manish Shivanandhan",
+          "description": "Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in",
+          "link": "https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/",
+          "publishedOn": "2026-11-13T12:46:22.000Z",
+          "wordCount": 3253,
+          "title": "How to Speed Up CI in the Age of AI-Written Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/d1609f3b-9a5c-402f-b04d-30349dd2e10e.png"
+        },
+        {
+          "id": "6af6f326f94aa3564f351d31",
+          "author": "Yemi Ojedapo",
+          "description": "When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c",
+          "link": "https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/",
+          "publishedOn": "2026-11-13T11:23:18.000Z",
+          "wordCount": 6311,
+          "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae47b7ae-2c13-49b9-bad7-a20a28edbecb.png"
+        },
+        {
+          "id": "6af6ea1b6758a8ccb76659d6",
+          "author": "Bhavin Sheth",
+          "description": "Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a",
+          "link": "https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/",
+          "publishedOn": "2026-11-13T10:44:43.000Z",
+          "wordCount": 9808,
+          "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eb2e1525-11db-47ef-a27c-b0672184efe8.png"
+        },
         {
           "id": "6af33ff6e6a1d476dd025c20",
           "author": "Beau Carnes",
@@ -639,46 +679,6 @@
           "wordCount": 1576,
           "title": "Learn How to Design Software Systems Like a Senior Engineer in Our New Course",
           "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/e7c56cb4-aabc-41e2-8fd9-4c14bb158d91.png"
-        },
-        {
-          "id": "6ad0d6b41b1aaeb205d2d198",
-          "author": "Amina Lawal",
-          "description": "Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many",
-          "link": "https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/",
-          "publishedOn": "2026-10-15T13:35:48.000Z",
-          "wordCount": 14992,
-          "title": "How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d8182a7-81dd-4bb8-bd62-f9e3c4175532.png"
-        },
-        {
-          "id": "6ad05e6261108f0421f7f3d4",
-          "author": "Harish Gaggar",
-          "description": "Our on-call team keeps a small internal notes API. The web app in front of it shows who's holding the pager, which days are frozen for deploys, and where the runbooks live. A developer on that team wa",
-          "link": "https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/",
-          "publishedOn": "2026-10-15T05:02:26.000Z",
-          "wordCount": 5827,
-          "title": "How to Give an AI Agent Safe Access to an Internal API with MCP",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/87096379-4cf7-4701-a76c-c09964d519e1.png"
-        },
-        {
-          "id": "6ad05dd81f613b7136df1683",
-          "author": "Oluwaseyi Fatunmole",
-          "description": "There's a conversation that happens in most engineering teams,maybe usually too late. Think of this, a feature ships to production. A security review happens afterwards, or a penetration test finds so",
-          "link": "https://www.freecodecamp.org/news/secure-by-design-engineer-security-into-architecture-before-writing-code/",
-          "publishedOn": "2026-10-15T05:00:08.000Z",
-          "wordCount": 7660,
-          "title": "Secure by Design: How to Engineer Security into Architecture Before Writing Any Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f24cb6-f4b9-40eb-9690-db750358c4d6.png"
-        },
-        {
-          "id": "6ad05935fb11435ce8281161",
-          "author": "Alex Oliinyk",
-          "description": "At some point, a map project needs more than markers and polygons. You want something to happen on the map: water moving up a street, smoke drifting with the wind, or a shockwave spreading out from a",
-          "link": "https://www.freecodecamp.org/news/disaster-simulation-real-map-mapbox-three-js/",
-          "publishedOn": "2026-10-15T04:40:21.000Z",
-          "wordCount": 13194,
-          "title": "How to Build Disaster Simulations on a Real Map: Animated Canvas Layers and Collapsing 3D Buildings with Mapbox GL JS and Three.js",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/db541c6a-aba6-4a25-b0f8-2a4657c485d3.png"
         }
       ]
     },
@@ -687,6 +687,106 @@
       "feedUrl": "https://techfeed.io/feeds/categories/all",
       "siteUrl": "http://techfeed.io/categories/all",
       "articles": [
+        {
+          "id": "https://techfeed.io/entries/6af798be49a7d098b468f4f5?from=rss",
+          "author": null,
+          "description": "11月12日、Futurum Groupが「Siemens Energy's Record Q3 Makes It AI's Power Backbone」と題した記事を公開した。Siemens EnergyがAIデータセンター向け電力インフラ需要を背景に、2026年度第3四半期（FY2026 Q3、2026年4〜6月期）で過去最高の業績を記録したことを詳報している。",
+          "link": "https://techfeed.io/entries/6af798be49a7d098b468f4f5?from=rss",
+          "publishedOn": "2026-11-13T23:09:50.369Z",
+          "wordCount": 7971,
+          "title": "Siemens EnergyがFY2026 Q3で過去最高業績を更新 — AIデータセンターの「電力の壁」を握る企業が静かに急成長している",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611389/entries/zwxwsd4e9m3tlvba0dqb.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af798a649a7d098b468f4e5?from=rss",
+          "author": null,
+          "description": "11月13日、Alysa Taylorが「Scaling AI value without losing control: Lessons from Frontier Firms」と題した記事を公開した。MicrosoftがIDCに委託した5,200社超の調査データをもとに、AIの導入成果を組織全体でスケールさせている企業（「Frontier Firms」）と停滞している企業の差異を分析した内容だ。",
+          "link": "https://techfeed.io/entries/6af798a649a7d098b468f4e5?from=rss",
+          "publishedOn": "2026-11-13T23:09:26.417Z",
+          "wordCount": 7974,
+          "title": "AIで「成果が出る企業」と「停滞する企業」の差は何か — 5,200社調査が示すスケールできる組織の5つの共通点",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611365/entries/fzsjwo2pq8bfu7jzrqqm.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af7989049a7d098b468f4d4?from=rss",
+          "author": null,
+          "description": "11月13日、ZDNetが「You can force Gemini to forget about you now」と題した記事を公開した。記事の執筆者がGeminiの記憶を実際に確認してみると、「Madison Countyに住んでいる」「野球カードショップを経営している」といった事実と異なる情報が混入していた。これはGeminiのロゴ生成機能をテストした際に仮の店舗名として入力した内容が、そのまま事実として記録されてしまったためだ。AIアシスタントが蓄積する「記憶」の内容は、ユーザーが思う以上に不正確で、かつ見えにくい場所に保存されている。Googleはこうした懸念に応える形で、ユーザー自身がGeminiの記憶を閲覧・編集できる新機能「Memory summary」を導入した。",
+          "link": "https://techfeed.io/entries/6af7989049a7d098b468f4d4?from=rss",
+          "publishedOn": "2026-11-13T23:09:04.352Z",
+          "wordCount": 7951,
+          "title": "GeminiがあなたについてAIが勝手に記録していた情報を確認・削除できる新機能 — 誤情報が混入するケースも",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611343/entries/arcrsioprrj2nemtaqmq.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af7987f49a7d098b468f4cf?from=rss",
+          "author": null,
+          "description": "11月13日、Fatima Khanが「Google Brings Gemini Live To Apple CarPlay In Global Rollout」と題した記事を公開した。この記事では、GoogleのAIアシスタント「Gemini Live」がApple CarPlayへの世界展開を開始し、iPhoneユーザーが車内からハンズフリーでGeminiを利用できるようになったことを詳しく伝えている。",
+          "link": "https://techfeed.io/entries/6af7987f49a7d098b468f4cf?from=rss",
+          "publishedOn": "2026-11-13T23:08:47.720Z",
+          "wordCount": 7962,
+          "title": "GeminiがApple CarPlayに対応開始 — GoogleのAIがAppleの車載画面で動く異例の展開、ChatGPT・Claude・Copilotに続き参戦",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611326/entries/emd5nhlb8tcpr0ecbzcp.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af7986749a7d098b468f4c7?from=rss",
+          "author": null,
+          "description": "11月13日、Bruce Schneierが「AI Doesn't Have to Go Rogue to Break the World」と題した記事を公開した。この記事では、AIが「反乱」を起こさなくても、意図せずシステムのルールを悪用することで社会を崩壊させうるという構造的リスクについて論じている。",
+          "link": "https://techfeed.io/entries/6af7986749a7d098b468f4c7?from=rss",
+          "publishedOn": "2026-11-13T23:08:23.305Z",
+          "wordCount": 7958,
+          "title": "AIは反乱しなくても社会を壊せる — 「指示通りに動く」だけで既存のルールを食い尽くすリスク",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611302/entries/wzzem3mihzs1gehhp8oc.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af7985049a7d098b468f4ae?from=rss",
+          "author": null,
+          "description": "11月14日、How-To Geekが「This is Claude's most useful feature, and 99 percent of you are using it wrong, if at all」と題した記事を公開した。Claudeには、AIがPC画面を直接「見て・操作する」という、チャットとも音声アシスタントとも異なる異質な機能が存在する。その名は「Computer Use」。登場当初の評判の悪さゆえに多くのユーザーに素通りされてきたが、記事はこれを「Claudeで最も実用的な機能」と断言し、具体的な活用法3選とともに再評価を促している。",
+          "link": "https://techfeed.io/entries/6af7985049a7d098b468f4ae?from=rss",
+          "publishedOn": "2026-11-13T23:08:00.437Z",
+          "wordCount": 7971,
+          "title": "ClaudeがPC画面を直接操作できる「Computer Use」— 99%のユーザーが使い方を間違えている（あるいはそもそも使っていない）AIの隠れた実用機能",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611279/entries/sgagxq5iof3q84pxozzy.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af7982749a7d098b468f486?from=rss",
+          "author": null,
+          "description": "11月12日、CSO Onlineが「Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill」と題した記事を公開した。クラウドホスティングプロバイダーのRailwayがAIクレデンシャル窃取攻撃を受け、74万ドル相当の不正なAI利用料金が発生した事件を詳報している。この料金はRailway自身が全額を肩代わりした。「AIキーは新しいクレジットカード番号になりつつある」——セキュリティ専門家のこの言葉が示すとおり、AIプロバイダーキーの管理は今やクレジットカード情報と同等の扱いが求められる段階に入った。",
+          "link": "https://techfeed.io/entries/6af7982749a7d098b468f486?from=rss",
+          "publishedOn": "2026-11-13T23:07:19.554Z",
+          "wordCount": 7972,
+          "title": "AIキーは「新しいクレジットカード」— クラウドホスティングRailwayで74万ドル相当が不正利用、その全額をRailwayが肩代わり",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611237/entries/xbllhgwsmyvet7p1odkk.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af7980c49a7d098b468f483?from=rss",
+          "author": null,
+          "description": "11月12日、Inside AI News が「Foxconn Forecasts Double-Digit 2027 Revenue Growth on AI Server Demand」と題した記事を公開した。Foxconnが2027年度の売上高について前年比二桁成長を予測したという内容だが、この予測が単なる自社の財務目標以上の意味を持つのは、同社がNvidiaなどのチップ設計会社やハイパースケーラー（大規模クラウド事業者）から実質的に「設備投資計画を代弁する立場」に置かれているからだ。Foxconnが強気の見通しを示すとき、それは主要顧客のデータセンター建設ペースがそのまま反映されている。",
+          "link": "https://techfeed.io/entries/6af7980c49a7d098b468f483?from=rss",
+          "publishedOn": "2026-11-13T23:06:52.533Z",
+          "wordCount": 7937,
+          "title": "Foxconnが2027年に二桁成長を予測 — iPhoneを作る世界最大の受託製造会社が示す「AIサーバー需要の体温計」",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611211/entries/ppjpizjgqadv4pldxdck.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af797eb49a7d098b468f471?from=rss",
+          "author": null,
+          "description": "11月12日、Build5Ninesが「The Naive Optimism Trap in AI Software Development」と題した記事を公開した。AIコーディングツールへの過度な楽観主義がソフトウェア開発現場にどのような罠をもたらすかについて、実開発の経験をもとに詳しく論じている。",
+          "link": "https://techfeed.io/entries/6af797eb49a7d098b468f471?from=rss",
+          "publishedOn": "2026-11-13T23:06:19.622Z",
+          "wordCount": 7943,
+          "title": "AIは最初の50〜80%が速いだけ — 「動くデモ」と「本番で使えるシステム」の間にある壁",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611178/entries/lg2qkcti7qyu4elqdcng.png"
+        },
+        {
+          "id": "https://techfeed.io/entries/6af797cf49a7d098b468f46d?from=rss",
+          "author": null,
+          "description": "11月12日、devin.aiが「Cognition and McKinsey form an alliance to help enterprises prove the value of AI in software engineering」と題した記事を公開した。AIコーディングツールを導入した企業のうち、30%では生産性が横ばいか低下している——McKinseyの最新調査が示したこの数字が、今回の提携の出発点だ。AIコーディングエージェント「Devin」を開発するCognitionとMcKinsey & Companyが組み、エンタープライズ向けにAIソフトウェア開発の投資対効果を可視化する取り組みを開始した。",
+          "link": "https://techfeed.io/entries/6af797cf49a7d098b468f46d?from=rss",
+          "publishedOn": "2026-11-13T23:05:51.072Z",
+          "wordCount": 7974,
+          "title": "AIコーディングエージェント「Devin」開発元とMcKinseyが提携 — 「導入したのに成果が出ない」30%の企業を救えるか",
+          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1794611149/entries/t9qcgjkxnku5db1oljht.png"
+        },
         {
           "id": "https://techfeed.io/categories/all/selections/daily/2026/11/13?from=rss",
           "author": null,
@@ -3126,16 +3226,6 @@
           "wordCount": 7964,
           "title": "3日間のワークショップで機能開発を3〜4スプリントから1スプリントに短縮 — DynataがAIを「個人ツール」から「チーム開発プロセス」に組み込んだ方法",
           "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1792106164/entries/qllptlt3rmicobgm768s.png"
-        },
-        {
-          "id": "https://techfeed.io/entries/6acff3bcb9a6f1a69d9959ac?from=rss",
-          "author": null,
-          "description": "10月14日、go.devが「Better HTTP/1 connection reuse」と題した記事を公開した。Go 1.27におけるnet/httpパッケージのHTTP/1接続再利用の改善と、その背景にある低レイヤーの仕組みについて詳しく解説している。",
-          "link": "https://techfeed.io/entries/6acff3bcb9a6f1a69d9959ac?from=rss",
-          "publishedOn": "2026-10-14T21:27:24.487Z",
-          "wordCount": 8029,
-          "title": "コードを変えずに約5倍速く — Go 1.27がHTTP/1接続再利用を自動化した仕組み",
-          "imageUrl": "https://res.cloudinary.com/techfeed/image/upload/w_1200,h_630,c_fill/f_auto/v1792013240/entries/aeqyk6u7c1ao9zfydscz.png"
         }
       ]
     },
@@ -3150,6 +3240,236 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://togetter.com/li/2770247",
+          "author": null,
+          "description": "HPPS＠平和荘 @HPPS_HEIWASOU 若い人には想像できんかもしれんが、その昔、 noteのようなブログも、 Twitterのような短文投稿も、 Discordのようなコミュニティ運営も、 ジョルテのようなカレンダー共有も、 TwiPlaのようなイベント参加者管理も、 すべてまとめてできる、夢のようなサービスがあったのじゃ。 そして当時...",
+          "link": "https://togetter.com/li/2770247",
+          "publishedOn": "2026-11-14T01:06:19.000Z",
+          "wordCount": 668,
+          "title": "かつて、noteのようなブログもTwitterのような短文投稿もDiscordのようなコミュニティ運営もすべてまとめてできる、夢のようなサービスがあったのじゃ",
+          "imageUrl": "https://s.tgstc.com/ogp3/a5d01b29a38b44dd977315f5842d3c69-1200x630.jpeg"
+        },
+        {
+          "id": "https://mantan-web.jp/article/20261112dog00m200059000a.html",
+          "author": null,
+          "description": "「楽園追放 -Expelled from Paradise-」は、ヒットが期待されていた作品というわけではなかった。公開された2014年、日本のアニメ業界は、手描きが主流で、フル3DCGアニメは受け入れられているとは言えなかった。3DCGでありながら手描きのような質感と表現を目指したセルルックという表現で制作され、3DCGならではのダイ...",
+          "link": "https://mantan-web.jp/article/20261112dog00m200059000a.html",
+          "publishedOn": "2026-11-13T22:02:09.000Z",
+          "wordCount": 783,
+          "title": "楽園追放 心のレゾナンス：12年ぶり続編の挑戦　3DCGの現在地、AIと人間らしさ　水島精二監督インタビュー - MANTANWEB（まんたんウェブ）",
+          "imageUrl": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/12/20261112dog00m200059000a/001.jpg"
+        },
+        {
+          "id": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
+          "author": null,
+          "description": "アメリカのIT大手、マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで発生した大規模な接続障害について、日本時間の14日午前3時すぎ「広範囲にわたる復旧がみられる」とSNSに投稿しました。…",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75755",
+          "publishedOn": "2026-11-13T21:47:23.000Z",
+          "wordCount": 465,
+          "title": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」 | NHKニュース",
+          "imageUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000174793_1_l.jpg"
+        },
+        {
+          "id": "https://togetter.com/li/2770134",
+          "author": null,
+          "description": "「あの人は館長の次くらいに偉い」国会図書館でバイトしていた頃、仕事をしてる姿を見たことがない人がいた→COBOLの話題から始まる往年の技術者の話",
+          "link": "https://togetter.com/li/2770134",
+          "publishedOn": "2026-11-13T16:00:06.000Z",
+          "wordCount": 672,
+          "title": "「あの人は館長の次くらいに偉い」国会図書館でバイトしていた頃、仕事をしてる姿を見たことがない人がいた→COBOLの話題から始まる往年の技術者の話",
+          "imageUrl": "https://s.tgstc.com/ogp3/6c4c1fe0b492b67a1788409569982594-1200x630.jpeg"
+        },
+        {
+          "id": "https://www.47news.jp/15227159.html",
+          "author": null,
+          "description": "マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。",
+          "link": "https://www.47news.jp/15227159.html",
+          "publishedOn": "2026-11-13T15:36:10.000Z",
+          "wordCount": 2938,
+          "title": "【速報】マネックス証券、マイナカード画像漏えいか",
+          "imageUrl": "https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png"
+        },
+        {
+          "id": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
+          "author": null,
+          "description": "「AI駆動経営」勉強会 #4（2026/11/12）での登壇資料です。 https://aid.connpass.com/event/409635/ AIで何もかもが変わっていくように見えますが、仕事は「一人とAI」では閉じません。 組織開発のフレームワーク GRPI（Goals / Role…",
+          "link": "https://speakerdeck.com/littlehands/ai-kudou-keiei-suraido-20261112-0eeda77b-3c60-4af9-b059-2eb1ff3ef2c1",
+          "publishedOn": "2026-11-13T14:24:54.000Z",
+          "wordCount": 1075,
+          "title": "人間＋AIを「チーム」としてプロセスを再設計する",
+          "imageUrl": "https://files.speakerdeck.com/presentations/8308bf272fb54c05ab73e2a607c5e037/slide_0.jpg?41350552"
+        },
+        {
+          "id": "https://nowokay.hatenablog.com/entry/2026/11/13/101644",
+          "author": null,
+          "description": "Fable 5.2が出て今週いっぱいくらいPlusでも使えるのだけど、Fableじゃないとダメなことってなんだろなと思いつつ、楽器の物理シミュレーションがOpusはまだあまりうまくなかったなと、Fableさんに物理モデリング音源を作ってもらって曲もつくってもらったら、物理モデリングも結構できていたのだけど、曲がちゃんとして...",
+          "link": "https://nowokay.hatenablog.com/entry/2026/11/13/101644",
+          "publishedOn": "2026-11-13T14:22:52.000Z",
+          "wordCount": 1208,
+          "title": "Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/124dd98915ea1ae722f6a171ed5ad3c4f387690a/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnowokay%2F20261113%2F20261113100710.png"
+        },
+        {
+          "id": "https://togetter.com/li/2770072",
+          "author": null,
+          "description": "Microsoft 365で「大規模障害」発生、TeamsやCopilotなど利用不能に　サーバー不具合 | Forbes JAPAN 公式サイト（フォーブス ジャパン） マイクロソフトは、米国時間11月12日午後に「Microsoft 365」のサービス障害が報告されて以来、問題の解決に向けた対応を続けている。同社はインフラの負荷増大について、トラフィ...",
+          "link": "https://togetter.com/li/2770072",
+          "publishedOn": "2026-11-13T13:27:39.000Z",
+          "wordCount": 688,
+          "title": "大阪でCopilotの初心者向け研修の講師をやる予定なのに障害で使えず…他のAIは使用禁止、代替ツールなし「お気の毒すぎる」「これは泣ける」→フル座学で研修を乗り切った",
+          "imageUrl": "https://s.tgstc.com/ogp3/0d53803694be7eb4ea419910efef9fa4-1200x630.jpeg"
+        },
+        {
+          "id": "https://togetter.com/li/2770106",
+          "author": null,
+          "description": "渡邊 恵太 @100kw 今日は衝撃でした。 私「このスライドはAI使ってますよね？ソフトはなんですか？」 学生「全部AIです」 私「？Figmaですか？」 学生「スライドもAIでHTMLで作らせましたが、スライドソフト自体もAIでHTML製です。文字の位置調整とかできます」 私「🫨」 x.com/100kw/status/2… 2026-11-13 13:10:24 渡邊...",
+          "link": "https://togetter.com/li/2770106",
+          "publishedOn": "2026-11-13T13:27:08.000Z",
+          "wordCount": 703,
+          "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
+          "imageUrl": "https://s.tgstc.com/ogp3/a16bc210d41b3d32d2a7f99b927c9bc4-1200x630.jpeg"
+        },
+        {
+          "id": "https://beyondloom.com/blog/postscript.html",
+          "author": null,
+          "description": "Using primitive JavaScript values to represent most of these types will be particularly helpful for writing the definitions of all the operators. Here are a set of definitions for constructing, accessing, and identifying various PostScript values: MARK = {} proc = x=>({t:'proc',v:x}) procval = x=...",
+          "link": "https://beyondloom.com/blog/postscript.html",
+          "publishedOn": "2026-11-13T13:12:14.000Z",
+          "wordCount": 2389,
+          "title": "Let’s Write a PostScript Interpreter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/",
+          "author": null,
+          "description": "「Home Assistant」は異なるメーカーのIoTデバイスを一元管理して、スマートホームを構築できるオープンソースサービスであり、非営利団体のOpen Home Foundationによって運営されています。そんなOpen Home Foundationの商業部門であるNabu Casaが、非スマートホームのデバイスをスマートホームデバイスとして生まれ変...",
+          "link": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/",
+          "publishedOn": "2026-11-13T13:02:09.000Z",
+          "wordCount": 4345,
+          "title": "古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始",
+          "imageUrl": "https://i.gzn.jp/img/2026/11/13/home-assistant-connect-aux-2/00.jpg"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
+          "author": null,
+          "description": "マネックス証券は11月13日、外部委託先が運営する一部の口座開設システムが不正アクセスを受け、顧客の個人情報の一部が外部に漏洩したおそれがあると発表した。外部の専門機関が不正アクセスの原因や被害範囲を調べる調査（フォレンジック調査）を進めたところ、中間報告で判明した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
+          "publishedOn": "2026-11-13T12:34:09.000Z",
+          "wordCount": 4895,
+          "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+          "imageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/2156/449/01.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+          "author": null,
+          "description": "NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...",
+          "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+          "publishedOn": "2026-11-13T11:33:08.000Z",
+          "wordCount": 1153,
+          "title": "データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた",
+          "imageUrl": "https://www.itmedia.co.jp/news/article/ogp/2611/13/2000003200/10012155/2048"
+        },
+        {
+          "id": "https://joisino.hatenablog.com/entry/searchrecbook",
+          "author": null,
+          "description": "拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げ...",
+          "link": "https://joisino.hatenablog.com/entry/searchrecbook",
+          "publishedOn": "2026-11-13T10:50:54.000Z",
+          "wordCount": 528,
+          "title": "『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/d5c90eb051b7f12f50fe0e47e38459f3884c8866/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjoisino%2F20261111%2F20261111174347.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/",
+          "author": null,
+          "description": "人気インディーゲーム「Big Walk」の開発元がゲームのプログラムのごく一部に生成AIを使用したことを公表したところ、400件以上の低評価レビューが殺到する事態となりました。生成AIが関わったコードは全体の0.1％未満で、主に技術的な問題の調査や不具合の修正に利用されたとのこと。生成AIの使用を巡ってゲーム開発者...",
+          "link": "https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/",
+          "publishedOn": "2026-11-13T10:30:24.000Z",
+          "wordCount": 4323,
+          "title": "ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到",
+          "imageUrl": "https://i.gzn.jp/img/2026/11/13/indie-game-used-ai-bad-review/00.png"
+        },
+        {
+          "id": "https://togetter.com/li/2770045",
+          "author": null,
+          "description": "まあゆ @ma_yu_69 上司が事業部の部長に「こうなる事（M365の障害）を予想して事前に対処しておくのがシステム部だろうが！！」って言われて「（システムを）分かんねぇくせに口出すな知ったかぶりが！！」って応酬して、そのまま早退してしまった午前11時47分 2026-11-13 12:20:34 まあゆ @ma_yu_69 その後、1時間後に...",
+          "link": "https://togetter.com/li/2770045",
+          "publishedOn": "2026-11-13T09:58:17.000Z",
+          "wordCount": 693,
+          "title": "Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に",
+          "imageUrl": "https://s.tgstc.com/ogp3/cbbc0911cdba7f189ff20584eb240cd1-1200x630.jpeg"
+        },
+        {
+          "id": "https://blog.lai.so/2026-11-13/",
+          "author": null,
+          "description": "Home Repoパターンはコーディングエージェントで開発するときのワークスペース構成のパターンで、/grill-me などで知られる Matt Pocock が提唱し、自身のサイト AI Hero で解説しました。 The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference,...",
+          "link": "https://blog.lai.so/2026-11-13/",
+          "publishedOn": "2026-11-13T09:55:47.000Z",
+          "wordCount": 687,
+          "title": "#26 Home Repo パターン",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gigazine.net/news/20261113-firefox-vpn/",
+          "author": null,
+          "description": "Firefoxブラウザには無料のVPNが内蔵されており、ウェブサイトがIPアドレスを使ってユーザーの所在地を特定したり、ウェブ上のアクセス履歴を追跡したりすることを制限することができます。通常は内蔵VPNを利用するにはサインインした上で月間50GBのデータ制限がありますが、2026年11月10日から2027年1月31日までの期間...",
+          "link": "https://gigazine.net/news/20261113-firefox-vpn/",
+          "publishedOn": "2026-11-13T09:17:59.000Z",
+          "wordCount": 4253,
+          "title": "Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで",
+          "imageUrl": "https://i.gzn.jp/img/2026/11/13/firefox-vpn/00.png"
+        },
+        {
+          "id": "https://piyolog.hatenadiary.jp/entry/2026/11/13/162738",
+          "author": null,
+          "description": "2026年10月30日、良品計画は公式アプリ「MUJI アプリ」の会員情報が外部に流出した可能性があると公表し、その後の公表で対象を広げました。ここでは関連する情報をまとめます。 公表のたびに広がった対象 最初の公表の対象はMUJI アプリの会員情報に限られていた。その後、ネットストアの会員、氏名や住所、MUJI Card ...",
+          "link": "https://piyolog.hatenadiary.jp/entry/2026/11/13/162738",
+          "publishedOn": "2026-11-13T07:47:29.000Z",
+          "wordCount": 1120,
+          "title": "良品計画への不正アクセスについてまとめてみた - piyolog",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/10257846132616586766/14729835035337831685/1794554858"
+        },
+        {
+          "id": "https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/",
+          "author": null,
+          "description": "AIユーザーと非AIユーザーを比べたとき、平均労働時間はAIユーザーのほうが最大で90分長いことが明らかになりました。この数字は従業員モニタリングソフトウェアを開発・提供しているActivTrakの研究部門・ActivTrak生産性研究所が467社・9140人を対象に集めた情報を分析した結果わかったもので、自己申告制の調査よりも...",
+          "link": "https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/",
+          "publishedOn": "2026-11-13T07:26:33.000Z",
+          "wordCount": 4247,
+          "title": "AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明",
+          "imageUrl": "https://i.gzn.jp/img/2026/11/12/ai-users-have-long-worktime-than-non-ai-users/00.jpg"
+        },
+        {
+          "id": "https://future-architect.github.io/articles/20261113a/",
+          "author": null,
+          "description": "（https://aws.amazon.com/jp/products/developer-tools/emulator/ より引用） こんにちは。TIGの伊藤です。2026/11/11、AWSからaws-emulatorというツールが発表されました。 https://aws.amazon.com/jp/products/developer-tools/emulator/ これまで、私はLocalStackを利用して、ローカルでTerraformを実行できる環境を...",
+          "link": "https://future-architect.github.io/articles/20261113a/",
+          "publishedOn": "2026-11-13T06:21:05.000Z",
+          "wordCount": 2669,
+          "title": "aws-emulatorにTerraformでリソースを作成できるか試してみる | フューチャー技術ブログ",
+          "imageUrl": "https://future-architect.github.io/images/2026/20261113a/top.png"
+        },
+        {
+          "id": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+          "author": null,
+          "description": "AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。...",
+          "link": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+          "publishedOn": "2026-11-13T06:02:40.000Z",
+          "wordCount": 1371,
+          "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WCCj0x2z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590pstack%25E3%2580%2591AI%25E3%2581%25AB%25E6%2595%25B5%25E5%25AF%25BE%25E7%259A%2584%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%25AA%25E3%2580%2582%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E3%2581%25AF%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:karamage%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0NTAwMmJiMzQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
+          "id": "https://ktlog.net/posts/claude-code-ai-ecosystem",
+          "author": null,
+          "description": "公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全体図と3つの実例でまとめました。 Claude C...",
+          "link": "https://ktlog.net/posts/claude-code-ai-ecosystem",
+          "publishedOn": "2026-11-13T05:21:58.000Z",
+          "wordCount": 1433,
+          "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+          "imageUrl": "https://ktlog.net/_emdash/api/media/file/01M6WX9NHRH5N9QRFZYP0DTKWK.webp"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
           "author": null,
@@ -3191,6 +3511,26 @@
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/d299dc2f8c29d2049d22a6fb3abb329d640a18c1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flevtech_lab%2F20261111%2F20261111105724.jpg"
         },
         {
+          "id": "https://speakerdeck.com/goyoki/shift-left-approach-for-team-improvement",
+          "author": null,
+          "description": "自己紹介 ⚫経歴 • 開発者、テストエンジニア、コンサルタント、QAエンジニアとさまざまな立場で さまざまなプロダクトの品質保証や品質管理業務に従事 • テストや品質マネジメントについて執筆・講演・研究・技術指導複数 • 現在は車メーカーで車載開発のQA/テストテックリード、QMアーキテクトを担当 • JSTQB技術委員...",
+          "link": "https://speakerdeck.com/goyoki/shift-left-approach-for-team-improvement",
+          "publishedOn": "2026-11-13T00:56:24.000Z",
+          "wordCount": 2871,
+          "title": "高品質と高スピードを支える品質のシフトレフトのアプローチ",
+          "imageUrl": "https://files.speakerdeck.com/presentations/a56e0bd458b2406aa379885183b661b4/slide_0.jpg?41342318"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20261111/k00/00m/040/331000c",
+          "author": null,
+          "description": "AIで設計されたウイルスの痕跡が分かるシャーレ。大腸菌で満たされているが、ウイルスが機能して大腸菌を死滅させた部分が、複数の透明な円になっている＝米カリフォルニア州パロアルトのアーク研究所で2026年10月14日午後3時3分、岡田英撮影 実験用のシャーレは大腸菌で満たされ、白っぽく曇っている。ライトにかざすと...",
+          "link": "https://mainichi.jp/articles/20261111/k00/00m/040/331000c",
+          "publishedOn": "2026-11-13T00:53:55.000Z",
+          "wordCount": 1102,
+          "title": "テラ・クライシス：AIが設計　菌を殺す未知のウイルス　開いた「パンドラの箱」 | 毎日新聞",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2026/11/11/20261111k0000m040352000p/0c10.jpg?1"
+        },
+        {
           "id": "https://www.watch.impress.co.jp/docs/news/2156008.html",
           "author": null,
           "description": "スウェーデンのYubico(ユビコ)は、「パスキー」に対応するハードウェアのセキュリティキー「YubiKey」(ユビキー)シリーズなどの製品について、日本市場向けの公式販売チャネルを整備し、販売を強化する。セキュリティキーの価格は5,900円～。12日には報道関係者向けの説明会が開催され、現在脅威が増しているサイバー攻撃への対処を含め、日本市場での戦略が解説された。",
@@ -3201,6 +3541,16 @@
           "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2156/008/pic-017.jpg"
         },
         {
+          "id": "https://blog.a-know.me/entry/2026/11/12/225133",
+          "author": null,
+          "description": "主にコンテンツを消費することを目的として、ずっと12.9インチの iPad Pro（2018, 第3世代）を愛用していたのですが、いつの間にやら子供に奪われてしまっておりまして。 「それなら仕方がない、もう一台買うか」.....とは、昨今の物価高のなかでは簡単に決断できず。さてどうしたものかと考えあぐねていると、Amazon で...",
+          "link": "https://blog.a-know.me/entry/2026/11/12/225133",
+          "publishedOn": "2026-11-13T00:32:45.000Z",
+          "wordCount": 570,
+          "title": "400gを切るモバイルモニター（タッチ対応）と Samsung DeX との相性が良い - えいのうにっき",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/b7b3b39a547974236fba42cc4b455db955665329/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Fa-know%2F20261112%2F20261112220211.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
           "author": null,
           "description": "日本時間の2026年11月13日午前8時55分現在、「Microsoft Outlook」や「Microsoft Teams」「Microsoft 365 Copilot」など「Microsoft 365」の複数サービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。 この影響で、米OpenAIの「ChatGPT」と米Anthropicの「Claude」のMicrosoft 365コネク...",
@@ -3209,6 +3559,26 @@
           "wordCount": 1075,
           "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
           "imageUrl": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/13/2000003164/10012056/2048"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html",
+          "author": null,
+          "description": "連載目次 総務省は2026年11月10日、データサイエンス・オンライン講座の新講座「“わかる・使える”統計解析プログラミング」の受講者募集を開始した。開講は2027年1月12日（火）で、3月16日（火）まで。オンライン学習サービス「gacco（ガッコ）」で受講登録でき、登録料・受講料は無料だ。受講登録の期限は2027年2月22日...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html",
+          "publishedOn": "2026-11-13T00:15:26.000Z",
+          "wordCount": 6155,
+          "title": "総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる",
+          "imageUrl": "https://image.itmedia.co.jp/ait/articles/2611/13/cover_news013.jpg"
+        },
+        {
+          "id": "https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/",
+          "author": null,
+          "description": "Announcing the GraphQL over HTTP specificationGraphQL TSCNovember 12, 2026 Since the initial release of GraphQL in 2015, the GraphQL specification has always been transport agnostic. Most of the GraphQL specification is about “services”, taking “requests” in, executing them, and producing “respon...",
+          "link": "https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/",
+          "publishedOn": "2026-11-12T23:48:44.000Z",
+          "wordCount": 836,
+          "title": "Announcing the GraphQL over HTTP specification | GraphQL",
+          "imageUrl": "https://graphql.org/og/?v=3&path=%2Fblog%2F2026-11-12-announcing-the-graphql-over-http-spec%2F&title=Announcing+the+GraphQL+over+HTTP+specification&byline=GraphQL+TSC&date=2026-11-12"
         },
         {
           "id": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
@@ -3301,6 +3671,16 @@
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg"
         },
         {
+          "id": "https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata",
+          "author": null,
+          "description": "Sapporo Claude Code Meetup LT, 2026/11/12",
+          "link": "https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata",
+          "publishedOn": "2026-11-12T15:11:52.000Z",
+          "wordCount": 838,
+          "title": "ぼくのClaude Codeの使い方",
+          "imageUrl": "https://files.speakerdeck.com/presentations/9c2451b8b99f4a269ce6f420bc0480ae/slide_0.jpg?41338374"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
           "author": null,
           "description": "米NVIDIAは11月12日（現地時間、以下同）、1993年の共同創業以来、同社を率いてきたジェンスン・フアン氏が社長兼CEOと取締役を即日辞任したと発表した。後任として、最高財務責任者（CFO）のコレット・クレス氏が、暫定CEOに就任する。取締役会は正式なCEOの選定に着手し、社内外の候補者を検討するとしている。 クレス...",
@@ -3339,6 +3719,16 @@
           "wordCount": 477,
           "title": "エヌビディア フアンCEOが辞任 業界全体に影響も | NHKニュース",
           "imageUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75078/20261112de75078_E0000170371_1_l.jpg"
+        },
+        {
+          "id": "https://www.aihero.dev/the-home-repo-pattern",
+          "author": null,
+          "description": "The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md...",
+          "link": "https://www.aihero.dev/the-home-repo-pattern",
+          "publishedOn": "2026-11-12T12:22:50.000Z",
+          "wordCount": 1446,
+          "title": "The Home Repo Pattern",
+          "imageUrl": null
         },
         {
           "id": "https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B",
@@ -11079,316 +11469,6 @@
           "wordCount": 413,
           "title": "台湾TSMC過去最高益「需要減速の兆候なし」 | NHKニュース",
           "imageUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60118/20261015de60118_E0000078197_1_l.jpg"
-        },
-        {
-          "id": "https://news.web.nhk/newsweb/na/nd-20261015de60114",
-          "author": null,
-          "description": "漫画を中心とした電子書籍を配信する「コミックシーモア」は、外部からの不正なアクセスが行われた可能性が高いとして、原因究明のためサービスを停止したと15日夜に発表しました。 15日夜、漫画を中心とし…",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261015de60114",
-          "publishedOn": "2026-10-15T14:49:26.000Z",
-          "wordCount": 463,
-          "title": "「コミックシーモア」がサービス停止 不正アクセスか | NHKニュース",
-          "imageUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60114/20261015de60114_E0000078160_1_l.jpg"
-        },
-        {
-          "id": "https://blog.cloudflare.com/deploy-with-void/",
-          "author": null,
-          "description": "VoidZero's tools such as Vite, Vitest, Oxc, and Rolldown — bundled in one toolchain as Vite+ — have made frontend development faster, but building full-stack applications requires more than just a tooling stack. These applications need server routes, databases, local development environments, and...",
-          "link": "https://blog.cloudflare.com/deploy-with-void/",
-          "publishedOn": "2026-10-15T14:36:02.000Z",
-          "wordCount": 2516,
-          "title": "Deploy with Void",
-          "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M4XWFPM5E7NWJT9ZSFGZVPET.01M4XWFQERABK7GNTKRR8QX4HV.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
-          "author": null,
-          "description": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScript 7よりも...",
-          "link": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
-          "publishedOn": "2026-10-15T14:34:05.000Z",
-          "wordCount": 1475,
-          "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
-          "imageUrl": "https://www.publickey1.jp/2026/bun143-01.png"
-        },
-        {
-          "id": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
-          "author": null,
-          "description": "Connecting the Dots Between Site Speed, User Experience & Your Business [WebExpo 2025]",
-          "link": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
-          "publishedOn": "2026-10-15T13:28:26.000Z",
-          "wordCount": 958,
-          "title": "Claude Code 入門",
-          "imageUrl": "https://files.speakerdeck.com/presentations/e15389c31a80447f93f9a86abdba2eaf/slide_0.jpg?40921433"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
-          "author": null,
-          "description": "データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
-          "publishedOn": "2026-10-15T13:22:05.000Z",
-          "wordCount": 4959,
-          "title": "データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開",
-          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2148/495/curl.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/",
-          "author": null,
-          "description": "Amazonは価格設定に関するポリシーで「他のサイトより著しく高い価格でAmazonに出品する行為」などにペナルティを科しています。こうした慣行や手数料により、出品者はあらゆる場所で価格を引き上げざるを得ない状況に陥っているとして、ジャーナリストのアマンダ・シェンドルク氏が問題点を解説しています。 How Amazon...",
-          "link": "https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/",
-          "publishedOn": "2026-10-15T13:15:54.000Z",
-          "wordCount": 4233,
-          "title": "Amazonはインターネット全体で商品価格をつり上げている",
-          "imageUrl": "https://i.gzn.jp/img/2026/10/15/amazon-push-up-all-internet-price/00.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/2148163.html",
-          "author": null,
-          "description": "「RTX Sparkは、エージェントAI時代に求められるPCの姿を先取りしたもの」。これは、RTX Sparkの技術説明会に参加して筆者がユーザー視点で感じたことだ。しかし同時に、まったく新しい価値観、まったく新しい使い方を提案する製品であるがゆえに、記者視点では、この製品の姿を伝えるのが難しいとも感じた。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/2148163.html",
-          "publishedOn": "2026-10-15T12:58:22.000Z",
-          "wordCount": 6143,
-          "title": "100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2148/163/01.jpg"
-        },
-        {
-          "id": "https://zenn.dev/solvio/articles/6d374a9224327a",
-          "author": null,
-          "description": "Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援...",
-          "link": "https://zenn.dev/solvio/articles/6d374a9224327a",
-          "publishedOn": "2026-10-15T12:35:58.000Z",
-          "wordCount": 1775,
-          "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--LJ_MkAG5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590LocalLLM%25E3%2580%2591Claude%2520Code%25E3%2581%25AE%25E4%25BB%25A3%25E3%2582%258F%25E3%2582%258A%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25EF%25BC%259F%25E7%25B2%25BE%25E5%25BA%25A6%25E3%2583%25BB%25E5%2590%258C%25E6%2599%2582%25E4%25BA%25BA%25E6%2595%25B0%25E3%2583%25BB%25E8%25B2%25BB%25E7%2594%25A8%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:okawa2929%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhlNjEyZGFhZWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Solvio%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFjMjkzMTMwMGUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://www.docswell.com/s/kazaneya/Z4N7EN-2026-10-09",
-          "author": null,
-          "description": "注意事項① 1. 2. 3. 4. 本資料は許諾した範囲内でのみご利用ください。無断転載ならびに複写を禁じます。 本資料に記載されている会社名・製品名などは、一般に各社の登録商標または商標、商品名です。 資料内では ©, ®, ™ マーク等は省略させていただいております。 本資料は特定企業の情報公開や称賛・批判を意図する...",
-          "link": "https://www.docswell.com/s/kazaneya/Z4N7EN-2026-10-09",
-          "publishedOn": "2026-10-15T11:59:56.000Z",
-          "wordCount": 2878,
-          "title": "Beyond Your Data Engineering 2026 - お前の考える狭いデータエンジニアリングの枠組みを越えてゆけ #data_summit_findy by @Kazaneya_PR | ドクセル",
-          "imageUrl": "https://bcdn.docswell.com/page/VJPKY6KLE8.jpg?width=480"
-        },
-        {
-          "id": "https://www.lac.co.jp/lacwatch/alert/20261015_004996.html",
-          "author": null,
-          "description": "2026年7月以降、国内法人が運営するWebシステムやスマートフォンアプリに関連した個人情報漏えいの公表が相次いでいます。公開情報の独自集計では、2026年10月6日時点で119件に上り、そのうち約68%にあたる81件が7月以降に公表※されたものです。ラックのサイバー救急センターへの相談件数においても、サーバへの不正侵入...",
-          "link": "https://www.lac.co.jp/lacwatch/alert/20261015_004996.html",
-          "publishedOn": "2026-10-15T11:26:49.000Z",
-          "wordCount": 511,
-          "title": "国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH",
-          "imageUrl": "https://www.lac.co.jp/lacwatch/img/thumb_lacwatch_004996.jpg"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOUC15AOL0V11C26A0000000/",
-          "author": null,
-          "description": "ソースネクストは15日、第三者による不正アクセスを受け同社が保有する顧客情報2252万件が流出した可能性があると発表した。すでに対策は講じ、不正な通信の遮断や監視を続けているという。9日午前に顧客管理システムに対して会員情報取得が不正に行われ、登録している会員情報が取得された。13日午前に不正アクセスを確...",
-          "link": "https://www.nikkei.com/article/DGXZQOUC15AOL0V11C26A0000000/",
-          "publishedOn": "2026-10-15T10:58:30.000Z",
-          "wordCount": 317,
-          "title": "ソースネクスト、顧客情報2252万件流出か　不正アクセス受け - 日本経済新聞",
-          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3733875015102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=fb29b000694f1a8083fe04c27f862d05"
-        },
-        {
-          "id": "https://www.watch.impress.co.jp/docs/news/2148547.html",
-          "author": null,
-          "description": "ソースネクストは、第三者による不正アクセスにより、会員情報が外部に流出したと発表した。流出した可能性がある顧客情報は2,251万9,960件。",
-          "link": "https://www.watch.impress.co.jp/docs/news/2148547.html",
-          "publishedOn": "2026-10-15T10:52:15.000Z",
-          "wordCount": 4082,
-          "title": "ソースネクスト、最大2251万件の情報流出　パスワード再設定を",
-          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/2148/547/source1.jpg"
-        },
-        {
-          "id": "https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy",
-          "author": null,
-          "description": "GitHubber, OSS作家。Tech SaaSのPdM、スタートアップ取締役CTOや外資スタートアップのIC等を経験後現職。好きな言語はGoとPerlと中国語で雑なOSSを200以上量産している。3 times ISUCON winner. 著書「みんなのGo言語」共著他。Podcast https://oss4.fun",
-          "link": "https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy",
-          "publishedOn": "2026-10-15T10:38:08.000Z",
-          "wordCount": 1142,
-          "title": "「UNIXという考え方」再考 | ドクセル",
-          "imageUrl": "https://bcdn.docswell.com/page/4EZL2K4X73.jpg?width=480"
-        },
-        {
-          "id": "https://www.access-company.com/wp-content/blogs.dir/3/files/2026/10/n261015.pdf",
-          "author": null,
-          "description": "2026 年 10 月 15 日 各 位 会 社 名 株 式 会 社 Ａ Ｃ Ｃ Ｅ Ｓ Ｓ 代 表 者 名 代 表 取 締 役 社 長 執 行 役 員 吉 岡 勉 ( コ ー ド 番 号 4 8 1 3 東 証 プ ラ イ ム ) 問 合 せ 先 取 締 役 専 務 執 行 役 員 C F O 夏 海 龍 司 ( Ｔ Ｅ Ｌ ． 0 3 - 6 8 5 3 - 9 0 8 8 ) 連結子会社における不正アクセスの発生...",
-          "link": "https://www.access-company.com/wp-content/blogs.dir/3/files/2026/10/n261015.pdf",
-          "publishedOn": "2026-10-15T10:33:58.000Z",
-          "wordCount": 3032,
-          "title": "n261015",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tech.every.tv/entry/2026/10/15/125805",
-          "author": null,
-          "description": "はじめに こんにちは！株式会社エブリーで1ヶ月間、iOS エンジニアとしてインターンをしていた木村風葉です。ヘルシカの iOS チームで、食事記録まわりの改善や無料会員向けの機能追加など、いくつかの機能開発に取り組みました。 この記事では、インターンの後半に取り組んだ「Jev」という新しいAIを使った検証ツールづ...",
-          "link": "https://tech.every.tv/entry/2026/10/15/125805",
-          "publishedOn": "2026-10-15T09:51:51.000Z",
-          "wordCount": 1123,
-          "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/69a2fb974a96d556d3f1bc7339f2505cd4c94dcb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmathatomo57_every%2F20261014%2F20261014134345.jpg"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/2147362.html",
-          "author": null,
-          "description": "ファイル管理ソフト「As/R」が、v20.0.0.0に到達した。基盤部分がテコ入れされており、“なんだか大きな節目”となっている。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/2147362.html",
-          "publishedOn": "2026-10-15T09:51:05.000Z",
-          "wordCount": 4972,
-          "title": "老舗の高速ファイラー「As/R」がv20.0に、“なんだか大きな節目”／Shift JISのコードをUnicodeに、開発環境は「Visual Studio 2026」へ、MDIモードも廃止へ",
-          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/2147/362/asr.jpg"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/topic/2148483.html",
-          "author": null,
-          "description": "パナソニックは、録画番組をクラウドサービスのMicrosoft OneDrive、Googleドライブに保存できる「クラウド録画」機能を搭載した、BDレコーダー「全自動ディーガ」の新モデルを15日、メディア向けに披露した。10月下旬発売で価格はオープン。ラインナップと市場想定価格は以下のとおり。",
-          "link": "https://av.watch.impress.co.jp/docs/topic/2148483.html",
-          "publishedOn": "2026-10-15T09:06:56.000Z",
-          "wordCount": 4636,
-          "title": "なぜ今、“クラウド録画”なのか。パナソニックの新「全自動ディーガ」の詳細",
-          "imageUrl": "https://av.watch.impress.co.jp/img/avw/list/2148/483/DSC08840.jpg"
-        },
-        {
-          "id": "https://www.sourcenext.com/support/i/2026/1015_info/",
-          "author": null,
-          "description": "このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因...",
-          "link": "https://www.sourcenext.com/support/i/2026/1015_info/",
-          "publishedOn": "2026-10-15T08:49:13.000Z",
-          "wordCount": 5215,
-          "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
-          "imageUrl": "/-/media/Images/Common/ao.png?rev=e1493c0b38b6401281d27c80a5593e5f"
-        },
-        {
-          "id": "https://blog.smartbank.co.jp/entry/mysql-functional-index",
-          "author": null,
-          "description": "こんにちは、スマートバンクでプロダクトエンジニアをしている yuhi（@yuhi_junior）です。 皆さんはレコードの状態を表すカラムの値に応じて一意制約をテーブルにかけたいと思ったことはありませんか？意図しない状態のレコードが混入しないことをデータベース層で担保できたら嬉しいですよね。 今回はあるデータモデル...",
-          "link": "https://blog.smartbank.co.jp/entry/mysql-functional-index",
-          "publishedOn": "2026-10-15T08:26:37.000Z",
-          "wordCount": 4132,
-          "title": "MySQL の Functional Index で状態に応じた一意制約をかける - inSmartBank",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/750099b0a2891a75d5af1d99423249463266a7fe/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsmartbank%2F20261014%2F20261014154601.png"
-        },
-        {
-          "id": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
-          "author": null,
-          "description": "JPCERT/CCは、2026年10月8日に、国内の複数の組織で相次いで公表された不正アクセスによる個人情報などの漏えい被害に関する注意喚起を公開しました。 JPCERT/CCでは、複数の組織と連携し、攻撃に使用された可能性のあるインフラの調査を進めています。その過程で、攻撃者がAIを利用して、既知の脆弱性のスキャンやAPI経...",
-          "link": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
-          "publishedOn": "2026-10-15T08:02:36.000Z",
-          "wordCount": 280,
-          "title": "連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes",
-          "imageUrl": "https://blogs.jpcert.or.jp/ja/.assets/thumbnail/02-800wi.jpg"
-        },
-        {
-          "id": "https://www.tanp-blog.com/entry/2026/10/15/110018",
-          "author": null,
-          "description": "こんにちは、エンジニアの安達です。 これまでのタンプでは、新しい施策を検討するとき、事業部がやりたいことを整理し、それをもとにエンジニアがヒアリングを行い、開発チーム全員で工数を見積もっていました。 現在はこのプロセスを大きく変更し、事業部が要求定義を書き、AIがコードベースを確認しながら内容をレビ...",
-          "link": "https://www.tanp-blog.com/entry/2026/10/15/110018",
-          "publishedOn": "2026-10-15T06:05:39.000Z",
-          "wordCount": 369,
-          "title": "人による工数見積もりをやめて、AIに任せることにした - TANP Blog",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/6a584e5d003f92fc9a41b9421010c9d26a91c449/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgracia_tanp%2F20261002%2F20261002095942.png"
-        },
-        {
-          "id": "https://tools.oyasumi-gamedev.com/worldgacha/",
-          "author": null,
-          "description": "光方位330°高さ45°落ち影月と時刻月10時刻15:00空気物陰100%かすみ100%空トーン影100%固有色100%模様大きさ40%🎲不透明度100%塗りで表現するベタ範囲40%白抜き",
-          "link": "https://tools.oyasumi-gamedev.com/worldgacha/",
-          "publishedOn": "2026-10-15T04:01:12.000Z",
-          "wordCount": 249744,
-          "title": "ワールドガチャ｜架空の町をガチャで作ってマンガの背景に",
-          "imageUrl": "https://oyasumi-gamedev.com/wp-content/uploads/2026/10/worldgacha-hero.png"
-        },
-        {
-          "id": "https://togetter.com/li/2758344",
-          "author": null,
-          "description": "savo @moruharu430 タイムズカーの煽りを受け 免許証再発行の為に警察署へ 警察署では 「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」 と不安を煽られる 好きで再発行するんじゃないのになぁ もー 2026-10-14 14:33:08 【衝撃】運転免許証の画像が流出…専門家が警告「借金の申し込みが...",
-          "link": "https://togetter.com/li/2758344",
-          "publishedOn": "2026-10-15T00:38:43.000Z",
-          "wordCount": 750,
-          "title": "タイムズカーの件で免許証の再発行に…警察署で「再発行して良いんですか？末尾の数字が変わるだけですよ？紛失歴増えますよ？」と不安を煽られる→メリットがあるか議論に",
-          "imageUrl": "https://s.tgstc.com/ogp3/918dee428ac32852056a6cfac252e9a8-1200x630.jpeg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/article/2610/15/2000002285/",
-          "author": null,
-          "description": "ウクライナ大統領の国防技術顧問を務めるセルヒー・ベスクレストノフ氏は10月14日（現地時間）、米SpaceXが同日夜、移動中の「Starlink」端末に速度制限を導入したとFacebookで明らかにした。対象は、SpaceXが政府・軍向けに提供する軍事版Starlink「Starshield」の“軍事パッケージ”。端末が時速100マイル（約160km）を...",
-          "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002285/",
-          "publishedOn": "2026-10-15T00:37:42.000Z",
-          "wordCount": 1102,
-          "title": "SpaceX、ウクライナ軍の「Starshield」に移動速度制限　マスク氏「決めるのは米軍と大統領」",
-          "imageUrl": "https://www.itmedia.co.jp/news/article/ogp/2610/15/2000002285/10009405/2048"
-        },
-        {
-          "id": "https://gigazine.net/news/20261015-stone-age-invisible-fiber-technology/",
-          "author": null,
-          "description": "石器時代の人々は植物の繊維でロープや糸を作っていました。テュービンゲン大学などの研究者は、出土した道具を調べ、複製した道具でロープ作りを再現して当時の技術や暮らしを探っています。 Rope making in the Aurignacian of Central Europe more than 35,000 years ago | Science Advances https://www.science.org...",
-          "link": "https://gigazine.net/news/20261015-stone-age-invisible-fiber-technology/",
-          "publishedOn": "2026-10-14T22:03:55.000Z",
-          "wordCount": 4239,
-          "title": "石器時代のロープや糸を作る「見えない技術」を考古学者が復元",
-          "imageUrl": "https://i.gzn.jp/img/2026/10/15/stone-age-invisible-fiber-technology/00.jpg"
-        },
-        {
-          "id": "https://internet.watch.impress.co.jp/docs/event/2148145.html",
-          "author": null,
-          "description": "「CEATEC AWARD 2026」では、エバーブルーテクノロジーズ株式会社の「除雪ドローン」が「モビリティイノベーション賞」を受賞した。「CEATEC 2026」と併催のイベント「Japan Mobility Show Bizweek 2026」に同社が出展し、実機を展示している（ブース番号S-51）。",
-          "link": "https://internet.watch.impress.co.jp/docs/event/2148145.html",
-          "publishedOn": "2026-10-14T22:00:11.000Z",
-          "wordCount": 4562,
-          "title": "小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】",
-          "imageUrl": "https://internet.watch.impress.co.jp/img/iw/list/2148/145/33-15.JPG"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOGN13BCG0T11C26A0000000/",
-          "author": null,
-          "description": "需要変動に応じて細かく価格を変えるダイナミックプライシングの是非をめぐる議論が、米国で活発だ。人工知能（AI）を活用して収益最大化に突き進む企業に対し、消費者は「AI値上げ」だと猛反発する。14日発表の9月の米消費者物価指数（CPI）が市場予想を上回り、早期利上げ観測からダウ工業株30種平均が一時0.6%下げた...",
-          "link": "https://www.nikkei.com/article/DGXZQOGN13BCG0T11C26A0000000/",
-          "publishedOn": "2026-10-14T21:47:37.000Z",
-          "wordCount": 299,
-          "title": "マクドナルドとウォルマートが「AI値上げ」か　両社否定も反発消えず - 日本経済新聞",
-          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3727957014102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=181094e52a757ec6318ed00274415300"
-        },
-        {
-          "id": "https://gigazine.net/news/20261015-codex-cli-background-daemon/",
-          "author": null,
-          "description": "Codex CLIのバージョン0.157.0からdaemon_auto_start機能がデフォルトで有効化されましたが、daemon_auto_start機能に関連してユーザーから予期せぬバックグラウンドプロセスの起動・リソース消費・セッションへの影響・環境の不整合といった問題が報告される事態となっています。 CLI: make `daemon_auto_start` opt-in...",
-          "link": "https://gigazine.net/news/20261015-codex-cli-background-daemon/",
-          "publishedOn": "2026-10-14T21:06:25.000Z",
-          "wordCount": 4315,
-          "title": "実はCodex CLIはデフォルトで永続的かつ自己更新型のバックグラウンドデーモンをインストールしていることが判明、無効にする公式の方法は無し",
-          "imageUrl": "https://i.gzn.jp/img/2026/10/15/codex-cli-background-daemon/00.png"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/",
-          "author": null,
-          "description": "みずほフィナンシャルグループは営業や事務の社員を人工知能（AI）の開発人材に転換する。5万人の全社員から順次選び、10年後に数千人規模への拡大を目指す。金融サービスや社内業務のAIシステムを作る。既存部門を減らし、競争力の要であるAI分野に集中する体制を整える。銀行など金融機関の社員はホワイトカラーの象徴...",
-          "link": "https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/",
-          "publishedOn": "2026-10-14T19:37:56.000Z",
-          "wordCount": 298,
-          "title": "みずほが数千人をAI開発者に転換　事務や営業、日本企業の働き方転機 - 日本経済新聞",
-          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3706173009102026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=8a4107768139e160878ced49c080f934"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-          "author": null,
-          "description": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表し...",
-          "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-          "publishedOn": "2026-10-14T16:29:36.000Z",
-          "wordCount": 1472,
-          "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-          "imageUrl": "https://www.publickey1.jp/2026/mxc-ga01.png"
-        },
-        {
-          "id": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/",
-          "author": null,
-          "description": "Menu. Currently selected: Keep locked dependencies up to date with Dependabot GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a workflow, so a later run ...",
-          "link": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/",
-          "publishedOn": "2026-10-14T16:10:16.000Z",
-          "wordCount": 1698,
-          "title": "GitHub Actions workflow lockfiles in public preview - GitHub Changelog",
-          "imageUrl": "https://github.blog/wp-content/uploads/2026/10/668106759-0617e0cd-8cb1-497d-b5f7-848ad8487469.jpeg"
         }
       ]
     },
@@ -11397,6 +11477,236 @@
       "feedUrl": "http://feeds.japan.cnet.com/rss/cnet/all.rdf",
       "siteUrl": "https://japan.cnet.com",
       "articles": [
+        {
+          "id": "https://japan.cnet.com/article/35254872/",
+          "author": "CNET Japan Staff",
+          "description": "米国の新興EVメーカーSlateが、「画面なしGPS」と銘打った紙の道路地図を販売している。電子機器ではなく、米国、カナダ、メキシコを収録した地図帳だ。車内の大型画面を省き、手持ちのスマートフォンなどを使う同社の設計思想を、ユーモアを交えて紹介している。",
+          "link": "https://japan.cnet.com/article/35254872/",
+          "publishedOn": "2026-11-14T00:10:00.000Z",
+          "wordCount": 3227,
+          "title": "EVメーカーが紙地図を「画面なしGPS」として販売",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/14/f2147e4c8c72fd2a0f45b8cb35777ea5/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254874/",
+          "author": "CNET Japan Staff",
+          "description": "海の熱で発電し、海水で冷却する。スタートアップのDrogueが、陸上の電力網に頼らない洋上のAIデータセンターを目指している。トヨタ自動車のベンチャーキャピタルであるToyota Venturesも、同社を出資先として紹介している。",
+          "link": "https://japan.cnet.com/article/35254874/",
+          "publishedOn": "2026-11-13T23:10:00.000Z",
+          "wordCount": 3233,
+          "title": "海の熱でAIデータセンターを動かす--トヨタ系VCも出資するDrogueの構想",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/14/72d8c6570b3ff4983f3c7d23c91009e6/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254873/",
+          "author": "CNET Japan Staff",
+          "description": "Microsoftは米国時間11月13日、Windows 11のライセンス認証や管理の一部が失敗する不具合を修正する臨時更新「KB5136483」を公開した。対象はバージョン23H2で、主に企業などで認証を管理する環境に影響していた。",
+          "link": "https://japan.cnet.com/article/35254873/",
+          "publishedOn": "2026-11-13T22:50:00.000Z",
+          "wordCount": 3247,
+          "title": "Windows 11のライセンス認証不具合を修正--Microsoftが23H2向け臨時更新",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/14/618cf781513364ed453b13a007022ca4/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254866/",
+          "author": "Omar Gallaga （CNET News） 翻訳校正： 編集部",
+          "description": "今年5月、米Metaが8000人の人員削減を始めたとき、それは何か不吉なことが起きる前触れのように思えた。FacebookやInstagram、WhatsAppを傘下に持つ同社は、メタバース構想の頓挫や、数十億ドル規模の訴訟での敗訴など、すでに大きなつまずきを経験していた。",
+          "link": "https://japan.cnet.com/article/35254866/",
+          "publishedOn": "2026-11-13T22:35:00.000Z",
+          "wordCount": 3254,
+          "title": "AIブームで進む「テック業界の人員削減」、小売・金融への波及に懸念",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/14/0c264b8e56b4015dc932a63636cb2253/large-layoffs.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254870/",
+          "author": "CNET Japan Staff",
+          "description": "OpenAIは米国時間11月13日、AIエージェントが利用者に代わって買い物の支払いを行う「ChatGPT Wallet」の提供を開始した。当初は米国の18歳以上のChatGPT Pro契約者の一部が対象となる。",
+          "link": "https://japan.cnet.com/article/35254870/",
+          "publishedOn": "2026-11-13T22:30:00.000Z",
+          "wordCount": 3237,
+          "title": "ChatGPTが買い物の支払いまで代行、「Wallet」提供開始--購入ごとに本人認証",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/14/f7adc901a134cd5802a6d027530636eb/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254868/",
+          "author": "CNET Japan Staff",
+          "description": "グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。",
+          "link": "https://japan.cnet.com/article/35254868/",
+          "publishedOn": "2026-11-13T21:40:00.000Z",
+          "wordCount": 3254,
+          "title": "Gemini、Google Walletと連携して家計を分析--サブスクの値上げも検出",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/14/66bb86127c4a60179a1ef479e043c349/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254867/",
+          "author": "CNET Japan Staff",
+          "description": "マネックス証券は11月13日、外部委託先が運営・管理する一部の口座開設システムへの不正アクセスにより、最大113万件のメールアドレスと、本人確認書類などの画像データ1592件が外部に漏えいしたおそれがあると発表した。発表時点で、本件に起因する不正取引や顧客資産への影響は確認されていないという。",
+          "link": "https://japan.cnet.com/article/35254867/",
+          "publishedOn": "2026-11-13T21:39:00.000Z",
+          "wordCount": 3224,
+          "title": "マネックス証券で情報漏えいの恐れ、メアド113万件や免許証画像も　口座開設システムに不正アクセス",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/14/1d5dec3717b8b380cb041a3b96496865/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254857/",
+          "author": "石井徹",
+          "description": "楽天グループの三木谷浩史会長兼社長は11月13日の決算説明会で、楽天モバイルの衛星通信に使う衛星の打ち上げについて「その問題は今後解消されていく」と述べた。提携先の米AST SpaceMobileが、自社でロケットを開発すると発表したためだ。",
+          "link": "https://japan.cnet.com/article/35254857/",
+          "publishedOn": "2026-11-13T10:10:00.000Z",
+          "wordCount": 3246,
+          "title": "楽天モバイルの「最強衛星サービス」、打ち上げのボトクネック解消？　ASTが自社ロケット開発",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/f107426d1f412a24ca922f20cfc383a8/large_satellite.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254856/",
+          "author": "石井徹",
+          "description": "楽天モバイルの10月の契約純増数は速報値で約8万5000回線で、KDDIのローミング縮小後も開通数が解約数を上回った。楽天グループの三木谷浩史会長兼社長は、縮小の影響について「非常に限定的だった」と述べた。",
+          "link": "https://japan.cnet.com/article/35254856/",
+          "publishedOn": "2026-11-13T09:52:00.000Z",
+          "wordCount": 3245,
+          "title": "楽天モバイル、ローミング縮小後も8.5万回線純増　三木谷氏「影響は非常に限定的」",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/ee73d3aa7b2e4e89e95cf4c052700bc8/large_roaming_43.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254854/",
+          "author": "小口貴宏 （編集部）",
+          "description": "Microsoftの「Microsoft 365」で発生した障害が長引いている。11月13日は朝からOutlookでメールを閲覧・送信できないなどの問題が起き、午後になっても影響が続いた。日本企業の社員からは、会議の延期や、当日が期限の申請に支障が出たという声が聞かれた。",
+          "link": "https://japan.cnet.com/article/35254854/",
+          "publishedOn": "2026-11-13T09:45:00.000Z",
+          "wordCount": 3244,
+          "title": "Microsoft 365障害、Outlook使えず「大変というか諦め」--丸一日継続、金曜の業務を直撃",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/1b75553965a7a68e089dafd2bccc156a/outlook-body.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254855/",
+          "author": "CNET Japan Staff",
+          "description": "楽天モバイルとJTOWERは11月13日、楽天モバイルの全国ネットワークの品質向上に向けて連携を強化すると発表した。楽天モバイルは2027年3月末までに、全国500以上の市区町村で、屋内・屋外1000件超の物件へのインフラシェアリング活用拡大を目指す。",
+          "link": "https://japan.cnet.com/article/35254855/",
+          "publishedOn": "2026-11-13T09:30:00.000Z",
+          "wordCount": 3238,
+          "title": "楽天モバイル、JTOWERの共用設備を全国1000件超へ--屋内外の通信品質を強化",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/97adc191fffe4ba87c709ab004c5a11f/rakuten-large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254853/",
+          "author": "CNET Japan Staff",
+          "description": "大阪市は11月13日、住民票の写しの請求などに使う「大阪市行政オンラインシステム」で、利用者のメールアドレス107万8713件が漏えいしたと発表した。外部のメール配信サービスが不正アクセスを受けたことが原因で、同市は調査結果を「終報」として公表した。",
+          "link": "https://japan.cnet.com/article/35254853/",
+          "publishedOn": "2026-11-13T09:22:00.000Z",
+          "wordCount": 3224,
+          "title": "大阪市、メアド107万8713件流出",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/9cbf0535baffe58855eb4b992e03ee98/012.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254849/",
+          "author": "Scott Stein （CNET News） 翻訳校正： 編集部",
+          "description": "Gentle Monsterのショールームで、4つのロボットの頭を見上げていた。透明な球体の中で回転しながら、それぞれ異なる言語で会話を交わしている。ところが、何を話しているのかは分かる。かけていたスマートグラスが、リアルタイムで翻訳してくれていたのだ。使っていたのは、米Googleと韓国Samsungが共同開発した「Intelligent Eyewear」のGentle Monsterモデル。Warby Parkerのモデルも用意されている。どちらもディスプレイは搭載せず、スマートフォンと接続してAI「Gemini」の音声支援を利用する。12月10日（現地時間）に米国では両ブランド、韓国ではGentle Monsterモデルが発売される。",
+          "link": "https://japan.cnet.com/article/35254849/",
+          "publishedOn": "2026-11-13T09:10:00.000Z",
+          "wordCount": 3399,
+          "title": "Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/47387a7bb4320d9b42c20f948d75335a/google-smart-glasses-large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254840/",
+          "author": "CNET Japan Staff",
+          "description": "NTTとNTT・TCリースは、金融データから将来の貸し倒れリスクを予測するAI与信審査技術を確立した。約150万件のデータを用いた実験で、既存の代表的なAIモデルより予測精度が最大約30％向上したという。",
+          "link": "https://japan.cnet.com/article/35254840/",
+          "publishedOn": "2026-11-13T08:20:00.000Z",
+          "wordCount": 3234,
+          "title": "「貸し倒れリスク」をAIで予測、精度最大3割向上--NTTが150万件で検証",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/299fbe06855692f350aac3932741c941/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254850/",
+          "author": "CNET Japan Staff",
+          "description": "Notionは11月12日、委託先のAIインフラ事業者Fireworks AIで起きた不正アクセスにより、悪意ある第三者がNotion AIの会話記録にアクセスしたと発表した。対象はNotionのワークスペースの1％未満。国内では日建グループ、弥生、LRMが自社への影響を相次いで公表している。",
+          "link": "https://japan.cnet.com/article/35254850/",
+          "publishedOn": "2026-11-13T08:10:00.000Z",
+          "wordCount": 3270,
+          "title": "Notion AIの会話記録が流出、国内企業にも影響--委託先が契約に反して保存",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/06c3d27ea2d16dc81d78e292dd3725df/11.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254845/",
+          "author": "Julian Dossett （CNET News） 翻訳校正： 編集部",
+          "description": "新しい研究では、創造的な活動においてAIと協働することの影響、およびそれが仕事の成果や満足度にどのような意味を持つのかについて深く掘り下げている。",
+          "link": "https://japan.cnet.com/article/35254845/",
+          "publishedOn": "2026-11-13T07:20:00.000Z",
+          "wordCount": 3273,
+          "title": "仕事のAI依存が招く「満足度低下」の罠--調査で判明したベストな協働方法とは",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/e264fcfe5bce1f9d487ad992c6860cc1/GettyImages-2096469348_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254833/",
+          "author": "Dashia Milden （CNET News） 翻訳校正： 編集部",
+          "description": "あなたがアクセスを許可したAIがミスを犯しても、銀行は補償してくれないだろう。",
+          "link": "https://japan.cnet.com/article/35254833/",
+          "publishedOn": "2026-11-13T06:25:00.000Z",
+          "wordCount": 3306,
+          "title": "絶対に「お金の管理」だけはAIに任せてはならない理由",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/53b4d05146afdef7b19d751c05944ca2/GettyImages-2299572954_1280x960.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254839/",
+          "author": "CNET Japan Staff",
+          "description": "Googleは、高速実行を重視したAIモデル「Gemini 4 Hydrogen」を発表した。Geminiアプリの無料ユーザーにも、入力内容に適した場合は自動選択で提供する。",
+          "link": "https://japan.cnet.com/article/35254839/",
+          "publishedOn": "2026-11-13T06:16:00.000Z",
+          "wordCount": 3304,
+          "title": "Google、高速AI「Gemini 4 Hydrogen」発表　無料ユーザーにも提供、タスク処理は2.5倍速く",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/1463aa33752d1762237ad844b4b35f0d/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254838/",
+          "author": "CNET Japan Staff",
+          "description": "Anthropicは、AI「Claude」をGoogle Meetの参加者として招き、会議中に質問へ回答したり、文書やホワイトボードを作成したりできる新機能「Claude Meetings」を発表した。TeamとEnterprise向けにベータ提供を始める。",
+          "link": "https://japan.cnet.com/article/35254838/",
+          "publishedOn": "2026-11-13T06:03:00.000Z",
+          "wordCount": 3244,
+          "title": "Claudeが会議に参加、議事録だけでなく資料作成も--新機能「Claude Meetings」",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/bc915bf24d6525b387fbe52dbdc9ba04/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254834/",
+          "author": "CNET Japan Staff",
+          "description": "Googleは米国時間11月12日、AI「Gemini」を搭載する眼鏡型端末「Intelligent Eyewear」の予約受付を米国と韓国で開始したと発表した。価格はWarby Parkerのモデルが395ドルから、Gentle Monsterのモデルが449ドルから。12月10日にオンラインと店舗で発売する。発表では日本での販売予定に言及していない。",
+          "link": "https://japan.cnet.com/article/35254834/",
+          "publishedOn": "2026-11-13T05:20:00.000Z",
+          "wordCount": 3277,
+          "title": "Google、Gemini搭載AI眼鏡を予約開始--395ドルから、海外で12月発売",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/0688060b6fe165e13ab177535b567d93/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254835/",
+          "author": "CNET Japan Staff",
+          "description": "佐川急便は11月13日、Microsoftで発生しているシステム障害の影響により、メール配信に不具合が生じ、「SAGAWA手ぶらサービス」の一部Webサービスで申し込み手続きを完了できない事象が発生していると明らかにした。",
+          "link": "https://japan.cnet.com/article/35254835/",
+          "publishedOn": "2026-11-13T05:09:00.000Z",
+          "wordCount": 3227,
+          "title": "佐川急便、手荷物預かりサービスの受付を停止　Microsoft 365障害の影響",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/2de63e9c6d6185b729243bacda3461e6/large.jpg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254836/",
+          "author": "CNET Japan Staff",
+          "description": "古川俊治デジタル大臣は11月13日午前の記者会見で、米Microsoftの「Microsoft 365」で発生した大規模障害により、政府共通の業務基盤「GSS」（ガバメントソリューションサービス）にも支障が生じていると明らかにした。各府省庁では電話やチャットなどの代替手段を使い、政府の主要業務に支障が出ないよう対応しているという。",
+          "link": "https://japan.cnet.com/article/35254836/",
+          "publishedOn": "2026-11-13T05:08:00.000Z",
+          "wordCount": 3229,
+          "title": "Microsoft 365障害、政府の業務システムにも影響　古川デジタル大臣が明かす",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/3afccb1ba5e18c1bfee19bd43ea18022/0s.jpeg"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35254832/",
+          "author": "Katie Collins （CNET News） 翻訳校正： 編集部",
+          "description": "テクノロジー業界の関係者や評論家たちは、NVIDIAはジェンスン・フアン氏のCEO辞任を乗り切れるが、CEOにはより一層の説明責任が求められる時期に来ていると語った。",
+          "link": "https://japan.cnet.com/article/35254832/",
+          "publishedOn": "2026-11-13T04:02:00.000Z",
+          "wordCount": 3340,
+          "title": "NVIDIAのCEO辞任で露呈した「絶大な権力」の代償　企業が学ぶべき教訓とは",
+          "imageUrl": "https://japan.cnet.com/storage/2026/11/13/91e964f155327ced6168a42e83c56d92/GettyImages-2299493482_1280x960.jpg"
+        },
         {
           "id": "https://japan.cnet.com/article/35254830/",
           "author": "Anna Gragert （CNET News） 翻訳校正： 編集部",
@@ -16406,146 +16716,6 @@
           "wordCount": 3240,
           "title": "コンタクトレンズ型ディスプレイの開発進む--視界に文字が浮かぶ　7年後の発売めざす（CEATEC 2026）",
           "imageUrl": "https://japan.cnet.com/storage/2026/10/15/2c7ca5405cbe07d93bb716212a842b2c/01.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253588/",
-          "author": "Jeff Carlson （CNET News） 翻訳校正： 編集部",
-          "description": "アップルの新しい折りたたみスマートフォン「iPhone Duo」は、「AppleCare」に加入していないと修理費用もかなりの額になる可能性がある。",
-          "link": "https://japan.cnet.com/article/35253588/",
-          "publishedOn": "2026-10-15T07:20:00.000Z",
-          "wordCount": 3319,
-          "title": "アップルの「iPhone Duo」、修理代も高額に　最大27万円超え",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/97d73077678fa3c3c0ed4c29da5bfc82/iPhone-Duo-opening-animation-5_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253591/",
-          "author": "CNET Japan Staff",
-          "description": "写真・動画素材大手の米Getty Images Holdingsは10月12日、米連邦破産法11条（チャプター11）の適用を申請する計画を発表した。多額の債務を抱えるなか、生成AIによる画像制作の普及で競争が激化していた。事業を継続しながら債務を整理し、2026年末までに再建を終えて株式を非公開化する方針だ。",
-          "link": "https://japan.cnet.com/article/35253591/",
-          "publishedOn": "2026-10-15T07:05:00.000Z",
-          "wordCount": 3240,
-          "title": "米Getty Imagesが破産申請　生成AIとの競争激化、巨額債務も重荷に",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/4f5924fd2192dc93c291c5a363fe8fac/gettyimages-1308719817jpg.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253583/",
-          "author": "Macy Meyer （CNET News） 翻訳校正： 編集部",
-          "description": "DeepMindの共同創業者デミス・ハサビス氏は、科学的探究におけるAIの役割や、気候変動への取り組みにおいて期待される好ましい成果について語った。",
-          "link": "https://japan.cnet.com/article/35253583/",
-          "publishedOn": "2026-10-15T06:10:00.000Z",
-          "wordCount": 3274,
-          "title": "Google DeepMindのハサビス会長が語る「AIと気候危機」--AGIへの言及は避ける",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/8cb9e8f25d04eee9ce93ad7cae8cc606/IMG_0903-e1791984309351_1280x960.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253546/",
-          "author": "Omar Gallaga （CNET News） 翻訳校正： 編集部",
-          "description": "「数学はチェスの対戦ではない」と、あるフィールズ賞受賞者は米CNETに語った。数学者たちは、AI企業がただ勝つことだけを目指しているのではないかと懸念している。",
-          "link": "https://japan.cnet.com/article/35253546/",
-          "publishedOn": "2026-10-15T05:25:00.000Z",
-          "wordCount": 3458,
-          "title": "AIが数学界に「深刻な混乱」--OpenAIの論文700本超公開に研究者が反発",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/14/ecc177d40ffd8cbe3d27fa4f9d84ba66/5c412b21-480e-4517-aa62-a5f425e268c1_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253576/",
-          "author": "CNET Japan Staff",
-          "description": "Netflixが、世界の従業員の約6％に当たる約1000人を削減する。",
-          "link": "https://japan.cnet.com/article/35253576/",
-          "publishedOn": "2026-10-15T03:02:00.000Z",
-          "wordCount": 3263,
-          "title": "Netflix、約1000人の人員削減へ　全体の6％",
-          "imageUrl": "https://japan.cnet.com/storage/2026/05/26/b8abe75b712288762c56a80d29b734a8/netflix-logo-mobile-phone-gettyimages-2202548374_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253571/",
-          "author": "Omar Gallaga （CNET News） 翻訳校正： 編集部",
-          "description": "グーグルは詐欺被害を未然に防ぐため、「Google メッセージ」の保護機能や通話転送の保護機能など、「Android」の新たなセキュリティー機能を導入する。",
-          "link": "https://japan.cnet.com/article/35253571/",
-          "publishedOn": "2026-10-15T02:40:00.000Z",
-          "wordCount": 3264,
-          "title": "グーグル、「Android」の詐欺対策を強化　AI活用で悪質メッセージを検出",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/884787c6cfce2aaf839ee3ec3fb580b5/02bfe068-73fd-4cac-aca3-970e07949c97_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253570/",
-          "author": "CNET Japan Staff",
-          "description": "NTTドコモは10月15日、dポイントの提供開始11周年を記念し、総額1億ポイントを山分けするキャンペーンを発表した。対象の加盟店で買い物をすると、利用回数などに応じてポイントがもらえる。受け取れるのは最大300ポイントだ。",
-          "link": "https://japan.cnet.com/article/35253570/",
-          "publishedOn": "2026-10-15T02:10:00.000Z",
-          "wordCount": 3224,
-          "title": "ドコモの「dポイント」が11周年--「1億ポイント山分け」キャンペーン開催",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/6369684b27b4502ae60702c3f5706f3e/009-1.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253567/",
-          "author": "Alex Valdes （CNET News） 翻訳校正： 編集部",
-          "description": "OpenAIは、「ChatGPT」を通じて数百万人の子どものデータを違法に収集したとして、ハワイ州の住人に提訴された。",
-          "link": "https://japan.cnet.com/article/35253567/",
-          "publishedOn": "2026-10-15T01:35:00.000Z",
-          "wordCount": 3329,
-          "title": "OpenAIを母親が提訴、「ChatGPT」で子どもの膨大なデータを違法収集か",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/7da3b6c666916b633f71274f55d510bd/85edb476-1c65-4c1d-aa3e-889c7492204d_1280x960.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253569/",
-          "author": "CNET Japan Staff",
-          "description": "Microsoftは米国時間10月14日、世界各国で10億通を超える詐欺メッセージの送信に使われた犯罪基盤の遮断に乗り出したと発表した。米国の裁判所命令に基づき、フィッシングサイトの作成ツールなどを提供していた3サービスの関連ドメインを差し押さえた。調査のきっかけとなったのは、日本の警察庁からの情報提供だった。",
-          "link": "https://japan.cnet.com/article/35253569/",
-          "publishedOn": "2026-10-15T01:23:00.000Z",
-          "wordCount": 3266,
-          "title": "米マイクロソフト、中国語圏の巨大詐欺ネットワークを遮断　日本の警察庁の情報がきっかけ",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/31829156ed4f599523e24335ea548351/09111.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253564/",
-          "author": "CNET Japan Staff",
-          "description": "米研究機関Ai2は10月14日、豪雨や熱帯低気圧を約3kmの解像度で再現できる気候シミュレーション用AI「HiRO-ACEv2」を公開した。従来の高精細な数値モデル「X-SHiELD」と比べ、約300分の1の計算費用で地球全体の高精細な気候データを生成できるという。",
-          "link": "https://japan.cnet.com/article/35253564/",
-          "publishedOn": "2026-10-15T00:46:00.000Z",
-          "wordCount": 3221,
-          "title": "豪雨や台風を細かく再現するAI、計算コスト約300分の1に",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/2aafbebae69a3a2156e72a0b487dd0db/0991.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253563/",
-          "author": "CNET Japan Staff",
-          "description": "Microsoftは10月15日、手の小さい人や持ち運んで使う人に向けた小型の「Xbox Nano コントローラー」を、日本で11月から発売すると発表した。参考価格は8000円で、同日から予約を受け付ける。",
-          "link": "https://japan.cnet.com/article/35253563/",
-          "publishedOn": "2026-10-15T00:35:00.000Z",
-          "wordCount": 3225,
-          "title": "手が小さい人にも--ポケットサイズのXboxコントローラー「nano」登場",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/e29d4f98ab6d813ed20225425430f9e8/20261015_28_header.jpg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253560/",
-          "author": "CNET Japan Staff",
-          "description": "音楽配信サービス「YouTube Music」で、主に生成AIで作られた曲を示すラベルの導入が始まった。YouTubeが米国時間10月14日に発表した。",
-          "link": "https://japan.cnet.com/article/35253560/",
-          "publishedOn": "2026-10-15T00:10:00.000Z",
-          "wordCount": 3224,
-          "title": "YouTube Music、AI楽曲に「AIラベル」表示開始",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/60057aba8a4682cd497499b8f027f8df/01.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253558/",
-          "author": "Katelyn Chedraoui （CNET News） 翻訳校正： 編集部",
-          "description": "米連邦捜査局（FBI）が、OpenAIの役員用会議室に盗聴器を仕掛けた疑いで、同社の従業員を逮捕した。会議室で交わされるAI開発計画などの機密情報をひそかに録音しようとしたとみられる。米司法省が10月13日（現地時間）に発表し、OpenAIも事件を認めた。",
-          "link": "https://japan.cnet.com/article/35253558/",
-          "publishedOn": "2026-10-14T23:47:00.000Z",
-          "wordCount": 3259,
-          "title": "OpenAI社員を逮捕、自社会議室に盗聴器を仕掛けた疑い　その設置方法とは",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/15/542ef03ff512ea9c9b355b743af02a76/CNET-AI-OpenAI-03.jpeg"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35253551/",
-          "author": "石井徹",
-          "description": "災害時の避難所では、洗濯できないことが被災者の深刻な悩みの一つだ。シャープはその課題に応える「排水レス循環型洗濯システム」を開発。市販の業務用洗濯機と独自のろ過ユニットを組み合わせ、わずか35Lの水で100回の洗濯を可能にした。",
-          "link": "https://japan.cnet.com/article/35253551/",
-          "publishedOn": "2026-10-14T23:14:00.000Z",
-          "wordCount": 3239,
-          "title": "シャープ、洗濯水をろ過して100回洗濯に使う新システム　自衛隊でも実証へ",
-          "imageUrl": "https://japan.cnet.com/storage/2026/10/14/8bcf9eb166e46777d1966f429f156fe0/01.jpg"
         }
       ]
     }
